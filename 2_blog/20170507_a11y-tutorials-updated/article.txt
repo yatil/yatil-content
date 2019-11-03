@@ -1,0 +1,14 @@
+Title: Web Accessibility Tutorials updated
+----
+Date: 2017-05-07
+----
+Category: Accessibility
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+As many of you might know, I have been the primary editor of the [W3C WAI Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) which provide practical guidance on how to implement web accessibility. A few days ago, the Education and Outreach Working Group and I were able to publish a major update. We added three new tutorials (which were released as a draft before). A lot of thought went into framing the tutorials the right way, and we addressed one of the issues with WAI resources that we often hear about by making it very streamlined and not wordy. I am proud of the new tutorials: [Page Structure](https://www.w3.org/WAI/tutorials/page-structure/), [Carousels](https://www.w3.org/WAI/tutorials/carousels/), and [Menus](https://www.w3.org/WAI/tutorials/menus/). I hope they can be a valuable building block for learning about and teaching web accessibility. As always, we are happy to take suggestions via [GitHub](https://github.com/w3c/wai-tutorials/issues/); a [change log](https://www.w3.org/WAI/tutorials/changelog/) is available. I want to thank my colleagues in the Education and Outreach Working Group for helping me to shape the tutorials. It’s invaluable feedback.

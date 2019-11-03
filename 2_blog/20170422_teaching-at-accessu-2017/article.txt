@@ -1,0 +1,21 @@
+Title: Teaching at AccessU 2017
+----
+Date: 2017-04-22
+----
+Category: Accessibility, Event
+----
+Summary: 
+----
+Tags: accessu, accessu17, accessu2017
+----
+Image: 
+----
+Text:
+Next month I will continue the tradition of flying over to Austin, TX, USA to attend the annual [AccessU conference](https://www.knowbility.org/education/accessu/) and teach some classes. Organized by [Knowbility](https://www.knowbility.org/), the conference is a gathering of brilliant minds around accessibility and is an excellent opportunity to broaden your accessibility knowledge. Here’s an overview of my four classes:
+
+- **Responsive and Accessible Images (March 17, 2017 – 2:15pm–3:45pm)**Images are an important part of the web. This course will give an overview of the considerations for accessible images and their alternative texts, but also take a look from a content strategist perspective on how to present pictures in a responsive context. You will learn how to write good alt text, when longer descriptions are necessary, using resolution-independent images, and how to use different images in different responsive contexts for art direction.
+- **Advanced Accessibility: Deep Dive for Developers (March 17, 2017 – 4pm–5:30pm)**This session gives a general overview of good development practices that ensure a more accessible web product. It includes ARIA, styling, and advice for making your website more semantic and thus more accessible to everyone.
+- **Use ARIA Responsibly (March 18, 2017 – 8:30am–10:00am)**How to build web components, websites, and web applications in a way that leverages the capabilities of HTML5. Add ARIA on top to enhance the user experience. You’ll learn where to find information on how to implement ARIA correctly, and shows you a practical example.
+- **Simplify Your Development Life with Tools, Tests, and Procedures (March 18, 2017 – 10:15am–11:45am)**A condensed overview on how developers can simplify their life by making sure that procedures and tests are in place to ensure accessibility in every step.
+
+**[Tickets for AccessU](https://www.knowbility.org/education/accessu/#registration) are still available.**Also, Knowbility is organizing the [Inaugural Knowbility Accessibility](https://www.knowbility.org/education/knowbility-accessibility-leadership-symposium/)Leadership Symposium on May 15th and 16th: The opportunity for senior management to collaborate, confer and learn about accessibility challenges in the enterprise and how to address them, leading to a more diverse customer base. After AccessU, I’ll attend the W3C [Education and Outreach Working Group](https://www.w3.org/WAI/EO/)’s Face to Face Meeting on May 19 and 20.

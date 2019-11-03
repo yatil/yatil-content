@@ -1,0 +1,14 @@
+Title: Designing in the Browser is Not the Answer
+----
+Date: 2012-03-15
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+…[says Andy Budd](http://www.andybudd.com/archives/2012/03/designing_in_the_browser_is_not_the_answ/), and I think he is somewhat right. The browser itself is no design tool, you don’t have that much possibilities to be creative efficiently. But it depends on the definition of what “designing in the browser” actually is. For me, the PSD I get is almost every time a starting point. We don’t have a PSD for every possible state of the web page but extend from the design patterns we get off the document. This will be reviewed by the designer and if they got comments or other ideas they just use Photoshop to visualize those things and hand it back. Designing in the browser isn’t just the HTML/CSS part and you don’t need to go the whole way browser-only. Use the appropriate tools to solve the problems as they arise.

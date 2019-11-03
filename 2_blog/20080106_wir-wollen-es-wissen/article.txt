@@ -1,0 +1,16 @@
+Title: „Wir wollen es wissen“
+----
+Date: 2008-01-06
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Ab Montag, 7. Januar 2008, startet die bisher größte[1](#fn20962092074786964bf2cff) Webworker-Umfrage. Alle Webworker aus dem deutschsprachigen Raum sind dazu aufgerufen sich zu beteiligen. Das Motto der Umfrage lautet „Wir wollen es wissen“. Die Umfrage ist eine Adaption der [Umfrage des amerikanischen A-List-Apart-Magazins](http://www.alistapart.com/articles/webdesignsurvey), deren [umfangreiche Ergebnisse](http://www.alistapart.com/articles/2007surveyresults) im Oktober veröffentlicht wurden. [Michael Jendryschik](http://jendryschik.de/) hat die Fragen auf- und umgearbeitet. Weitere Infos gibt es bei den [Webkrauts](http://www.webkrauts.de/umfrage2008/) und bei [Michael](http://jendryschik.de/wsdev/umfrage/), wo sich später auch der [Fragebogen](http://jendryschik.de/wsdev/umfrage/) befindet.
+
+1 Hoffen wir zumindest ;)

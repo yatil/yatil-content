@@ -1,0 +1,30 @@
+Title: Connecting the Accessibility Dots (Workshop in Berlin in November)
+
+----
+
+Intro: On November 17, 2019, I’ll hold a workshop in Berlin as a part of [Accessibility Club Summit 2019](https://accessibility-club.org/event/accessibility-club-summit-2019). Tickets are just €50.
+
+----
+
+Text:
+
+In this new workshop I want to help people wo have an understanding of specific parts of accessibility to get a better understanding on where this fits in the general framework of designing, writing, and developing accessible websites. The learning outcome should be a holistic approach to accessibility that leads participants to anticipate accessibility-related issues earlier.
+
+We look at the requirements for accessibility, the needs of people with disabilities, and how assistive technologies work. We’ll answer the important questions about accessibility: Why is it important? What are the important concepts? How do people with disabilities actually use the web? How can we create accessible websites without consulting WCAG at every step? When, and how, can we make sure that we don’t step into the same traps all the time again and again?
+
+In the second half of the workshop I’ll then answer the specific questions of the audience (provided in advance), applying the approaches learned in the morning to practical use.
+
+**When:** November 17, 2019 (with Accessibility Club Summit Barcamp on Nov 16 and after beyondTellerrand, Nov 14 & 15)
+**Where:** To be determined, Berlin
+
+[Buy tickets for the workshop at accessibility-club.org!](https://accessibility-club.org/event/accessibility-club-summit-2019#workshop-tickets)
+
+----
+
+Date: 2019-09-29 12:30
+
+----
+
+Coverimage:
+
+- accessibility-club-summit-2019.jpg

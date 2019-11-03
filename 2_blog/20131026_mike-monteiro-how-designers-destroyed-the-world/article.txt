@@ -1,0 +1,16 @@
+Title: Mike Monteiro – How Designers Destroyed the World
+----
+Date: 2013-10-26
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+In this fantastic video from the [Webstock ’13 conference](http://www.webstock.org.nz/13/), Mike Monteiro shows that designers need to take responsibility for their actions. There are many things I touched on with my article [Be Proud to be a Web Developer](http://yatil.net/be-proud-to-be-a-web-developer) from almost a year ago, and it’s worth watching. From the description:
+
+> You are directly responsible for what you put into the world. Yet every day designers all over the world work on projects without giving any thought or consideration to the impact that work has on the world around them. This needs to change.

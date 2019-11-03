@@ -1,0 +1,4 @@
+Title: yatil.net feed
+----
+Description: The latest updates from Eric Eggert’s blog
+----

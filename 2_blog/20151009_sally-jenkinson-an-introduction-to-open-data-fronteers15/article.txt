@@ -1,0 +1,89 @@
+Title: Sally Jenkinson – An Introduction to Open Data #fronteers15
+----
+Date: 2015-10-09
+----
+Category: General
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- Open data
+- Big data buzzwords
+- 90% of the world’s data was created in the last 2 years
+- Several ways to use data in your work
+- Tea tracker for personal tea consumption
+- Data is often restricted 
+  - Only certain data is displayed
+  - Can’t use data freely
+  - restricted
+- You sometimes can’t get your hand on the data that you want
+- Data sharing 
+  - Restrictive data sharing to restricted set of people
+- Open data means to not be confined to the data provider’s conditions
+- Opendefinition.org
+- Open data and content can be freely used, modified, and shared by anyone for any purpose.
+- Data spectrum: http://theodi.org/data-spectrum
+- Re-publish
+- Derive new content or data
+- make money by selling products
+- charge a fee for access
+- data needs to be open, but the delivery access (API) can be restricted
+- Licensing similar to the known content licence, not just Creative comments, for example Open Government Licence or OS Open Licence ect.
+- Dbpedia – Wikipedia data in RDF
+- Data.gov.uk
+- MusicBrainz
+- plaidplug.com
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+- Consuming open data is pretty easy 
+  - data is not special
+  - download periodically or via API
+- Sometimes data is released as PDF, “openly”
+- d3js.org – Data-Driven Documents
+- Example: Mark up fire hydrant violations in NY, top grossing hydrant was actually very confusing for parkers, almost a trap. Reaction from administration: Make clear where not to park.
+- open data -> may generate 3 million dollars
+- Transparency 
+  - Not only access
+  - but also analyze and visualize
+  - combine with other data
+  - freely to use
+  - open by default would save so much time
+- Data and User Experience 
+  - mapumental.com answers the time to work in minutes instead of miles.
+  - How accessible is our nearest school, post office or hospital?
+  - How quickly could fire engines reach a given postcode?
+  - Improved efficientcy, effectiveness, measure impact
+  - Improved products
+- Not just digital, also in the real world, for example as art 
+  - Internet of things
+  - opensensors.io
+  - dougmccune.com – Artistic projects based on open data
+  - stevanie posavec
+- Linked data 
+  - timbl doesn’t only want us to share documents but also the data
+  - new knowledge from combined data sources and patterns
+  - Misinterpretation: 
+      - Some sites don’t allow it because they don’t want to have their data in the wrong context
+      - spurious-corelations
+  - Combining data sets & licenses
+- Publishing open data 
+  - People use it in ways you never dreamt of
+  - Step one: Identification & planning
+  - Clear licensing & usage information
+  - Structure & quality
+  - A plan for support – data needs to be maintained
+  - Accuracy
+  - Step two: transform and clean data 
+      - data privacy & the individul
+      - openrefine
+      - cleansheet
+  - Step three: Sharing 
+      - http://5stardata.info/en/
+      - think about your data from the beginning
+      - https://certificates.theodi.org
+- In conclusion: 
+  - We collect and share data and it is a component to the web, just like documents.
+- Slides: <http://www.slideshare.net/sallyjenkinson/an-introduction-to-open-data-53732088>

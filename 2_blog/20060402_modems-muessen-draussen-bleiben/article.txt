@@ -1,0 +1,20 @@
+Title: Modems müssen draußen bleiben!
+----
+Date: 2006-04-02
+----
+Category: Snooker, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Gerade beim Betrachten der “Konkurrenz” fürs [Snookerblog](http://snookerblog.de/) gelesen:
+
+> Diese Seite sollte **mit einer Breitband-Verbindung ohne Probleme** laufen. Nach dem ersten Besuch werden die Grafiken in den temporären Internet-Dateien des Browser gespeichert damit beim zweiten Besuch die Grafiken nicht wieder neu geladen werden müssen. **Sollten bestimmte Features nicht geladen werden können bitte darauf achten das nicht zuviele Internetanwendungen bei Ihnen im Hintergrund laufen.** Denken Sie bitte auch daran das es manchmal zu unerwarteten Serverüberlastungen kommen kann ! Quelle: [Snookaa Community](http://www.snookaa.de/phpkit/include.php?path=start.php)
+
+ztztzt… Das ist so 1998. Vom [Flash-Intro](http://www.snookaa.de/) will ich gar nicht anfangen.
+
+PS: Da passt dieses Essay von Gerrit ganz gut: [Dinge, die man einfach nicht mehr macht…](http://praegnanz.de/essays/dinge-die-man-einfach-nicht-mehr-macht)

@@ -1,0 +1,18 @@
+Title: Jetzt WCAG2-Übersetzung kommentieren
+----
+Date: 2009-08-23
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Unter der Federführung der [Aktion Mensch](http://www.aktion-mensch.de/) bzw. ihres [Einfach-für-Alle-Projekts](http://www.einfach-fuer-alle.de/) haben viele Organisationen geholfen einen [Übersetzungsentwurf der „Richtlinien für barrierefreie Webinhalte 2 (WCAG2)“](http://wcag2.0-blog.de/2009-07-28/) zu erstellen. Jetzt darf die Öffentlichkeit [zur Übersetzung Stellung nehmen](http://lists.w3.org/Archives/Public/public-auth-trans-de/), bitte beachtet, dass es dabei nicht um Inhaltliche Fragen geht. Das Dokument wird eine 1:1-Übersetzung des englischen Originals. Um [Einfach für Alle](http://www.einfach-fuer-alle.de/blog/id/2523/) zu zitieren:
+
+> „Die Übersetzung soll als gleichwertige, ebenfalls normative Version neben dem englischen Original veröffentlicht werden. Daher wäre es wichtig, dass möglichst viele der von den Richtlinien Betroffenen den aktuellen Entwurf Korrektur lesen, mit dem englischen Original abgleichen und ggf. Verbesserungen vorschlagen – seien es Designer, Texter, Konzepter, Front- & Backend-Entwickler, aber natürlich auch Anbieter von Websites und Software-Häuser, die z.B. Redaktionssysteme herstellen.“
+
+Wer mehr über den Übersetzungsprozess herausfinden will, kann dieses [Interview mit mir zum Thema bei bizeps.or.at lesen](http://www.bizeps.or.at/news.php?nr=10043). **Nachtrag:** Die Kommentare dürfen sowohl auf Deutsch als auch auf Englisch abgegeben werden.

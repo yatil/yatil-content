@@ -1,0 +1,28 @@
+Title: Webmontag Mixxt Up
+----
+Date: 2008-08-06
+----
+Category: Gefangen im Netz 2.0
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Der [Webmontag](http://webmontag.de/) hat nun auch eine Community von Mixxt geschenkt bekommen. Unabhängig von den Bemühungen der Redesign-Gruppe hat Oliver Ueberholz, seineszeichens Geschäftsführer von Mixxt, selbstlos eine Mixxt-Standardplattform für den Webmontag zu Verfügung gestellt. Zum Konzept des Webmontags passt diese Art der „Community“ nicht, was ich im folgenden begründen werde. Für mich ist Mixxt damit endgültig ein rotes Tuch, man hätte sich ja wenigstens von den Anregungen der Redesigner inspirieren lassen können.
+
+1. **Es gibt nicht eine Webmontag-Community.** Der Webmontag hat in einzelnen Städten regionale Communities hervorgebracht, die untereinander aber relativ wenig miteinander zu tun haben. Das ist auch gar nicht schlimm. Beim Webmontag geht es um die Veranstaltung um das persönliche Treffen. Im Mixxt-System gibt es keine Unterteilung nach Regionen.
+2. **Für Neue keinen Platz.** Wer sich über das Mixxt-System für eine Veranstaltung anmelden möchte hat keinen Zugang zu den Listen, es sei denn er meldet sich umständlich bei Mixxt an. Das heißt, dass unerfahrene Web-Nutzer schlicht ausgesperrt werden, was dem Ziel und Sinn des Webmontags entgegen spricht.
+3. **One-Way-Ticket.** Rein in Mixxt kommt man vergleichsweise einfach, raus nimmermehr. Es gibt keine Möglichkeit sich aus dem gesamten Mixxt-Cosmos abzumelden, seinen Zugang zu löschen. Das steht dem entgegen, was ich unter Web2.0 verstehe. Die Möglichkeit sich abzumelden ist da, sie ist aber sehr unglücklich bezeichnet.
+4. **Keine einfache Lösung.** Es hätte etwas Arbeit bedurft, aber die Einbindung von Kalenderdaten in die Wiki-Seiten als Metadaten wäre ein relativ geringes Problem gewesen. Ein Prototyp davon läuft sogar schon auf meinem lokalen Webserver.
+5. **Keinerlei Benutzbarkeit.** Das Mixxt-System ist die Ausgeburt an Überkompliziertheit und durcheinander. Das muss bei einer Eierlegende-Wollmilchsau-Lösung anscheinend so sein. Allerdings benötigt der Webmontag keine eierlegende Wollmilchsau. Er benötigt eine klare durchdachte Struktur, die ich auch in meinen Vorschlägen zur Umgestaltung des Wikis dargelegt habe. Anscheinend war daran niemand interessiert.
+6. **Keinerlei barrierefrei.** Es ist nicht möglich sich für ein Event anzumelden, wenn man keine Maus benutzen kann. Das schließt große Teile der Webcommunity aus und kann so nicht hingenommen werden, jedenfalls nicht vom Webmontag Wien.
+7. **Nicht auf dem Stand der Technik.** Der Webmontag sollte auch ein Vorreiter sein für neue Technologien, Mixxt bietet das nicht. Weder implementiert es den Standard XFN noch zeigen andere Mikroformate Events, Personen usw. an. OpenID ist das einzige moderne daran, und das gibt’s bei Ruby kostenlos dazu.
+
+> Irgendwie hat es mich geritten, dass der Relaunch der Plattform für den Webmontag so lange dauert (das ist kein Vorwurf). Außerdem finde ich es schade, dass ausgerechnet eine so nach vorne gerichtete und moderne Veranstaltungsreihe sich nicht auch etwas moderner und menschlicher präsentiert. Ich glaube, dass viele Besucher und Besucherinnen durch das Wiki abgeschreckt werden und es findet leider auch sehr wenig Vernetzung über die Webmontage hinweg statt. Deshalb dachte ich einfach mal an ein Beispiel-Netzwerk, zum testen. Hierbei geht es aber nicht um einen Ersatz für die bestehende Plattform, sondern eine freiwillige Ergänzung, also bitte nicht missverstehen! [Oliver Ueberholz im aufgrund der Farbgebung fast unlesbaren Webmontag-Mixxt-Forum](http://webmontag.mixxt.de/networks/forum/thread.2714:1)
+
+Darf ich das noch einmal zusammenfassen: Wir haben uns nicht am Relaunch von Webmontag.de beteiligt stellen euch jetzt aber gerne selbstlos unsere tolle Plattform zur Verfügung. Die ist auch viel Menschlicher, weil da können sich ja Blinde und Tastaturnutzer nicht anmelden und das Anmelden wird noch schwieriger. Für alle! Außerdem kommen wir so an ganz viele tolle Daten von euch, die wir natürlich auch gerne auswerten. Aber testet es ruhig. Wenn genug Leute im „Web2.0-ich-muss-mich-in-jeder-beliebigen-Community-anmelden“-Wahn dort versammelt sind, gibt es keinen Weg mehr raus. Bitte nicht missverstehen, das ist fast ganz keine Werbung für unser tolles Produkt, das sofort jeder benutzen sollte. Wie gesagt: Für den Webmontag Wien kommt das Mixxt nicht in Frage. Das aufbauen auf einem proprietären System kann nicht die Lösung für eine offene Plattform sein. Was mich ärgert ist die Tatsache, dass ich viel Zeit und Aufwand in einen Relaunch des offenen Webmontag gelegt habe. Das nun ein geschlossenes System diesen offenen Ansatz ergänzen soll finde ich nicht gut, im Gegenteil. So etwas darf einer solchen Veranstaltung nicht passieren. Mixxt profitiert von der Unmöglichkeit im deutsch(sprachig)en Web ein Projekt anzupacken und durchzuziehen, ein Zusammenarbeiten an mehreren Standorten ist nicht möglich, und das ist Schade. Bei mir selbst ist der Elan in den Wochen und Monaten der Stagnation im Relaunch-Projekt auch verflogen. Mittlerweile ist es mir herzlich egal, wie sich das Webmontag-Wiki online präsentiert. Was für mich zählt ist die offene Ausrichtung und die einfache Anmeldung bei den Events ohne(!) Anmeldung bei einem Social Network. > Was meint Ihr? Kritisches, ehrliches und offenes Feedback erwünscht!
+
+Das war mein offenes Feedback für ein geschlossenes Netzwerk.

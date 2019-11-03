@@ -1,0 +1,14 @@
+Title: Facebook Instant Articles
+----
+Date: 2015-05-14
+----
+Category: Accessibility, Thoughts, Webstandards
+----
+Summary: 
+----
+Tags: facebook, open web, proprietary
+----
+Image: 
+----
+Text:
+I am really worried about Facebook’s new [Instant Articles](http://media.fb.com/2015/05/12/instantarticles/) feature… Not only does it bring web content into a private, proprietary silo, without URLs or any other possibilities to link to them apart from Facebook, but they also don’t seem to work on the iPhone with VoiceOver at all. We need to be really cautious that we don’t lose HTML/CSS as the primary, open, accessible, linkable, syndicatable solution for web content. If we are not, this might be a turning point.

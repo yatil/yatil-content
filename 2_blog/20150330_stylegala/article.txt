@@ -1,0 +1,14 @@
+Title: Stylegala
+----
+Date: 2015-03-30
+----
+Category: Thoughts, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Back in the day, there were a lot of CSS Galleries. Most have been relatively uninteresting, but [CSSMania](http://www.cssmania.com/) and [Stylegala](http://stylegala.com/) stood out. While the former is still going strong (yes, I’m equally surprised), the latter faded away at some time and is now a 403 error. I still find me typing in “sty” in my browser when idle before realizing that the resource isn’t there. At least my browser is auto-completing to [styleguides.io](http://styleguides.io), which is a resource that fits better into this time.

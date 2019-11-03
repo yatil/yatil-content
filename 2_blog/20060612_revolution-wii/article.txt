@@ -1,0 +1,47 @@
+Title: Revolution Wii
+----
+Date: 2006-06-12
+----
+Category: Videospiele
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zuersteinmal bleibt anzumerken, dass sich Nintendo vom Namen “Revolution” verabschiedet hat. Die Konsole heißt nun “Wii” (ausgesprochen wie das englische “we”) und wird im letzten Quartal dieses Jahres in Japan erscheinen.
+
+Dabei wird das neue Nintendo-Flagschiff nicht nur Rückwärtskompatibel zum Gamecube sein (Das DVD-Laufwerk des Wii versteht die Gamecube-DVDs, Wii-DVDs und Video-DVDs) sondern mit zirka 250 Euro auch noch wesentlich billiger als die Konkurrenz von Microsoft und Sony; Letztere haben ihre Konsole für 449 Euro angekündigt.
+
+Neben Gamecube-Spielen soll man via Webportal Zugriff auf alle Spiele von Nintendo und Drittherstellern haben, die jemals für die Konsolen NES, SNES und Nintendo 64 erschienen sind. Und das zu Preisen zwischen 4,50 und 9 Euro.
+
+Im Gegensatz zu den anderen Konsolenherstellern hat sich Nintendo nicht in die Hardwareschlacht hineinziehen lassen, die Spezifikationen des Wii lesen sich eher bescheiden:
+
+- Ein Power PC-Prozessor mit 729 MHz
+- Eine Grafik-Engine mit 3 MB Textur-RAM und ungefähr 88 MB Systemspeicher
+- Zudem spendet Nintendo 512 MB Flashspeicher für heruntergeldadene Spiele und Spielstände
+ 
+Neben den vier Wii-Controllern gibt es Anschlüsse für vier Gamecubecontroller, zwei Gamecube-Memorycards, 2 USB 2.0-Anschlüsse und 2 SD-Karten-Schächte.
+
+Damit ist der Wii technisch den anderen Next-Gen-Konsolen unterlegen. Deshalb ist es keine Überraschung, dass Nintendo nun auf die Spielfreude als Hauptverkaufsargument der ca. 3 DVD-Hüllen dicken Konsole setzt.
+
+Nintendo holt mit seinem Kontroller den Videospieler von der Coutch. Beim Tennisspiel ist voller Körpereinsatz gefragt, genauso wie beim Musizieren mit Freunden, bei dem beispielsweise der Schlagzeuger gleich zwei der revolutionären Controller hält und diese wie Schlagzeugstöcke benutzt.
+
+Das Spielen mit dem Wii soll nicht nur Spaß machen, es soll auch intuitiv erlernbar sein und auch Menschen, die zuvor noch nie an einer Konsole gespielt haben, mit einbeziehen.
+
+Auf der Softwareseite stehen bereits einige Titel fest, die größtenteils auch schon zum Konsolenstart bereitstehen sollen:
+
+- **Wii Sports**, das Sportspiel für Wii. Die Chancen sind groß, dass es bei jeder Konsole beiliegen wird.
+- **Project H.A.M.M.E.R** ist ein Spiel in dem man den Hammer schwingen darf.
+- Er darf auf keiner Nintendo-Konsole fehlen: Super Mario. In **Super Mario Galaxy** macht er die Galaxie unsicher.
+- Auch **WarioWare** wird durch **Smooth Moves** fortgesetzt.
+- Dazu gibt es ein Wiedersehen mit Samus Aran und Link in **Metroid Prime 3 Corruption** und **The Legend of Zelda: Twilight Princess** (letzteres soll auch für den Gamecube erscheinen).
+- Beide zusammen und viele weitere Nintendo-Stars wird man in **SmashBros. Dojo** wieder gegeneinander kämpfen sehen.
+ 
+Als Webbrowser wird übrigens Opera eingesetzt, der am Sommer auch im DS seine Arbeit verrichten wird – allerdings bisher nur in Japan.
+
+Weitere Infos und Videos gibt es auf der [offiziellen Nintendo-Wii-Seite](http://wii.nintendo.com/home.html), bei [wii.1up.com](http://wii.1up.com/) sowie bei [Opera](http://www.opera.com/pressreleases/en/2006/05/10/).
+
+(via: [Anne van Kesteren](http://annevankesteren.nl/2006/06/opera))

@@ -1,0 +1,30 @@
+Title: Webmontag Karlsruhe Nr. 2
+----
+Date: 2006-07-04
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Ich fand’ den Webmontag unterdessen sehr gelungen. Nicht nur das Ambiente des Kubik Cafes passte ganz gut, es war eine gute Gelegenheit zu erfahren was andere Leute im Internet so machen und ihre Sicht auf die Entwicklungen im Web zu verstehen.
+
+Wie das wohl meistens bei solchen Events ist bei denen man mit fremden Leuten zusammenkommt war erstmal betretenes Schweigen angesagt, aber nach ein paar Fragen erhielt man dann doch eine sehr angenehme Gesprächsatmosphäre.
+
+Der erste Vortrag, „Social Software in der Wissensarbeit“ war mir persönlich einen Ticken zu lang, was aber Aufgrund der komplexen Thematik verständlich ist. Dafür gab es auch schöne Einsichten in die wirkliche Welt und die Erkenntnis, dass die Unternehmenskultur wohl noch nicht ganz reif ist für Social Software (Also Blogs und Wikis, falls noch jemand fragt).
+
+Danach war ich mit meinem [Vortag über Mikroformate](http://yatil.de/webmontag/ka0706/ "S5-Präsentation zum Vortrag über Mikroformate"), der aus meiner Sicht ganz glücklich verlief.
+
+Danach kam etwas, das es vorher noch auf keinem Webmontag gab. Es wurde SelfGeTagged (oder so ähnlich). Jeder stellte sich kurz vor und vergab sich dann drei Tags. Bei mir waren das „Kaiserslautern“ (weil halt momentan nicht Wien und Leimen/Pfalz kennt eh niemand), „Semantik“ und „XHTML“.
+
+Danach wurde in kleineren und größeren Runden diskuttiert, bis sich nach und nach die Veranstaltung selbst auflöste. Die hartgesottensten (u.a. auch ich) blieben bis kurz vor ein Uhr und unterhielten sich danach noch auf der Straße.
+
+Auf der Heimfahrt habe ich es denn auch geschafft allen fünf (!!!!) Rehen, die entweder über die Straße gehen wollten oder einfach auf ihr standen, auszuweichen und auch ein Fuchs wurde verschont.
+
+Weitere Infos und berichte findet man bei Andreas Dittes unter dem Titel [Webmontag in Karlsruhe – Von Selftagging bis Microformats](http://dittes.info/blog/2006/07/04/webmontag-in-karlsruhe-von-selftagging-bis-microformats/).
+
+Bilder gibt es bei flickr mit dem Tag [webmontag20060703](http://www.flickr.com/photos/tags/webmontag20060703/).

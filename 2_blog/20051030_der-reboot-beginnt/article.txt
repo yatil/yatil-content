@@ -1,0 +1,18 @@
+Title: Der Reboot beginnt
+----
+Date: 2005-10-30
+----
+Category: Design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Mit dem abschalten der Stilvorlagen beginne ich heute und morgen damit das XHTML anzupassen. Das sollte bis morgen abend beendet sein. Die Gestaltung wird erst an Allerheiligen dazu kommen.
+
+Es kann durchaus sein, dass die Seite zwschendurch nicht funktioniert oder, dass Teile der Seite nicht korrekt angezeigt werden. Ich bitte um Ihr/dein Verständnis.
+
+Ach ja, das ist übrigens das, was auch auf Handys oder anderen Zugangsgeräten angezeigt werden sollte.

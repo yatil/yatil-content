@@ -1,0 +1,21 @@
+Title: Wochen-Meldungen
+----
+Date: 2006-02-19
+----
+Category: Gesellschaft, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+- Die [Vogelgrippe ist auch in Deutschland](http://news.google.de/news?hl=de&ned=de&q=Vogelgrippe&btnG=News-Suche). Okay, lediglich ein 8 Kilometer hoher Zaun wäre eine sichere Abwehrmaßnahme gewesen. Gleich mal geguckt, ob meine Nachbarn ihre Hühner weggesperrt haben und ich kann vermelden: Kein Huhn zu sehen.
+- Das BVerfG hat geurteilt, dass das Abschießen von wehrlosen, unschuldigen Menschen gegen die Menschenwürde verstößt. Auch, wenn diese in entführten Flugzeugen sitzen. Überhaupt sei der Einsatz der Bundeswehr im Inneren vom Grundgesetz nicht gedeckt. Danke.
+- Viele deutsche Weblogs haben übers Wochenende den Service [coComment](http://www.cocomment.com/) eingebaut. Worum es sich handelt ist schnell erklärt. Im Allgemeinen gibt man in einem Weblog einen Kommentar ab und vergisst dann, in welchen der 2000 Weblogs im Feedreader man nun zu welchem Thema kommentiert hat. Dabei hilft nun dieser Service. Kommentare werden nicht nur im Weblog zwischengespeichert sondern können dann per RSS angefordert werden. Oder man pinnt sich so eine Box auf die [Startseite](http://yatil.de/) wie hier. Überblick pur. Ach ja, [Erics Weblog](http://yatil.de/) ist nun auch offiziell damit ausgestattet. (Gefunden bei [Pixelgraphix](http://www.pixelgraphix.de/log/2006-02/cocomment-oeffnet-die-tueren.php) und [Praegnanz.de](http://praegnanz.de/weblog/cocomment-bei-praegnanzde))
+- Welches **Arschloch** ist eigentlich innerhalb der letzten drei Tage gegen meinen Kotflügel (vorne links) gefahren und hat sich klammheimlich aus dem Weg Staub gemacht. Nach meinem Rechtsverständnis ist das Fahrerflucht. Zu dumm, dass ich’s erst heute mittag gemerkt habe. [Bild be Flickr.](http://flickr.com/photos/yatil/101749383/)
+- [Kaiserslautern](http://fck.de/) hat eine Siegesserie gestartet, die werden doch nicht noch wirklich in der ersten Liga bleiben wollen? Nächste Woche das Duell gegen Mainz. Ich tippe auf ein 2:0 ;)
+- Noch 34 (Arbeits-)Tage Zivi, dann drei Wochen Urlaub.
+ 
+So, das reicht dann aber auch mal wieder.

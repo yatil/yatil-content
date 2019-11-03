@@ -1,0 +1,14 @@
+Title: Hack Day London – beinahe wäre ich dabei gewesen
+----
+Date: 2007-06-06
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Es gibt schon seltsame Angelegenheiten Blogeinträge zu verfassen. Heute berichte ich über ein Treffen der besonderen Art: Yahoo! und die BBC laden am 16./17. Juni 500 Webentwickler nach London ein, freie Kost und Logis (mit Schlafsack) inklusive. Sinn der Sache ist es innerhalb von 24 Stunden Ideen zu Webprojekten umzusetzen und fertige Prototypen zu erstellen. Das ganze nennt sich dann [Hack Day](http://hackday.org/) und macht sicherlich eine Menge Spaß. Leider ohne mich. Zum einen muss ich am 16. Juni an der Uni hier in Wien sein und zum anderen ist der Flug noch nicht einmal über Ryanair finanzierbar gewesen. Zwei triftige Gründe also, die gegen eine Teilnahme sprechen und weshalb ich auch vor ein paar Minuten abgesagt habe. Mit ziemlicher Sicherheit teilnehmen werde ich aber beim [DevHouseCologne](http://devcologne.pbwiki.com/) (21./22. Juni) sowie beim [Barcamp in der selben Stadt](http://www.franztoo.de/?p=312) (18./19. August) werde ich ganz stark versuchen teilzunehmen.

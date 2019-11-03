@@ -1,0 +1,20 @@
+Title: Redesign Nr. XXX
+----
+Date: 2004-12-31
+----
+Category: News, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Also ich hab’ ja den Überblick verloren, ich weiß nicht mehr wie viele Redesigns ich dieses Jahr hatte. Ich kann aber mit Sicherheit sagen, dass dieses hier das letzte ist. Also zeitlich, nicht qualitativ. Zumindest für dieses Jahr.
+
+Ich hab es »Apple« genannt, wegen der grünen Farbe. Es kann wie immer noch zu kleinen (oder größeren) Darstellungsfehlern kommen, vor allem auf Macs und unter Linux, wo ich aus Zeitgründen nicht testen konnte. Unter Windows sollte in den gängigen Browsern alles richtig dargestellt sein.
+
+Anmerkungen sind gerne gesehen.
+
+_Und jetzt funktionieren sogar die Kommentare!_

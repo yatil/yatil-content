@@ -1,0 +1,28 @@
+Title: 9 Guidelines on how to create really good web sites
+----
+Date: 2009-10-20
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+About 6 months ago I tweeted some steps for really good web sites with progressive enhancement. Those tweets aren’t available via the official Twitter search but I’ve just found them in [my Tweetstats](http://tweetstats.com/graphs/yatil#tcloud). Just click #petweet and you’ll see the original 6 tweets. Here I’ve added and clarified some points.
+
+1. **You need to know your content first.** Real content, not the Lorem Ipsum kind of content that will later out of the sudden be some kind of rich text with images and stuff.
+2. **Get an overview on the different templates**, identify reusable elements and make them reusable: use classes!
+3. **Add exceptionally good HTML.** Think about every part of the site, use the most appropriate elements, don’t get too distracted. Use `table` for tabular data. Keep it simple. And then simplify some more!
+4. **Add CSS.** Start your CSS with the basics: reset, fonts, positioning. Try not to add more elements to your HTML only because you think it can’t be accomplished with the existing structure. Often it will work and you saved not only some bytes but even more on maintenance cost.
+5. **Test regularly across targeted browsers.** That is important. Start your working day with an hour of browser testing, at least use some screenshot tool to look for breaking layouts. Do not fix them immediately, just note them down. If you get back to that element during the day, fix it then or as a wrap up at the end of the day. (You will feel in “got things done” mode when you leave the office!)
+6. **Adding bells and whistles** for real browsers, so IE7+ and the others, a website doesn’t have to look the same in all browsers, but it should at least be a consistent look and feel. If something is not supported by a browser use default fallbacks. If the fallback is not working as intended, add the feature only to browsers who support it.
+7. **Use shortcuts.** You don’t get paid for reinventing the wheel every time, so don’t do it. Use a JS library to get around inconsistencies in browsers and use a CSS framework if you know it very well. Typically you’ll create a flexible framework for each project and you’ll learn which parts work and which to reuse. Different projects need different approaches.
+8. **Be accessible.** Every part of the web site has to be accessible even if there is only the raw HTML code rendered. Everything can (and will) break, so be sure that the content is accessible. If non-targeted browsers like IE6 get something wrong, you can rely on your existing HTML structure and hide the JS from the browser.
+9. **Deploy, Enjoy.** (Okay, that isn’t really a guideline ;)
+ 
+One reminder: You may want to backup your important data regularly, probably with time machine on the mac or with [Dropbox](https://www.getdropbox.com/referrals/NTQyNjY5 "Referral Link"). You may also want to use at least a local version control system like [GIT](http://git-scm.com/) or [SVN](http://subversion.tigris.org/) to track your progress.
+
+ **2011-07-05:** Edited to remove some typos, removed paragraph about an “upcoming publication” that never happened.

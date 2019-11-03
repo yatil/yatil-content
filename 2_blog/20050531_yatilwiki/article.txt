@@ -1,0 +1,38 @@
+Title: YatilWiki
+----
+Date: 2005-05-31
+----
+Category: News, Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Mal wieder etwas neues, eigentlich zwei Neuigkeiten in einer: Es gibt jetzt ein offizielles [YatilWiki](http://yatil.de/wiki/).
+
+Für alle, die nicht wissen, was ein Wiki ist hier eine Definition:
+
+> Wikis \[...\] sind im World Wide Web verfügbare Seitensammlungen, die von den Benutzern nicht nur gelesen, sondern auch online geändert werden. \[...\] Der Name stammt von _wikiwiki_, dem hawaiianischen Wort für „schnell“. Wie bei Hypertexten üblich, sind die einzelnen Seiten und Artikel eines Wikis durch Querverweise (Links) miteinander verbunden. Die Seiten lassen sich jedoch _sofort am Bildschirm_ ändern. Quelle: Das größte Wiki der Welt: [Wikipedia über Wiki](http://de.wikipedia.org/wiki/Wiki)
+
+Fürs Erste ist es die Heimat der Übersetzungsverwaltung, zu dem sollen noch verschiedene Aufzeichnungen zu Projekten den Weg in dieses Wiki finden.
+
+## Die Engine…
+
+heißt genau so wie das Wiki, also YatilWiki und ist ein Fork (also eine überarbeitete Version) des [BlastWiki](http://www.roboticboy.com/blastwiki/). Dabei wurde vor allem auf folgende Punkte Wert gelegt:
+
+- Standardsbasierte Ausgabe des Quellcodes (XHTML 1.0 & CSS)
+- Vereinfachen der Anpassung des Wikis an eigene Seiten
+- Hinzufügen von Mehrsprachenunterstützung
+- Einfügen der Formatierungssprache [Textile](textism.com/tools/textile/)
+ 
+Der PHP-Quellcode sieht noch reichlich chaotisch aus, wie man oben sieht, aber es funktioniert bisher einwandfrei, auch, wenn es noch einige Features gibt, die ich gerne hinzufügen würde:
+
+- KamelRückenWörter mit Umlauten ermöglichen
+- \[\[Wiki Wörter\]\] durch eckige Klammern definieren
+ 
+Das Wiki gibt es noch nicht zum Download, ist also jetzt in einer Art öffentlicher Beta-Phase.
+
+Für Anregungen bin ich – wie immer – sehr dankbar.

@@ -1,0 +1,44 @@
+Title: My personal review of the 2016 MacBook Pro
+----
+Date: 2017-01-28
+----
+Category: Technology
+----
+Summary: 
+----
+Tags: hardware, mac, review
+----
+Image: 
+----
+Text:
+In 2006 I got my first Mac ever, the [2006 Apple MacBook “Core Duo” 1.83 13”](http://www.everymac.com/systems/apple/macbook/specs/macbook_1.83.html). After owning a humongous Acer 15” Laptop in the previous years, the experience of owning this computer was something from another world. Since 2013 I owned a [13” MacBook Air with 8GB RAM and an 1.7GHz Intel Core i7 processor](http://www.everymac.com/systems/apple/macbook-air/specs/macbook-air-core-i7-1.7-13-mid-2013-specs.html) and while I loved the portability of the device, I recently started to feel the limits of the processor and the disk space (just 128 GB).
+
+## What I got
+
+I bought a [13” MacBook Pro 2016 with a Intel Core i5 3.1 GHz processor and Touchbar](http://www.everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-3.1-13-late-2016-retina-display-touch-bar-specs.html) and 16GB of RAM and 512 GB of SSD storage. In Space Grey. ## What I use it for
+
+I mainly do web development, lots of writing and editing – not something you necessarily need “Pro” hardware, to be honest. But then there are some operations, like optimising images and decoding videos, that happen often enough so I can use the power. It’s also amazing how quickly Jekyll and Middleman projects build. I sometimes need to test websites in Windows, and firing up a virtual machine is now obviously less of an hassle. In addition, I occasionally play [Cities: Skylines](http://www.citiesskylines.com) and while there is a bug with the (unsupported) Intel graphics card, it is really cool to see houses and cars that are not just mushy blobs of textures. ## What I like
+
+- **The Screen** is just great. I never had a “Retina” screen before and this is really good. Type looks crisp and icons do, too. However parts of the web look awful as many people are not optimising their graphics. It’s especially appalling with icons. Use SVGs, everyone!
+- **The Speakers** are phenomenal. I have never really used the built-in speakers in my previous Macs, and I don’t really plan to use the ones built into this machine, but wow, they sound really good.
+- **The Touchbar** is a great gimmick. When apps support it, it shines, but without support it’s only mildly useful. The Touchbar is empty in that case, so you got a gap on the keyboard. I usually don’t need to use function keys and if I do pressing fn (like I used to do) brings them back. I have accidentally touched the Touchbar while typing and when it happens it is irritating. However it happens less and less. The bar is well integrated into Safari, so you can play and pause video playing in the browser from the bar and also scrub around the video which is much more intuitive and precise than using the touchpad and drag the handle. The only thing that is really annoying is that the Touchbar crashes occasionally – putting the computer to sleep and waking helps.
+- **TouchID** goes without saying. Unlocking the Mac or 1Password is blazingly fast. Now hurry to provide Apple Pay in Germany, Apple!
+- **The built quality and portability.** It’s incredible how dense this computer is, when you put the Air and the Pro on top of each other, the Pro is much smaller. It is thicker, but not by much. The space grey color is stunning.
+
+## Other observations
+
+- **The Keyboard** is right in my ballpark. It is clicky, it is responsive, it is totally fine. But I don’t have a very specific taste in keyboards and I found every Mac keyboard that I typed on at least OK. Not having the inverted-T shape for the arrow keys is throwing me off however as it is hard to feel for the position of the arrow keys.
+- **The Trackpad** is working as expected. As a “tap to click” person it’s totally good for me. I haven’t used any force touch features a lot, but using it for the occasional dictionary lookup is useful.
+- **Thunderbolt 3/USB-C** works as expected. I can charge my Mac from either side, which is great, as the socket is on the right when I’m sitting on my couch. I miss MagSafe though. I bought one USB-C to USB-A and one USB-C to VGA/USB-A/Power adapters from Apple. I also got a [two pack of the Aukey USB-C/USB-A adapters _(affiliate link)_](http://amzn.to/2iYicL3). My external display (that I only use for referencing stuff when needed) and microphone are plugged in into the VGA/USB-A/Power adapter all the time. I still need a good SD card adapter but did not find one that I think is worth buying.
+
+## Migration
+
+- I chose to start fresh and not use Migration Assistant to move my data.
+- I migrated most apps via the Mac App Store and [SetApp](https://setapp.com) and downloaded others directly.
+- I moved my data almost exclusively by AirDrop, which worked very well for my 6GB [MailMate](https://freron.com) archive and my 10GB `~/projects` folder (yes, I need to clean that up at some point).
+- Other data was synced using iCloud (works well for me, ymmv), Dropbox (where I downgraded to the free plan after moving most of my data to iCloud), and iCloud Photo Library.
+- The most inconvenient part was installing all the command line tools, like Middleman, Jekyll and Gulp. In the end this was just a small portion of the migration experience which took about one day.
+
+## Conclusion
+
+This is not a Mac for everyone. It might not be for you if you have special needs, or need more power. However I think it is very versatile and while the USB-A to USB-C transition is inconvenient, it is where the future lies. This might be my last PC-type of computer (if there comes more pro functionality to the iOS platform), so being future proof is important.

@@ -1,0 +1,57 @@
+Title: XHTML-Bausteine
+----
+Date: 2006-04-25
+----
+Category: Programmierung, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Was ist ein „Baustein“?
+
+Bausteine sind mir zuerst als Teil des CMS [Textpattern](http://textpattern.com/) aufgefallen. Diese Bausteine, die im englischen Original „form“ heißen, sind wiederverwendbare XHTML-Codeausschnitte, die mit Textpattern-Code angereichert werden können.
+
+Das Baustein-Prinzip ist jedoch nicht auf Textpattern begrenzt, im Gegenteil: Es hat sich als sinnvoll herausgestellt, wiederverwendbaren Code zu benutzen. Dies beugt auch der missbräuchlichen Verwendung von `div`s vor.
+
+Zudem bringen Bausteine einen klaren, leichter zu lesenden XHTML-Code. Ein ähnliches System sind [Mikroformate](http://microformats.com/). Diese gelten jedoch nicht intern sondern seitenübergreifend, weshalb ich hier nicht auf sie eingehen will.
+
+## Bausteine in der Praxis
+
+Bausteine benötigen eventuell eine genauere Auseinandersetzung mit den einzelnen Elementen der Seite. Als Beispiel ziehe ich das Recoding der Startseite von [Focus Online](http://yatil.de/Weblog/der-focus-im-fokus) heran, das ich im Januar angefertigt habe.
+
+Dort gibt es mehrere Elemente, die einen ähnlichen Aufbau haben: Die Teaser.
+
+Da gibt einen Teaser mit großem Bild und mehrere ohne oder mit kleinen Bildern. Davon sind einige in den beiden Übersichtsspalten am Ende der Seite.
+
+Im Bild sieht man alle drei Teaserarten, von oben nach unten:
+
+![Teaserbeispiele des Focus](/images/213.png "Teaserbeispiele des Focus")
+
+1. Der Aufmacher: Steht am Anfang der Seite und erhält die Top-Meldung.
+2. Weitere Top-Meldungen: Steht im oberen Seitenteil in der Mittelspalte.
+3. Top-Meldungen nach Resort: Im unteren Seitenteil in einer der beiden Spalten.
+ 
+Nun kommt es natürlich darauf an, wie man diese Teaser als XHTML-Code beschreibt, Anhaltspunkte sind auf folgender Grafik mit entsprechend eingezeichneten Bereichen zu sehen:
+
+![Teaserbeispiele des Focus mit Markierung der XHTML-Elemente](/images/214.png "Teaserbeispiele des Focus mit Markierung der XHTML-Elemente")
+
+### Code
+
+Schauen wir uns folgenden Codeausschnitt an:
+
+Die Angabe der zusammengesetzten Klassennamen `first teaser` (Zeile 1) und `teaser withimage` (Zeile 17) ist dabei unerheblich. So benannte Klassen sind aber wesentlich leichter lesbar als ein äquivalentes `teaser first` bzw. `withimage teaser`. Welche Regel letztendlich angewendet wird, wird durch die Spezifität festgelegt, nicht durch die Reihenfolge der Klassennamen.
+
+Von diesen XHTML-Grundgerüsten leiten sich folgende Styleangaben ab:
+
+Dabei wird auf die doppelte Bezeichnung von Klassen im Stil `div.ersteklasse.zweiteklasse` verzichtet, da der Internet Explorer (zumindest bis Version 6) damit Probleme haben kann[1](#fn161700806046d06a1ce23d4). Stattdessen wird die Spezifität genutzt um das gewünschte Ergebnis zu erreichen. So wird insbesondere im Abschnitt für die Kategorien immer das `div#kategorien` vorgesetzt um unerwünschte Effekte zu vermeiden.
+
+Anmerkung zu den Zeilen 118-123:  
+Der Internet Explorer bis Version 6 zeigt den unteren Rand für die Teaser nicht an (definiert in Zeile 4). Diese simulieren wir indem wir einfach den Kategorielinks einen unteren Rand geben. Problem dabei: Browser, die den Quelltext korrekt rendern zeigen zwei übereinanderliegende Linien und dadurch einen doppelt dicken Rand. In den Zeilen 122-124 wird dieser Rand per Child-Selektor wieder entfernt. Der IE versteht die Anweisung nicht und übergeht diese deshalb. Im Internet Explorer 7 tritt diese Anomalie nicht mehr auf, zudem versteht er Child-Selektoren und verhält sich daher wie alle anderen standardkonformen Browser.
+
+Mit wiederverwendbaren Bausteinen erleichtert man sich nicht nur die Arbeit beim Code-Schreiben, sondern vereinfacht auch den CSS-Quelltext, da man eventuelle Doppeldefinitionen vermeidet.
+
+1 Siehe dazu: [thestyleworks.de/tut-art/ie7.shtml#multiple-classes](http://www.thestyleworks.de/tut-art/ie7.shtml#multiple-classes)

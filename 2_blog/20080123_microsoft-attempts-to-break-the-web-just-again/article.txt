@@ -1,0 +1,28 @@
+Title: Microsoft attempts to break the web …just again!
+----
+Date: 2008-01-23
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Yesterday [Microsoft introduced some new method of targeting a special browser version](http://blogs.msdn.com/ie/archive/2008/01/21/compatibility-and-ie8.aspx) using a HTTP environment variable called `X-UA-Compatible` which allows to say that IE8 should render a web page like IE7. This wouldn’t be so bad if there wasn’t a huge caveat: IE will ever assume that you want it to render the page like IE7, thats like 2006, if you don’t specify the browser version IE should use (or the value `edge`). Thats a major failure. Why is Microsoft doing that? They insist of being 100% backwards compatible. They complain about customers complaining about websites which broke in IE7. They don’t realize that it was just their fault of not being standards compliant for an awfully long time, which led to the expectation that IE7 should work like IE6. But why did they? Because IE7 does many things (hasLayout anyone?) in other ways like standards compliant browsers do. It is not an standards aware browser by any means. It needs hacks and corrections and special treatment like IE6 did, but on other occasions. I assume that those site owners that complained about IE7s “wrong” behavior didn’t have to complain at Mozilla, Opera or Apple. Their browsers use much improved Rendering engines _and_ don’t break the web at all. Microsoft seems to assume that we do websites for (one special) version of IE and then do that “standards thing”, but that is not the case. We do websites to render correctly in standards aware browsers and then fiddle with IEs quirks. We have developed technologies like progressive enhancement and graceful degradation which allow us to get the content out there to users not only on old desktops but also mobiles, Wiis and music players. Yes: Using those technologies requires skill and thought. It’s not like doing a quick website in frontpage. But web designers and developers are professionals, not amateurs anymore. In a tweet Chis Wilson, one of the IE developers, says:
+
+> “IE is not capable of freezing the web, and I have no intention of doing so. put a meta tag in, or get a newer doctype. Come on.” [Chris Wilson on Twitter, replying to Andy Budd](http://twitter.com/cwilso/statuses/628694682)
+
+IE froze the web once. And will keep on freezing it. There are many occasions where that specific proprietary thing will be lost. Say we’re in the year 2025 and we have to move a site developed for IE8 to another server. That server is misconfigured and doesn’t send that environment variable. Boom, gone is your sites layout, because it displays it as IE7, not because it displays it as IE13 – which would be perfectly okay (assuming that IE13 is standards compliant). What should browsers do if the website sais “I’m optimised for IE9”, but the browser is IE8? Render nothing? Throwing a message at the user, that he has to download the new browser? What, if said user is on XP and IE8 is not available for that OS? What if said user uses a screen reader which is not capable of using IE8 at the moment? What if said user uses Camino on a mac and its nothing specified for that browser while it sais FF=3? What if a browser is forced to use the OtherUA variable? Targets OtherUA Firefox 4, Safari 4, Opera 4 and IE4? Likely not. This seems like the worst idea from Microsoft ever. I use standards compliant browsers every day (there is no support for non-standards compliant browsers from Redmond on Mac OS). No website I ever visited was broken. Microsoft is afraid of having a forward thinking web browser because they are afraid not to meet the requirements of the web standards community again. And they won’t. Passing Acid2 is great. All modern websites are ready to use features proposed in there, like generated content, for example. Older websites just don’t use anything that will change in IE8. They won’t use a doctype and fall into the real quirksmode, not the standards quirksmode. What really saddens me is that a [whole](http://www.zeldman.com/2008/01/22/in-defense-of-version-targeting/) [bunch](http://snook.ca/archives/browsers/version_targeting_ie8/) of [well known web developers](http://alistapart.com/articles/fromswitchestotargets) jumped on Microsofts side. [A List Apart even advertises this](http://alistapart.com/issues/251) like it’s the holy grail and the ark of the covenant at once. It isn’t. There are – of course – other concerns: - **Stability** – Will my IE8 code be the same in IE32 when it’s released or will there be subtile changes?
+- **Security** – Will all those rendering engines be secure and held secure for the rest of the webs life? (I guess not, Microsofts support for XP drops 2012.)
+- **Durability** – How long is my rendering engine of choice supported by Microsofts browsers?
+- **Effort** – Why the hell should I make web pages specific for some browser versions when I can have a much greater effect with having standards based websites?
+
+What we will see are some annoyingly stupid lazy web developers which will use the following code in their documents: ```
+<meta http-equiv="X-UA-Compatible" content="IE=8;FF=1000;OtherUA=1000" />
+
+```
+
+And that, Microsoft, will break the web. If any website breaks in IE8 it’s the fault of IE8 not being standards compliant, not the fault of the website authors. I’m glad that there are signals by the other browser vendors not to adopt that stupid stuff.

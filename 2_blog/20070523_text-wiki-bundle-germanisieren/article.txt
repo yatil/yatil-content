@@ -1,0 +1,26 @@
+Title: Text-Wiki-Bundle Germanisieren
+----
+Date: 2007-05-23
+----
+Category: Programmierung, Switch2Mac
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Gerade bei [43folders](http://www.43folders.com/2007/05/22/plain-text-wiki/) (in den Feedreader damit) vom [Plain-Text-Wiki-Bundle](http://interconnected.org/home/2007/05/20/plain_text_wiki) für [TextMate](http://www.macromates.com/) (bester Texteditor ever!) gelesen. Gleich ausprobiert und aus leidiger Erfahrung WikiWörter in [CamelCase](http://de.wikipedia.org/wiki/Binnenmajuskel) inklusive deutschen Umlauten ausprobiert… Natürlich hat’s nicht hingehauen. Eine schnelle und wahrscheinlich dreckige Lösung ist folgende: Bundle-Editor öffnen (Strg+Alt+Apfel+B), dort unter „Plain Text Wiki“ „Wiki“ auswählen. Im Fenster rechts steht unter anderem diese Codezeile:
+
+```
+match = '[A-Z][a-z]+([A-Z][a-z]*)+';
+
+```
+
+Diese Zeile einfach durch folgende ersetzen: ```
+match = '[A-ZÄÖÜ][a-zäöüß]+([A-ZÄÖÜ][a-zäöüß]*)+';
+
+```
+
+Da ich kein Experte für [reguläre Ausdrücke](http://de.wikipedia.org/wiki/Regular_Expression) bin, weiß ich nicht, ob das irgend welche Nachteile hat. Einen Fehler gibt es auf jeden Fall, die Datei wird nicht in einem neuen Tab im Projekt geöffnet sondern in einem neuen Fenster…

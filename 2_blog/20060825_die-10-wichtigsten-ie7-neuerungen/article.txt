@@ -1,0 +1,59 @@
+Title: Die 10 wichtigsten IE7-Neuerungen
+----
+Date: 2006-08-25
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## 10. Prozentangaben für absolut positionierte Elemente
+
+Gerade für liquide Designs ist es wichtig absolut positionierte Elemente auch korrekt mit prozentualen Werten angeben zu können.
+
+## 9. Gepunktete Rahmen erscheinen… gepunktet!
+
+Bis zur Version 6 wurden Angaben wie `border: 1px dotted #000;` gestrichelt angezeigt. Diese Unzulänglichkeit wurde endlich ausgemerzt.
+
+## 8. Overflow funktioniert korrekt
+
+Bisher wuchsen Container-Elemente mit, auch wenn sie gefloatete Elemente beinhalteten. Dies entsprach nicht der Spezifikation.
+
+## 7. `:first-line` und `:first-letter` funktionieren jetzt auch ohne Leerzeichen
+
+Wenn zwischen dem Selektor mit `:first-line` beziehungsweise `:first-letter` und der öffnenden Klammer („{“) kein Leerzeichen stand wurde die gesamte Anweisung nicht interpretiert. Dieses verhalten wurde nun behoben (und dürfte für weniger Schweißausbrüche beim erstellen von CSS sorgen).
+
+## 6. Anweisungen mit mehreren Klassen werden korrekt ausgewertet
+
+Bisher gab es verschiedene Anomalien bei Verwendung von mehreren Klassen in Anweisungen wie beispielsweise `p.klasse1.klasse2`. Diese Anweisungen trifft nun auf Elemente wie `<p class="klasse1 klasse2">...</p>` zu.
+
+## 5. `:hover` für alle Elemente, nicht nur für `<a>`
+
+Endlich kann auch der Internet Explorer beim überfahren von Elementen reagieren. Das bedeutet, dass für Dropdown-Menüs kein zusätzliches Javascript mehr nötig ist.
+
+## 4. `min-height` und `min-width` sowie `max-height` und `max-width` werden unterstützt
+
+Dadurch werden flexible Layouts möglich, die Zeilenlänge kann aber begrenzt werden. In der finalen Version wird das – anders als in der Beta – auch mit Bildern gehen.
+
+## 3. Fixierte Elemente sind endlich möglich
+
+Elemente können nun per `position:fixed` fixiert werden. Dies kann für viele Anwendungen sinnvoll sein. (Ich hoffe nur nicht auf die Rückkehr der Frames…)
+
+## 2. Selektoren von CSS 2.1 und 3.0 wurden integriert
+
+- Das jeweils erste Kindelement kann mit `:first-child` ausgewählt werden. Allgemein können direkte Elemente per Kindselektor (bspw. `p>strong`) ausgewählt werden. (2.1)
+- Auch Geschwisterelemente können nun ausgewähl werden: `h1+h2` wählt das auf h1 direkt folgende h2 aus. (2.1)
+- [Eine Auswahl nach Attributen ist nun auch möglich.](http://yatil.de/Artikel/der-div-wahnsinn#attributselektoren) (2.1)
+- Auch die [Attribut-Selektoren aus CSS 3](http://yatil.de/Artikel/der-div-wahnsinn#attrcss) werden unterstützt.
+ 
+## 1. PNG-Bilder mit Alpha-Transparenz
+
+PNG-Bilder, transparente Überlagerungen und was man nicht sonst noch alles mit Alpha-PNGs machen kann werden für einen neuen Trend im Webdesign sorgen. Zusammen mit `background-position:fixed` sind ganz neue Arten von Layout möglich.
+
+## 0. Automatisches Update
+
+Okay, hier noch ein elfter Punkt, aber der ist nicht per se ein Feature des Internet Explorers: Das Update von IE6 nach IE7 wird als „kritisch“ eingestuft, dies bedeutet, dass er automatisch im Hintergrund geladen und installiert wird.

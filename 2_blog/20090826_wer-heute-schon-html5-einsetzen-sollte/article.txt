@@ -1,0 +1,21 @@
+Title: Wer heute schon HTML5 einsetzen sollte
+----
+Date: 2009-08-26
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Fast niemand. HTML5 wird von keinem Browser _aktiv unterstützt_, es geht im Moment nur _nichts kaputt_[1](#fn7062749484a94b260e3ebe). Das ist eine tolle Sache, eignet es sich doch für Experimente wie diese Seite hier oder für das ein oder andere Experiment [zum Beispiel mit den `audio` und `video`-Elementen](http://www.youtube.com/html5). Alle, die nicht experimentieren wollen oder können, zum Beispiel bei Projekten für Kunden oder den Arbeitgeber, sollten HTML5-Features nur ganz, ganz sparsam einsetzen und nur Teile, die sicher[2](#fn1762740604a94b260e4497) sind (Es folgt eine Auflistung).
+
+- ``
+- `style` und `script`-Elemente ohne `type`-Attribut
+
+Alle anderen Dinge haben in aktuelleren Browsern die eine oder andere Nebenwirkung oder funktionieren nicht. Wer sich mit der Semantik der neuen Elemente auseinandersetzen will (`article` usw.), der möge [auf `div`s mit Klassen zurückgreifen](http://forabeautifulweb.com/blog/about/more_on_developing_naming_conventions_microformats_and_html5/), die zuverlässig funktionieren. (Außerdem empfehle ich durchgehend XML-Syntax.) Übrigens wird gerade extrem in der Spezifikation ausgemistet und gearbeitet, sie soll nämlich im Oktober als Candidate Recommendation erscheinen. Da kann sich also noch einiges ändern. Eines der letzten Opfer beispielsweise ist das `datalist`-Attribut. 1 Außer im IE und im Firefox < 3, da geht’s kaputt.
+
+2 Im Sinn von „ohne JavaScript in Browsern funktionieren“

@@ -1,0 +1,25 @@
+Title: Klingeltonhilfe, die 2.
+----
+Date: 2006-04-13
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Bei Klingeltonhilfe (alle Links deaktiviert, da Projekt aufgegeben) geht es um Probleme mit Klingeltönen und deren Anbieter in mannigfaltiger Art. Neu ist unter anderem das Layout und die Sektion “News”, die blogartig Neuigkeiten und Fälle aus der täglichen Praxis behandeln soll.
+
+Zum ersten Mal in meinen Projekten werde ich zudem auf Tagging setzen, ich denke, dass sich diese Verschlagwortung positiv auf die Informationsfindung auswirkt.
+
+**Update:** Zudem habe ich eine Druckvorschau entwickelt, die per Clean URLs funktioniert:
+
+An die meisten URLs kann `/drucken/` angehängt werden um die Druckvorschau aufzurufen. Leider funktioniert das noch nicht wirklich überall, bspw. auf den Übersichtsseiten der Sektionen. Ausprobieren:
+
+- .../jamba-bietet-kindersicherung-an
+- .../jamba-bietet-kindersicherung-an/drucken/
+ 
+Das ist komplett als Plugin verfügbar. Sobald alles funktioniert steht es der Textpattern-Gemeinde natürlich zu Verfügung.

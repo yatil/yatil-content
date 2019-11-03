@@ -1,0 +1,30 @@
+Title: Gravatare in Textpattern reaktivieren
+----
+Date: 2005-07-19
+----
+Category: Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Seit einigen Tagen funktionieren die Gravatare nicht mehr und sind deshalb auch deaktiviert. Dabei scheint es sich nur um ein Domainproblem zu handeln. Während [gravatar.com](http://gravatar.com) offline zu sein scheint ist die Website unter der IP [64.124.231.223](http://64.124.231.223/) weiterhin erreichbar.
+
+Unter Textpattern ändert man die Domain so:
+
+Unter „Adminbereich“ und „Plugins“ sucht man sich das `glx_gravatar`-Plugin und wählt die „bearbeiten“-Funktion.
+
+Unter der Zeile `$email = $thiscomment['email'];` findet sich folgende Zeilen:
+
+`$grav_base_url = "http://www.gravatar.com/avatar.php?gravatar_id=".md5($email).$rating;`  
+`$grav_url = "http://www.gravatar.com/avatar.php?gravatar_id=".md5($email).$rating.$size.$border;`
+
+Diese müssen einfach durch folgende Zeilen ersetzt werden:
+
+`$grav_base_url = "http://64.124.231.223/avatar.php?gravatar_id=".md5($email).$rating;`  
+`$grav_url = "http://64.124.231.223/avatar.php?gravatar_id=".md5($email).$rating.$size.$border;`
+
+Gefunden bei [Mauela](http://www.pixelgraphix.de/log/2005-07/gravatare-wieder-anzeigen.php)

@@ -1,0 +1,18 @@
+Title: “People are not coming to see your slides. They are coming to see you.”
+----
+Date: 2012-12-06
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Good tips for designing presentations by Idan Gazit. I tend to do my presentation in a similar way, and I think it’s important to emphasize the speak part instead of slides. They have to be well done, but they are just the underlying theme of the presentation. From [the article](http://gazit.me/2012/12/05/designing-presentations.html):
+
+> \[There is one type of slides where\] you know where you are headed, but the audience doesn’t. Dropping hints keeps their minds engaged and listening to you. Understanding is a powerful narcotic; we all love the “Aha!” moment. \[…\] A brief title/subtitle is just enough room to set the stage, hint at where you’re going, and direct attention back to you.
+
+(via [Cameron Moll](http://cameronmoll.tumblr.com/post/37334598028/presenting))

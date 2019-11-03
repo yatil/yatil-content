@@ -1,0 +1,24 @@
+Title: Noch eine Woche
+----
+Date: 2005-07-26
+----
+Category: News, Zivileben
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Aufmerksame Leser dieses Weblogs werden es schon wissen, alle anderen erfahren es jetzt: Ab nächster Woche bin ich Zivi. Dadurch schrumpft meine “Freizeit” um knapp neun Stunden/Tag, da ich aber vier Stunden früher aufstehen muss soll darf komme ich auf vier Stunden weniger. Mein Dienst beginnt um 7 Uhr morgens und endet um 16 Uhr. Dazwischen habe ich eine Stunde Mittagspause. Dazu kommen noch 45 Minuten Hin- und Rückfahrt – im Winter 1¼ Stunden. Während den letzten vier Monaten habe ich einiges an Projekten begonnen, vieles schon abgeschlossen. Gerade in der letzten Woche sind noch einige Dinge hinzugekommen, die ich diese Woche unbedingt noch erledigen muss (es folgt eine der beliebten To-Do-Listen):
+
+- Inhalte für das [snookerblog](http://snookerblog.de) bereitstellen
+- Spielplan-Admin-Plugin für Textpattern und [snookerblog](http://snookerblog.de/) programmieren
+- Umstrukturieren von klingeltonhilfe.de (Links entfernt, da Projekt aufgegeben)
+- Upgraden von [yatil.de](http://yatil.de/) und [snookerblog.de](http://snookerblog.de/) auf Textpattern Version RC4 RC5
+- Fertigschreiben meines radikal-politik Essays “Selbstvertrauen für Deutschland”
+- Übersetzen von 250 Zeilen des genialen Forensystems [Vanilla](http://getvanilla.com/) (459 Zeilen hab ich schon) + Testarbeit Das hat sich erledigt, mehr gibt’s im [Foreneintrag](http://forum.yatil.de/comments.php?DiscussionID=2)
+- -Umbauen des PCs meiner Schwester – aufgrund eines fehlenden AGP-Slots und einer miserablen Grafikkarte muss ich das Mainboard austauschen und eine neue Grafikkarte einbauen-
+
+Also noch einiges zu tun diese Woche, ich hoffe, dass ich einige dieser Punkte schnellstmöglich abhaken kann.

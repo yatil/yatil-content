@@ -1,0 +1,22 @@
+Title: ARIA Serious ?! @ technica11y
+
+----
+
+Intro: On Wednesday, October 2, I will do an online talk for [technica11y](https://www.technica11y.org/). The talk will cover common ARIA pitfalls and how to avoid them. It is free, thanks to the support by [tenon.io](https://tenon.io).
+
+----
+
+Text:
+
+It is an updated talk from the one I gave several times before but it is always nice to document new and inventive atrocities.
+
+**When:** [October 2, 2019, 11am ET](https://time.is/compare/1100_2_Oct_2019_in_ET)
+**Where:** Online, [Register here](https://zoom.us/webinar/register/WN_nphQlyQIRAue06stqz4oTQ)
+
+----
+
+Date: 2019-09-29 15:00
+
+----
+
+Coverimage: - technica11y.jpg

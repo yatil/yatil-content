@@ -1,0 +1,57 @@
+Title: Fluilastisches Layout
+----
+Date: 2008-07-01
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Was wurde in den letzten Wochen nicht alles geschrieben über fixe, elastische und fluide Layouts. Und über ihre Vor- und Nachteile. Ein Layout soll folgende Erwartungen erfüllen:
+
+1. Bei Textvergrößerung soll es nicht kaputt gehen
+2. Die Laufweite der Zeilen soll nicht zu lang sein
+3. Horizontales Scrollen ist nicht erlaubt
+4. Es soll an den Seiten kein Platz „verschwendet“ werden
+
+Fixe Layouts erfüllen die Punkte 2 und 3, elastische die Punkte 1, 2 und 4. Fluide Layouts sind 1-, 3- und 4-kompatibel. Was liegt da näher als die Stärken von zwei Layouts zu verbinden. Namentlich sind das fluide und elastische Ansätze. Die Lösung erhebt keinen Anspruch auf Vollständigkeit, zeigt aber, dass man auch Wege abseits der klassischen Layout-Dreifaltigkeit gehen kann. [Auf der Beispielseite](http://yatil.de/beispiele/fluilastisch/) sieht man den einfachen, beispielhaften Seitenaufbau: ```
+<div id="container">
+    <div id="content">      
+        …
+    </div>
+    <div id="aside"> 
+        …
+    </div>
+</div>
+```
+
+Mit Text-Formatierung und ähnlichem wollen wir uns nicht länger aufhalten, deshalb binden wir die YUI-Grids- und -Base-CSS-Dateien ein, die eine Basisformatierung ermöglichen. (Für solche Beispiele optimal.) Wir beginnen indem wir dem Container eine Breite in `em` zuweisen, in diesem Fall `45em` (was hier willkürlich ist). Inhalte und Seitenleiste definieren wir in Prozenten. Im Beispiel für die Inhaltsspalte 61% und für die Seitenleiste 35% und floaten beide Container nach links bzw. rechts. Das ist so weit nicht aufregend, wir haben damit ein elastisches Layout gebaut und auch noch nicht das horizontale Scrollen vermieden. Das tun wir indem wir die (maximale) Breite des Containers begrenzen, in diesem Fall auf 100%. (Für den entsprechenden IE6-Hack sind Sie selbst verantwortlich, ich werde dafür keine Haftung übernehmen ;)) ```
+#container {
+    text-align:left;
+    width:45em;
+    margin:0 auto;    
+    max-width: 100%;
+}
+    
+#content {
+    float: left;
+    width: 61%;  
+    background-color:#ee9;
+}              
+
+#aside {
+    float: right;
+    width: 35%;
+    background-color:#99e;
+}  
+
+#content, #aside {
+    border: 1px solid #333;
+}
+```
+
+Bis der Container so breit ist wie das Fenster haben wir effektiv ein elastisches Layout, danach ist es ein fluides und die Schriftart wird nur mehr vergrößert. Diese Layout-Art funktioniert in allen Browsern mit Textvergrößerung oder funktionierender Zoomfunktion (also Opera, getestet in 9.5, und nicht im IE7 – der das einmal Gerenderte fast wie ein Bild vergrößert).

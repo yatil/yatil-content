@@ -1,0 +1,30 @@
+Title: Cargo Cult CSS
+----
+Date: 2013-10-22
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> \[… M\]ethodologies \[like OOCSS and BEM\] attempt to apply the principles of Object-Oriented Programming to CSS. Notwithstanding the **conceptual incompatibilities between a declarative style language and object-oriented software design principles**, these methodologies introduce subtle problems which may not be immediately obvious to less-experienced developers. Most disconcertingly, these methodologies have seen widespread adoption thanks to prominent bloggers evangelising their usage as ‘best practice’.
+
+[Ben Darlow on Cargo Cult CSS](http://www.kapowaz.net/articles/cargo-cult-css)While OOCSS classes may be understood by programmers and HTML novices, they put the design into HTML, it is the `<font>`-Element all over again. Little gain for complex HTML. True object oriented CSS has the objects in the CSS through SASS, rather than in HTML. I don’t say “Don’t use classes!” but try to describe the content. A table with the class `products` can easily be made striped and narrow in SCSS: ```
+%table-striped {
+    td:nth-child(odd) { background-color: #eee;}
+}
+%table-narrow {
+    td { padding: 2px 3px; }
+}
+.products {
+    @extend %table-striped;
+    @extend %table-narrow;
+}
+
+```
+
+Don’t want the product tables striped: Change one line in your SCSS. With OOCSS you’d have to go through every HTML template and remove the class “table-striped”. If narrow tables aren’t in the style guide after a redesign, remove one line (inside %table-narrow) and boom, all your tables aren’t narrow anymore. Same if the narrow style changes. It’s one change in one file (probably an included `_table-styles.scss`) and not searching through many template and HTML snippet files to change it. Your HTML should be clean, your CSS can be messy.

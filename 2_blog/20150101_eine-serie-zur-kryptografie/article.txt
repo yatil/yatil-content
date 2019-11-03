@@ -1,0 +1,16 @@
+Title: Eine Serie zur Kryptografie
+----
+Date: 2015-01-01
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Meine Hoffnung ist es, dazu beizutragen, das Thema \[Kryptografie\] einem noch größeren, auch nicht so technisch versierten Publikum zugänglich zu machen. Denn wenn der NSA-Skandal eines gezeigt hat, dann dass \[…\] noch mehr Menschen die E-Mail, den Chat oder die Sofortnachricht nicht mehr als allgemein lesbare Postkarte verschicken, sondern sie mit einem Umschlag versehen, dessen Öffnen nur Sender und Empfänger erlaubt ist, aber sonst niemandem! Dabei zu helfen ist das bescheidene Ziel dieser neuen Serie. Es wird um Grundlagen, Software, Vorgehensweisen, Best Practice und andere Aspekte rund ums Thema gehen.
+
+Ein Thema welches immer wichtiger werden wird. Mehr Infos gibt es in Zukunft dann [im Blog von Marco Zehe](http://www.zehe-edv.de/2015/01/01/eine-serie-zu-kryptografie/).

@@ -1,0 +1,21 @@
+Title: Webdesign und Politik
+----
+Date: 2004-03-20
+----
+Category: Internationale Politik, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Language: de
+----
+Text:
+![](/images/6.jpg)
+
+Ich scheine nicht der einzige Webdesigner zu sein, der sich für Politik interessiert. Jeffrey Zeldman, der Mann hinter »[Designing with Webstandards](http://www.amazon.de/exec/obidos/ASIN/0735712018/302-3792713-4895223)« schrieb folgendes [auf seiner Homepage](http://www.zeldman.com/daily/0304c.shtml) zu den Anschlägen in Madrid:
+
+> What to do about mass murderers? Fight them of course. But not by waging preemptive wars against countries that had nothing to do with 9-11. It is like attacking cancer with machine guns. There’s a lot of smoke, a lot of racket, a lot of blowing bystanders to bits. But after the smoke clears and the funeral parades trudge on, not one cancer cell has been cured.  
+> Although it is hard for many Americans to understand, between Iraq and Guantanamo Bay, many people in this world are more afraid of the U.S. than they are of terrorists whose objective is to wipe modern civilization off the face of the earth.

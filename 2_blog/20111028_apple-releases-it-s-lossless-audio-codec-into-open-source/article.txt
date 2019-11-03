@@ -1,0 +1,14 @@
+Title: Apple releases its Lossless Audio Codec into Open Source
+----
+Date: 2011-10-28
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+I wonder what Apple is up to, a lossless and therefore large [file format](http://alac.macosforge.org/trac/wiki) doesn’t make any sense for FaceTime, yet music files are finally portable.

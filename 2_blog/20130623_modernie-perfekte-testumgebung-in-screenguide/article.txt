@@ -1,0 +1,14 @@
+Title: modern.IE – Perfekte Testumgebung in Screenguide
+----
+Date: 2013-06-23
+----
+Category: Veröffentlichung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die großartigen Initiatoren des [Screenguide](http://screengui.de) (née Webstandardsmagazin) haben mich nach einem Artikel zum Thema IE-Testing gefragt und heraus gekommen ist ein längerer Artikel. Auf den Seiten 62–65 der aktuellen Ausgabe 18 findet ihr eine Anleitung wie man den Internet Explorer mit der kostenlosen Virtualisierungssoftware [Virtualbox](http://virtualbox.org) und den von Microsoft unter [modern.IE](http://modern.ie) bereitgestellten Images eine Entwicklungsumgebung einrichtet.

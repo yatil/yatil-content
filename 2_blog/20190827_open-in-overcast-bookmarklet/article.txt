@@ -1,0 +1,54 @@
+Title: Open in Overcast Bookmarklet
+
+----
+
+Intro: I use (link: https://overcast.fm text: Overcast) for my daily podcasting needs. Sometimes I stumble upon new podcasts and I quickly want to add an episode to Overcast for sampling the podcast.
+
+----
+
+Text:
+
+Unfortunately there often is no link to the Overcast URL directly on the page despite Overcast having decent web integration[^1]. Adding a podcast to Overcast in this case means copying the title of the podcast, open the web interface or the app, searching for the podcast, searching for the episode to sample. and adding this episode.
+
+[^1]: Which is one reason I switched back to Overcast twice after extended stints of trying out Castro where I prefer how podcast playlists are managed.
+
+It’s not the end of the world, but it introduces some friction that seemed unnecessary to me.
+
+Overcast accesses the <del>iTunes</del> Apple Podcast Directory and its podcast URLs take the same ID as is present in that directory. Due to the nature of Apple Podcasts, every podcast has a link to their entry on the page.
+
+**JavaScript to the rescue!**
+
+I have created the following JavaScript[^2] which searches for podcast links (two variations). If one is found, it extracts the ID using a regular expression, adds it to the Overcast URL and opens the URL in the current window/tab.
+
+[^2]: Not really rocket science.
+
+```javascript
+const regex = /podcast\/id([0-9]*)/i;
+var itunes = document.querySelector('a[href^="https://itunes.apple.com/"][href*="/podcast/"],a[href^="https://podcasts.apple.com/"]');
+
+if (itunes) {
+  var itunesid = regex.exec(itunes.getAttribute('href'));
+  var overcasturl = 'https://overcast.fm/itunes' + itunesid[1];
+  window.location.href = overcasturl;
+} else {
+  alert('No Apple Podcasts link found. 😭');
+}
+```
+
+I then used (link: https://mrcoles.com/ text: Peter Coles)’ (link: https://mrcoles.com/bookmarklet/ text: Bookmarklet Creator) to generate a bookmarklet.
+
+To install the bookmarklet, drag the following link to your bookmarks/favorites bar:
+
+**<a href="javascript:(function()%7Bconst%20regex%20%3D%20%2Fpodcast%5C%2Fid(%5B0-9%5D*)%2Fi%3Bvar%20itunes%20%3D%20document.querySelector('a%5Bhref%5E%3D%22https%3A%2F%2Fitunes.apple.com%2F%22%5D%5Bhref*%3D%22%2Fpodcast%2F%22%5D%2Ca%5Bhref%5E%3D%22https%3A%2F%2Fpodcasts.apple.com%2F%22%5D')%3Bif%20(itunes)%20%7Bvar%20itunesid%20%3D%20regex.exec(itunes.getAttribute('href'))%3Bvar%20overcasturl%20%3D%20'https%3A%2F%2Fovercast.fm%2Fitunes'%20%2B%20itunesid%5B1%5D%3Bwindow.location.href%20%3D%20overcasturl%3B%7D%20else%20%7Balert('No%20Apple%20Podcasts%20link%20found.%20%F0%9F%98%AD')%3B%7D%7D)()">Open in Overcast</a>**
+
+While searching for the episode and to add is still needed, I hope to try out to more diverse podcasts this way.
+
+----
+
+Date: 2019-08-27 15:20
+
+----
+
+Coverimage:
+
+- overcast-bookmarklet-post-image.png

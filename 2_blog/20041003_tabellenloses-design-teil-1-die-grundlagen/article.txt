@@ -1,0 +1,24 @@
+Title: Tabellenloses Design Teil 1 - Die Grundlagen
+----
+Date: 2004-10-03
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Weshalb tabellenloses Design?
+
+Die Philosophie auf der HTML basierte war das Zuweisen von Bedeutungen zum Text. So können z.B. wichtige Begriffe betont werden. Das Dokument kann gegliedert werden. Ein solcher Text nennt man “ausgezeichnet”. Es befinden sich (im optimalsten Fall) keinerlei Formatierungsanweisungen im Dokument. (X)HTML ist also eine Auszeichnungssprache. Um das Aussehen von HTML-Dokumenten zu beeinflussen wurde CSS geschaffen. Damit kann man Farben und Positionierungen vergeben. Und das medien-abhängig. Die Dokumente können also ausgedruckt anders aussehen als auf dem Monitor (z.B. ist die Navigationsleiste ausgeblendet). Es kann speziell auf Mobiltelefone angepasst werden. Interpretiert ein Gerät kein CSS zeigt er immer noch ein wohl strukturiertes HTML-Dokument an. Aber zurück zu den Tabellen: Sie werden in der Regel von Textbrowsern (Handys oder Braille-Tastaturen gehören dazu) linearisiert (Zeile für Zeile gelesen), was bei stark verschachtelten Tabellen zu Darstellungsproblemen führen kann. Auch im Ausdruck machen Tabellen Probleme. Und was ist mit Frames? Die sind böse! Sie erlauben _nicht_ das direkte Verlinken auf eine Unterseite oder das Abspeichern in den Bookmarks/Favoriten. Zudem erhöht sich bei Tabellen die Größe der HTML-Dateien. ## Einführung in XHTML und CSS
+
+### Häh? HTML, XHTML… Was’n jetzt?
+
+Die HTML-Spezifikation wurde – um die Kompatibilität mit XML und damit für ein zukunftsweisendes Format zu gewährleisten – zu XHTML angepasst. Dies brachte einige Änderungen mit sich und – um die Verwirrung nicht zu groß werden lassen – wird in Zukunft das Format sein, in dem es auszuzeichnen gilt. In diesem Tutorial wird XHTML 1.1 benutzt. ### Tag? Nacht!
+
+Immer wieder hört man im Internet das Wort “Tag” \[täk\], es handelt sich dabei um ein XHTML-Element. Der systematische Aufbau eins XHTML-Elements ist: `<element attribut="wert">Inhalt</element>`. Das Element wirkt auf den Inhalt, wobei per Attribut verschiedene Werte übergeben werden können. Zum Beispiel die Betonung des Wörtchens “Betont”: `<em>Betont</em>`. Es muss also kein Attribut übergeben werden. Es gibt Elemente, bei denen es keinen Sinn macht sie per `</element>` zu schließen, weil sie keinen Inhalt haben. Diese werden formal per / vor dem Ende des öffnenden Elements geschlossen. Beispielsweise beim Einfügen eines Bildes: `<img src="bild.png" />`. ### Und wie geht das jetzt mit diesem CSS?
+
+In der CSS-Datei können einfache Anweisungen gegeben werden um XHTML-Elemente zu formatieren. Möchte man z.B. die Betonung rot angezeigt werden notiert man einfach ein `em {color: red;}`. Hier gilt also Elementname und dann in geschweifte Klammern die entsprechenden Anweisungen. Die Grundlagen sollten jetzt gelegt sein, im nächsten Schritt wird das XHTML-Dokument erstellt, mit dem wir die Website erstellen.

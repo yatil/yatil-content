@@ -1,0 +1,14 @@
+Title: On the validator
+----
+Date: 2013-04-17
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Patrick H. Lauke](http://www.splintered.co.uk/) [on the validator](https://github.com/twbs/bootstrap/issues/7482#issuecomment-16071959) (in a very [rough discussion](https://github.com/twitter/bootstrap/issues/7482) about a semi-important topic): > the validator does the equivalent of a fancy spellcheck. using spellchecking in your word processor does not guarantee that you’re a good writer…

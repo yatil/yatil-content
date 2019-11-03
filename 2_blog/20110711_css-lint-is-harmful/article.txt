@@ -1,0 +1,16 @@
+Title: CSS Lint is harmful
+----
+Date: 2011-07-11
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Performance is a browser level issue, it is not something for HTML/CSS authors to fix or work around. As long as we are authoring valid and sensible HTML and CSS, we should not need to resort to such ridiculous rules simply to enhance the speed at which a given page renders. Nor need we, these things are getting faster with every release.
+
+[Matt Wilcox](http://mattwilcox.net/archive/entry/id/1054/)More Tools in our tool belt are good, but we must make reasonable assumptions about their use. Just being dogmatic doesn’t work.

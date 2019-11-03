@@ -1,0 +1,14 @@
+Title: Apple Watch experiences of a deafblind user
+----
+Date: 2015-05-05
+----
+Category: Accessibility
+----
+Summary: 
+----
+Tags: apple, bcg15, watch
+----
+Image: 
+----
+Text:
+Molly Watt, a person with usher syndrome, describes her experience with the [Apple Watch after five days](http://www.mollywatt.com/blog/entry/my-apple-watch-after-5-days#entry-11) of using it. Really impressive how accessible that small piece of technology is.

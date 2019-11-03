@@ -1,0 +1,26 @@
+Title: Chessmate v0.1
+----
+Date: 2005-04-11
+----
+Category: Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nachdem ich viel theoretisches über AJAX/XMLHttpRequest geschrieben habe möchte ich nun ein kleines Projekt vorstellen: **Chessmate**.
+
+Bei **Chessmate** handelt es sich primär um ein Schachdemonstrationsprogramm, später könnte ein Schachspiel daraus werden.
+
+Eine [erste Version](/playground/chess/) – mit kaum Features – habe ich [online gestellt](/playground/chess/).
+
+Die Anwendung basiert auf XHTML und CSS sowie auf JavaScript/DOM. Des weiteren wird [Sajax](http://www.modernmethod.com/sajax/) in der PHP-Version eingesetzt.
+
+Was noch getan werden muss kann auf der [to-do-Liste](http://yatil.tadalist.com/lists/public/45328) nachgeschaut werden.
+
+Hinweis: Das Programm funktioniert mit einem aktuellen Browser (IE 6.0, Mozilla, Firefox, Safari) und mit eingeschaltetem Javascript. Bilder werden nicht vorgeladen (also einen Moment warten).
+
+Anmerkungen hier oder per [E-Mail](mailto:yatil.de@gmail.com).

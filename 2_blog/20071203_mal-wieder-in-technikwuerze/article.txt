@@ -1,0 +1,14 @@
+Title: Mal wieder in Technikwürze
+----
+Date: 2007-12-03
+----
+Category: Podcast
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Was macht man, wenn man fast eine Stunde Technikwürze aufgenommen hat? Richtig: Man wirft das Ergebnis weg und verkürzt das ganze auf gute 30 Minuten. Okay: Es war keine Absicht, dass das Programm uns einen Strich durch die Rechnung gemacht hat. Und die witzigsten Momente des Originals bleiben jetzt auch für immer verloren. (Weil ich zu David sagte: „Mach das Programm einfach aus!“ — Das war [nicht klug](http://www.ambrosiasw.com/forums/index.php?showtopic=116595). [Wird aber wieder gut gemacht!](http://foamee.com/beers/view/460401062)) Thema [dieser Ausgabe](http://www.technikwuerze.de/podcast/technikwuerze101/) war übrigens eines, das mir schon immer am Herzen liegt: Qualifizierte Ausbildung im Bereich Frontend-Webdesign. Es ging mir aber nicht darum Personen anzugreifen sondern ich wollte zeigen, dass viele Dinge strukturell einfach nicht vorhanden sind. Zudem habe ich gehört – ich bin leider noch nicht dazu gekommen selbst einmal vorbei zu schauen –, dass die Qualität in diesem Bereich an der [TU Wien](http://www.tuwien.ac.at/) besser ist als an der [„Hauptuni“](http://www.univie.ac.at/). Vielleicht habe ich auch einfach nur das Problem die falschen Kurse belegt zu haben. Mein Appell ist: Wenn Grundlagen vermittelt werden sollen, dann bitte keine Tabellenlayouts. Dann vielleicht auch kein CSS. Dann einfach sagen: Ihr definiert damit (als Journalisten) eine Überschrift xter Ordnung und wie das dann aussieht definiert ein Webdesigner. Und bitte keine [Sachen aus HTML3](http://www.w3.org/MarkUp/html3/html3.txt) (Seite 52). Danke. (Und nächste Woche gibt’s mit [Jens](http://grochtdreis.de) und [Tomas](http://tomascaspers.de/) einen Rückblick auf zwei Jahre Technikwürze.)

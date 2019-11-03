@@ -1,0 +1,14 @@
+Title: Barrierefreiheit ist mehr als „Design für Blinde“
+----
+Date: 2007-10-15
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Oft stehen sehbehinderte Menschen im Vordergrund, wenn es ums Thema Barrierefreiheit geht. Doch diese Menschen sind nicht die einzigen, die von barrierefreien Webseiten profitieren. Oft vergessen werden zum Beispiel die Anforderungen, die Gehörlose an eine barrierefreie Seite stellen: Für sie ist Schriftsprache eine Fremdsprache und sollte deshalb so einfach wie möglich gehalten werden. Aber es gibt auch ganz andere Behinderungen, die ganz besondere Lösungen erfordern. Die Firma [Assistive Wear](http://www.assistiveware.com/videos.php) zeigt Menschen mit verschiedenen Arten von Behinderungen, die jeweils ihre ganz eigenen Methoden haben um das Internet zu benutzen. Sehr eindrucksvoll das [Video der 10jährigen Elina](http://www.teachertube.com/view_video.php?viewkey=88a4a2ca3e8fea2c03ae), die an zerebraler Kinderlähmung erkrankt ist. Sie kann via eines Joyticks und eines großen Buttons einen Mac bedienen. Sie sagt: „Der Computer bedeutet Leben für mich.“ Überhaupt ist die Möglichkeit eine Rolle im Leben zu Spielen eine große Motivation für Betroffene sich mit neuen Technologien auseinander zu setzen. Eine [Frau aus Paris](http://www.youtube.com/watch?v=ENkjkIypXq4) schafft es via Mac und einem Sensor, der an ihrem Kinn angebracht ist, das Internet zu benutzen. Mike Phillips kann lediglich einen Daumen bewegen. Und spielt damit nicht nur „World of Warcraft“ und „Unreal Tournament 2004“ sondern schreibt auch als Freelancer Technologie-Artikel. [Möglich macht’s ein Annäherungssensor.](http://www.youtube.com/watch?v=2BhHwk9qSvI)Das [vierte Video](http://www.youtube.com/watch?v=IjfwCpcD3mk), das ich hier vorstellen möchte, handelt von einer Grafikdesignerin. Sie benutzt lediglich ihren rechten Fuß und einen „Head-Stylus“, also einen an den Kopf angebrachte Apparatur um die Tastatur bedienen zu können. Auch sie arbeitet Selbständig. Es ist die Aufgabe eines jeden ernsthaften Webentwicklers diese Einzelschicksale im Hinterkopf zu behalten und das Beste zu tun um Webseiten so barrierefrei wie möglich zu gestalten. (via: [Roger Johansson](http://www.456bereastreet.com/archive/200710/videos_of_people_using_assistive_technology/)) _Dies ist ein Beitrag im Rahmen der Accessibility Blog Parade, veranstaltet von [main\_web](http://www.mainweb.at/) und [Nur ein Blog](http://www.robertlender.info/blog/). Alle Informationen dazu im [Blog von main\_web](http://www.mainweb.at/blog/2007/09/28/einladung-accessibility-blog-parade/)._

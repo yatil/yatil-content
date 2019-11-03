@@ -1,0 +1,58 @@
+Title: Soledad Penadés – Hands-On Web Audio #fronteers15
+----
+Date: 2015-10-09
+----
+Category: Event
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- You can generate audio using JavaScript
+- Tiny new language 
+  - small vocabulary
+  - few grammar rules
+  - couple of ideoms
+- AudioContext 
+  - like canvas
+  - toolbox
+  - instance factory
+- Nodes Taxonomy 
+  - Generation
+  - Manipulation
+  - Analysis
+- Audio Context as audio graph
+- Modular routing
+- Sound modulation 
+  - connect() helps you to modulate from one node to another
+- Gain nodes
+- …
+- Don’t keep nodes
+- stop and disconnect sound sources
+- load binary data
+- decode into a buffer
+- create buffer source and use it
+- you can even bend the pitch of the audio live
+- place sounds in 2D space – StereoPanner 
+  - Place to left change pan attribute to -1, to right to +1
+- For 3D space, for example in Games, use Panner 
+  - update position for accurate placement
+  - tries to be realistically physical, so the unit is meters
+- BiquadFilter 
+  - Let certain frequencies pass
+- Analyser for Visuals 
+  - Real time frequency and time-domain information
+- Getting creative 
+  - Real time input + processing
+  - Get user media + echoing
+- Web audio is minimal and powerful 
+  - many built-in nodes
+  - one graph, simple connect rules
+  - sound generation, processing and analysis
+  - great for games, VR and interactive applications
+  - it’s also fun!
+- Web audio meetups in London & Berlin
+- Slides: [github.com/sole/howa](http://github.com/sole/howa)

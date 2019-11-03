@@ -1,0 +1,16 @@
+Title: Endlich: S5 Version 1.1 auf deutsch
+----
+Date: 2006-05-16
+----
+Category: Programmierung, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die Präsentationssoftware S5 von [Eric Meyer](http://meyerweb.com/eric/) wurde vor ewig langer Zeit in Version 1.1 veröffentlicht – und nun endlich hat es diese Version auch auf die deutsche Seite geschafft. Unter [yatil.de/s5](http://yatil.de/s5/) kann die aktuelle Ausgabe heruntergeladen werden. Auch [die Themes](http://yatil.de/s5/themes/) und [die Doku](http://yatil.de/s5/dokumentation/) wurden angepasst. Viel Spaß damit.
+
+[Funktionen von S5](http://yatil.de/s5/funktionen/)

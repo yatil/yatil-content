@@ -1,0 +1,16 @@
+Title: Testing Websites in Game Console Browsers
+----
+Date: 2012-09-11
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+A List Apart is out with [a fantastic overview of game console’s browsers](http://www.alistapart.com/articles/testing-websites-in-game-console-browsers/), by [Anna Debenham](http://maban.co.uk/). Installing a browser on a game console really opens up your mind about the [futurefriendly](http://futurefriend.ly/) web, as they are capable of almost nothing modern browsers can do, yet often have surprisingly advanced rendering engines. It shows how versatile web design has gotten and how important it is to think out of the box and out of you laptop’s screen. I first installed the Wii Opera Browser back in 2007. It was an awkward and revealing experience at once. Pointing with a stick to a screen for example is really difficult, so large click targets suddenly get so simple and you instantly understand that whole accessibility stuff. Here’s what Anna had to say about the DSi browser, Nintendo’s current portable flagship:
+
+> Only the top screen is 3D, and it’s wider than the bottom one, which is a 2D resistive touchscreen. The screens are physically bigger than the smaller 3DS model, but the pixel dimensions are the same (800×240 on the top; 320×240 on the bottom), so text is blocky. When a page scrolls into the top screen, gaps appear on either side because of the difference in the two screen sizes. (…) Sites are shown in 2D, but images using the MPO format can be viewed in 3D in the top screen. MPO images are a combination of two JPEG files, so the fallback is a single JPEG. The catch is, embedded MPO images can’t currently be viewed in 3D inline using the browser installed on the device; they have to be downloaded and opened as a file.

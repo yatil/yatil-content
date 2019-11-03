@@ -1,0 +1,14 @@
+Title: Speaking at Inclusive Design 24 #ID24
+----
+Date: 2017-06-05
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+I am thrilled to be speaking at the annual [Inclusive Design 24](http://www.inclusivedesign24.org) event on June 9th. At 5 am UTC time (that is 7 am CEST), I’ll speak about my growing frustrations of ARIA implementations in the wild. The talk is called “ARIA Serious.” Check the [event website](http://www.inclusivedesign24.org) for a schedule in your time zone and to see the other 23 amazing speakers. As every year, the talks will be available on Youtube after the event and I’ll make sure to link to them from here. Find all the other events, and a backlog of 72 talks, in the recent years on the pages for [2014](http://www.inclusivedesign24.org/2014/), [2015](http://www.inclusivedesign24.org/2015/), and [2016](http://www.inclusivedesign24.org/2016/). The event is organized and sponsored by [The Paciello Group](https://www.paciellogroup.com).

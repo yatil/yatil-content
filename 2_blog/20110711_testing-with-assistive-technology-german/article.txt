@@ -1,0 +1,14 @@
+Title: Testing with assistive technology (German)
+----
+Date: 2011-07-11
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+According to [this article](http://www.einfach-fuer-alle.de/blog/id/2740/) we should test 38 different screen reader/browser combinations on 3 different platforms, which is totally not a good situation to be in. We need screen reader standards! Differences can’t be that difficult to overcome.

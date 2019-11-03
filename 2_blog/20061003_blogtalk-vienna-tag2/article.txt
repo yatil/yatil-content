@@ -1,0 +1,30 @@
+Title: BlogTalk Vienna – Tag 2
+----
+Date: 2006-10-03
+----
+Category: Gesellschaft, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Mit [Jajah](http://jajah.com/) kann man sehr günstig auch zwischen verschiedenen Ländern telefonieren, das sollte ich mal ausprobieren (wobei ich nicht glaube, dass es günstiger ist als [Skype](http://skype.com/))
+
+Danach folgte eine Präsentation über MasuUps von Rod Smith von IBM. Etwas verwirrend, da er wirklich vollgepackte Folien hatte aber nicht uninteressant.
+
+Nun geht’s um das IFCCC und die Adoption von Collaborativer Software in einer Gruppe…
+
+Und gerade hat die Präsentation zum [SIOC Browser](http://sioc-project.org/) („Shock-Browser“) angefangen. Ein semantische Art das Web zu durchsuchen.
+
+Nach der Präsentation gab es beinahe tumultartige Auseinandersetzen ob man nicht einfach Microformats nehmen könnte oder ob man diesen anderen Layer, diese andere Ebene, benötigt.
+
+Kathleen Fitzpatrick spricht über Blogs als Literaturform und davon, dass es in zukunft mehr fiktive Blogs geben wird. Interessant. Auch, dass jeder Mensch mehrere „selves“ hat, beispielsweise das „conferenceself“ und eben das „blogself“. Diese können sich dramatisch unterscheiden.
+
+Okay, Weblogs in politischen Kampagnen. Anhand der Wahlen zum Deutschen Bundestag 2005.
+
+Huch, jetzt hab ich aber abrupt aufgehört: Der Vortrag war spannend. Die SPD hat ihre Mitglieder durch eine Blogplattform dazu angeregt Blogs zu erstellen wodurch sie eine Marktbeherrschende Stellung eingenommen haben. Jedoch wurde die Gelegenheit verpasst eine Community zu gründen, es gab beispielsweise keine Verlinkungen untereinander.
+
+Hier die gesammelten Bilder vom Blogtalk:

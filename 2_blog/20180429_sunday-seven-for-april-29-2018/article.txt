@@ -1,0 +1,45 @@
+Title: Sunday Seven for April 29, 2018
+----
+Date: 2018-04-29
+----
+Category: Sunday Seven
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+- [Swaziland king renames country Kingdom of eSwatini](https://www.theguardian.com/world/2018/apr/19/swaziland-king-renames-country-kingdom-of-eswatini) (The Guardian)
+
+  Internationalization is hard, now you have to fit in a country with a lower case first letter. 
+  > Meaning “place of the Swazi”, eSwatini is the Swazi language name for the tiny state landlocked between South Africa and Mozambique. Unlike some countries, Swaziland did not change its name when it gained independence in 1968 after being a British protectorate for more than 60 years.
+
+- [Hand tremors and the giant-button-problem](https://axesslab.com/hand-tremors/) (Axess Lab) 
+  
+  In accessibility, we usually argue for large tap areas – but they can be a problem for users with certain motor impairments.
+
+  > The user is trying to place his finger between the news stories. He’s hoping the space is unclickable, so that an accidental tap while trying to scroll will not activate a link. However, every part of the screen is linked. It’s like the whole interface is one giant button – hey what a clever comparison, let’s add that to the title of this article!
+
+- [The BBC is letting you download more than 16,000 free sound effect samples from its archive](https://www.musicradar.com/news/the-bbc-is-letting-you-download-more-than-16000-free-sound-effect-samples-from-its-archive) (MusicRadar) > There can be few organisations that have used more sound effects than the BBC, so there’s bound to be great interest in the news that the corporation has now made more than 16,000 of its FX available for free download. These are being released under the RemArc licence, which means that they can be used for “personal, educational or research purposes”.
+
+- [Time.is](https://time.is) 
+
+  A useful site for people who need to communicate across time zones.
+
+- [For everyone](https://hiddedevries.nl/en/blog/2018-04-20-for-everyone) (Hidde de Vries) 
+
+  > It appears ‘for everyone’ can have different meanings and I think it is important to see the difference between them, so that we are not fooled by for-profit companies that present themselves as charities. The web itself is a place where people are put first, and a place where power is not exercised on people, it is given to people.
+
+- [Bits Up!: Cache-Control: immutable](https://bitsup.blogspot.de/2016/05/cache-control-immutable.html)
+
+  In recent months, I have been surprised about the amount and possibilities of HTTP headers. Immutable is certainly one to add to the tool belt. 
+
+  > When a client supporting immutable sees this attribute it should assume that the resource, if unexpired, is unchanged on the server and therefore should not send a conditional revalidation for it (e.g. If-None-Match or If-Modified-Since) to check for updates. Correcting possible corruption (e.g. shift reload in Firefox) never uses conditional revalidation and still makes sense to do with immutable objects if you're concerned they are corrupted.
+
+- [gridtoflex.com](http://www.gridtoflex.com/)
+
+  Good advice! (However, don’t use emojis in your CSS: It’s less understandable as you think it is, and there are likely weird edge cases in browsers.) 
+
+  > CSS grid is AMAZING! However, if you need to support users of IE11 and below, or Edge 15 and below, grid won't really work as you expect (more info here). This site is a solution for you so you can start to progressively enhance without fear!

@@ -1,0 +1,22 @@
+Title: Redesigned
+----
+Date: 2004-09-23
+----
+Category: News, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wie man sieht habe ich das Layout der Website »geringfügig« verändert.
+
+Nun ist sie optimiert auf mehr Text und ein klareres Layout. Die Trennung von Objekten erfolgt hauptsächlich durch Weißraum, anstatt durch Linien.
+
+Außerdem hat »Erics Weblog« endlich ein Logo. Ich finds ganz OK, aber das Umgehen mit nem Grafikprogramm muss ich noch lernen.
+
+Kommentare sind – wie immer – gern gesehen.
+
+Ach ja: Das Umstellen hat ca. 3 Stunden gedauert. Das Layout zu erstellen wesentlich länger. Das lag vor allem am Internet Explorer. Ihr müsst deshalb auch auf ein Feature verzichten. Schade.

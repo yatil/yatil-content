@@ -1,0 +1,14 @@
+Title: Lecturing Content Strategy Students
+----
+Date: 2015-04-25
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Since the last weekend, I am honored to be one of the lecturers in the master course “Content Strategy” at the FH Joanneum, a University of Applied Science, in Graz, Austria. The materials are available at [cos.accessibility.rocks](http://cos.accessibility.rocks) and are freely available. In the last few lectures I only covered basics to bring everyone on the same level. All lectures are held in remote “Google Hangouts on Air” that can be joined by everyone. This is an exciting opportunity to teach people accessibility pretty early, so this gets an integrated part of their work.

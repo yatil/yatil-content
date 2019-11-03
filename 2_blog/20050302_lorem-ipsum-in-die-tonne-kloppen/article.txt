@@ -1,0 +1,18 @@
+Title: Lorem ipsum in die Tonne kloppen!
+----
+Date: 2005-03-02
+----
+Category: Programmierung, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Lorem ipsum dolor has long been known as the designer’s best friend. We think it should be your enemy.Jason Fried/[Signal vs. Noise](http://37signals.com/svn/archives/001083.php)
+
+Viele (Web-)Designer kennen [Lorem ipsum](http://www.lipsum.com/), einen Blindtext, den man dort benutzt wo man keinen »echten« Inhalt vorweisen kann.
+
+[Signal vs. Noise](http://37signals.com/svn/) rät aber davon ab: Um eine gute Benutzung von Webseiten bzw. Benutzeroberflächen allgemein zu gewährleisten ist es wichtig die Erfahrung, die der Benutzer macht, nachzuvollziehen. Mit anderen Worten: **Do as your customers do and you’ll understand them better.**

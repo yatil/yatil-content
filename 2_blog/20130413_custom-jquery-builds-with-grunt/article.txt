@@ -1,0 +1,14 @@
+Title: Custom jQuery Builds with Grunt
+----
+Date: 2013-04-13
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Performance is very important and [we should al prioritizing it](http://bradfrostweb.com/blog/post/prioritizing-performance-in-responsive-design/), especially in the responsive context. [Here’s a solution to tailor jQuery to your needs](http://javascriptplayground.com/blog/2013/04/custom-jquery-builds-with-grunt/) by removing modules that are unused, using [GruntJS](http://gruntjs.com), the best task runner on the planet.

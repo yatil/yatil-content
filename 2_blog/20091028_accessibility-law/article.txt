@@ -1,0 +1,22 @@
+Title: Yes, we need accessibility laws.
+----
+Date: 2009-10-28
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+What annoys me the most about [the](http://hyperkontext.at/weblog/artikel/rueckblick-a-tag-2009-in-wien-oder-panta-rhei-und-dann-sind-wir-tot/) [Discussion](http://www.behindertenparkplatz.de/cl/2009/10/19/1113/) [about](http://blog.xwolf.de/2009/10/23/barrierefreiheit-ist-geduld-mit-entwicklern-und-designern/) [Chris Heilmann’s talk at A-Tag in Vienna](http://www.wait-till-i.com/2009/10/16/mein-vortrag-am-a-tag-2009-in-wien-alles-aendert-sich-warum-nicht-wir/) is not only that Chris [doesn’t want to speak at German accessibility events](http://www.wait-till-i.com/2009/10/27/accessibility-rumours-overflowing-the-stack-fronteers-web-directions-east-full-frontal-and-cambridge-geek-day/) at all anymore, but the claim that Chris is solid against any laws. That is not what he said. His point was that accessibility in the real world can only be so good or average as the developer and designer knowledge is. If a designer/developer is suddenly in charge to provide an accessible website he will look for a way to archive that goal with as little effort as possible. This will lead to accessible websites but badly designed ones. Additionally there may be problems with jump links which are hidden with `display: none` and other oddities (like text-only versions etc.). Of course we all think: Such a person should never be in charge to make a website (as, to my understanding, we aim that all websites are accessible, right?) – but then 90% of web developers needed to change jobs, and we’d get only two websites a year online as those few agencies who do accessible websites can’t cope with the demand. The other problem is that law hinders progress. German law, which is a (not compatible) reformulation of WCAG 1.0 prohibits the use of any scripting and other non-standard techniques. That means no youtube, even embedded on a website even if the video is completely subtitled and accessible. The accessible youtube player is nice but not allowed. WAI-ARIA techniques: not allowed. The problem: German law is very old (2002), but it was also amongst the first to even implement a law about web accessibility. The now so often cited PAS78, the British accessibility law, is from 2006. And it is [not undisputed](http://blog.fawny.org/2006/03/21/pas78/) either. We have to see how fast that really gets updated, the German law is about to update as well. And then there was [the claim about](http://twitter.com/DesignedByBlind/status/5186901726) “eleven years of education and nothing changed, we need thumbscrews”: This is not true. Layout tables are in general gone, federal websites are accessible and even websites that are not required by law are generally better accessible. I wish that all websites are required to be accessible, but that isn’t possible as it seems. Even disability associations don’t bother to fight for it, which is the real scandal here. There are a few tasks that a good accessibility law should do:
+
+- **Create awareness.** Only if there is awareness in companies, they will give developers time to be educated and do great stuff.
+- **Do not create a climate of fear.** If you have to fear that you are sued, because you made a mistake you’ll get conservative and lethargic. This shouldn’t happen as the web and accessibility technology is getting better and better every day.
+- **Create mediations.** If there is a problem with a website people should come together and talk (first), not sue. That works quite well in Austria. Mediations are often a lot cheaper than trials, too.
+- **Reference international standard.** WCAG, whatever version is current. Austria does that as well, so immediately after WCAG2 were out, web developers were required to use that. This creates again a climate of education. Germany copied WCAG1 and made that a regulation which is now outdated for over a year.
+- **Be inclusive.** There is no reason why public and private websites should be treated differently, so don’t.
+
+We need laws, but we need good laws, not outdated ones. The myth of [the flexible law](http://twitter.com/DesignedByBlind/status/5185215578) is exactly that, a myth.

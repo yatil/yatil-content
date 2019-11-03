@@ -1,0 +1,16 @@
+Title: Ordentlich.
+----
+Date: 2004-12-03
+----
+Category: Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Gerrit van Aaken](http://praegnanz.de/kontakt/) hat seine Textpattern-Installation aktualisiert und hat dabei eine schicke [Aufstellung über seine Hacks](http://praegnanz.de/weblog/426/) veröffentlicht.
+
+Wenn ich nur halb so ordentlich wäre…

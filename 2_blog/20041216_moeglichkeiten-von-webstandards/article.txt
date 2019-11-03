@@ -1,0 +1,22 @@
+Title: Möglichkeiten von Webstandards
+----
+Date: 2004-12-16
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+»Möglichkeiten von Webstandards« ist eine Präsentation, die im Rahmen des Informatik-Unterrichts entstand.
+
+Es geht darin hauptsächlich um Dinge, die sich mit XHTML, CSS und JavaScript bewerkstelligen lassen.
+
+Achtung: Die Präsentation ist insgesamt über 3 MB groß, was an den großen Bildschirm-Photos des [CSS Zen Garden](http://csszengarden.com/) liegt. Sie kann [hier angeschaut](/slideshows/inf20041215/) und [hier heruntergeladen](/slideshows/inf20041215.zip) werden.
+
+_Das direkte Anschauen empfehle ich nur Benutzern mit DSL-Anschluss._
+
+Leider hatte ich nicht genügend Zeit um das GreenYatil-Theme für [S5](http://yatil.de/s5/ "var. 1.1b2") bis zur Informatik-Stunde fertigzustellen, nun ist es aber integriert.

@@ -1,0 +1,26 @@
+Title: US-Wahl 2004-Tippspiel
+----
+Date: 2004-10-14
+----
+Category: Fun, Internationale Politik
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Ich habe unter [kicktipp.de](http://www.kicktipp.de/) ein [Tippspiel zur US-Präsidenten-Wahl](http://www.kicktipp.de/uswahl2004/) eingerichtet.
+
+Getippt wird nach dem Toto-Prinzip (nachdem mir klar wurde, dass ein Tippen auf die genaue Wahlmännerstimmenanzahl keinen Sinn macht).
+
+0=Unentschieden  
+1=Bush bleibt im Amt  
+2=Kerry wird neuer Präsident
+
+Zusätzlich gibt es noch Punkte in sechs Bundesstaaten (Main, New Mexiko, Florida, Missouri, Pennsylvania, Nevada) zu holen.
+
+Das Tippspiel besteht aus 2 _Spieltagen_! Der erste ist die Umfrage eine Woche vor der Wahl (26.10.2004) und der zweite ist die Wahl am 2. November selbst.
+
+[Zur Anmeldung geht es hier.](http://www.kicktipp.de/uswahl2004/mitgliedwerden)

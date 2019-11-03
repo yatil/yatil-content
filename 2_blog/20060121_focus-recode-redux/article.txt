@@ -1,0 +1,49 @@
+Title: Focus Recode: Redux
+----
+Date: 2006-01-21
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zuersteinmal danke ich allen, die sich mit dem Entwurf auseinandergesetzt haben und ihre Anregungen und Kritik mit mir geteilt haben, egal ob hier, auf anderen Webseiten oder per E-Mail.
+
+Es sind jedoch auch ein paar Fragen aufgetaucht, die ich hier beantworten will.
+
+1\. _Weshalb hast du die Seite nicht direkt redesignt?_  
+Das war nicht Sinn dieser Aufgabe. Es sollte demonstriert werden, dass ein vorgegebenes Layout browserübergreifend, semantisch und barrierearm aufgebaut werden kann.
+
+2\. _Warum hast du kein liquides Layout (passt sich der Fensterbreite an) genommen statt einem elastischen (passt sich der Schriftgröße an)?_  
+Bei hohen Auflösungen läuft die Schrift zu weit und das Lesen fällt schwer. Beim elastischen Layout jedoch wird die Relation zwischen Laufweite und Schriftgröße auch bei einer Vergrößerung erhalten.
+
+3\. _Ein paar Zahlen, bitte!_  
+Okay. Ich habe die Beispielseite um Linkziele erweitert, um einigermaßen eine Vergleichsbasis zu haben. Dann ergibt sich folgendes Bild:
+
+- (X)HTML-Datei von 115kB auf 49,2kB (-57%)
+- CSS-Datei(en) von 34,3kB auf 12,9kB (-62%)
+- JS-Aufrufe von 23 auf 0 (-100%)
+- Class-Attribute von 610 auf 150 (-75%)
+- Style-Attribute von 413 auf 19 (-95%)
+- Listen (ul) von 0 auf 28
+- Überschriften (h1) von 1 auf 20 (+2000%)
+- Absätze (p) von 0 auf 76
+ 
+4\. _Wieso hast du überhaupt Style-Attribute im Quelltext?_  
+Das sind alles Angaben über Bildbreiten. Ich habe versucht sie so gering wie möglich zu halten. Zumindest ist diese Angabe – neben der Angabe in der Stylesheet-Datei – die einzige Möglichkeit die Bilder mit der Schrift vergrößern zu lassen.
+
+5\. _Weshalb ist es überhaupt wichtig, dass Überschriften, Listen und Absätze vorhanden sind?_  
+Weil es nicht nur Leute gibt, die sich die Seite anschauen. Sehbehinderte beispielsweise können sich ausschließlich die Überschriften vorlesen lassen und dann direkt zu diesem Abschnitt springen.
+
+6\. _Bedeutet das, dass deine Umsetzung barrierefrei ist?_  
+Nein. Barrierefreier vielleicht oder barrierearm, aber nicht barrierefrei. Das hat zwei Gründe: Zuersteinmal war die Seite nie barrierefrei konzipiert und es gibt designerische Schwächen hinsichtlich der Barrierefreiheit, die auch durch ein Recoding mit Webstandards überwunden werden können. Allerdings ist das Zoomverhalten und die semantische Auszeichnung bereits ein Schritt in die richtige Richtung.
+
+7\. _Weiß die Redaktion des Focus davon?_  
+Wenn, dann nicht von mir. Ich arbeite aber zusammen mit anderen Webkrauts an einem Anschreiben. [Das Anschreiben der Wbkrauts ist raus.](http://webkrauts.de/2006/01/25/focus-im-fokus/)
+
+8\. _Wie verhält es sich mir dem Copyright?_  
+Für die Texte und Bilder beanspruche ich überhaupt keine Rechte, lediglich der Quelltext die Umsetzung ist wie im Dokument beschrieben geschützt.

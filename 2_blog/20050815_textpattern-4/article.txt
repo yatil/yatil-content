@@ -1,0 +1,20 @@
+Title: Textpattern 4
+----
+Date: 2005-08-15
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Diese Seite wird nun mit Textpattern 4.0 betrieben.
+
+So mancher wird sich nun wundern: War die letzte Version kein [Release Candidate](http://de.wikipedia.org/wiki/Release_Candidate#Release_Candidate) 5 für Version 1.0? Das ist richtig, doch Dean Allen hat sich gedacht, da die erste Textpattern-Version 2001 herauskam und er bald 40 wird sei eine Version 4.0 eine gute Wahl.
+
+Überhaupt war Textpattern nie “normal”, wenn es um Versionierung ging, da gab es neben Alpha- und Betaversionen auch Gammaversionen sowie unzählige Release Candidates – denen, branchenunüblich, immer neue Features hinzugefügt werden.
+
+Neben Geschwindigkeitsupdates lohnen vor allem die verbesserte Sicherheit das [Update](http://textpattern.com/download/).

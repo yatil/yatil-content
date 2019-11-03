@@ -1,0 +1,105 @@
+Title: Accessible CSS Generated Content
+
+----
+
+Intro: (link: https://developer.mozilla.org/en-US/docs/Web/CSS/content text: CSS generated content) can have unintended side-consequences. As Andy Clarke discovered recently, (link: https://stuffandnonsense.co.uk/blog/css-generated-content-and-google-chrome-translate-scores-an-own-goal text: `data-` attributes he used as a way to transfer content into CSS for visual purposes are not translated using built-in browser functionality).
+
+----
+
+Text:
+
+His[^0] goal was to provide text effects by layering different styles of the same font on top of each other. Designers use this technique to extend a base font style with other flourishes of the same font. The final code he came up with is this HTML, using the `notranslate` class to prevent translation of the heading[^1]:
+
+[^0]: Note that this is using Andy’s use case as an example. He immediately added a note to his article when I made him aware of the accessibility implications. I wanted to write this up as a lesson in how the web changes and how different aspects of the web can work together. After all the web is constantly evolving and we’re all learning all the time.
+
+[^1]: Usually I would oppose to remove the ability for users to translate content to their language. In some circumstances, like proper names, this can be OK.
+
+```html
+<h1 class="type-family-jakob notranslate" 
+    data-heading="France-Norvège">
+      France-Norvège
+</h1>
+```
+
+The CSS looks like this:
+
+```css
+[class*="type-family"] { position: relative; }
+
+[class*="type-family"]:before, [class*="type-family"]:after {
+  content: attr(data-heading);
+  position: absolute;
+  z-index: 1;
+  overflow: hidden;
+  left: 0;
+  top: 0;
+  font-size: inherit;
+  font-weight: normal;
+}
+```
+
+Until a couple of years ago, the browsers did not treat generated content as “real” content. They did not expose it to assistive technologies like screen readers. That created an issue, for example when web developers used CSS to specify the file format of a document:
+
+```html
+<a href="link/to/an/interesting.pdf">
+  Get the Report
+</a>
+```
+
+```css
+a[href$="pdf"]:after { content: " (PDF)"; }
+```
+
+For visual users, the link text “Get the Report (PDF)” would have been clear. But “(PDF)” was not conveyed to screen readers and other assistive technologies and thus not their users. Most developers don’t intend that behavior, so _browsers started to treat generated content as actual content_.
+
+Back to Andy’s example. The “accessible name” (the label that assistive technology uses) of his heading rank 1 would include the `:before` and the `:after` version of the contentand the content of the `<h1>` itself. The browser “sees”:
+
+```html
+<h1 class="type-family-jakob notranslate">
+  France-Norvège France-Norvège France-Norvège
+</h1>
+```
+
+There is an ARIA attribute that we can use to _overwrite_[^2] the content of the `<h1>`: `aria-label`. So we could augment Andy’s code like this to avoid tripling the heading:
+
+[^2]: A note, because I see that in accessibility assessments all the time: If you use `aria-label`, the content of your element is **not** revealed to assistive technologies. Writing `<a href="…" aria-label="opens in a new window">Visit our partner site</a>` will result in a link that only says “opens in a new window”. Just don’t use it that way. OK?
+
+```html
+<h1 class="type-family-jakob notranslate" 
+    data-heading="France-Norvège"
+    aria-label="France-Norvège">
+      France-Norvège
+</h1>
+```
+
+This would work, but having two attributes repeating the content of the heading feels wrong. As `attr()` can use any attribute, not only `data-` attributes[^3], we can use it with the `aria-label` and remove `data-heading`:
+
+[^3]: Indeed, `attr()` was invented long before `data-` attributes were a thing.
+
+```html
+<h1 class="type-family-jakob notranslate" 
+    aria-label="France-Norvège">
+      France-Norvège
+</h1>
+```
+
+```css
+[class*="type-family"]:before, [class*="type-family"]:after {
+  content: attr(aria-label);
+  …
+}
+```
+
+This is where this story could end. And indeed this is where this story would have ended a couple of weeks ago. Yet, thanks to accessibility advocates, (link: https://twitter.com/mmatuzo/status/1138087533496164354 text: `aria-label` is now actually one of the attributes that _is_ translated when using Google Translate through Google Chrome) – but not in other browsers. If that is enough to remove the `notranslate` class from the heading depends on your circumstances. As the short clip of this (link: https://codepen.io/yatil/pen/RzQXqv text: example codepen) shows, the `aria-label` attribute translates nicely:
+
+(video: working-translation.mp4 controls: true width:100% height: auto autoplay: false caption: ARIA label translates in Google Chrome [no sound])
+
+----
+
+Date: 2019-07-13 14:10
+
+----
+
+Coverimage:
+
+- code-example.png

@@ -1,0 +1,24 @@
+Title: So wird dir geholfen
+----
+Date: 2005-07-15
+----
+Category: Gesellschaft
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+In Foren oder auf Mailinglisten kommen oft Anfragen wie “Browser XY stellt meine Seiten falsch dar, was kann ich dagegen tun?” oder “Ich habe ein Problem mit Listen, kann mir jemand helfen?” auf. Meist reagieren die erfahrenen Listenteilnehmer mit Antworten wie “Das liegt an den 378 Fehlern, die der Validator ausspuckt!” oder “Könntest du nicht mal ein Beispiel posten?”. Bei unerfahrenen CSS-Schützlingen kann das dazu führen, dass sie sich nicht ernst genommen fühlen. Dabei ist das nicht böse gemeint. Das Gegenteil ist der Fall: Die erfahrenen wollen Hilfe zur Selbsthilfe geben, einige der Probleme verschwinden nämlich – bei einem systematischen Vorgehen – von selbst. Im Anschluss eine kleine Liste, die die wichtigen Dinge aufzeigt, die vor und während einer Anfrage an eine Liste erledigt sein sollten.
+
+1. [Validator benutzen!](http://validator.w3.org/) Der Validator zeigt Fehler in (X)HTML-Dateien an, dabei ist es wichtig, dass ein korrekter DOCTYPE und eine korrekte Charset-Auszeichnung vorhanden sind. Er kann das viel besser als Menschen, die den Code durchforsten um ein vergessenes `</div>` oder ein falsch geschriebenes `<inpout />` zu finden. Auch das CSS ist [entsprechend zu prüfen](http://jigsaw.w3.org/css-validator/) (egal ob [per URI](http://jigsaw.w3.org/css-validator/validator-uri.html "per Uniform Resource Identifier"), [per Textfeld](http://jigsaw.w3.org/css-validator/validator-text.html) oder [per Upload](http://jigsaw.w3.org/css-validator/validator-upload.html)), oft kommen auch hier falsch geschriebene Wörter wie `margin-links` vor.
+2. Sollte der Validator zu keinem Ergebnis führen, so sollte nicht sofort zum E-Mail-Programm/Forum deiner Wahl gesprintet werden. Auch eine Google-Anfrage ist Sinnvoll, wenn man sie um die Worte “CSS”, “XHTML” oder “Internet Explorer bug“ ergänzt.
+3. Wenn das zu keinem – brauchbaren – Ergebnis führt sollte das Problem auf das Wesentliche reduziert werden. Wenn es beispielsweise um eine Liste geht sollte sie isoliert in eine (X)HTML-Datei kopiert werden.
+4. Danach ist es einfacher für den Betrachter, wenn er das zugehörige CSS in der (X)HTML-Datei eingebettet sieht. Dazu sind die Elemente `<style type="text/css"></style>` im `<head>` benutzt werden. Auch hier sind alle unnötigen Stile wegzulassen.
+5. Sollte sich das Problem nicht isolieren lassen, sollte man – sofern das nötig ist – alle Verweise auf den Kunden löschen, dazu gehören Logos, Kontaktadresse und ähnliches.
+6. Wenn ein Darstellungsfehler nur in einem Browser vorkommt sollte ein Bild von beiden Fällen beifügen. Altbekannte Bugs lassen sich dann leichter erkennen.
+7. Nun kannst du die E-Mail verfassen, oder den Foreneintrag. Wichtig ist hierbei eine _genaue Beschreibung des Problems_, eine _Referenzadresse_, bei der das isolierte Beispiel liegt, ein _Hinweis auf die CSS-Datei_ (falls das Beispiel isoliert nicht reproduzierbar ist) bzw. einen _Hinweis_ darauf, _dass die Styledefinitionen eingebunden_ sind.
+
+Mit diesen vorbereitenden Schritten sollte eigentlich ein reibungsloses Helfen ermöglicht werden.

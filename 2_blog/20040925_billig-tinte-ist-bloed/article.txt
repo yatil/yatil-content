@@ -1,0 +1,22 @@
+Title: Billig-Tinte ist blöd
+----
+Date: 2004-09-25
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wenn die Schwarze Tinte nicht druckt und man trotz »intensiver Druckkopfreinigung« keinen Erfolg hat, dann ist guter Rat teuer. Naja, eigentlich nicht. Ich hab lediglich den [Hinweis im Chip-Forum](http://www.chip.de/forum/thread.html?bwthreadid=674888) befolgt:
+
+> Dann schmeiß den Müll raus, setz Originaltinte rein und führe ein paar mal die Intensvireinigung aus, wenn die Düsen noch nicht kaputt sind, druckt das Ding dann wieder.
+
+Und wahrscheinlich nehme ich mir auch folgenden Tipp zu Herzen:
+
+> Danach nicht mehr den Billigmüll von ebay nehmen, damit gibts nur Probleme. Nimm lieber [JetTec](http://www.jettec.de/), die sind auch noch günstig und da kommt es i. d. R. nicht zu Problemen …
+
+Ich wusste doch, dass mit Tinte für unter 2 Euro/Patrone _irgendwas_ nicht stimmen kann…

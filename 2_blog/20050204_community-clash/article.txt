@@ -1,0 +1,30 @@
+Title: Community-Clash
+----
+Date: 2005-02-04
+----
+Category: Gesellschaft
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Überall wo Menschen mit Leidenschaft sich um Projekte kümmern und wirklich Herzblut hineinstecken scheint es leicht zu Streitereien zu kommen.
+
+Auch in der deutschen TXP-Community ist nun ein solcher Fall aufgetreten:
+
+_Ralf Graf_ vom [Netzbuch](http://das-netzbuch.de) hat einen Artikel mit dem Titel [Die Textpattern-Unübersichtlichkeit](http://das-netzbuch.de/article/2165/die-textpattern-un252bersichtlichkeit) veröffentlicht in dem er Kritik an der Zerstreuung der Textpattern-Quellen im deutschsprachlichen Raum übt.
+
+Davon abgesehen, dass diese Kritik berechtigt ist, meldete sich _Alexandra Labudda_ von den [txp resources \[ge\]](http://textpattern.kbbu.de) zu Wort:
+
+> Extrem ärgerlich, dass Gamperl einen Alleingang hinlegen muß. Die Arbeit hätte man sich sparen können. Im Moment könnte ich dem Typ, aus diesen und ein paar weiteren Gründen, den Hals rumdrehen. [Alex im Netzbuch](http://das-netzbuch.de/article/2165/#c003140)
+
+Dies sind natürlich harte Worte und auch der [Nachfolge-Artikel](http://textpattern.kbbu.de/diverses/76/einem-kann-schon-manchmal-schlecht-werden) erinnert mehr an die HipHop-Streitigkeiten der frühen 90er als an eine sachliche Diskussion.
+
+Fakt ist: Jede Ressource, die [txp resources \[ge\]](http://textpattern.kbbu.de) und [textpattern.de](http://textpattern.de), hat ihre Berechtigung. Dass Synergieeffekte dabei nicht genutzt werden mag richtig sein, ist aber kein Grund ein eigenes Projekt einzustampfen. Ich wünsche allen Beteiligten eine kleine Ruhepause und eine Beruhigung der Gemüter.
+
+Wenn alle weiterhin mit Leidenschaft den Textpattern-Spirit verbreiten, geht die Entwicklung auch hierzulande weiter.
+
+PS: Was haltet ihr von einem Trackback-Blog im Stil von [Manuela Hoffmanns Firefox-Seite](http://pixelgraphix.de/firefox/)?

@@ -1,0 +1,25 @@
+Title: Danke Hannover
+----
+Date: 2008-02-25
+----
+Category: Gefangen im Netz 2.0
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Am Wochenende war ich in [Hannover](http://hannover.de/) um das [Barcamp](http://barcamphannover.mixxt.de/) zu besuchen. Dabei konnte ich endlich Menschen kennen lernen, die ich zuvor über [Twitter](http://twitter.com) oder die [Webkrauts](http://webkrauts.de/) kennen lernen durfte. [Alexander Hahn](http://keasone.de/) beispielsweise, oder [Christian Vogt](http://hackthenet.de/) und [David Maciejewski](http://macx.de/), der mich auch bei sich aufnahm. [![](http://wp.yatil.net/wp-content/uploads/2008/02/279.png)](http://wp.yatil.net/wp-content/uploads/2008/02/279.png)In Hannover stand das Socializing im Mittelpunkt. Oft traf man sich auf den Gängen oder im großen Raum und redete über dies und das. Das kalte Buffet war außerordentlich großzügig ausgefallen, ich persönlich hätte eine warme Malzeit aber wohl vorgezogen. Kaffee steuerte [Sonntagmorgen](http://blog.sonntagmorgen.com/) bei – Danke Jungs! Die Themen waren abwechslungsreich und gut besucht, zudem wenig werbelastig. Ich besuchte:
+
+- Social Project Management/Burning Man von (wobei der zweite Teil viel besser war als der erste, der nichts neues enthielt)
+- Usability mit [Florian Bailey](http://id-o.de/) (sehr lehrreich, vor allem der Aspekt der bewusst schlechten Usability um den Nutzer zu steuern)
+- Rapid Prototyping mit [RapidRabb.it](http://rapidrabb.it) (bot die Möglichkeit in die Arbeitsweise anderer zu schauen, sehr unaufdringliche Präsentation der eigenen Software in den letzten fünf Minuten)
+- Asus EeePC mit Jan Krämer (tolle Einführung in die Technik und die Spezifikationen des kleinen Linux-Rechenknechts)
+- China 2.0 mit [Oliver Ueberholz](http://www.webworkblogger.de/) (nette Session mit China-Anekdoten, richtig, richtig, richtig spannend, was sich dort im Internet tut)
+
+Ich selbst co-hostete zwei Sessions: - Am Samstag: „Die Zukunft des Internets“ zusammen mit [Jens Grochtdreis](http://grochtdreis.de/blog)
+- Am Sonntag: „Gute Seiten, schlechte Seiten“ zusammen mit Jens, David und [Dennis Frank](http://dennisfrank.info/)
+
+Es kam zu sehr vielen Diskussionen, es gab viele neue Barcamper. Die Mischung war klasse. Kleine Kritikpunkte gab es auch: Internet war umständlich und Mailclients wurden geblockt, zudem war es zeitweise langsam oder kaum zu erreichen. Viele Slots blieben leer, viele der Neulinge trauten sich wohl nicht einen eigenen Vortrag anzubieten. Sonntag war zudem die gefühlte No-Show-Rate extrem hoch, das Gefühl könnte aber auch getäuscht haben. Ein großes Kompliment geht an die Organisatoren, die einen tadellosen Job gemacht haben und es schafften eine wunderbare Veranstaltung auszurichten.

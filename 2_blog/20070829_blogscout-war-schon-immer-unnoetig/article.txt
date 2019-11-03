@@ -1,0 +1,14 @@
+Title: Blogscout war schon immer unnötig™
+----
+Date: 2007-08-29
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+In der Blogosphäre schlägt Dirk Olbertz [Ankündigung](http://blog.blogscout.de/2007/08/27/blogscoutde-wird-geschlossen/) das Statistik und Rankingtool Blogscout zu schließen hohe Wellen. Für mich hat der Dienst nie funktioniert. Das hatte ausnahmsweise auch Gründe. Zuerst wollte ich mit meinen Statistiken nicht von einem anderen Dienst abhängig sein. Das ist auch der Grund, weshalb Google Analytics für mich nicht funktioniert. Zudem war die Position in der Rangliste eher seltsam, von einem Tag auf den anderen konnte man schonmal mehrere dutzend Plätze steigen oder fallen. Deshalb gab es für mich schon immer nur eine Lösung, die funktionierte und das war [Mint](http://haveamint.com/). Was mir auch an diesem Tool gefällt: Es ist geschlossen. Niemand kann bei mir reinschauen, ich kann bei niemandem reinschauen. [Schwanzvergleiche](http://deutscheblogcharts.de/) [gibt’s](http://schwanzvergleich.blogcounter.de/schwanzvergleich.html) genug. Dort oben zu stehen war für mich nie ein Ziel, und deshalb ist für mich das Verschwinden von Blogscout eher ein Segen als ein Fluch. Unter anderem deshalb, weil Dirk sich jetzt mehr [NoseRub](http://noserub.com/blog/) widmen kann, ein Projekt von großer Bedeutung. Dafür viel Glück!

@@ -1,0 +1,14 @@
+Title: IE10 will not support Conditional Comments
+----
+Date: 2011-07-09
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Finally [Microsoft’s proprietary stuff is phasing out](http://blogs.msdn.com/b/ie/archive/2011/07/06/html5-parsing-in-ie10.aspx), the next parser is said to be HTML5 compatible.

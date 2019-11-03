@@ -1,0 +1,43 @@
+Title: Noto, the free font for all languages
+
+----
+
+Text:
+
+Google has recently released [Noto](http://www.google.com/get/noto/), a font that was developed to cater for all languages. It comes in a serif and sans-serif variant and is split up by characters used in different regions, most likely to reduce the file size of the individual fonts. It is also up on Google Fonts to use in your mockups [^1]. 
+
+[^1]: I recommend self-hosting your fonts on live sites.
+
+The screenshot below [^2] shows how the font compares with others with the glyphs relevant to me [^3] and readability for people with cognitive disabilities[^4]: 
+
+(image: screenshot_26_07_14_11_21.png alt: Screenshot of some fonts. class: right)
+
+It is immediately clear that the glyphs in the “qbd” and “69” parts are very similar apart from the rotating or mirroring, which is unfortunate. I like the upper “I” as it is very distinct from the lower “l”. It is certainly an alternative to the free open fonts we love like Source Sans/Serif, Open Sans, Fira Sans.
+
+[^2]: From the very nice [Fonts app](https://itunes.apple.com/de/app/fonts/id724408341?l=en&mt=12) for Mac.
+[^3]: Punctuation all the way…
+[^4]: The source for the string „agjJlLiIqbd69“ is actually took from [this post](http://joylita.com/post/76096785290/reading-fonts-for-children) about easy-to-read fonts for children, but I think it makes sense to have those glyphs as diverse as possible for other use cases like cognitive disabilities or signage as well.
+
+----
+
+Date: 2014-07-26 00:00
+
+----
+
+Coverimage: 
+
+----
+
+Category: Accessibility
+
+----
+
+Summary: 
+
+----
+
+Tags: 
+
+----
+
+Image: 

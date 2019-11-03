@@ -1,0 +1,14 @@
+Title: Apple Watch and the Web
+----
+Date: 2015-06-14
+----
+Category: Accessibility, Web design, Webstandards
+----
+Summary: 
+----
+Tags: apple, apple watch, urls
+----
+Image: 
+----
+Text:
+On Monday, my wait for the Apple Watch was over and a shiny “space black” Apple Watch Sport arrived at my doorstep. It is an incredibly interesting device with a lot of limitations – but those are expected from a 1st generation device. One factor limits my use of the watch greatly: The inability to resolve links. The watch works great with the internet, the connection to my phone works out very nicely as well. But the watch is not a great citizen of the web (yet). Take the email I received above. The sender didn’t care too much about the content of the text version of the HTML email they sent me, so apart from information about this (“This message contains elements Apple Watch can’t display. You can read a text version below.”), the text version reads “You have received the alternative text version of an HTML message. Please click below to access the web version of the message: View an HTML version of this message: http://”. The Apple Watch makes the case for HTML emails. But even if I wanted to follow the link at the end of the message, I can’t. It is not tapable. There is no handoff to Safari on my iPhone (which was what I expected). The same thing happens when I receive tweets on the watch and there is no way to take a glimpse at the related website. Apple has not added basic HTML viewing functionality to the watch, which is a shame. A lightweight HTML parser with main content extraction – à la the iPhone Reader mode – would probably be totally okay for basic information. In addition, a handoff feature can help with websites where the content can’t be extracted or doesn’t make sense. Thinking about it, the whole rendering and reformatting of the website could be done on the iPhone. That would mean that Safari can display the cached rendered web page immediately on handoff. I hope watchOS 2 will bring such a basic functionality, it would improve my use of the Apple Watch.

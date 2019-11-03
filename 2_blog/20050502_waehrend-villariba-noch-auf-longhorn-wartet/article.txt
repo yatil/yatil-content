@@ -1,0 +1,19 @@
+Title: Während Villariba noch auf Longhorn wartet...
+----
+Date: 2005-05-02
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+...hat Villabacho schon erste Erfahrungen mit dem [Tiger](http://www.apple.com/macosx/) gemacht:
+
+- Michael Preidel: [Mein Tiger](http://www.qxm.de/digitalewelt/20050502-152717)
+- Jason Fried: [Tiger Review: It’s great, but…](http://37signals.com/svn/archives2/tiger_review_its_great_but.php)
+- Dave Shea: [An Inevitable Tiger Review](http://www.mezzoblue.com/archives/2005/05/02/an_inevitabl/)
+- Macwoern: [...und er schnurrt](http://macwoern.de/blog/index.php/weblog/und_er_schnurrt/)

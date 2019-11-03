@@ -1,0 +1,16 @@
+Title: Einfacher Bloggen
+----
+Date: 2004-10-14
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> [JustBlogIt](http://blog.warmbrain.com/justblogit/) ist eine interessante Erweiterung für Mozilla und Firefox, die direktes Posten aus dem Browser heraus noch einfacher macht. Einfach Text markieren, die rechte Maustaste drücken, JustBlogIt! auswählen und schon ist der markierte Text samt Link im Quickpost Fenster zu finden. [pixelgraphix: JustBlogIt!](http://www.pixelgraphix.de/archives/2004/10/justblogit.php)
+
+Jetzt müsste das nur noch mit den Umlauten besser klappen… und vielleicht noch ein bisschen besser anpassbar sein. Aber ich will ja nicht zu viel verlangen!

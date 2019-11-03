@@ -1,0 +1,14 @@
+Title: EfA-Tagung
+----
+Date: 2008-05-11
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Am 6.5.2008 fand in Gelsenkirchen die „Einfach für Alle“-Fachtagung unter dem Titel „Konzepte und Zukunfts bilder für ein Barriere freies Internet“ statt. Rund 300 Experten fanden sich zusammen, darunter etwa 20 Webkrauts und eine größere Gruppe Österreicher. Mein Fazit gleicht denen von [Jens Grochtdreis](http://grochtdreis.de/weblog/2008/05/10/efa-tagung-zur-barrierefreiheit/) und [Gerrit van Aaken](http://praegnanz.de/weblog/beobachtungen-auf-der-efa-tagung-2008). Die Präsentation der Umfrageergebnisse war kein guter Start in den Tag, das hätte man gerne flotter inszenieren können. Problematisch ist auch, dass man Internetnutzer befragt, ob sie das Internet benutzen. Meiner Meinung nach hat die Umfrage nur bei den Gehörlosen und Schwerhörigen eine Verbreitung erreicht, die es erlaubt auf Ottonormal-Internetbenutzer mit diesen Behinderungen rückzuschließen. Die „Workshops“ erfüllten dann meine Erwartungen (die allerdings auch nicht sonderlich hoch waren). Die Moderation war zumindest in den beiden Workshops in denen ich war relativ unbefriedigend. Überhaupt waren qualitativ so viele Experten und Expertinnen da, dass man ohne weiteres vier Konferenztage hätte füllen können, so kamen Diskussionen heraus, die sich eigentlich immer um das selbe drehten: Was kostet Barrierefreiheit und wie mache ich es allen Nutzergruppen auf meiner Webseite recht. Wirklich innovative Thesen hatte in meinen Sessions niemand vorzuweisen, dazu kam ein behäbiger „deutscher“ Stil ohne Humor. Das machte so nicht viel Spaß. Einzige Ausnahme war [Christian Heilmann](http://www.wait-till-i.com/) (Panelteilnehmer: „Wir leben ja nicht auf einer Insel…“, Christian: „Ich schon!“). Schade war auch die Beschränkung auf zwei (von 16!) Workshops, nächstes Mal werde ich mir bei dieser Konstellation nicht die Workshops aussuchen von denen ich glaube, dass sie mich am meisten interessieren, sondern die, die am „langweiligsten“ klingen. Der Erkenntnisgewinn kann dann nur größer sein. Die BIENE wurde dann mit viel Text auf vielen Powerpoint-Folien frei gelassen bevor der offizielle Teil beendet war und es zum Abendessen und Unterhaltungen in gemütlicher Runde kam. Technisch war die Veranstaltung vorbildlich aufbereitet – acht parallele Sessions live inklusive Gebärdendolmetscher ins Internet zu übertragen ist schon eine Leistung. Die Organisation war sehr gut, die Workshop-Idee vielleicht zu ambitioniert und der Veranstaltungsort (gerade beim Start der BIENE) zu heiß. Die Gespräche mit den Webkrauts und anderen Teilnehmern haben sich aber wie immer auf solchen Veranstaltungen gelohnt.

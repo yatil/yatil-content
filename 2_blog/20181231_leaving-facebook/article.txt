@@ -1,0 +1,36 @@
+Title: Leaving Facebook
+
+----
+
+Intro: I’ll leave Facebook by the end of the day today. I thought about this final step for several months. I have many reasons, including, but not limited, to Facebook’s ongoing privacy issues.
+
+----
+
+Text:
+
+For me, as for many, Facebook grew essential to be in touch with some relatives and colleagues. However, those contacts have been superficial, and Facebook is not the sole way to be in touch.
+
+My professional contacts have blogs and twitter profiles. I can follow them using [Feedbin](https://feedbin.com/) which supports not only following RSS feeds but [also Twitter profiles](https://feedbin.com/blog/2018/01/11/feedbin-is-the-best-way-to-read-twitter/). This gives me a privacy-first way to read relevant information.
+
+Of course, where it gets hard are the private contacts. Some prefer Messenger, others just use Facebook as their social network of choice. Most of my contacts are, however, not very active on Facebook or live in a right-wing bubble. The latter leads to me not following them and they not following me, so being active on Facebook is not broadening their horizon[^I try to read conservative views where I can. Right-wing propaganda is not conservative.]. 
+
+While I will stop using Facebook, I’ll continue to use some of their other properties, namely WhatsApp and Instagram. The former is the basis for communication with some close relatives, so that leaves me without much choice. The conversation is encrypted, and I don’t share my contacts with the app, so it’s ok for the time being. The latter is an excellent way to keep in touch on a very superficial level. However, I’ve recently reduced publishing on Instagram and with Flickr's future in question, I hope to have a personal [Pixelfed](https://pixelfed.social/) instance running at some point.
+
+Lastly, I don’t want to be a reason for people to stay on Facebook. Being a cog in the Facebook machine makes me an involuntary helper for their extremely addictive drug. And I don’t want to be that.
+
+If you want to stay in touch, I recommend these ways to follow me:
+
+- [Mastodon: @yatil@micro.yatil.net](https://micro.yatil.net/@yatil)
+- [Twitter: @yatil](https://twitter.com/yatil)
+- [My presentations](https://yatil.net/talks-and-workshops)
+- [GitHub](https://github.com/yatil)
+
+If you want to message me, email is the best way: [mail@yatil.net](mailto:mail@yatil.net)[^Twitter or other social media DMs might also work, but I don’t check them regularly.]. If you have my phone number (it hasn’t changed in many years), feel free to ping me via iMessage, SMS, in WhatsApp, or Signal.
+
+----
+
+Date: 2018-12-31 00:00
+
+----
+
+Coverimage: 

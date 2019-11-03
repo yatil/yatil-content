@@ -1,0 +1,18 @@
+Title: Gerrit über S5
+----
+Date: 2005-03-02
+----
+Category: Programmierung, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> »Das JavaScript von S5 ist extrem mächtig.« Gerrit van Aaken/[praegnanz.de](http://praegnanz.de/)
+
+Gerrit hat sich [S5](http://yatil.de/s5/) gewidmet, dem simplen, standardbasiertem Slide Show System. [Sein Artikel](http://praegnanz.de/weblog/550/s5-schlanke-praumlsentationen-per-browser) ist vor allem für Einsteiger interessant, die sich über die manigfaltigen Möglichkeiten von S5 informieren wollen.
+
+Die Idee eines »S5 Style Garden« finde ich übrigens ziemlich gut… Mal schauen, ob ich da nächste Woche was zusammenbastel.

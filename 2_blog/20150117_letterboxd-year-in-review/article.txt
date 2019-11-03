@@ -1,0 +1,14 @@
+Title: Letterboxd Year in Review
+----
+Date: 2015-01-17
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Letterboxd is a nice website for film nerds. You can track what you have watched when and how you have liked the movie. They have just released their [2014 year in review page](http://letterboxd.com/2014/) which is really impressive. It is quite heavy (over 3MB) but uses really large photos, so there is basically no war around it. I love such carefully designed individual pages.

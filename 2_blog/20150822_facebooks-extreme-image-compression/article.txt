@@ -1,0 +1,14 @@
+Title: Facebook’s Extreme Image Compression 
+----
+Date: 2015-08-22
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: compression, Images, performance
+----
+Image: 
+----
+Text:
+Fascinating [Article on the Facebook Code Blog](https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/) outlining the process to load preview images instantly to make the user experience snappier.

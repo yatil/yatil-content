@@ -1,0 +1,20 @@
+Title: Ian Hickson über HTML5
+----
+Language: de
+----
+Date: 2008-09-13
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> „\[Die Arbeit in der HTML5-Arbeitsgruppe\] ist ein sehr schwieriger Balance­akt. Die Be­nutzer kommt zuerst, gleich dahinter die Web­autoren. Aber das Pro­blem ist, dass die Browser­hersteller die Spezi­fikation ignorieren, wenn wir etwas beschließen mit dem sie nicht ein­ver­standen sind. Dann können wir auch nach Hause gehen. _Wenn wir eine Spezi­fikation schreiben, die ignoriert wird, sind wir nur Prosa-Schreiber._“ 
+> 
+> HTML5-Editor Ian Hickson im [Interview auf Techrepulic.com](http://blogs.techrepublic.com.com/programming-and-development/?p=718)
+
+Hickson legt dort auch den Zeitplan für die HTML5-Spezifikation vor. Die Arbeiten daran sollen 2009 abgeschlossen sein und spätestens 2012 in einer „Candidate Recommendation“ vorliegen. HTML5 ergänzt und ersetzt nicht nur HTML4 sondern auch DOM 2 HTML und XHTML, eine wahrhaft komplexe Aufgabe. Mehr im [langen Interview auf Techrepublic.com](http://blogs.techrepublic.com.com/programming-and-development/?p=718)

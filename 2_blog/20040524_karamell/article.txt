@@ -1,0 +1,14 @@
+Title: Karamell
+----
+Date: 2004-05-24
+----
+Category: Design, Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Den Browser [Firefox](http://mozilla-europe.org/de/products/firefox/) und die E-Mail-Software [Thunderbird](http://mozilla-europe.org/de/products/thunderbird/) gibts jetzt auch in [Charamel](http://members.shaw.ca/lucx/). Jetzt muss ich mich zwischen diesem Theme (gibts da eigentlich ein anderes deutsches Wort für, außer Thema?) und [Kevin Davis](http://alazanto.org/) [LeBreeze](http://www.alazanto.org/lebreeze/) entscheiden.

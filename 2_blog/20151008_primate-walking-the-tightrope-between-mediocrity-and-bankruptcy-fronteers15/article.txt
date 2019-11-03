@@ -1,0 +1,81 @@
+Title: Primate – Walking the Tightrope Between Mediocrity and Bankruptcy #fronteers15
+----
+Date: 2015-10-08
+----
+Category: Event
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- Create a company that is not a web dev dactories
+- Challenge: How to do creative work and still get paid.
+- Clients & 💩 
+  - Getting work: If you don’t have clients, there’s no business.
+  - You need to find good clients.
+  - Really challenging. How to find good clients?
+  - You need to balance two things: 
+      - Build relationships
+      - Tedious pitching
+  - Love all(most) all clients, fired one client – this is tough
+  - You have certain views of how your clients should be.
+  - But sometimes you wake up and the client is not as easy to work with as you imagine.
+  - Pitching is fun, but the idea is crazy.
+  - You have to stand in front of someone and present your work, often unpaid.
+  - You need to balance the time.
+  - You don’t want to be under or over prepared.
+  - Example: Pitched for hotel chain in brussels, had good feeling, well prepared. Budget 130.000€ 
+      - About 6 or 7 other agencies did also pitch, didn’t win. Client went with a agency they have had a personal connection with.
+  - Best client that just wanted to have a talk about the project approach.
+  - Only payed once for a pitch.
+  - Project management
+  - Working in agile way: not directly building the car, but building a bike first and then a motorcycle
+  - People don’t read specs, don’t do too much of them.
+  - Agile is tricky.
+  - Bad experience, clients don’t understand what the concept of agile is.
+  - Clients often do not prioritize their features properly.
+  - They use sprintr + basecamp together with transparency and communication. Do more work and less management.
+  - **Be honest.**
+- Design & 💩 
+  - Design is about communicating an idea, the user journey.
+  - Not talking about implementation.
+  - Design should be brief but an idea needs to be conveyed.
+  - Struggle with “content” and “best practice”
+  - Content 
+      - Really, really important
+      - Designers and content creators working together in print to deliver a proper design for the content.
+      - Nowadays templates are designed without knowing what the actual content is, the content is added later.
+      - This idea of designing distracts from what the developer should actually think about.
+  - Atomic design is the idea to start with the small things. But that is just design assets, there is no real creativity in there.
+  - Of course having a designer for every article is too expensive for most projects.
+  - Content needs to play a central role in the design.
+  - Avoid the handshake of death.
+  - Copywriting can make it better: “We don’t do secret handshakes”
+  - This is missing from online at the moment.
+  - Copy text can be very simple and dull, for example Synergy. An image of a bee and a flower could help to enforce the message.
+  - Sometimes things are like rules – Don’t define line-height in pixels, don’t do this and that.
+  - But some times you need to do that stuff anyway, it depends on your context.
+  - For example the smartphone is like a huge carousel.
+  - F\*\*k the rules. Responsibly.
+  - If you think something is best for the audience, do it.
+  - Create for content.
+- Development & 💩 
+  - Design – Developing relationship “interesting”.
+  - We need to deliver projects in time and budget and – like architects – need to work in the boundaries of what is necessary.
+  - Client’s don‘t care about a certain frontend tech.
+  - With technology, you have to move fast to keep up with the quick evolving technology.
+  - Massive explosion of new tools in the last year.
+  - To survive in an ever-changing environment you have to move faster than everyone else.
+  - Developers have to think and understand everything: designers, the business and clients.
+  - Balancing between being “Jack of all trades” and being “the master of one”
+  - Tech is disposable after a few years. Have the courage to dump things that don’t work anymore.
+  - Everyone fails at something.
+  - Embrace progress
+- Stakes are getting higher, projects get bigger.
+- What’s the point to keep that balance.
+- The journey is more important than the destination.
+- Aim: To have not a factory but a family.
+- Work affects our families and the other way around. So a good work environment is really needed to be happy.

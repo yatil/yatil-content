@@ -1,0 +1,24 @@
+Title: Das Snookerblog zeigt seine schönen Seiten
+----
+Date: 2007-07-14
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Bereits auf der Startseite zeigt sich das neue Konzept. Unter dem Kopfbereich befindet sich die horizontale Navigation – das hat sich nicht geändert. Doch die aktuellen Informationen wurden aus dem Kopf heraus genommen und werden in der Seitenleiste wieder erscheinen, sobald ein Turnier läuft.
+
+Die Hauptinformationen findet man nun in einer breiten Hauptspalte links, Sekundärinformationen rechts. Die Kategorien werden wie Labels über den Titeln angezeigt. Zudem wurde der Informationsgehalt auf das wesentliche reduziert. Neu ist auch die große Kommentareinladung. Dadurch erhoffe ich mir mehr Kommentare und ein gesteigertes Interesse.
+
+Überhaupt Kommentare: Diese hatten bisher einen beengten Platz in der Seitenleiste. Nun sind sie am gewohnten Platz unter dem Artikel, dort werden Kommentare auch gesucht. Ein großes Eingabefeld hat ebenfalls endlich seinen Platz auf die Seite gefunden.
+
+Nicht ganz neu, aber prominenter platziert ist [die Datenschutzerklärung](http://snookerblog.de/datenschutz/). Auf sie wird nun vermehrt hingewiesen, da ich die Aufmerksamkeit für das Thema sensibilisieren möchte.
+
+Neuigkeiten im Layout gibt es zudem in der [Turnierübersicht](http://snookerblog.de/turniere/). Dort werden die Turniere eines jeden Jahres angezeigt, eventuelle Turnierbäume verlinkt und die entsprechenden Newsartikel. Momentan ist das noch sehr lang und optimierungsfähig.
+
+Bei den Turnierbäumen gibt es eine relativ große Änderung. Statt dem Baum die volle Breite der Seite zu Verfügung zu stellen wird jetzt nur noch ein Teil des Baumes angezeigt und es kann dann über große Buttons gescrollt werden. Das erhöht hoffentlich die Übersichtlichkeit.

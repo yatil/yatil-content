@@ -1,0 +1,14 @@
+Title: Zum Abschied leise 
+----
+Date: 2009-07-03
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Das W3C hat in [seinen News](http://www.w3.org/News/2009#item119) gemeldet, dass es die XHTML2-Arbeitsgruppe 2010 nicht mehr geben wird. Stattdessen will man den Prozess von HTML5 beschleunigen und damit auch die Position des W3C gegenüber HTML klarstellen. Das ist eine Einsicht, die etwa 6 Jahre zu spät kommt und mittlerweile unausweichlich war, wie [Tantek Çelik bei Jeffrey Zeldman in den Kommentaren](http://www.zeldman.com/2009/07/02/xhtml-wtf/#comment-43883) schreibt. Die XHTML2-Arbeitsgruppe war derzeit vermehrt durch das [Zurückziehen von Entwürfen von Empfehlungen](http://www.einfach-fuer-alle.de/blog/id/2506/) aufgefallen, denn durch wirklichen Fortschritt. Nur um das klarzustellen: XHTML2 hat(te) mit XHTML1 nichts zu tun, beide Formate sind inkompatibel und alle Browser hätten in weiten Teilen neu gebaut werden müssen um XHTML2 auch zu verstehen. Es wird auch in HTML5 möglich sein Dateien in XML-Format zu schreiben, wie es schon (als XHTML1) bei HTML4 möglich war. Es geht _nicht_ um schlechte Coding-Standards, die viele mit HTML noch verbinden, obwohl es hunderte Seiten gibt, die trotz HTML guten Code unter der Haube haben, [Einfach für Alle](http://www.einfach-fuer-alle.de/) sei hier nur mal als Beispiel genannt.

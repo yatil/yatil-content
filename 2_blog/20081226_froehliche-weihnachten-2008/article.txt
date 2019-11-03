@@ -1,0 +1,14 @@
+Title: Fröhliche Weihnachten!
+----
+Date: 2008-12-26
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Hallo liebe Leserinnen und Leser! Ich wünsche euch allen einen schöne Rest-Weihnacht und einen guten Rutsch ins neue Jahr. Danke, dass ihr mir auch in beitragsarmen Zeiten treu bleibt. Im Rückblick war dieses Jahr ein äußerst nettes. Ich habe viele Kontakte geknüpft, durfte an vielen verschiedenen Webprojekten mitarbeiten, viele Vorträge und Schulungen abhalten und einige Webmontage sowie eine große Accessibility-Veranstaltung mit organisieren. Das hat alles unglaublich viel Spaß gemacht, war oft stressig und fordernd, hat sich aber in jeder Hinsicht gelohnt. Aber es gibt auch Dinge mit denen ich nicht zufrieden bin, wie mein Fortschritt im Studium, den man positiv als bedächtig beschreiben kann. [![Webkrauts-Adventskalender 2008](http://yatil.de/images/307.png "Webkrauts-Adventskalender 2008")](http://www.webkrauts.de/adventskalender/#j2008) Wie dem auch sei, ich danke allen sehr herzlich, die mich durch dieses Jahr begleitet haben. Wer noch einen längeren Artikel von mir lesen möchte kann [bei den Webkrauts](http://www.webkrauts.de/adventskalender/#j2008) nachschauen, dort erschien an Weihnachten [4 CSS-Tricks für sauberes HTML](http://www.webkrauts.de/2008/12/24/vier-css3-tricks-fuer-sauberes-html/). Ich wünsche ![Fröhliche Weihnachten!](http://yatil.de/images/271.jpg "Fröhliche Weihnachten!")

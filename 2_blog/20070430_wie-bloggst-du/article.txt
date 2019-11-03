@@ -1,0 +1,23 @@
+Title: Wie bloggst du?
+----
+Date: 2007-04-30
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Naja, viel gibt es da in der Tat nicht, vielmehr sind es die Standardsachen.
+
+- Meine Blogeinträge verfasse ich allesamt in [Textpattern](http://textpattern.com/), das mir als CMS dient.
+- Meine (ungefähr unendlich vielen) Feeds verwalte ich per [NewsFire](http://www.newsfirerss.com/).
+- [Twitter](http://twitter.com/) ist zu einem wichtigen Werkzeug geworden um Stimmungen einzufangen oder auch mal – ganz eigennützig – um Hilfe zu fragen. Dafür benutze ich natürlich wie alle coolen Mac-User [Twitterrific](http://iconfactory.com/software/twitterrific).
+- Screenshots mache ich zu selten um da schon ein Programm zu haben, ich schaue mir Michaels Wahl [SnapNDrag](http://www.yellowmug.com/snapndrag/) aber mal an. Was ich häufig benutze ist [ImageWell](http://xtralean.com/IWOverview.html), einer Art Mini-Bildbearbeitung.
+- Jetzt kommt ein kleines Outing: Wenn es um Bildbearbeitung geht, dann muss [Parallels](http://www.parallels.com/) herhalten. Dann wird Windows gestartet und [Paint Shop Pro](http://www.corel.com/servlet/Satellite/de/de/Product/1155872554948) benutzt, in der Version 7. Für MacOS habe ich einfach noch nicht das richtige gefunden. Eventuell ja Fireworks CS3 in Zukunft.
+- Für die Webentwicklung benutze ich [TextMate](http://macromates.com/) (aber nicht [CSSEdit](http://macrabbit.com/cssedit/)), für FTP-Sachen [YummyFTP](http://www.yummysoftware.com/). Hinzu kommt [Firefox](http://www.mozilla-europe.org/de/products/firefox/) mit der Extension [Firebug](http://www.getfirebug.com/).
+ 
+Ansonsten fällt mir nichts mehr ein :( Ich reiche das Stöckchen mal an [Markus Stefan](http://www.mstefan.com/blog/) weiter, nicht ohne auch ihn daran zu erinnern, dass morgen [Webmontag in Wien](http://webmontag.de/doku.php?id=wien:5) ist.

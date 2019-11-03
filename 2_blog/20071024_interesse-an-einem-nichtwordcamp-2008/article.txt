@@ -1,0 +1,14 @@
+Title: Interesse an einem !WordCamp 2008?
+----
+Date: 2007-10-24
+----
+Category: Textpattern
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Im Januar 2008 findet in Hamburg das “WordCamp 2008” statt. Dort geht es um das Blogging-Tool Wordpress und seine Anwendung. Im Twitter-Zusammenspiel mit [Gerrit](http://praegnanz.de), [Christian](http://www.hackthenet.de/), [Dennis](http://dennisfrank.info/), [Matthias](http://www.numblog.de/) und [Robert](http://robertlender.info/) entstand die Idee ein NichtWordCamp (also ein !WordCamp) zu veranstalten. Es könnte dort um Textpattern, Expression Engine, Serendipity und andere Blogging-Engines und kleinere CMSe gehen. Falls es Interesse gibt, bitte unten kommentieren. Als grober Veranstaltungszeitpunkt streben wir das erste Quartal 2008 an :).

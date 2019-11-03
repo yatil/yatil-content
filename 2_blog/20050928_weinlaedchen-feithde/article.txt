@@ -1,0 +1,20 @@
+Title: weinlaedchen-feith.de
+----
+Date: 2005-09-28
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Ich habe [die Seite des Weinlädchens Feith](http://weinlaedchen-feith.de/) aus Hauenstein neu gestaltet.
+
+Momentan gibt es nur eine Seite, die als Teaser für die aktuelle Kastaniensaison fungiert. Dazu gibt es einen Zeitungsbericht auf einer separaten Seite.
+
+Beim weiteren Ausbau der Seite wird natürlich noch ein Menü und ein endgültiges Logo vorhanden sein.
+
+Neben dem gesamten Layout habe ich das XHTML geschrieben, sowie je ein Screen- und Print-CSS. Dadurch ist das (weitgehend) problemlose Ausdrucken möglich.

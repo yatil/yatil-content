@@ -1,0 +1,14 @@
+Title: Ajax mit Textpattern benutzen (Screencast)
+----
+Date: 2008-01-02
+----
+Category: Screencast
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Heute in der kleinen Serie von Screencasts: [Textpattern](http://textpattern.com) mit [jQuery](http://jquery.com/) verknüpfen. Fragen, Hinweise, Anmerkungen? Einfach unten kommentieren. (Übrigens benutze ich ein neues, schweineteures Headset. Die Audioqualität muss also gut sein!!) \[video width="950" height="600" webm="http://wp.yatil.net/wp-content/uploads/2008/01/txp-ajax.webm"\]\[/video\]

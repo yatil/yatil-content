@@ -1,0 +1,30 @@
+Title: Wo bleibt die neue Professionalität?
+----
+Date: 2006-06-28
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Gerade dies fällt Anfängern noch schwer, sie haben nicht die Techniken, die es braucht um mehr zu schaffen als Tabellen- oder Framelayouts oder WYSIWYG-Umsetzungen. Das alles ist Webdesign nicht.
+
+In den meisten Ländern gibt es keine klassische Ausbildung zum Webdesigner. Von einer umfassende Ausbildung ganz zu schweigen. Webdesigner sind zu 98% entweder Grafik-, Printdesigner oder Webemenschen. Manche haben auch garkeinen gestalterischen Hintergrund.
+
+Und Sohn/Tochter des Nachbarn ist nicht wirklich eine Qualifikation.
+
+Das soll jetzt aber nicht bedeuten, dass 98% aller Webseitenbauer keine Ahnung vom Webseitenbauen haben. Im Gegenteil. So mancher Tabellenbauer wird beim Bauen seiner Tabellenlayouts effizienter sein als ich mit meinem CSS. Aber auch nur solange, bis das Redesign kommt.
+
+Andererseits zählt für einen Kunden meistens nur das Ergebnis. Der Weg ist egal. In sofern ist also das Ziel das Ziel, oder. Heißt das nun, dass wir Webstandards vergessen können. Jahre der Missionarsarbeit – dahin?
+
+Nein. Gerade jetzt ist es an der Zeit die Menschen an der Hand zu nehmen und ihnen zu zeigen, dass der Weg der Webstandards der richtige ist. Jetzt ist der Zeitpunkt gekommen, wo wir Webdesigner uns emanzipieren können.
+
+Wenn ein Kunde uns sagt “Mach eine Webseite für mein Unternehmen!”, dann machen wir eine Webseite für sein Unternehmen. Und natürlich soll – nein! muss! – diese auf Webstandards bassieren, denn das ist zukunftsfähig.
+
+Lieber Unternehmer: Kümmern Sie sich um Ihre Firma. Um Ihre Webseite kümmern wir uns.
+
+So macht jeder das, was ihm am Besten liegt, das was er am Besten kann. Dazu ist es aber wichtig, dass sich der Unternehmer auf uns Webdesigner verlassen kann. Dazu brauchen wir Webdesigner mit einer Ausbildung. Oder zumindest mit einem Gütesiegel. Denn durch die Weiten des Internets sind wir alle gleich vor unseren Auftraggebern. Und dabei sitzt manchmal nur der Sohn des Nachbarn hinter dem rechner und “verkauft” “professionelle Internetseiten”.

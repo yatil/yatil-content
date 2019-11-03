@@ -1,0 +1,29 @@
+Title: Tabellenloses Design Teil 3 – Eine Übersicht über Layoutgattungen
+----
+Date: 2005-03-30
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Unsere Seite benötigt natürlich jetzt noch ein schickes Layout. Zuerst einmal habe ich unser Beispiel um etwas [Blindtext erweitert](http://yatil.de/xhtml/bsp2.html). Zudem habe ich die Seitenleiste (das `<div>` mit der Bezeichnung `side`) nach dem `content-<div>` im Quelltext gesetzt. Das sorgt dafür, dass beispielsweise bei Vorlesegeräten zuerst der Inhalt und später dann die Seitenleiste vorgelesen wird. Gerade bei langen Navigationsleisten ist das natürlich ein Vorteil (Was aber, wenn der Leser nur schnell navigieren will und nicht auf den Inhalt zugreifen? – Die Antwort folgt in einem der nächsten Teile).
+
+## Was für ein Layout darf es sein?
+
+Prinzipiell gibt es mehrere Möglichkeiten wie eine Webseite aufgebaut werden kann. Hier bietet sich eine 2-spaltige Lösung an. Es gibt jetzt aber kein Patentrezept für einen einfachen 2-Spalter sondern mehrere Möglichkeiten, die alle eine Betrachtung Wert sind: ### 1. Das Fixed-Width-Layout
+
+![Schema: Fixed-Width-Layout](/images/182.png "Schema: Fixed-Width-Layout") Wer dem Englischen mächtig ist hat schon messerscharf erkannt: Es geht um ein Layout, das seine Breite nicht verändert. Diese Layouts werden meist in Pixeln angegeben und sind – vom Verständnis her – die einfachsten. Im Normalfall werden diese Layouts mittig gesetzt. Dies hat natürlich aber auch einige Nachteile: - Bei Schriftvergrößerung wird das Layout buchstäblich zerrissen.
+- Der Inhalt muss unter allen Umständen in den Bereich des Content
+  
+  passen, bei meist 400 bis 500 Pixeln Platz ist das nicht so einfach einzuhalten.
+
+### 2. Das elastische Layout
+
+Diese Layoutform erschließt sich auch dem erfahrenen Leser nicht leicht. Gemeint ist ein Layout, welches bei Vergrößerung der Schrift wächst und bei Verkleinerung der Schrift schrumpft. Es liegt nahe, dass man da mit Pixeln nicht weit kommt – diese sind ja nicht von der Schriftgröße abhängig. Es gibt aber eine Einheit in CSS, die genau das ist: `em` (und `ex`, was aber sehr fehlerhaft interpretiert wird). `em` bezeichnet die Buchstabenhöhe, also die Schriftgröße. Deshalb wird es im Normalfall auch nur dafür genutzt: `font-size: 1.3em;` besagt, dass die Schrift 130% größer sein soll als die Schrift des Elternelements – klingt kompliziert, ist es auch (zumindest in dieser theoretischen Betrachtung). ![Schema: Fixed-Width-Layout](/images/182.png "Schema: Fixed-Width-Layout") Die Schemazeichnung fällt beim “elastischen Layout genauso aus wie bei einem Layout mit fester Breite: ### 3. Das fluide Layout
+
+![Schema: Fluides Layout](/images/183.png "Schema: Fluides Layout") “Fluide” oder “flüssig” sind Layouts, die sich der Bildschirmbreite anpassen. Dies bedeutet, dass der Fließtext unangenehm lang werden kann, was sicherlich der größte Nachteil dieser Methode ist. In modernen Browsern kann dem zwar Abhilfe geschaffen werden indem man die Laufweite per `max-width` beschränkt, der Internet Explorer versteht das allerdings nicht. ![Schema: Fluid-Fixed-Layout](/images/184.png "Schema: Fluid-Fixed-Layout") Im Normalfall sind beide Spalten in Prozent der Fensterbreite angegeben, oder eine der Spalten (meist die Seitenleiste ist) bekommt eine fixe Breite. Diese könnte man natürlich auch elastisch auszeichnen, aber wir wollen es ja nicht komplizierter machen als es sein muss… OK, soviel zur Theorie, beim vierten Teil geht’s um die Praxis: Wir beginnen mit ein Paar einfachen CSS-Anweisungen und nehmen uns ein Fixed-Width-Layout mit Kopf und Fußzeile vor. In der Zwischenzeit könnte man seine CSS-Kenntnisse auffrischen, aber keine Angst, alles wird Schritt für Schritt erklärt.

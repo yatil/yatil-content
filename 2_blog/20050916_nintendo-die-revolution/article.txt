@@ -1,0 +1,16 @@
+Title: Nintendo – Die Revolution
+----
+Date: 2005-09-16
+----
+Category: Videospiele
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+![Nintendo Revolution Controller](/images/203.jpg "Nintendo Revolution Controller") Das die neue Konsole Nintendos den Namen “Revolution” trägt ist ja weithin bekannt, zumindest jetzt. Dass sich Nintendo nun aber anschickt Apple im Konsolenmarkt zu werden ist – mir zumindest – neu. Was ihr rechts seht ist nämlich kein neuer iPod sondern der Controller des neuen Gerätes. Er verfügt über ein Steuerkreuz, eine An-/Austaste, Select, Start und Home, ein großer A-Knopf und kleine a- und b-Knöpfe. Dazu eine Anzeige welcher Player man ist. Das ist auch verdammt nötig, der Controller ist nämlich kabellos und wird nur durch das bewegen des selben gesteuert. Es wäre beispielsweise in einem Prügelspiel möglich Faustschläge durch bloßes andeuten mit der eigenen Hand auszuteilen. Damit zeigt Nintendo endlich wieder einmal was in ihnen steckt. > Two small sensors placed near the TV and a chip inside the controller track its position and orientation, allowing the player to manipulate the action on screen by physically moving the controller itself. For example, you could slash an in-game sword by actually swinging the controller from side to side, turn a race car just by twisting your wrist, or aim your gun in a shooter by pointing the controller where you want to fire. An expansion port on the bottom of the unit allows for add-on hardware to compliment this “remote controller” \[...\], like a second controller piece Nintendo demonstrated that comes equipped with an analog stick and two trigger buttons \[...\]. When the two controller pieces are attached, the so-called ‘Nunchaku’ configuration (the two bits are connected by a short cord) can work similarly to current controllers, just with the second analog stick replaced by actual movement of the Revolution controller. Nintendo also mentioned that the controller stick could be slipped inside other, more conventional controller shells, dance mats, bongos, or other peripherals. [1up.com: Revolution Controller Finally Revealed](http://www.1up.com/do/newsStory?cId=3143782)
+
+Via: [Alexoid](http://www.alexoid.com/2005/09/revolution_cont.html)

@@ -1,0 +1,22 @@
+Title: Nachtrag zum Webmontag Wien 2.0
+----
+Date: 2007-01-20
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zwei davon setzten sich mit Security auseinander, einer mit der Programmiersprache SPL. Walter Rafelsberger hat [live mitgebloggt](http://www.metaportaldermedienpolemik.net/blog/Blog/2007-01-15/webmontag+in+wien) aber sein [Mawih](http://mawih.rafelsberger.at/) haben wir leider nicht zu sehen bekommen.
+
+Nach den (etwas zu lang geratenen) Präsentationen haben sich noch einige Detailgespräche ergeben – genau das was die Webmontage aus macht.
+
+Mit _Brigitta Aubrecht_ vom [MAIN\_web](http://www.mainweb.at/) unterhielt ich mich über Barrierefreiheit. Wir dachten an einen Webmontag Barrierefreiheit einzurichten, dann eventuell auch mit betroffenen – für die ist das Metalab aber nichts, es gibt keinen Zugang für Rollstühle. Ich finde die Idee gut.
+
+Mit [Fabian Topfstedt](http://www.topfstedt.de/weblog/index.php) habe ich mich über alles mögliche unterhalten, vor allem auch über steuerrechtliche Angelegenheiten – auch da sollte man mal einen Experten einladen, das ist nämlich überhaupt nicht so einfach, das alles.
+
+[Walter Rafelsberger](http://www.metaportaldermedienpolemik.net/) hat seine Konzepte und Überlegungen zu seinem “Mail-Wiki-Hybrid” mit mir geteilt und uns sind mannigfaltige Anwendungsmöglichkeiten dafür eingefallen. Jedenfalls würde es den Zugang zu Wikis auch für Nicht-Tekkis vereinfachen – E-Mail kann ja jeder. Als gutes Beispiel für den einfacheren Zugang zu Wikis führte Walter [Last.fm](http://lastfm.de/) an. Und nach genauerer Betrachtung muss ich ihm da zustimmen.

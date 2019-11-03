@@ -1,0 +1,36 @@
+Title: Achtung Sparkassen-Phishing!
+----
+Date: 2006-06-08
+----
+Category: Gesellschaft
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Gerade folgende E-Mail bekommen:
+
+> Sehr geehrte Kundin, sehr geehrter Kunde,  
+> wir freuen uns Ihnen mitzuteilen, dass Online-Banking der Sparkasse jetzt noch sicherer ist!  
+> Weltweit gilt das TAN-Verfahren als eines der sichersten Legitimations-Verfahren für Online-Bankgeschäfte. Dennoch gab es in letzter Zeit immer wieder Versuche, auf betrügerische Art und Weise TAN-Nummern von Kunden zu erhalten und das Geld ins Ausland zu überweisen.  
+> Zur Zeit ist uns das Verfahren, die die Betrüger für die Entwendung der TAN-Listen benutzen, nicht bekannt.  
+> Um Ihre Online-Geschäfte noch besser zu schützen, führt die Sparkasse zusätzliche Schutzmassnahmen ein.  
+> Fuer den gewöhnlichen Schutz durch nicht nummerierte TAN-Liste haben Sie zwei gültige TAN einzugeben. Wenn sie den neuen iTAN Verfahren benutzen, müssen Sie 20 iTAN eingeben.  
+> Kunden, die den gewöhnlichen Schutz durch TAN-Liste verwenden, gehen Sie bitte auf diesen Link:  
+> https://www.sparkasse.de/verify/tan-listen.do  
+> Nutzer, die den iTAN-Schutz verwenden, gehen Sie bitte auf diesen Link: https://www.sparkasse.de/verify/itan.do  
+> Achtung! Wir bitten unsere Kunden um Verständnis für diese Überprüfung.  
+> Alle Sparkassenkonten, die nicht innerhalb eines Tages authentifiziert werden, werden gesperrt!
+
+**Dabei sind die Links verschleiert. Klickt man auf sie wird man an eine IP verwiesen, an der die Phisher die Daten abgreifen!** Wenn man die Webadressen eingibt werden Fehlerseiten der Bank ausgegeben.
+
+Anzeichen für Phishing-Attacken:
+
+- Keine persönliche Anrede,
+- Keine verantwortliche Person und
+- Die Bitte um die Herausgabe von Daten wie PIN und TAN!
+ 
+Bitte **nie** solchen E-Mails auch nur irgendeine Beachtung schenken!!!!

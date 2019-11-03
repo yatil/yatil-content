@@ -1,0 +1,82 @@
+Title: Blogging Barcamp Live
+----
+Date: 2006-09-30
+----
+Category: Gesellschaft, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+10:10 im Barcamp von „Beginn on Time“ auf der Webseite angekündigt ist noch nichts zu spüren. Der Andrang war leider nicht sooo groß und so dürften sich etwa 30 Wissenshungrige zum „One Smart Space“ aufgemacht haben. Das Gebäude liegt mitten in der wiener Innenstadt im Dachgeschoß und erinnert mich an die Location des Webmontags in Trier.
+
+10:17 | Ahhh, es geht los!
+
+10:30 | Okay, 14:30 geht meine Session los, die ich mal optimistisch “Webstandards in der Praxis” getauft habe.
+
+10:49 | Der erste Vortrag über [Campa.at](http://campa.at) ist fast zuende – eine typische Web2.0-Anwendung. Forne, Kalender, Blogs, Social Network. Und alles beta. Sieht aber gut aus und [valide](http://qa-dev.w3.org/unicorn/observe?ucn_task=conformance&ucn_uri=http%3A%2F%2Fcampa.at) ist es auch noch (von ein paar praktischen Invaliditäten abgesehen, die den IE betreffen.).
+
+11:29 | Eine kurze Einführung über „Time Management mit Outlook“ stand gerade auf der Agenda. Meiner Meinung nach zu kurz dafür aber – typisch amerikanisch – sympathisch rübergebracht von Anthony Bull. Glaube aber, dass ich in „Social Software in Corporate Contexts“
+
+Jetzt muss ich meinen Vortrag auch noch auf Englisch halten. Das sollte aber kein Problem darstellen, ich bin ja ein wenig trainiert.
+
+11:33 | „Zuckerrohr & Zuckerrübe“ heißt die nächste interessante Präsentation. Mal schauen worum es sich da dreht.
+
+11:45 | Hmm… das scheint eher etwas existentialistisches zu sein, naja. Okay, da hab ich jetzt nicht soviel mitbekommen, es ging um die „Akademie des Neuen“, die wohl wie ein US-amerikanischer Think-Tank arbeitet.
+
+11:58 | Na, so wirklich Stimmung will hier nicht aufkommen, aber das liegt sicherlich an dem eifrigen Getippe, das zeigt, dass es vielen anderen ähnlich wie mir geht und sie unbedingt ihre Präsentation fertig bekommen wollen.
+
+12:04 | Ah, jetzt kommen die Interessanten Themen: Es geht endlich um Sex. Naja, Cybersex in Second Life. Immerhin.
+
+Da fällt mir [Thomas Wanhoffs](http://wanhoff.de) Einwurf ein, der vorletzten Webmontag meinte:
+
+> Klar, Second Life hat in Deutschland keine Chance, weil es da keine Aufträge gibt, wie in World of Warcraft. Weil man nicht gesagt bekommt, was man zu tun hat. Wir Deutschen sind halt eine Führernation. Thomas Wanhoff
+
+12:30 | So, jetzt gibt’s Toasts.
+
+13:17 | Großartig. Dafür, dass ich nicht vorbereitet bin werde ich jetzt wohl auch noch Crossover nach Berlin durchgestellt. Da freu ich mich aber :)
+
+13:43 | Wobei anscheinend funktioniert noch nicht alles. Jetzt beginnt aber die Veranstaltung „Social Software for Vagabonds“. Hört sich interessant an. Erinnert mich an die „Geschäftsidee“ „Rent-A-Couch“, die ich von zwei Jahren schonmal hatte. Oh, die Seite heißt auch noch [CouchSurfing.com](http://couchsurfing.com/).
+
+14:14 | Aha, jetzt geht es um Strukturierungen. Das Couchsurfing hört sich immerhin sehr praktisch an, wenn auch mir zu abenteuerlich wäre.
+
+14:31 | Wenn man die Begriffe auf der ÖVP-Seite verbindet, dann bleibt die Nachricht „Österreich bleibt Zukunft“ wohingegen bei der KPÖ die „Menschen“ im Zentrum stehen. Schöne Beispiele von gewichteter Strukturierung.
+
+15:24 | Puh, man kann mit [Web Standards and Microformats](http://yatil.de/barcamp/) immer noch ganz schön viele Leute aus dem Raum jagen. Aber ich glaube meine Präsentation war ganz in Ordnung.
+
+Jetzt ist gerade [calorie-count.com](http://calorie-count.com) dran, nachdem wir eine gute halbe Stunde hinter dem Zeitplan her hinken, was aber nicht mein „Verdienst“ ist.
+
+17:45 | Kaffepause… hätte ich gern gehabt, so hatte ich eine nette Unterhaltung über den Sinn eines MacBook-Kaufs.
+
+16:17 | Everything 2.0 – hier geht es um Dinge, die sich ändern sollten. Politics 2.0 zum Beispiel. Sehr Interessant.
+
+16:27 | Okay, Medien 2.0 und Wissenschaft 2.0 ist auch wichtig.
+
+16:31 | Economy, Transportation und Advertising sollten auch endlich mal auf Stufe 2.0 steigen. Alles tolle Ideen.
+
+17:01 | Ich würde gerne weiter Live-Bloggen, aber das Netzwerk ist abgeschmiert, mal schauen, wenn es wieder funktioniert.
+
+17:26 | Nun geht’s um Semantic Desktops. Sehr Interessant. Der Vortragende kommt aus Wien und arbeitet jetzt in Kaiserslautern im „Deutschen Forschungszentrum für künstliche Intelligenz“. Zufälle gibt’s.
+
+17:30 | Grüße nach Berlin übrigens. Dort ist heute schon der zweite Barcamp-Tag.
+
+17:36 | Schade, jetzt ist der Vortrag schon zu Ende, der war wirklich interessant. Wenigstens jetzt noch ne Fragerunde.
+
+17:42 | Na, jetzt wird’s aber doch ein bisschen fad. Von Mash-Ups redet er jetzt. Das war auch eines der Themen bei der [d.construct](http://2006.dconstruct.org/). Unbedingt Podcasts anhören!
+
+18:03 | Nach acht Stunden stelle ich fest: es zieht sich ganz schön… Aber Hacking Google-Maps ist auch sehr interessant. Heut Abend ist auch ist übrigens Barcamp-Party im [werkzeugH](http://www.werkzeugh.at/). Unbedingt vorbeikommen!
+
+18:15 | Jetzt gibt es die letzte Session. Es geht um eine Version von Microsoft Paint mittels JavaScript und CSS per Canvas-Element ([nicht Tag!](http://meiert.com/de/publications/articles/20060924/)).
+
+18:37 | Okay, zu früh gefreut. Nachdem auch HTML 5 und die WHATWG angeschnitten wurde ging es noch durch ein paar Demos. Nun geht’s zu einer Diskussion über die Zukunft des Webs (alias Web 3.0). Ich bin gespannt.
+
+18:50 | Naja, die Diskussion war nicht so ergiebig. Man sieht sich heut Abend im werkzeugH.
+
+## Während die Videos noch auf sich warten lassen sind bereits viele Fotos da:
+
+
+
+[barcampvienna](http://barcamp.at)

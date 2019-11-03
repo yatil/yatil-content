@@ -1,0 +1,14 @@
+Title: Herzlichen Glückwunsch Webkrauts!
+----
+Date: 2015-08-23
+----
+Category: Webdesign
+----
+Summary: 
+----
+Tags: webkrauts
+----
+Image: 
+----
+Text:
+Am 20.08.2015 sind die Webkrauts, der lose Verbund von Webentwicklern, 10 Jahre alt geworden. Jens Grochtdreis feiert mit einem [Rückblick im Webkrauts-eigenen Blog](http://webkrauts.de/artikel/2015/10-jahre-webkrauts). Damals waren Tabellenlayouts noch normal, heute haben wir überladene CSS-Frameworks. Webseiten haben heutzutage riesige Bilder während es 2005 noch ein Sakrileg war wenn eine Seite breiter als 800px war. Und natürlich war Responsive Web Design noch lange kein Begriff. Es bleiben weitere Herausforderungen. Auf die nächsten 10 Jahre!

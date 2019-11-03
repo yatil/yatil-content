@@ -1,0 +1,16 @@
+Title: PS-Redesign
+----
+Date: 2004-04-06
+----
+Category: Design, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die [Website der Stadt Pirmasens](http://www.pirmasens.de) wurde redesignt. Das sie [nicht valide](http://validator.w3.org/check?uri=http%3A%2F%2Fwww.pirmasens.de%2F&charset=iso-8859-1+%28Western+Europe%29&doctype=HTML+4.01+Transitional&verbose=1) ist muss ich wahrscheinlich nicht erwähnen, auch nicht, dass sie weitestgehends mit Tabellen – also alles andere als Barrierefrei – gebaut wurde.
+
+Die Schrift ist durchgehend zu klein. Die Navigation kann mich nicht überzeugen.

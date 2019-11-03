@@ -1,0 +1,16 @@
+Title: Neuer Artikel online
+----
+Date: 2005-04-08
+----
+Category: Programmierung, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Ich habe den Artikel [AJAX and Accessibility](http://www.standards-schmandards.com/index.php?2005/03/01/16-ajax-and-accessibility) von [Standards-schmandards](http://www.standards-schmandards.com) ins Deutsche übersetzt:
+
+**AJAX und Zugänglichkeit**

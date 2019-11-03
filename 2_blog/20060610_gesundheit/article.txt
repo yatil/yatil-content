@@ -1,0 +1,41 @@
+Title: Gesundheit!
+----
+Date: 2006-06-10
+----
+Category: Gesellschaft, Innenpolitik
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Doch betrachten wir erstmal die beiden Ausgangsmodelle:
+
+- Die **Bürgerversicherung** (BV) ist das von der SPD favorisierte Modell und sieht vor, dass jedermann einen prozentualen Anteil seines Einkommens in die gesetzliche Krankenversicherung einzahlt. Private Krankenversicherungen gäbe es dann nicht mehr, zumindest nicht in der heutigen Form – sie können nur Zusatzleistungen anbieten.
+- Die **Gesundheitsprämie** (GP) der CDU ist das genau entgegengesetzte Modell. Jeder versicherte bezahlt eine fixe Summe pro Monat, soweit ich weiß leicht nach dem Einkommen abgestuft.
+ 
+Während die BV die “Versicherungsgrundlage” nach oben erweitert, indem Besserverdienende mit einbezogen werden, verlagert die GP eher in die andere Richtung, da alle mehr zahlen müssten als bisher. Anteilig am Einkommen wäre die Belastung für Geringverdiener allerdings höher als bei besserverdienenden.
+
+Dies sind natürlich zwei sehr gegensätzliche Modelle, die sich eigentlich nicht vereinen lassen. Nun könnte aber eine Vereinigung der beiden Modelle kommen:
+
+Das Fonds-Modell sieht folgendes vor:
+
+- Arbeitnehmer und Arbeitgeber zahlen wie bisher einen Anteil am Lohn in einen gemeinsamen Topf
+- Dazu kommt ein Zuschuss aus Steuermitteln
+- Aus diesem Topf wird eine Pauschale an die Krankenkasse gezahlt, plus Zuschläge für bestimmte Krankheiten
+ 
+Klingt kompliziert und ist es auch. Alleine der bürokratische Aufwand zur Erfassung der Daten wird die bisherige Krankenkassenbürokratie um Längen übertreffen.
+
+Und an wichtigen Stellschrauben wird nicht gedreht, weder an der Bürokratie, noch an den Arzneimittelpreisen noch im Bereich der Doppelbehandlungen.
+
+Richtig ist der Ansatz die Gesundheitskosten vom Lohn abzukoppeln, die Beiträge für die Krankenversicherung müssen auf mehr Schultern verteilt werden und dürfen auch gerne andere Einnahmen wie Mieteinnahmen (bisher steuerfrei) beinhalten.
+
+Dazu benötigt das gesamte System eine größere Transparenz. Was rechnet mir der Arzt ab, welche Untersuchungen hat er durchgeführt? Dazu sollten alle Patienten Rechnungen bekommen, die sie dann bei ihrer Krankenkasse einreichen können.
+
+Das wichtigste Ziel ist allerdings, dass Gesundheit bezahlbar wird, auch ohne komplizierte Geldbeschaffungsmittel wie Praxisgebühr oder der Arzneimittelzuzahlung.
+
+### Update, 10.06.06, 15.54 Uhr
+
+> Für die Bürger bedeutet das, dass sie künftig dreimal für ihre Gesundheit zahlen. Einmal als Versicherte, nur dass die Beiträge nicht mehr direkt an die Krankenkasse gehen, sondern in den Fonds eingezahlt werden. Zum Zweiten als Steuerzahler, denn zusätzlich zu den Beiträgen sollen auch Steuermittel in den Topf fließen. Und wenn sie Pech haben, dann müssen sie drittens noch eine extra Prämie an ihre Krankenkasse überweisen, wenn diese mit dem Budget nicht auskommt. Auch die Arbeitgeber sollen in den Fonds einzahlen, doch bei weitem nicht so viel wie die Versicherten. Nach Informationen des Handelsblatts soll der Arbeitgeberbeitrag bei rund 6 Prozent des Bruttolohns eingefroren werden. [TAZ: Na dann, Gesundheit!](http://www.taz.de/pt/2006/06/10/a0260.1/text)

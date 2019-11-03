@@ -1,0 +1,22 @@
+Title: MacBook-OP
+----
+Date: 2008-10-01
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nächste Woche werde ich das erste mal seit über 10 Jahren eine ganze Woche unfreiwillig ohne Computer sein, mein MacBook muss nämlich zur Wartung in die Werkstatt und ich habe (natürlich[^1]) keinen Ersatz.
+
+[^1]: Ja, daran sollte ich was ändern und ich hab Glück, dass ich gerade nicht mitten im Semester oder in Projekten stecke.
+
+Kaputt ist, wie bereits vor einem Jahr, der Lüfter, der mittlerweile nicht nur unglaublich laut ist, sondern auch manchmal einfach nicht anspringt. Das kann ich natürlich nicht so lassen, viel zu groß ist meine Angst, dass da noch mehr durchbrennt. Das MacBook wird jedenfalls erstmal auf Herz und Nieren gecheckt und dann repariert, sofern sich das noch lohnt. Ich habe nämlich insgeheim den Verdacht, dass es kein „einfacher“ Lüfterdefekt ist, sondern mehr kaputt ist. Für diese Theorie spricht, dass USB-Geräte oft nicht erkannt werden und Bluetooth sowie iSight schon eine ganze Zeit lang nicht mehr funktionieren. Ein Austausch des Logicboards würde jedoch über den Neupreis eines MacBooks hinausgehen. Per E-Mail bleibe ich weiterhin erreichbar (aber hauptsächlich auf dem Handy, erwartet also keine schnellen oder langen Antworten). Wünscht meinem MacBook gute Besserung! 
+
+## Update: Danke [Robert](http://robertlender.info/)!
+
+[Robert](http://robertlender.info/) hat mir erlaubt seinen nicht mehr in (reger) Verwendung befindlichen G5-Mac-Mini auszuborgen, eine Gelegenheit, die ich mir nicht entgehen lies. Die Geschwindigkeit ist nicht atemberaubend, aber es reicht für die meisten Websachen und das ist eigentlich eh alles was ich brauche. Ein ganz herzliches Danke!

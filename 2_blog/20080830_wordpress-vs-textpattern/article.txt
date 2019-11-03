@@ -1,0 +1,22 @@
+Title: Wordpress vs. Textpattern
+----
+Date: 2008-08-30
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Michael Jendryschik](http://jendryschik.de/) auf [Twitter](http://twitter.com/): > Weiß jemand auf die Schnelle, wie ich in Wordpress nur Artikel einer bestimmten Kategorie auf der Startseite anzeige?[1](#fn200514915648b90c3635317)
+
+1 [Quelle](http://twitter.com/jendryschik/statuses/901452146)
+
+> `query_posts('category_name=aktuell&showposts=10'); while (have_posts()) : the_post();`[2](#fn212353770148b90c3635a74)
+
+2 [Quelle](http://twitter.com/jendryschik/statuses/901460448)
+
+Zum Vergleich hier der selbe Sachverhalt in [Textpattern](http://textpattern.com/): `<txp:article_custom category="aktuell" limit="10" />`Keine Programmlogik in den Templates ist ein riesen Vorteil, zusammen mit den sprechenden „Textpattern-Tags“. Ich wollte nicht darauf verzichten. Wollte ich nur mal gesagt haben :)

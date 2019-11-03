@@ -1,0 +1,14 @@
+Title: Fröhliche Weihnachten!
+----
+Date: 2007-12-24
+----
+Category: News, Studium
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Vielen Dank liebe Leserinnen und Leser. Das Jahr 2007 war wieder einmal fantastisch. Ich konnte viele neue Kontakte knüpfen und mir gleich zweimal ein kleines Burn-Out-Syndrom für die Webkrauts einfangen (Großer Bundesliga-Test, erinnert man sich?). Doch im großen und ganzen hat dieses Jahr eine Menge Spaß gemacht: Barcamp folgte auf Barcamp, der Webmontag in Wien ist eine feste, fast monatliche Veranstaltung. Dazu tolle Kontakte zu den Menschen bei Accessible Media, vor allem über den Accessibility-Stammtisch. Im Januar geht es mit einem Seminar über „Web2.0 im Unterricht“ weiter, das ich an einer weiterführenden Schule in Wien halten darf. Hinzu kommt – voraussichtlich im Februar – ein Vortrag beim Accessibility-Stammtisch zum Thema „Barrierefreies JavaScript“. Vorher wird der Januar aber Studiumstechnisch unglaublich anstrengend, stehen doch nicht nur Prüfungen an sondern auch gleich mehrere Projekt-Abgaben, die es unter einen Hut zu bringen sind. Ich hoffe, dass ich da auf einem guten Weg bin. Aber genug davon. Ich wünsche ![Fröhliche Weihnachten!](http://yatil.de/images/271.jpg "Fröhliche Weihnachten!")

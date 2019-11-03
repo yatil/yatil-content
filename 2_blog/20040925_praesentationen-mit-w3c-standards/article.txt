@@ -1,0 +1,23 @@
+Title: Präsentationen mit W3C-Standards
+----
+Date: 2004-09-25
+----
+Category: Programmierung, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Namensvetter [Eric Meyer](http://www.meyerweb.com/eric/thoughts/2004/09/24/slide-show-beta/) stellt in seinem Weblog [Eric’s Archived Thoughts](http://www.meyerweb.com/eric/thoughts/) eine Methode vor durch Standard-XHTML-Code und CSS eine [Präsentation im Powerpoint-Stil](http://www.meyerweb.com/eric/tools/slideshow/test.html) zu erstellen. Vorteilhaft ist zudem noch, dass die »Folien« ausgedruckt werden können, und zwar Form einer Übersicht.
+
+Prädikat: Besonders Wertvoll!
+
+**Nachtrag:**
+
+> Mike M. and Eric E.: good catch on the print problems, which I hope are now fixed (_I added the rule Eric suggested_). I’d encountered that same problem with the ‘projection’ styles when toggling, and fixed it via JS, but failed to extrapolate from there to deduce likely print trouble.  
+> [Kommentar von Eric Meyer](http://www.meyerweb.com/eric/thoughts/2004/09/24/slide-show-beta/#comment-1048)
+
+Ich fühle mich geehrt!

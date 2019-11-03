@@ -1,0 +1,14 @@
+Title: The Daily Nerd
+----
+Date: 2011-10-26
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Daily links for web developers, curated by @vasilis (who held an [exciting presentation](http://vasilis.nl/presentaties/fronteers/jam11/) at [this year’s Fronteers Jam](http://fronteers.nl/congres/2011/jam-session)). Language is Dutch, but there is an [app for that](http://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fdailynerd.nl%2F).Update: From November 1st, 2011 the Daily Nerd is published in English. [Enjoy!](http://dailynerd.nl/2011/11/01/990/)

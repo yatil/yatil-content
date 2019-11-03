@@ -1,0 +1,18 @@
+Title: European Accessibility Forum Frankfurt
+----
+Date: 2009-01-28
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Am 27. März 2009 findet in Frankfurt das [„Europäische Accessibility Forum“](http://eafra.de/) statt, das von der Agentur [namics](http://www.namics.com/) organisiert wird. Dabei werden [Accessibility-Experten](http://eafra.de/2009/referenten/) teilnehmen, die man in dieser Zusammensetzung im deutschsprachigen Raum noch nicht gesehen hat. Aus der Selbstbeschreibung:
+
+> „Barrierefreiheit hat eine Wandlung vollzogen. Angesichts der demographischen Entwicklung ist Barrierefreiheit ein wirtschaftlicher und ethischer Imperativ geworden, aber auch ein Zeichen von Professionalität. Die Innovationsführer der Branche – darunter die Europäische Kommission, France Télécom, Google, IBM, Microsoft, Mozilla, Opera, das W3C, das Web Standards Project und Yahoo! – teilen ihr Wissen, diskutieren soziale und politische Entwicklungen im Internet: Das Netz, das uns überall umgibt und durch dessen Maschen wir auch dann nicht fallen wollen, wenn wir im Alter eine Behinderung erwerben.“
+
+Auch ich wurde zu dieser Veranstaltung eingeladen und werde das Panel [„Barrierefreiheitsrichtlinien im nationalen Vergleich“](http://eafra.de/2009/programm/#national-guidelines) moderieren, eine Aufgabe auf die ich mich bereits sehr freue. Die Veranstaltung wird im [„Haus am Dom“](http://eafra.de/2009/ort/) durchgeführt und die [Anmeldung ist seit heute geöffnet](http://eafra.de/2009/anmeldung/), Karten kosten richtig günstige 220€.

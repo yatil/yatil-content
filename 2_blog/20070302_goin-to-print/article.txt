@@ -1,0 +1,18 @@
+Title: Goin’ to Print
+----
+Date: 2007-03-02
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Und nicht nur das. Auch die [Webkrauts](http://webkrauts.de/) [Dirk Ginader](http://blog.ginader.de/), [Jens Meiert](http://meiert.com/) und [Dirk Jesse](http://blog.highresolution.info/) sind mit Artikeln dort vertreten. Dirk Ginader wird mit seinem [JsPopUp-Artikel](http://www.webkrauts.de/2006/12/19/unaufdringliche-neue-browserfenster/) aus dem [Webkrauts-Adventskalender 2006](http://www.webkrauts.de/adventskalender/#j2006) vertreten sein. Jens wird mit seinen [GMX-Code-Richtlinien](http://meiert.com/de/publications/articles/20060326/) vertreten sein. Dirk Jesses Artikel [IE7 – einfacher und sicherer – aber auch besser?](http://www.webkrauts.de/2006/11/03/ie7-einfacher-und-sicherer-aber-auch-besser/) erschien ebenfalls zuerst bei den Krauts.
+
+[Die weiteren Artikel könnt ihr euch auf betamagazin.de anschauen](http://betamagazin.de/) und hier gibt es „meine“ Seite schonmal als Preview:
+
+![Betamagazin Artikel: Die 10 wichtigsten IE7-Neuerungen](http://yatil.de/images/248.jpg "Betamagazin Artikel: Die 10 wichtigsten IE7-Neuerungen")

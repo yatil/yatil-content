@@ -1,0 +1,14 @@
+Title: Alles neu macht der Mai
+----
+Date: 2009-05-20
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Hier sieht es (endlich) mal wieder anders aus, und neben dem (zugegeben wenig spektakulären) Design habe ich aus dem Vollen geschöpft, was neue Webtechnologien angeht. Nicht nur HTML5 und CSS3 haben es geschafft, auch [Cufón](http://cufon.shoqolate.com/generate/) wurde eingesetzt um Nicht-Standard-Schriften benutzen zu können. Und auch diverse WAI-ARIA-Attribute kann man im Quelltext finden. Natürlich liegt hier überall noch ein wenig Bauschutt rum, so wird das [Archiv](/archiv/) noch aufgeräumt und die Sidebar (ja, liebe Feedleser, es gibt wieder eine Sidebar!) noch ein wenig erweitert. Ich bin auf euer Feedback gespannt.

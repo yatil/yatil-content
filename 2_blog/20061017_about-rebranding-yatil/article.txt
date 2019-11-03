@@ -1,0 +1,38 @@
+Title: About: Rebranding yatil!
+----
+Date: 2006-10-17
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nun mag man überlegen warum der Seitenbetreiber (in diesem Falle ich) so gehandelt hat und den Namen der Webseite in dieser Weise geändert hat. Das hat einige (und wie ich meine) gute Gründe:
+
+## „Keine Logos für private Seiten“\*
+
+Sagt [Gerrit](http://praegnanz.de/) und hat damit Recht, 100-prozentig! Die Frage ist allerdings: Weshalb hatte „Erics Weblog“ überhaupt ein [„Logo“](http://de.wikipedia.org/wiki/Logografie)?
+
+(_\*Hinweis:_ Gerrits Satz lautete „Private Seiten brauchen ja eigentlich kein Logo“. Diese No-Logo-Überschrift wurde verkürzt dargestellt um die Überschrift nicht zu lang werden zu lassen. Es ist beileibe keine Regel oder so. Lediglich Gerrits – und auch meine – Meinung.)
+
+Nun, bevor ihr jetzt anfangt Fachliteratur zu lesen oder in Foren nachzuschauen sage ich es euch einfach: Um sich von anderen Webseiten zu unterscheiden.
+
+Der Name „Erics Weblog“ ist im Vergleich zu den anderen Webseiten doch sehr schwach. Da gibt es [\[F – LOG – GE\]](http://blog.grochtdreis.de/) (oder „Jens’ Blog“), [Markup](http://bs-markup.de/blog/index.php) (oder „Björns Blog“), [pixelgraphix](http://www.pixelgraphix.de/log/) (oder „Manuelas Blog“). Eine wirkliche [Praegnaz.de](http://praegnanz.de/) strahlt „Erics Weblog“ unter diesen nicht aus. Mit oder ohne (unpassendem) Logo.
+
+Und dann ist da noch der Domainname „yatil.de“. Der gut für sich allein stehen kann, der ungewöhnlich ist (wie google oder yahoo, also am Anfang) und der trotzdem leicht einprägsam ist, mit seinen fünf Buchstaben.
+
+Also weg mit dem Logo und weg mit der Umschreibung „Erics Weblog“ und her mit „yatil!“. Weshalb das Ausrufezeichen? Es soll – in Verbindung mit der roten Farbe erst recht – einen gewissen „Wumms“ in das Wort bringen. Es ist nicht einfach yatil, es ist yatil!
+
+Okay, da yatil (mit oder ohne „Wumms“) natürlich kein Wort ist, ist die Satzbildung damit ein wenig schwer:
+
+> Eric Eggert hat beim Barcamp Wien einen Vortrag über Webstandards gehalten und dabei große Webprojekte betrachtet. Das Video und die dazugehörenden Folien „Web Standards in Practice” gibt es in seinem Weblog yatil!. [Script Artists](http://www.script-artists.de/2006/10/warum-auch-programmierer-auf-webstandards-wert-legen-sollten.html)
+
+Das gefällt mir so noch nicht. Lieber hätte ich die Formulierung gelesen „Das Video und die dazugehörigen Folien … gibt es bei yatil!“ oder „yatil! hat das Video und die dazugehörigen Folien …“. Aber das ist natürlich nicht die Schuld der Script-Artists-Macher sondern ein Problem mit dem Kunstwort yatil!, das leider ohne Artikel auskommen muss. (Oder gibt es wirklich Leute, die „Der yatil!“, „Das yatil!“ oder gar „Die yatil!“ sagen würden? Und wenn ja, heißt es dann auch „Die Google“?)
+
+Übrigens wird es an dieser Stelle erstmals **kein** CSS-Reboot am ersten November geben. Erstens habe ich die Zeit nicht und zweitens bin ich ganz zufrieden mit dem momentanen Design. Hier und da ein paar Änderungen wird es schon geben, aber kein großes Redesign.
+
+Anmerkungen, Hinweise und Beschimpfungen nehme ich gerne über nachfolgendes Kontaktformular auf :)

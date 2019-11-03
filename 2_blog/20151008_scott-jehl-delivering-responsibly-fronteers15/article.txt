@@ -1,0 +1,69 @@
+Title: Scott Jehl — Delivering Responsibly #fronteers15
+----
+Date: 2015-10-08
+----
+Category: Event, General
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- The web is a hostile environment. “It is a continuum.” (Jeremy Keith)
+- Viewport sizes have become fluid, and they don’t need to be the same as the device’s screen size.
+- Now we need to difference between simple and enhanced use cases.
+- Many people use proxy browsers like Opera Mini – that often breaks JavaScript and doesn’t support icon fonts.
+- There are so many input and output methods – and you can’t deduct from the screen size the input method, touch is now everywhere.
+- 2013 60% of the people on the web were on sub-3G (Edge).
+- In Western Europe, still 60% on 3G, LTE takes a while to come up to speed, especially outside of Europe and the US.
+- Google services like fonts, translations and hosted JavaScript are 100% blocked in China.
+- We ususally don’t think as progressive enhancement as for people who disable JavaScript, but there are Content and Ad blockers that block requests and JavaScript. JavaScript is still enabled, so <noscript> won’t work. Also @font-face can be blocked now very easily.
+- People won’t think they did something wrong when the site doesn’t work because of those blockers.
+- These factors don’t make our jobs harder, **it is our job**.
+- Not just a matter of empathy. Access is our job.
+- Some of the JS frameworks of today rely on JavaScript. Often the content of the site is perfectly useful without JavaScript, yet we built on the web’s most fragile layer.
+- And we – as developers – work under optimal conditions, as we need good connection if we want to work efficiently.
+- Sites grow all the time, the avg. page weight is over 2 MB.[ http://whatdoesmysitecost.com](http://whatdoesmysitecost.com)
+- We need to stop developing for the best cases but for the real world, for example by setting an artificial low connection speed.
+- But we can’t simulate everything, we need functional testing on real devices and using tools. Everyone needs a device lab.
+- We need to build with resilience.
+- We have developed tools that helped us to polyfill our lacking infrastructure.
+- But there are structure changes, for example http2 – some of our best practices are not needed with it: 
+  - Concatination
+  - Spriting
+  - Inclining CSS,JS, Images
+- Still important: 
+  - Optimizing files
+  - Avoid unnecessary requests
+- HTTP2 doesn’t work with all browsers, but the support on browsers is quite good, but not so good on the servers.
+- We need to prioritize things for today and tomorrow. 
+  - Optimize
+  - Minify
+  - Gzip
+  - Offer different versions of the images, based on the needs in the site.
+  - The new image standards (srcset, picture) are working in browsers – including built-in fallbacks.
+  - Client hints is a new kind of header where the server gets to know some things from the browser, for example viewport-width, width and dpr.
+  - Server can make an informed decision on what file to send out.
+  - Optimizing the critical rendering pipeline.
+  - Latency is responsible for bad performance but not bandwidth.
+  - We want to minimize roundtrips – and one way to do it is to carry more at each request.
+  - Identify and inline the CSS necessary to render above the fold content.
+  - But there is no fold, yet pages are viewed from top to bottom, so it makes sense to render the top of the page first.
+  - There are tools to identify the critical CSS – e.g. <https://github.com/filamentgroup/criticalCSS>
+  - Do this for every template, identifies the CSS, ready to inline that CSS.
+  - Then render the full css, but a usual link doesn’t work as browsers block rendering. <link rel="preload"> to the rescue – which is unsupported right now.
+  - Need to be polyfilled, so we need to inline critical javascript as well.
+  - It makes sense to have an async css and script loader, like loadJS – Native support for async and defer work well. But the script loader allows us to see if we really want to load the script at all
+  - Cutting the mustard: Only load javascript if it is useful to enhance.
+- What changes with HTTP2? 
+  - Inlining is not needed anymore. When the browser requests an HTML, the server can say oh, and here is the critical CSS, too.
+- Major perceived performance issue is font loading 
+  - Most browsers hide the text until the font is loaded.
+  - 30s in iOS, 3s in other browsers until the fallback text appears.
+  - Alternative using a font loader. Start with a fallback font and there will be a class to the body that is set once the font is loaded, so no you get a progressive font rendering.
+  - Coming soon: font-display: swap; (used to be font-rendering – name still in discussion)
+  - There are also other options that might suit other people more, for example don’t use custom font at all unless it is in cache.
+- Case study: Wired article dropped 9s on 3G – and that is just with HTTP1.
+- There is a lot to think about. We can build broadly accessible websites even if we want to leverage the latest techniques.

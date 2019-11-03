@@ -1,0 +1,14 @@
+Title: Thank you Amsterdam, Danke Wien
+----
+Date: 2010-11-10
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+In den letzten vier Wochen durfte ich gleich 2 Vorträge auf internationalem Parkett halten. Zuerst hielt ich beim [Fronteers Jam](http://fronteers.nl/congres/2010/jam-session) am Vorabend der exzellenten [Fronteers 2010-Konfernz](http://fronteers.nl/congres/2010) hielt ich (auf englisch) den Vortrag [„Principles of Accessible Web Design“](http://www.slideshare.net/yatil/fronteers-jam-session-principles-of-accessible-web-design): [Fronteers Jam Session: Principles of Accessible Web Design](http://www.slideshare.net/yatil/fronteers-jam-session-principles-of-accessible-web-design)Am vergangenen Freitag habe ich zudem einen Vortrag beim A-Tag in Wien gehalten. Es war schön mal wieder in diese Stadt zurück zu kommen in der ich so lange gelebt habe. [Sandra hat Fotos unserer Reise bei Flickr hochgeladen.](http://www.flickr.com/photos/screenorigami/sets/72157625349165966/) In meinem Vortrag ging es um den praktischen Einsatz von HTML5 und CSS3 und – an dem Feedback gemessen, das ich enthalten habe – das Thema kam gut an. [Neue aufregende Web Technologien, HTML5 + CSS3 anhand von Praxisbeispielen lernen](http://www.slideshare.net/yatil/html5-und-css3-praxis "Neue aufregende Web Technologien, HTML5 + CSS3 anhand von Praxisbeispielen lernen")[Die Beispiele gibt es alle gesammelt in meinem Labor.](http://lab.yatil.de/)Nicht verpassen sollte man auch den Vortrag von Tomas Caspers: [„Der mit der Kuh tanzt… (oder: ‚Was wir von Cowboys über Webentwicklung lernen können.‘)“](http://www.slideshare.net/tcaspers/atag-2010) – zumindest sobald der Podcast veröffentlicht wird ohne den die Slides wenig sinnvoll sind. Alle Infos – und die anderen hervorragenden Vorträge – vom A-Tag gibt es auf der [offiziellen Seite](http://atag.accessiblemedia.at/2010/) oder noch aktueller auf dem [neuen Schweizer Offiziersmesser für Konferenzen, Lanyrd](http://lanyrd.com/2010/atag10/).

@@ -1,0 +1,57 @@
+Title: Sommerloch-Stöckchenparade 2.0
+----
+Date: 2006-07-26
+----
+Category: Freunde
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Warum bloggst Du?
+
+Naja, ich bin ja nicht eines Tages aufgewacht und habe mir gesagt “Ich mach jetzt ein Blog!”. Im Gegenteit: Ich hatte lange Zeit eine statische Seite und Neuigkeiten per Hand eingepflegt. Irgendwann kam dann ein Weblog per Hand (Strato hatte damals noch kein PHP!) und später dann mit Nucleus bevor ich zu Textpattern wechselte. Und – um zur Frage zurückzukommen – die Vorteile des Bloggens sind die unkomplizierte Informationsveröffentlichung und die Möglichkeit Newsfeeds zu abonnieren.
+
+## Seit wann bloggst Du?
+
+Also die Textpatternversion des Blogs ist 2 Jahre und fünf Monate alt und der erste Eintrag erschien am 17. März 2004. Im [Snookerblog](http://snookerblog.de/) seit knapp einem Jahr.
+
+## Selbstportrait
+
+Immer interessierte Webstandards-Enthusiast, mit einem Hang zum Pool spielen und Snooker schauen. Momentan studiere ich Medieninformatik in Wien. (Also ganz genau habe ich grad Semesterferien…)
+
+## Warum lesen Deine Leser Dein Blog?
+
+Ich rufe alle drei jeden Tag an und zwinge sie durch hohe Geldzahlungen… ähhh… Nö, ich glaube die meisten mögen einfach die Inhalte meiner Einträge.
+
+## Welche war die letzte Suchanfrage, über die jemand auf Deine Seite kam?
+
+Bezeichnender Weise `div`. Wahnsinn.
+
+## Welcher Deiner Blogeinträge bekam zu Unrecht zu wenig Aufmerksamkeit?
+
+[So wird dir geholfen](http://yatil.de/Artikel/so-wird-dir-geholfen) ist zwar ein Artikel, aber ich habe mir mehr Feedbach davon versprochen.
+
+## Dein aktuelles Lieblings-Blog?
+
+Okay, das ist eine schwierige Frage… Aber das [BILDblog](http://bildblog.de) macht mir doch sehr viel Spaß.
+
+## Welches Blog hast du zuletzt gelesen?
+
+Bin grade meine Feeds durchgegangen, da wärs jetzt unfair eines rauszugreifen.
+
+## Wie viele Feeds hast du gerade im Moment abonniert?
+
+Handisch nachgrezählte 82 Stück. Ja, das ist nicht viel. Reicht mir aber.
+
+## An welche vier Blogs wirfst du das Stöckchen weiter und warum?
+
+Alle die mir so spontan eingefallen wären hatten schon eins, deshalb hab ich nachgedacht (!!!) und folgende Blogs auserwählt:
+
+- [Thomas](http://wanhoff.de/) von wanhoff.de
+- [Steffen](http://www.gungfu.de/facts/index.php) von DenkZEIT
+- [Mathias](http://broedel.org/) von broedel.org (der aber im Moment mit der Schweizer Armee unterwegs ist)
+- [Martin](http://labuschin.com/) von labuschin.com

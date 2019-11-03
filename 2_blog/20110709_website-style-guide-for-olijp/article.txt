@@ -1,0 +1,14 @@
+Title: Website style guide for oli.jp
+----
+Date: 2011-07-09
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+A [great resource](http://oli.jp/2011/style-guide/) from [Oli Studholme](http://oli.jp/), every element of the page clearly designed and displayed.

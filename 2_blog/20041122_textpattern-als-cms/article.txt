@@ -1,0 +1,82 @@
+Title: Textpattern als CMS
+----
+Date: 2004-11-22
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Was ist ein CMS?
+
+CMS bedeutet Content-Management-System. Es ist ein Programm, mit dem man den Inhalt einer Website verändern kann ohne XHTML, CSS oder eine andere Sprache zu können. Natürlich muss das CMS zuerst eingerichtet werden.
+
+Es gibt Millionen verschiedener Gelegenheiten und noch mehr verschiedene Seitenlayouts, deshalb gibt es keinen einfachen Weg um Textpattern als CMS zu benutzen – Aber es gibt einige Kniffe, die es einfacher machen Textpattern zu verwandeln.
+
+## Viele Seiten und was zur Hölle ist doarticle?
+
+Für jede Sektion braucht man eine Seite (page). Mit einer `id` im `body`-Element kann man die Sektionen übrigens per CSS unterscheidbar machen, jede Seite könnte ihren eigenen Stil erhalten und Navigationselemente können als “aktuell” gekennzeichnet werden.
+
+Dinge, die mehrfach auf Seiten vorkommen sollten in Formulare unterteilt werden.
+
+Nachdem die Seite für die Übersicht der Sektion erstellt ist sollte der Inhalt geschrieben werden. Speichere den neuen Artikel und gehe dann zurück zur Seite. Dort wo normalerweise ein (einfaches) `<txp:article />` stehen würde sollte nun folgendes geschrieben werden:
+
+`<txp:doarticle id="##" />`  
+(## = ID des Dokuments)
+
+Dies bedeutet, dass der Artikel Nummer ## geparsed wird, unter Benutzung des default-Formulars. Wenn du ein anderes Formular benötigst kannst du das per `form`-Attribut angeben.
+
+Das ist praktisch, wenn du nur einen Artikel pro Sektion brauchen aber unpraktisch wenn es mehrere sein sollen. Es ist nun geschickt nun zu sagen: “Dort, wo du normalerweise eine Liste von Artikeln sehen würdest, sollte der Sektion-Artikel gezeigt werden, wenn ich aber einen Artikel angebe soll der angezeigt werden.”
+
+Das ist absolut richtig und da ist der Trick:  
+Mit den beiden Bedingungen `<txp:if_individual_article />` und `<txp:if_article_list />` können die beiden Situationen einfach unterschieden werden. Aber Achtung! Die Reihenfolge ist der Schlüssel:
+
+```
+<txp:if_individual_article>
+    <txp:article form="default" listform="default" />
+</txp:if_individual_article>
+<txp:if_article_list>
+    <txp:doarticle id="4" />
+</txp:if_article_list>
+```
+
+Funktioniert ohne Probleme. Aber wenn die Reihenfolge geändert wird funktioniert es nicht mehr richtig:
+
+```
+<txp:if_article_list>
+    <txp:doarticle id="4" />
+</txp:if_article_list>
+<txp:if_individual_article>
+    <txp:article form="default" listform="default" />
+</txp:if_individual_article>
+```
+
+Bei der Artikel-Liste wird Artikel Nr. 4 gezeigt und TXP sagt dann oh, das ist ja ein einzelner Artikel! Die zweite Bedingung ist also auch erfüllt und der Artikel wird ein zweites Mal angezeigt. Dies nur um Frustration vorzubeugen.
+
+Um das Bearbeiten von Artikeln so einfach wie möglich zu gestalten sollte das zem\_link-Plugin installiert werden.
+
+Aber das gibt noch ein Problem: Die Artikel-Listen werden nicht mehr automatisch erstellt, aber das ist einfach zu umgehen. Erst recht wenn man nur eine ungeordnete Liste wünscht:
+
+Erstelle ein neues Artikel-Formular mit dem Namen “liste”. Der Inhalt des Formulars ist einfach nur `<li><txp:permlink><txp:title /></txp:permlink></li>`.
+
+Um die Liste zu vervollständigen gehen wir wieder zurück zur Seite und fügen folgende Zeilen hinter `<txp:doArticle ... />` ein:
+
+```
+<ul>
+    <txp:article_custom form="listing" limit="5" section="yoursection" listform="listing" />
+</ul>
+```
+
+Wieder wird ein Nachteil sichtbar: Der Artikel, der momentan angeschaut wird wird auch in der Liste angezeigt. Um diesen Effekt zu vermeiden gibt es mehrere Möglichkeiten:
+
+- Benutze einen anderen Autorennamen und füge `artice_custom``author="JohnDoe"` hinzu.
+- Benutze eine eigene Kategorie mit dem Namen “gelistet” um Artikel zukennzeichnen, die gelistet werden sollen. Der Haupt-Artikel sollte diese Kennzeichnung natürlich nicht aufweisen. Dafür muss man `category="etwas"` benutzen.
+ 
+- Das Benutzen von Schlüsselwörtern ist die dritte Möglichkeit. `keywords="gelistet"`
+- Eine andere Möglichkeit ist das Excerpt-Feld zu benutzen. Schreibe “Du sollst nicht gelistet werden!” (oder ein anderes Wort oder einfach “a”) in das Excerpt-Feld des Standard-Artikels und benutze die `excerpted="n"`-Option im `article_custom`.
+ 
+Ich würde letzteres bevorzugen.

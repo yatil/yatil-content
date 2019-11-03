@@ -1,0 +1,14 @@
+Title: Durchbruch für PDF-Skripte!
+----
+Date: 2007-05-29
+----
+Category: Studium, Switch2Mac
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wow, eine Überschrift mit Ausrufezeichen, da muss was aufregendes passiert sein. Bisher waren PDF-Skripte ein PITA, eine sehr schmerzhafte Angelegenheit. Wenn man überhaupt mit ihnen Arbeiten wollte, dann musste man sie ausdrucken und dann unterstreichen. Textmarker und Tintenpatronen passen zumindest nicht zusammen. Jetzt gibt es ein neues Programm, das sich in der Beta-Phase befindet und dem Abhilft. Skripte können nun direkt am Computer bearbeitet werden und es gibt einen Fullscreen-Modus, mit dem man sich voll aufs Annotieren konzentrieren kann. Und wenn man es dann noch analog braucht, dann kann man es immer noch ausdrucken. Selbstverständlich kann man alles auch mit dem Dokument speichern. Die Software ist noch Beta, kostenlos, heißt [Skim](http://skim-app.sourceforge.net/) und kann auf [Sourceforge herunter geladen](http://skim-app.sourceforge.net/) werden. Sie ist nur für MacOS X verfügbar. [Gefunden hat es die immer bestens informierte Manuela Hoffmann.](http://www.pixelgraphix.de/log/2007-05/pdfs-am-mac-komfortabel-annotieren-mit-skim.php)

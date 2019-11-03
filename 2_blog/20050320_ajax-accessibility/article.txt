@@ -1,0 +1,22 @@
+Title: Ajax & Accessibility
+----
+Date: 2005-03-20
+----
+Category: Programmierung, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Unfortunately for us, **Ajax** is also inaccessible as all getout. [Matt May](http://www.bestkungfu.com/archive/date/2005/03/ajaxessibility/)
+
+Das Internet verfügt auch heute noch über einige Stolpersteine, gerade was Zugänglichkeit (»Accessibility«) betrifft.
+
+Die neueste Entwicklung auf dem Markt der standardnahen Webprogrammierung ist Ajax, das – unter dieser Bezeichnung – von [Jesse James Garret](http://www.adaptivepath.com/team/jjg.php) von [Adaptive Path](http://adaptivepath.com/) [vorgestellt wurde.](http://adaptivepath.com/publications/essays/archives/000385.php) Im Grunde genommen geht es um einen Datenaustausch mit dem Server ohne, dass die Webseite neu geladen werden muss. Beispiele dafür sind [Gmail](http://gmail.com/) oder auch der [XMLHttpRequest Chat](http://www.plasticshore.com/projects/chat/index.html). Zentrales Element für den Datenaustausch ist hierbei JavaScript. Und genau da liegt das Problem:
+
+JavaScript ist in vielen (älteren) Browsern nicht oder nur eingeschränkt vorhanden. Das eigentliche XMLHttpRequest-Objekt wird sogar nur von Mozilla-Browsern (Mozilla Suite, Firefox…) unterstützt. Im Internet Explorer 6 muss ein ActiveX-Programm genutzt werden. Opera kann mit dieser Technik noch überhaupt nichts anfangen.
+
+Daraus lernen wir was wir nicht dürfen (und noch nie durften): Die Seite vom JavaScript abhängig machen. Navigation und Inhalte müssen auch ohne JS erreichbar bleiben, aber für kleine Gimmicks, für die normalerweise Flash benutzt werden würde ist Ajax auf jeden Fall eine weitere Option.

@@ -1,0 +1,26 @@
+Title: Inspirierende Bücher
+----
+Date: 2007-08-25
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Heute gibt es mal Buchempfehlungen von mir für euch. Dabei haben einige was mit Webdesign und -gestaltung im weitesten Sinne zu tun, andere nicht. Anfangen möchte ich genau mit so einem fachfremden Werk.
+
+## Sol Stein: Über das Schreiben.
+
+Mit einem über 400 Seiten starken Werk versucht Sol Stein, ein amerikanischer Schriftsteller, Publizist und Lektor, dem Leser nahe zu bringen, wie eine Geschichte entsteht und welche Dinge ein Autor zu beachten hat. Dabei geht er vor allem auf den handwerklichen Teil ein, beschreibt, wie Geschichten spannend gemacht werden können und Charaktere herausgearbeitet werden. Ich empfehle das buch jedem, der Texte veröffentlicht, egal ob Sachtext oder Literatur. Einziger Wermutstropfen ist, dass man – hat man erstmal den Blick hinter die Kulisse gewagt – bemerkt wie gleich so viele Geschichten aufgebaut sind. Auf [Leixoletti.de kann man sich die wichtigsten Thesen Steins bereits durchlesen](http://www.leixoletti.de/theorie/solstein.htm). Ich empfehle trotzdem das bei [Zweitausendeins aufgelegte Buch](http://www.zweitausendeins.de/artikel/nur_bei_uns/sol_stein/?ArticleFocus=3&ord=1&alpha=1&CT=1). ## Roy McKelvey: Hypergraphics
+
+Bei diesem Buch fällt mir die Empfehlung nicht leicht, weil es hoffnungslos veraltet ist. McKelvey beschreibt in dem mittlerweile 9 Jahre alten buch, wie Webseiten aufgebaut sind. Das in den Beispielen, z.B. Audi, Discovery Channel und MetaDesign, deshalb Tabellen eine zentrale Rolle spielen und auch der eine oder andere Frame auftaucht ist daher normal. Trotzdem sind die Herangehensweisen und die Vielseitigkeit des Internetdesigns eine Betrachtung wert. Vor allem, weil die Seiten wirklich auseinander genommen werden. Auf der einen Seite gibt es gestalterische Hinweise, dann wird auch mal ein wenig HTML gezeigt und Farbschemata werden genauso erklärt wie verschiedene Grafikdateiformate. Gebraucht gibt es [das Buch bei Amazon.de](http://www.amazon.de/Hypergraphics-Roy-McKelvey/dp/3499600765/ref=sr_1_1/303-4869582-0637864?ie=UTF8&s=books&qid=1188053278&sr=1-1) zu Preisen um 3 Euro. ## Jakob Nielsen: Designing Web Usability / Jakob Nielsen & Marie Tahir: Homepage Usability. 50 enttarnte Websites
+
+Beide Bücher gab es für fast nichts als Doppelausgabe bei Zweitausendeins. Dort sind sie jetzt leider nicht mehr aufzufinden, was schade ist. Grundsätzlich sind beide Bücher auch nicht mehr ganz auf dem neuesten Stand, etwas, was viele Leute ja auch Nielsen selbst vorwerfen. Designing Web Usability war für mich nicht der große Wurf. Für Anfänger können aber Dinge wie große Suchfelder usw. eine willkommene Einführung in die Usability-Problematik sein. Plakativer, lehrreicher und wesentlich besser zu verstehen ist aber Homepage Usability. Das buch analysiert 50 große amerikanische Homepages und zeigt, was alles falsch und richtig gemacht wurde. Zwar hat sich die Bauweise von Seiten etwas verändert, aber die Kritikpunkte sind häufig immer noch gültig. Dabei hilft, dass alle Punkte auf Screenshots annotiert sind und man selbst entscheiden kann, ob das ein wichtiger Punkt für einen selbst ist. ## Cyrus Dominik Khazaeli: Crashkurs Typo und Layout
+
+Ein sehr kleines günstiges Büchlein, welches die Grundlagen von – oho – Typografie und Layout aufzeigt. Alles insgesamt ein bisschen viel für ein Buch von 470 kleinen Seiten. Ich glaube aber, dass diese kürze des Buches, zusammen mit der hohen Qualität des Inhalts eine tolle Grundlage für Designer auch im Web bietet, obwohl es sich auf Printdesign spezialisiert. Das Buch gibt es bei [Amazon.de ebenfalls nur noch gebraucht, ab etwa 7 Euro](http://www.amazon.de/Crashkurs-Typo-Layout-Cyrus-Khazaeli/dp/3499612089). ## Ralf Turtschi: Mediendesign
+
+Das Beste zum Schluss. Turtschi ist Schweizer, sein Buch im Niggli-Verlag erschienen und wirklich umfassend. In sieben, sehr gut gestalteten Kapiteln zeigt Turtschi über Designtrends und Planung auch die verschiedenen Arten Zeitungen und Magazine zu gestalten. Dabei wird wirklich auf jedes Seitenelement eingegangen, Zeilenabstände und Bildverwendung aufwändig illustriert und sehr anschaulich dargestellt. Lediglich das Screendesign-Kapitel war nicht wirklich mein Ding, aber mit CD-Design hat man heutzutage ja auch weniger zu tun. Bei diesem Buch, das ich nur jedem empfehlen kann, der sich ein wenig mit Gestaltung auseinandersetzt, gibt es aber auch einen Haken: Der Preis. Während ich es zu DM-Zeiten (ich schätze es war 2000) noch für 104 Mark, also 52 Euro, bekam, kostet das selbe Buch jetzt [bei Amazon.de knappe 80 Euro](http://www.amazon.de/Mediendesign-Ralf-Turtschi/dp/3721203275). Das ist sehr viel für ein Buch, das 2000 seine 2. und bisher letzte Auflage erhalten hat und seit dem nicht mehr aktualisiert wurde. [Andere Artikel von Turtschi gibt es kostenlos und als kostenpflichtiges Abonnement auf seiner Webseite.](http://www.agenturtschi.ch/t3/index.php?id=95)

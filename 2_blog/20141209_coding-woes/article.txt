@@ -1,0 +1,14 @@
+Title: Coding Woes
+----
+Date: 2014-12-09
+----
+Category: Thoughts
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+That moment when you realize that your JavaScript works when you put it outside that completely unrelated for loop…

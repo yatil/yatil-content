@@ -1,0 +1,37 @@
+Title: Typo-JavaScript
+----
+Date: 2005-05-29
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Es hatte sich ja eine kleine Meinungsverschiedenheit im Bezug auf dien Einzug in der ersten Zeile von Absätzen ergeben. Während ich, in meiner Funktion als Webseitenersteller und Gestalter dieser Seiten für eine solche Einrückung, nicht zuletzt der Auflockerung wegen, war spürte ich heftigen Gegenwind von Markus und [Gerrit](http://praegnanz.de/). Auf [dessen Kritik](http://yatil.de/Weblog/redesign-im-detail#c002249), dass der Einzug insbesondere bei kurzen Absätzen nicht zur Lesbarkeit beiträgt, habe ich mich entschieden die Einzüge weg zu lassen.
+
+Das heißt eigentlich: Ich hatte mich entschieden die Einzüge weg zu lassen.
+
+Wie ihr hoffentlich an meinem Geschwafel sehen könnt ist der erste Absatz eingerückt, der folgende nicht. Vielleicht habt ihr auch ein kleines Aufflackern beim – besser: nach – dem Laden der Seite bemerkt.
+
+Dies liegt an einem kleinen JavaScript, das ich heute Nacht (im Hitze- und Simon-&-Garfunkel-Wahn) entwickelt habe:
+
+Zur Erklärung:
+
+- In Zeile 1 werden alle p-Elemente (also alle Absätze) in ein Array eingelesen.
+- In Zeile 2 folgt dann die Schleife, die alle Absätze durch geht.
+- Es wird dann überprüft, ob der Absatz direkt im Body-Element enthalten ist und **nicht** über die Klasse `meta` verfügt. Ist beides erfüllt geht es weiter.
+- Sollte das Element eine Höhe von 80 Pixeln überschreiten wird eine Text-Einrückung von 45 Pixeln hinzugefügt. Die Höhe des Elements wird dabei mit `offsetHeight` abgefragt. Dummerweise ist diese Funktion in keinem Standard enthalten.
+ 
+Bedeutet das denn nicht, dass man diese Anweisung nicht benutzen sollte?
+
+Ja, das bedeutet es eigentlich, **aber** (ja, ihr wusstet, dass das kommt) falls der Besucher JavaScript ausgeschaltet hat oder sein Browser `offsetHeight` nicht unterstützt wird lediglich der Effekt nicht angezeigt. Keine große Sache, oder?
+
+Ach ja: `offsetHeight` wurde zuerst im Internet Explorer eingeführt. Ich habe das Script allerdings sowohl unter Mozilla als auch unter Opera getestet und kein „Versagen“ festgestellt.
+
+Auf Kommentare aus der Mac- und Linux-Ecke bin ich gespannt.
+
+**Update:** Die Untersuchung unter Linux (Knoppix 3.8) zeigt, dass der Konqueror die Einrückungen nicht darstellt. Im Firefox funktioniert das Script wie unter Windows – was ja zu erwarten war.

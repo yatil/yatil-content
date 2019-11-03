@@ -1,0 +1,26 @@
+Title: Veranstaltungen in der Herbstsaison
+----
+Date: 2009-10-05
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die Event-Saison beginnt für mich bald, ein kleiner Überblick wo man mich antrifft:
+
+## 16.10. // [A-Tag](http://atag.accessiblemedia.at/), Wien
+
+Am 16.10. gibt es in Wien den A-Tag von accessible media. Ich habe wie im letzten Jahr die Technik unter der Haube für die Webseite zu Verfügung gestellt, für das Design zeigt sich in diesem Jahr [Jo Spelbrink](http://twitter.com/joville) verantwortlich. Als [Vortragende](http://atag.accessiblemedia.at/2009/vortragende/) konnten unter anderem die Webkrauts [Jens Grochtdreis](http://grochtdreis.de/weblog/), [Tomas Caspers](http://twitter.com/tcaspers) und [Chris Heilmann](http://icant.co.uk/) gewonnen werden. Ich darf moderieren und freue mich schon sehr darauf! ## 17.10. // [Digiday](http://www.digitalks.at/2009/06/17/digiday09/), Wien
+
+Am Tag nach dem A-Tag gibt es den ersten Digiday. Aus der Selbstbeschreibung: > „Wer wissen will, wie digitale Medien funktionieren, was zum Beispiel Facebook ist und wie ein Blog funktioniert, findet bei DIGIDAY09 die richtigen Antworten.“
+
+## 5.+6.11. // [Fronteers](http://fronteers.nl/congres/), Amsterdam
+
+Das niederländische Webkrauts-Pendant „Fronteers“ veranstaltet bereits die zweite Konferenz zum Thema Frontend-Webentwicklung. Viele internationale [Vortragende, auch aus Übersee](http://fronteers.nl/congres/2009/speakers) sollten spannende neue Erkenntnisse garantieren. ## 17.11. // [Webtech](http://it-republik.de/konferenzen/webtech09/), Karlsruhe
+
+In heimatlichen Gefilden geht es dann mit dem [Webkrauts-Tag](http://it-republik.de/konferenzen/webtech09/sessions/?tid=1397) bei der Webtech weiter wo ich zusammen mit [Martin Kliehm](http://learningtheworld.eu/) vortragen werde. Die Vortragenden sprechen für sich (und auch mit dem Publikum!)

@@ -1,0 +1,67 @@
+Title: Nachklapp zum Webkongress in Erlangen
+----
+Date: 2008-09-07
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wow, das waren intensive zwei Tage zum Thema Web in Erlangen. Besonders gefreut hat mich das Zusammentreffen mit vielen, vielen Webkrauts, darunter auch zum ersten mal [Nils Pooker](http://pookerart.de/) und [Dirk Jesse](http://www.highresolution.info/). Ein besonderer Dank geht allerdings an [Wolfgang Wiese](http://blog.xwolf.de/) und sein Team, die eine ganz tolle Veranstaltung über die Bühne gebracht haben.
+
+## Tag 1
+
+### Nicolai Schwarz: „Wenn der Hund beim Jonglieren scheitert, sollte er vielleicht das Kleid ausziehen“
+
+Gleich die ersten beiden Tracks waren eine Herausforderung: [Martin Kliehm](http://learningtheworld.eu/) oder [Nicolai Schwarz](http://textformer.de/), keine einfache Entscheidung. Letztlich hab ich mich für Nicolai entschieden, da ich Martin im Namen des A-Tag ’08 nach Wien einladen durfte. Im Vortrag von Nicolai ging es dann natürlich nicht um jonglierende Hunde sondern um Texte auf Websites, die den Benutzer auf die Seite locken und ihm die Vorteile dieses Service näher bringen. Alles in allem ein solider Auftritt, ein wenig mehr Abwechslung hätte mir aber noch einen Tick besser gefallen. 
+
+### Dirk Jesse: „CSS Frameworks – Erwartungen, Mythen und reale Vorteile“
+
+Dirk sprach über den Unterschied zwischen CSS- und Grid-Frameworks. Eine wichtige und gute Unterscheidung. Sein eigenes YAML ist ein CSS-Framework, es bestimmt keine Aspekte des visuellen Designs sondern gibt nur Mittel in die Hand um alle möglichen Layoutvarianten umzusetzen. 
+
+### Paul Bakaus: „Effizientere Applikationen mit jQuery UI“
+
+Die erste Präsentation von Paul Bakaus auf Deutsch war eine gelungene. Er zeigte einige Beispiele für den Einsatz von jQuery UI sowie einen Ausblich auf die zukünftigen Neuerungen. Sehr positiv: jQuery UI ist gerade im Prozess WAI-ARIA-Kompatibel zu werden. Ich wünschte ich hätte ein Anwendungsgebiet für diese JavaScript-Spielereien… 
+
+### Lightning-Talks
+
+Die Lightning-Talks waren leider nicht so erleuchtend wie erhofft. Bis auf Jens Grochtdreis („Gute Arbeit braucht Zeit“) konnte keiner in seinen 5 Minuten die Zuschauer mitreißen. Die anderen waren entweder zu speziell (Jörg Peschke: „Local Shared Objects – Next generation Cookies?“, Christian Schaller: „Lehrstuhl Webseiten aus der Box: univis2typo3“) oder hatten gefühlten werblichen Charakter (Tobias Baier: „Enterprise 2.0 – Schaffen Blogs Vertrauen?“). „SMIL – Stand der Dinge“ war auch zu undurchsichtig, Matti Popesku schaffte es nicht diesen komplexen, und sehr nützlichen Webstandard, auf fünf Minuten herunter zu brechen und nützliche Anwendungsgebiete zu beschreiben. Schade. Ansonsten fehlte mir generell bei diesem Format die Diskussion, das Auseinandersetzen mit der vorgestellten Idee. 
+
+### Tomas Caspers: „Barrierefreiheit im Jahre 2008 – Mehr offene Fragen als Antworten?“
+
+> „Menschen mit Lernschwierigkeiten ist ja eigentlich auch Diskriminierend. Das klingt als ob sie etwas ändern könnten, wenn sie sich nur genug anstrengen würden. Ich sag doch auch nicht zu einem Rolli-Fahrer ‚Mensch mit Gehschwierigkeiten’ oder zu einem Blinden ‚Mensch mit Guckschwierigkeiten’.“ Tomas Caspers
+
+Tomas Abschlussbeitrag des ersten Tages war wie immer sehr gut. Seine lockere Art war wirklich ein Highlight des Kongresses und machte auch auf die Schwächen der Hilfsmittel aufmerksam, die zum Beispiel weder `strong` noch `ins` oder `del` interpretieren oder sich bei einem fehlenden `legend` in einem Formular-Fieldset einfach irgendetwas auf der Seite suchen, von dem sie denken, dass es die Legende sein _könnte_. Tomas Vorträge entlassen den Zuhörer immer mit mehr Fragen als Antworten, regt zum Nachdenken und immer wieder reflektieren an. Ich mag das, vorgekaute Lösungen sind ja auch blöd :) 
+
+## Tag 2
+
+### Brigitte Bornemann-Jeske: „Barrierefreies JavaScript“
+
+Bei diesem Vortrag fehlten mir einfach die praktischen Anwendungsfälle, Codebeispiele von 2005 reichen dabei nicht aus. Auch die Betrachtung der Geschichte des JavaScripts war nicht nötig. Wer sich einen Einblick in barrierefreies JavaScript im Web-2.0-Einsatz erhoffte, und das tat ich, wurde enttäuscht. 
+
+### Jens Grochtdreis: „Die 10 drängendsten Herausforderungen des Web“
+
+Bei Jens merkt man einfach, dass er sich viele Gedanken zu diesen Themen macht und es daher auch keiner Choreografie in seinem Vortrag bedarf. Mit „Sicherheit“, „Spam“, „Internationalisierung“, „Usability“, „Barrierefreiheit“, „Mobiles Web“, „Professionalisierung“, „Auffindbarkeit“, „Rechtlicher Rahmen“ und „Medienkompetenz“ traf er den Nerv der Zeit und regte dazu an sich weitere Gedanken zu diesen Themen zu machen. 
+
+### Eric Eggert: „Webdesigner an die Macht!“
+
+> „Eric Eggert zeigt, dass Keynote das bessere Powerpoint ist…“ aus dem [Twitterfeed des WKE](http://twitter.com/wke/statuses/910501912)
+
+
+([Auf Slideshare betrachten](http://www.slideshare.net/yatil/webdesigner-an-die-macht-presentation) oder die [leichter zugängliche Version benutzen](http://icant.co.uk/easy-slideshare/?slides=http://www.slideshare.net/yatil/webdesigner-an-die-macht-presentation)) 
+
+### Michael Jedryschik: „6 Beispiele für die nützliche Anwendung von Microformaten“
+
+Es gibt ein Henne-Ei-Problem mit Mikroformaten: Zu wenige Services unterstützen sie bisher. Michael hat jedoch sechs mehr oder weniger nützliche Beispiele gefunden, die zumindest die Richtung aufzeigten in die Microformate einmal gehen könnten. 
+
+### Nils Pooker: „Webstandards – noch immer ein Thema?“
+
+Der Abschluss-Vortrag war einem Webkraut vorbehalten: Nils zeigte wie man auch visuell ansprechend präsentiert, sein Kunst-Background kommt ihm da sehr zu gute. Dazu sein trockener Schleswig-Holsteiner Humor und seine blumige Beschreibung der Dinge brachten ihm viel Applaus ein. Ein überaus gelungener Abschluss des zweiten Tages. 
+
+## Fazit
+
+Ich danke Wolfgang für die Einladung zum Kongress, die Unterhaltungen waren sehr lehrhaft und auch die Erfahrung mal mehr auf der anderen Seite der Bühne zu stehen war toll.

@@ -1,0 +1,19 @@
+Title: Frustfoul
+----
+Date: 2004-08-21
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wenn Webdesign Fußball wäre und der Internet Explorer mein Gegenspieler hätte ich gerade eins begangen.  
+Diesmal interpretiert er Prozentangaben anders als der [Firefox](http://www.mozilla.org/products/firefox/). Er macht was er will.
+
+Das kotzt mich ja soooo an.
+
+Wer den IE nicht mehr unterstützen möchte kann sich auf der Seite [browsehappy](http://browsehappy.com/) über die Alternativen informieren. Auch [Gründe für den Wechsel](http://browsehappy.com/why/) kann man sich anschauen.

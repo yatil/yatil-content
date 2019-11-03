@@ -1,0 +1,38 @@
+Title: Barcamp Kärnten Livegeblogge
+----
+Date: 2007-02-03
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nur ganz kurz heute:
+
+Bin um halb sechs Uhr aus dem Haus und hab meine Wohnungstür abgeschlossen. Es sind Ferien! Gestern habe ich meine letzte Prüfung geschrieben und jetzt bin ich am Barcamp Kärnten angekommen.
+
+In der 11-Uhr-Session ging es um PHPWiki, eine Wiki-Engine, die sehr interessant ist. Muss ich mir bei Zeiten mal anschauen, vorallem zum Einbinden in Textpattern.
+
+Danach sprach Frank Supersberger vom [Schlagloch-Blog](http://schlagloch.20six.de) mit Texten aus seinem Weblog. Sehr interessant, weil er aus einer ganz anderen Blogger-Ecke kommt als ich.
+
+Danach Essen. Ganz Okay. Viele Anzugträger an Stehtischen.
+
+Dann: „Modell Driven Software Development oder: MDSD, die neue Software Designer Droge?“ – wäre ganz Spannend gewesen, wenn es nicht so abstrakt gewesen wäre. Naja.
+
+Time Management: Sehr informativ. Viele Anregungen. Da will ich jedenfalls was mitnehmen. Von Monika Meurer von [bindestrich](http://bindestrich.net/de).
+
+Danach Photographieren fürs Web. Grundaussage: Ganz nah Ran. und dann noch einen Schritt vor. Achim Meurer vom [Bullsfield Studio](http://bullsfield-studio.de/) führt charmant durch die Präsentation…
+
+Jetzt aber Butter bei die Fische: „Drupal. In 30 Minuten zur eigenen Community-Website. Ein Kick-Start.“ verspicht die Präsentation. Okay, es ist nur eine Einführung von Nicht-Profis. Entsprechend werden die Grundkonzepte nicht wirklich klar…
+
+Okay, **Sonntag**.
+
+Da schau, die Mark- und Ed-Show. Dreht sich um PR-Herausforderungen. Interessant.
+
+Jetzt Microsoft. „Vista, Office und warum Microsoft so böse ist“ von Georg Binder, dem Kollegen vom [Vistablog.at](http://www.vistablog.at/main). Naja. Alte Hüte für MacOS-User. Wie er zugibt. Ebenfalls nett: Das T-Shirt: „Hasta la Vista“. Allerdings wohl eher: „Hasta la Vista, Vista.“ Die Präsentationen sind trotzdem typisch Microsoft völlig überladen.
+
+_(wird fortgesetzt)_

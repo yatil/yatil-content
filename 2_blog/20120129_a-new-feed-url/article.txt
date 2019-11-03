@@ -1,0 +1,14 @@
+Title: A new feed URL
+----
+Date: 2012-01-29
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+I’ve just pimped my RSS feed to directly include links and some fancy UTF-8 icons to indicate if it is a link or article. You can now click directly on the title of a link post (like this one) and you won’t be redirected through my site. Please note that I’ve abandoned Feedburner. A redirection is in place, but just make sure that the correct URL is in your RSS-Reader of choice: http://yatil.net/rss-feed

@@ -1,0 +1,16 @@
+Title: Mein Barcamp-Video
+----
+Date: 2006-10-16
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die Präsentation ist auf englisch und ich glaube, dass sie ganz informativ sein kann. Mit 28 Minuten ist es ja auch nicht über die magische 30-Minuten-Marke hinausgegangen, die Dauer der Präsentation hält sich also im Rahmen.
+
+Die Slides befinden sich übrigens hier: [yatil.de/barcamp](http://yatil.de/barcamp)

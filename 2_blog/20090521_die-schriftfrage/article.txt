@@ -1,0 +1,14 @@
+Title: Die Schriftfrage
+----
+Date: 2009-05-21
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Natürlich wusste ich, dass die Einbindung der Schrift [Sketch Block](http://new.myfonts.com/fonts/artill-typs/sketch-block/) via [Cufón](http://cufon.shoqolate.com/generate/) nicht auf ungeteilte Zustimmung stoßen würde. Auch ich war mir unsicher, vor allem was den schmal laufenden Light-Stil anbetraf. Ich habe mich nun entschieden den Light-Stil ersatzlos zu streichen und stattdessen überall, wo ich Cufón einsetzen möchte auf den fetten Schriftstil zu setzen. Dort ist – auch in der kleineren Schriftgröße – der Charakter der Schrift gut erkennbar. Weiterer Vorteil: Die Cufón-JavaScript-Datei ist weniger als halb so groß wie zuvor und kann dadurch schneller herunter geladen werden. Jetzt müsste nur noch das mit dem Cachen der Datei funktionieren…

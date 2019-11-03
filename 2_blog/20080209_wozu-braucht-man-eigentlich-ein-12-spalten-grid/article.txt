@@ -1,0 +1,24 @@
+Title: Wozu braucht man eigentlich ein 12-Spalten-Grid?
+----
+Date: 2008-02-09
+----
+Category: Design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Bereits [im Oktober hatte ich versprochen](http://yatil.de/Weblog/alles-neu-macht-der-oktober) ein wenig über das neue Design, insbesondere die Gridstruktur zu schreiben. Hiermit mache ich dieses Versprechen wahr. In den letzten beiden Jahren haben Grids auf Webseiten einen regelrechten Boom erlebt, so auch hier. Auslöser dieser Bewegung sind sicher [Mark Boulton](http://www.markboulton.co.uk/) (mit seiner Serie [“Five Simple Steps to designing grid systems”](http://www.markboulton.co.uk/articles/detail/five_simple_steps_to_designing_grid_systems/) von 2005) sowie [Khoi Vinh](http://www.subtraction.com/) ([mit](http://www.subtraction.com/) [eigentlich](http://www.subtraction.com/archives/2004/1231_grid_computi.php) [allem](http://yeeaahh.subtraction.com/), [was](http://www.subtraction.com/archives/2005/0901_the_funniest.php) [er](http://www.subtraction.com/pics/0703/grids_are_good.pdf) [tut](http://www.nytimes.com/)).
+
+> “Well designed grid systems can make your designs not only _more beautiful_ and legible, but _more usable_.” [Mark Boulton](http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_designing_grid_systems_part_21)
+
+In Zeitungen gibt es Grid- bzw. Rastersysteme schon eine halbe Ewigkeit. Bei Webseiten jedoch gibt es diese Gestaltungstradition nicht. Das liegt sicherlich daran, dass man zu Beginn das Internet nicht als designbares Medium wahrnahm. Zudem kommen die meisten Webdesigner eher aus der Programmierung, nicht aus der klassischen Gestaltung. Und die klassischen Gestalter versuchten sich nur zögerlich am Design von Websites. Irgendwann entdeckte man Tabellen und damit 3-Spalten-Layouts, die heute noch oft als das A und O des Webdesigns gesehen werden (wenn auch mittlerweile ohne Tabellen). Doch die haben mit Grids nichts zu tun. > “The grid is the most vivid manifestation of the will to order in graphic design. \[…\] Units are the basic building block of a grid. They’re all uniform. Columns are the grouping of units that create the visual structure of the page. They are not necessary uniform.” [Khoi Vinh & Mark Boulton (PDF)](http://www.subtraction.com/pics/0703/grids_are_good.pdf)
+
+Ein Grid ist eine unterschwellige Aufteilung einer Zeitung, eines Magazins oder hier im Speziellen: einer Webseite. In diesem Beitrag kann das Grid eingeblendet werden. Es besteht aus 12 Spalten à 70 Pixel (bei einer Standard-Schriftgröße von 16px). Dabei werden zwei Spalten jeweils zusammengefasst zu einer sog. „Superspalte“. Der Planungsaufwand ist bei so einem Layout natürlich höher, Bildgrößen müssen – zumindest in der Breite – vorher festgelegt werden. Mit einem einfachen `float:left;` ist es plötzlich nicht mehr getan, hier übernimmt eine Klasse (nämlich `twocols`[1](#fn193619856748d8d71438650)) die Aufgabe Bilder korrekt auszurichten: 1`twocols` ist dabei ein ungeschickter Name, weil das Bild in Wirklichkeit keine zwei sondern sechs Spalten überspannt, bzw. drei „Superspalten“.
+
+![Das neue Layout von yatil.de mit überlagertem Grid](http://yatil.de/images/277.png "Das neue Layout von yatil.de mit überlagertem Grid")Das Grid hier ist durch die konsequente Verwendung von `em` (der Einheit, nicht des Elements) für alle Breitenangaben von Elementen sowie `padding` und `margin` beliebig skalierbar, ohne seine Gestalt zu verlieren. Leider führt dieses Vorgehen (schnell) zu horizontalen Scrollbalken. > “I paid serious attention to establishing a rational and sustainable layout grid that would see me through at least a few more years of doing this. Yes, I hope to keep at it that long.” [Khoi Vinh](http://www.subtraction.com/archives/2004/1231_grid_computi.php)
+
+Zudem habe ich die meisten Seitenelemente mit Float und negativen Margins in die entsprechenden Randspalten geschoben – die Zitate sind ein Beispiel dafür. Der große Vorteil bei Grids ist, dass sich alles wie von selbst ineinander fügt. Proportionen funktionieren einfach so und die Gestaltung der Seite wirkt aufgeräumter. Ein klares Grid und viel Vorarbeit sind nötig, zahlen sich aber aus, wenn es um eine klare Seitenstruktur und zusammenpassende Elemente geht.

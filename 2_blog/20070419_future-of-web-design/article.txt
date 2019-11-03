@@ -1,0 +1,62 @@
+Title: “Future of Web Design”
+----
+Date: 2007-04-19
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Generell muss man sagen: Es war okay. Und „okay“ ist weniger als ich mir erwartet hatte. So hochkarätig einige der Sprecher waren, so flach war das Niveau der Konferenz. Keine „Advanced Topics“, eher basics. Die Vorträge im Einzelnen:
+
+## [Brendan Dawes](http://www.brendandawes.com/) ([Magnetic North](http://www.magneticn.co.uk/)): “Finding your Creative Vein”
+
+Brendan beschrieb Methoden und Situationen, durch die man inspiriert werden sollte. Die Interaktion von Bergsteigern mit dem Berg war ein Beispiel, das ihn inspirierte, als er von Reinhold Messner las. (4/5)
+
+## Ryan Singer, [George Oates](http://abitofgeorge.com/) und [Denise Wilton](http://www.kaiusdesign.com/) ([37signals](http://37signals.com), [Flickr](http://flickr.com), [Moo](http://moo.com)): “Designing for Web Apps”
+
+Im nach hinein wirklich die beste Session. Ryan referierte über Anmeldungsformulare, Denise sprach davon Web Applikationen einen eigenen Charakter zu geben, nicht alle Anwendungen müssen den gleichen Ton haben. George gab dann acht wichtige Tipps für Webanwendungen: 1) Anwendungsschritte als Tore, keine Sitemap. 2) Schöne URLs. 3) Auch für Zero-Data designen. 4) Pass mit den Standardeinstellungen auf, sie werden meist nicht umgestellt. 5) Mehrsprachige Inhalte zulassen. 6) Aktivität zeigen. 7) Exploration: Erforsche wie andere die Anwendung benutzen. 8) In Diskussionen einen neutralen Standpunkt einnehmen. Im Panel wurde dann über verschiedene Seiten diskutiert: Ryan Singer nannte es „Zeitverschwendung“ eine Desktopanwendung nachzubauen, während sich Ryan Carson über die Verwendung des Begriffs „email id“ wunderte, beides beim [Zoho Writer](http://writer.zoho.com/jsp/home.jsp?targetURL=%2Findex.do). (5/5)
+
+## [Mike Downey](http://madowney.com/blog/) ([Adobe](http://adobe.com)): “Rich Internet Application for the Desktop – Introducing Apollo”
+
+Okay, Online-/Offline-Applications sind DAS große Ding in den nächsten Jahren. Gecheckt. Nette Spielereien gehen dank Flash auch. Auch gecheckt. Auf Nachfrage erfuhr ich, dass die User sich Apollo installieren müssen, bevor sie die Applications nutzen können. Also nix mit 1-Schritt-Installation… (4/5)
+
+## [William Rosen](http://www.williamrosen.com/) ([Leo Burnett](http://www.leoburnett.com/)): “Maximizing Consumer Engagement Online” & Nat Hunter ([Airside](http://www.airside.co.uk)): “Integrated Design Across Different Media” & [Joshua Hirsch](http://www.jaw-schwa.com/) ([Big Spaceship](http://www.bigspaceship.com/)): “Creating Award-winning Online Campaigns”
+
+War interessant vom Thema her, aber nicht in der Vortragsweise. Zuviel „Schau mal, wir haben das und dies gemacht und das war ganz toll.“ Es geht ja nicht darum keine Case Studies mehr zu zeigen, aber das war einfach zu viel herumgeflashe. Die zweite Vormittagssession wird hiermit am Besten zusammengefasst: (0/5)
+
+Nach dem Mittagessen ging es allerdings besser weiter:
+
+## [Andy Clarke](http://www.stuffandnonsense.co.uk/) ([Stuff and Nonsense](http://www.malarkey.co.uk/)): “Designing for Developers”
+
+Gute, wenn auch nicht herausragende Präsentation des Webrockers. Kernaussage: Macht keine Vorlagen in Photoshop sondern arbeitet im Medium, also im Browser. Guter Rat, mache ich schon immer so (Ich ’abe aber auch kein Photoshop). (4/5)
+
+## Rei Inamoto ([AKQA](http://www.akqa.com/)): “Branding and Identity”
+
+Hüllen wir den Mantel des Schweigens darüber, keine wirklich handfesten Tipps sondern Selbstpräsentation. Schade. (0/5)
+
+## [Ryan Freitas](http://secondverse.wordpress.com/) ([Adaptive Path](http://www.adaptivepath.com/)): “User Centered Design for Evolving Products”
+
+Wie sich Produkte, also Webseiten im Speziellen entwickeln können zeigte Freitas eindrucksvoll in seiner Präsentation – entweder kontinuierlich oder punktuell. Da ich mit dem Snookerblog in einer ähnlichen Situation bin, war das wirklich wertvoll für mich. (4/5)
+
+## Florian Schmitt ([Hi-ReS!](http://www.hi-res.net/)) & [Jeff Croft](http://www.jeffcroft.com/) (World Online): “Flash vs. Standards”
+
+Leider lies die Präsentation der Beiden die erhoffte Kontroverse vermissen. So wurde daraus eine belanglose Präsentation, dass Standards und Flash ganz gut zusammen passen. Nett waren die Beispiele aus den Anfangstagen von Florians Flash-Spielereien. (3/5)
+
+## John Harris ([Microsoft](http://microsoft.com/)): “Bringing Vision to Campaigns”
+
+Zu Beginn seiner Präsentation verließen viele Besucher den Raum. So viele, dass ich von dem sachverständigen Türaufhalter gefragt wurde, ob denn keiner Harris mögen würde. Das verneinte ich, es wäre angekündigt worden, dass es noch einen Moment dauere bis er fertig sei. Ansonsten Werbung für Microsofts Expression Web. Und Silverlight (?), das HD-Darstellung mit reinem XHTML und CSS erlaubt (ich schätze ja, dass man das Silverdingensplugin trotzdem braucht…). (2/5)
+
+## Steve Pearce ([Poke](http://www.pokelondon.com/)): “15 things in 15 minutes”
+
+Nette Präsentation, die allerdings zu komplex war als das ich jetzt noch irgendwas davon wüsste. Hoffe auf Folien als Erinnerungsstütze. (3/5)
+
+## Panel: “Questions on the Future of Web Design”, Moderation Jason Arber ([PixelSurgeon](http://www.pixelsurgeon.com/))
+
+Sehr nett, auch einige gute Zitate, die man einfangen konnte, wie folgendes von Andy Clarke: „Es geht um persönliche Weiterentwicklung, ich muss immer interessiert bleiben am Web.“ Er hat auch das Zitat des Tages gebracht: „Manchmal nehmen wir uns einfach zu ernst, es sind nur scheiß Webseiten!“ Und Jeff Croft schloss sich an: „Die Antwort auf alle Fragen lautet beim Design immer: Es kommt darauf an.“ (4/5)
+
+So, ich muss dann so langsam los Richtung Flughafen, hoffe da Internet zu haben.

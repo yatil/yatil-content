@@ -1,0 +1,22 @@
+Title: Hört, hört! (Mal wieder…)
+----
+Date: 2007-10-15
+----
+Category: Podcast, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+„Nie wieder Podcasten“, habe ich mal gesagt, nachdem ich bei anderen Gelegenheiten mein nicht vorhandenes Talent unter Beweis gestellt habe.
+
+Doch als [Toskana-David](http://macx.de/) twitterte, dass die Sendung ausfallen könnte, sprangen [Dirk Ginader](http://blog.ginader.de/) und meine Wenigkeit ein und wir verabredeten uns mit [Stefan Nitzsche](http://blog.nitzsche.de/) und [Jens Grochtdreis](http://grochtdreis.de/weblog/) um einen Podcast in [.net Magazine](http://www.netmag.co.uk/zine/podcast) -Form zu produzieren.
+
+Letztlich hatte ich wieder das ganze Organisatorische an der Backe – aber ich hab’s ja so gewollt. Letztlich ist eine sehr chaotische Folge entstanden in der ich mich besser über das Einstiegsthema CSS-Schrifteinbettung hätte informieren sollen. Aber man kann ja nicht alles gleich richtig machen.
+
+Für mich ein Highlight: Mein Versprecher am Anfang, als ich Jens Grochtdreis und Webkrauts irgendwie vermischte und Jens Grochtdraus sagte. Naja, passiert. [Das Gespräch ist ungeschnitten und unzensiert und kann auf Technikwuerze.de herunter geladen werden.](http://www.technikwuerze.de/podcast/technikwuerze94/)
+
+Mir hat’s Spaß gemacht und ich hoffe die Hörer haben das gleiche Gefühl.

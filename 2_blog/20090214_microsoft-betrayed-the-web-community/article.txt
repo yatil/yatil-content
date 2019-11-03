@@ -1,0 +1,20 @@
+Title: Microsoft betrayed the web community (or not? — Update)
+----
+Date: 2009-02-14
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+So, Microsoft, here are we again. Starting from the beginning. You probably remember your attempt [to break the web by rendering web pages in IE7 mode by default](http://yatil.de/en/microsoft-attempts-to-break-the-web-just-again)? Well, I do. We shouted at you, had several arguments and [you changed your opinion](http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx). Great. In the meantime you produced a decent CSS2.1 browser (why bother what the cool kids at Apple and Mozilla and Opera do with their non-standard filthy CSS3). To be clear on that: I prefer a decent CSS2.1 over a badly implemented CSS3 browser every time. What you introduced as an alternative to the IE7 default mode was a button to force the browser into compatibility mode if a website was broken. Additionally websites could have the browser render them in compatibility mode if they used HTTP metadata, which is fine. What is not fine is, that **you lied at us. Big time.**You wrote in your blog post introducing compatibility mode:
+
+> “We’ve decided that IE8 will, by default, interpret web content in the most standards compliant way it can. This decision is a change from what we’ve posted previously.“
+
+Now [you won’t do that](http://www.isolani.co.uk/blog/standards/Ie8BlacklistForcingStandardsRenderingOptIn). If enough people (enough is just a number which you didn’t tell us) want to see a site in compatibility mode this is reported to Microsoft and then back to all IE8 instances which will then use IE7 rendering mode. That means Microsoft breaks the web again. There is no reason for doing that. Most people won’t see any differences in IE8 behaviour from other browsers. What you did with IE8 is great, but you betrayed the whole community. Well done. We trusted you, we promoted IE8, we tried to do everything to get IE8 out there and the message it brings. Now we are left with a browser where a arbitrary number of people can decide how the pages are rendered not web authors. This is bad. Yes, I know that we can opt-in into standards mode with HTTP meta data, but that is not what anyone even at Microsoft can expect people to do. As we don’t know how pages are rendered the web will once again grind to a halt and we will have to optimize for IE7 years and years and years from now. Please get serious about the web and web standards. It looks like IE8 is yet again a piece of scum instead of a browser. But that fits nicely into what IE6 became and IE7 still is. Get real Microsoft, get real and make a browser instead of just calling some random piece of software a browser. ## Update
+
+Chris Wilson, Platform Architect of the Internet Explorer Platform team at Microsoft ([says his website](http://cwilso.com/about/)), said in several tweets ([1](https://twitter.com/cwilso/status/1208302317), [2](https://twitter.com/cwilso/status/1208315936), [3](https://twitter.com/cwilso/status/1208330123), [4](https://twitter.com/cwilso/status/1208331799), [5](https://twitter.com/cwilso/status/1208332959)) that you shouldn’t have to opt in into standards mode and that the domain owner, according to the whois data, will receive an e-mail. They can then say “no, thank you” to the blacklisting. This seems quite appropriate, the question is if those mails get to the right persons all the time. That could be a problem in larger organisations. That said, such an e-mail has yet to be seen (by me, that is), probably they will be sent out prior or after the launch of IE8.

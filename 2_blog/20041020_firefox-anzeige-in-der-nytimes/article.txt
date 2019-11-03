@@ -1,0 +1,18 @@
+Title: Firefox-Anzeige in der NYTimes!
+----
+Date: 2004-10-20
+----
+Category: News, Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> The full-page ad will be a celebration—not just for a great new product, but for the open source community that built it. With that in mind, please invite all your friends & co-workers to add their names to the ad—the ad now has room for 10,000 names!
+
+Die Macher des [Firefox-Browsers](http://mozilla.org/products/firefox/) haben wieder eine pfiffige Marketing-Idee: _Eine Anzeige in der New York Times!_ – Ok, das ist nicht so innovativ, aber als Schüler/Student kann man sich für 10$ als »Supporter« in der Anzeige aufführen lassen. Da habe ich doch gleich 8,15€ überwiesen und wenn das mit [PayPal](http://paypal.de/) klappt steht mein Name bald in der [New York Times](http://nytimes.com/).
+
+_Nachtrag:_ Anmelden kann man sich über [spreadfirefox.com](http://spreadfirefox.com)!

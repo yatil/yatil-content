@@ -1,0 +1,22 @@
+Title: Sunday Seven for March 11, 2018
+----
+Date: 2018-03-11
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+This was a long work week, so here are some games and apps instead of articles as I couldn’t find time to concentrate on pieces.
+
+- TV: [**Jessica Jones**, Season 2](https://www.netflix.com/title/80002311) – While work was plenty, some of it was also repetitive, so I managed to watch the new Season of Jessica Jones. Very intense storytelling.
+- iOS: [**Altos Odyssey**](https://itunes.apple.com/de/app/altos-odyssey/id1182456409?mt=8&uo=4&at=1010lpy5) – When I downloaded Alto for the first time, I dismissed it as being too similar to its precursor. However, it has more facets, and it’s easier to achieve goals.
+- Podcast: [**Playing for Fun** with Tiffany Arment and Myke Hurley](https://www.relay.fm/playingforfun) – Two people talk about the positive of a video game. It’s refreshing and fun. Episode 2 is about “Celeste” which I have never played, but Episode one was about one of my favorite games…
+- Switch: [**Super Mario Odyssey**](https://www.nintendo.com/games/detail/super-mario-odyssey-switch) – Such a refreshing re-imagination of Mario games. Certainly one of the best titles on the Switch to date.
+- Version Control: [**Tower**](https://www.git-tower.com/mac/) – Tower is a fantastic app for git version control. The people behind the app also have published [a comprehensive learning resource for git](https://www.git-tower.com/learn/).
+- CSS: [**Third party CSS is not safe** by Jake Archibald](https://jakearchibald.com/2018/third-party-css-is-not-safe/) – Whenever you embed any resource from a third-party server, you are building a tunnel under your site’s security. The same also applies to CSS. Great list of examples from Jake.
+- Browser: [**Firefox Developer Edition**](https://developer.mozilla.org/en-US/Firefox/Developer_Edition) & its inspector – Working with grids and other newer CSS benefits from a good inspector and Firefox has stepped up the game. Especially inspecting grids is impressive. The browser also has a beautiful and distinct dark theme.

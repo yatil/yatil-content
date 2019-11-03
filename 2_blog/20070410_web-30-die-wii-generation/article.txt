@@ -1,0 +1,24 @@
+Title: Web 3.0 - Die Wii-Generation
+----
+Date: 2007-04-10
+----
+Category: Fun, Videospiele
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zur Erklärung: Zuhause habe ich kein DSL sondern nur ordinären Modemanschluss, weshalb es bisher keine Option war mit dem Wii online zu sein. Am Wochenende war ich jedoch zu Besuch bei meinem mit DSL ausgestatteten Bruder.
+
+Nach kurzer Aktualisierung und dem Herunterladen des (kostenlosen) Wii-Meinungskanals und Street Fighter 2 (SNES, Virtuelle Konsole, 8€) probierte ich den Internetkanal aus, den ich zuvor bereits heruntergeladen hatte aber nicht austesten konnte.
+
+Zudem gab es damals noch kaum Wii-optimierte Webseiten. Das hat sich sehr verändert. Über [Michael Preidels](http://www.qxm.de/) [WiiMix](http://www.wiimix.de/) stieß ich auf das perfekte [YouTube](http://youtube.com/) -Interface [WiiToob](http://www.wiitoob.com/). Es macht wirklich Spaß die Videos am TV anzuschauen. Die Auflösung ist deutlich ausreichend.
+
+Die Bedienung ist genial. Es hilt aber auch, wenn man nicht in die Webseite einzoomen muss um die Schrift lesen zu können, ansonsten geht die Orientierung doch ein wenig verloren. Insgesamt ist es sehr intuitiv bedienbar. Auch die Texteingabe ist dank Wortvervollständigung einfach und schneller als man das für möglich hält.
+
+Durch den eingebauten Opera-Browser kann Wii auch alle technischen Spielereien. Flash, XML">AJAX und JavaScript sind ganz ohne Probleme möglich. Mehrere Fenster gibt’s (noch) nicht. Das macht aber zumindest auch das aufpoppen von Pop-Ups unmöglich. In der finalen Version sollten Tabs verfügbar sein. Ein knappes halbes Jahr nach der Auslieferung müsste aber bald die (kostenpflichtige) Vollversion zur Verfügung stehen.
+
+Einen kurzen Blick konnte ich auch auf [joost](http://joost.com/) („juiced“) werfen, IP-TV der neuen Generation. Machte einen guten, aber benutzertechnisch verwirrenden Eindruck. Sobald ich nächste Woche wieder in Wien bin, werde ich einen ausführlichen Blick auf die Software werfen.

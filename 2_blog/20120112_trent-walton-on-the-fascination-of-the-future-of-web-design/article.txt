@@ -1,0 +1,16 @@
+Title: Trent Walton on the fascination of the future of web design
+----
+Date: 2012-01-12
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> For what it’s worth, it’s stuff like \[vertical media queries\] that gets me excited about the future of web design. We’re leaping past any point where the word webpage makes any sense, and into a a world where what is seen at any one screen size (or Photoshop comp) only captures a sliver of the display capability responsive websites muster. — [Trent Walton](http://trentwalton.com/2012/01/11/vertical-media-queries-wide-sites)
+
+I’m so looking forward to seeing him talk next week in Nottingham.

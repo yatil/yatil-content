@@ -1,0 +1,100 @@
+Title: Alice Bartlett – What is the Business Case for Accessibility? #fronteers15
+----
+Date: 2015-10-08
+----
+Category: Event
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- Motivated for the moral of accessibility.
+- But it is a good question to ask about the business case
+- What is gov.uk 
+  - Best place to find government services in the UK
+  - One single design of the government sites
+  - 9m visits/week
+  - 330 departments/organization
+  - saved £1.7 billion in tax money
+  - tried to make gov.uk as accessible as possible
+  - first: inaccessible prototype 
+      - Sent troubling message to users
+  - beta: built for inclusion
+  - aim: most easy to use and accessible website of a government that there has been
+  - regular research with people w/ disabilities
+  - screen reader tests
+  - hiring accessibility experts
+  - it is in the design principles
+- “What I mean by ‘accessibility’?” 
+  - Four impairments: 
+      - visual
+      - hearing
+      - ???
+      - cognitive
+  - Fonts are important, for example some people use the Open Dyslexic font.
+  - Some improvements are not technology based: color choices, information architecture, sentence length…
+  - Making the site accessible would mean supporting a variety of technologies
+  - Tricky decisions where you need to make a decision that helps a set of people but is not improving the page for other users
+  - Making sites accessible makes financial sense for governments. 
+      - PwD do get what they need anyway, for instance they might call which is much more expensive.
+  - Closed system in government
+  - But in private PwD can go somewhere else
+- Writing a business case for accessibility 
+  - This is the magic answer how making your web site accessible will make you rich. – Naïve view.
+  - Good business case takes a problem that you have
+  - Come up to solutions to that problems
+  - Which solution is the best (will be accessibility because that’s what the talk is about ;-)
+  - We should solve X
+  - Anecdotal evidence: SEO, maintenance, revenue from PwD, older people
+  - Search for the most cost effective way to solve the problem. Is that accessibility?
+  - A good business case should find the most effective solution.
+  - Only real business case is litigation.
+  - Duty to make reasonable adjustments in UK law
+  - But most people don’t care about the UK
+  - In the Netherlands: AWGB (Algemene Wet Gelijke Behandeling) – Equal treatment act.
+  - Public sector: Webrichtlijnen – quite advanced
+  - No case has it ever made to court in the Netherlands
+  - In the UK usually settling outside of court to avoid embarrassment
+  - When in the US things are going to court, there are fines and embarrassment
+  - If low profile company the chances to get sued is quite low vs. the cost of making your site accessible
+  - Maybe no business case for accessibility for small companies
+  - But…
+- You don’t need a business case. 
+  - If you build a site from scratch, why not just do it. It is not too hard. And, as [Scott](/?p=101753) said, access is our job.
+  - Sneak it in, if you have to.
+  - 4 levels to how much you care or are able to care about accessibility 
+      1. Don’t screw up HTML 
+            - A lot comes with accessibility built in
+            - Gets you 90% of the way – that’s better than 85% out there.
+            - Headings are shown as an outline
+            - PwD will often search for those headings or landmarks 
+                    - There is quite a patchy understanding of landmarks by users, main is well known at the moment
+            - Links need to be descriptive, or you just end up with a list of “click here“s.
+      2. Check with tools: 
+            - WAVE or tenon helps you
+            - WAVE: low effort, shows warnings and alerts inline
+            - Tenon is an API, you POST to it, get JSON back. Integrates into the built process.
+            - Example: Fronteers Website – 1 Error: A <p> element that is empty (only inputs in there)
+            - Tenon allows you to fix those and read about the reasoning and severity of the error
+      3. Test with assistive technology 
+            - You’ll never get as good with a screen reader as a permanent screen reader user
+            - But very interesting insights
+            - Especially with interactive components
+            - You want to test if your browser understands what you want to tell him.
+            - Looks like JAWS won’t be the most prominent screen reader in the near future.
+            - Browser and accessibility APIs are buggy
+            - dd:first-letter {text-transform: uppercase;} caused Chrome+VO to read the first character another time.
+            - In chrome there is an accessibility tab in about:flag
+            - File bugs!!
+            - So a visual style beaks the site for non-visual users
+            - ¯\\\_(ツ)\_/¯
+      4. Ask an expert 
+            - Someone who is good at accessibility testing is very important – at GDS: Léonie Watson
+  - For most of those you don’t need a business case.
+  - „When accessibility becomes part of what you do, of course it’s free“
+  - Discussion: <http://designpatterns.hackpad.com>
+- Summary: 
+  - Good business cases for accessibility are hard to write.

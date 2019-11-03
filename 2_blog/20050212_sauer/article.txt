@@ -1,0 +1,14 @@
+Title: Sauer
+----
+Date: 2005-02-12
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+![](/images/179.png) Mir reicht es wirklich, seit einigen Tagen rollt hier eine Referrer-Spam-Welle an, deren Ausmaße größer sind als jede zuvor. Ich habe zwar gestern abend die .htaccess von [Dirk](http://www.dirksteins.de/article/182/referer-spam) eingebaut und geholfen hat es nichts. Wahrscheinlich brauche ich noch ein paar zusätzliche Angaben in der Datei. Im Bild seht ihr die (vorgegebenen) Linkquellen von heute morgen zwischen 5.35 und 6.19 Uhr.

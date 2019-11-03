@@ -1,0 +1,22 @@
+Title: CSS-Reboot: Fast fertig
+----
+Date: 2005-11-01
+----
+Category: News, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+So, das Stylesheet ist jetzt auch eingespielt. In den nächsten Tagen muss ich aber noch ein paar Änderungen machen. Immerhin hab ich’s rechtzeitig hinbekommen :)
+
+Was gibt’s noch neues?
+
+Die Live-Comment-Preview ist wieder zurück, die Kommentare sehen neu aus und sind zweispaltig.
+
+Und was noch wichtiger ist: Die Navigation ist nach unten gewandert und beinhaltet alles, was man braucht. Unter anderem eine Live-Suche. Was mit Ajax nicht alles möglich ist :)
+
+[Mein Reboot-Profil](http://www.cssreboot.com/rebooters/yatil/) – Bald mit Vorher-/Nachher-Screenshots.

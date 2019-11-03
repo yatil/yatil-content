@@ -1,0 +1,68 @@
+Title: Was Firmen vor einem Redesign ihrer Webseite wissen sollten
+----
+Date: 2006-09-01
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Verstehen, wozu die Webseite benötigt wird
+
+Je besser man weiß, was die Webseite für das eigene Business leisten soll, desto größer ist die Chance, dass man bekommt, was man sich vorstellt. Das mag eine offensichtliche Beobachtung zu sein, aber Webdesigner berichten oft von ungenauen Anforderungen. Der frustrierendste Teil der Arbeit eines Webdesigners ist die Transformation des „Ich brauche eine Webseite“ in eine attraktive und funktionelle Seite, die die Nachricht des Kunden an die gewünschten Empfänger bringt.
+
+## Es kostet mehr und dauert länger, als man denkt
+
+Ein häufiges Problem ist die Einschätzung der Kosten für eine Webseite. Kunden sagen oft, dass „es ja nicht schwer sein kann“ eine Webseite zu erstellen. Natürlich kann man sich eine Seite in fünf Minuten zusammenschustern, aber das wird meist nicht das richtige sein um die eigene Firma zu vertreten. „Ich nehme es Kunden übel, wenn sie von dem was wir machen keine Ahnung haben und mir sagen wollen wie leicht die Aufgabe ist“, sagt Keli Etscorn-Dillon, „Würde man seinem Doktor sagen, dass es ja nicht so schwer sein kann, meinen Arm zu vergipsen?“.
+
+Feste Abgabetermine sind wichtig um die Kosten kontrollieren zu können.
+
+## Eine Webseite hat verschiedene Teile. Es lohnt sich nicht an ihnen herumzuschneiden.
+
+Jede Webseite – egal welcher Größe – hat verschiedene Entwicklungsstadien, von denen keines übersprungen werden sollte.
+
+Margie Matteson: „Nach dem die Informationen gesammelt sind, hier ist die Mitarbeit des Kunden wichtig, gibt es die Designphase und die Entwicklungsphase. In dieser wird jede Version vom Kunden abgesegnet. Irgendwann müssen Inhalte für die Seite geschrieben werden, entweder vom Kunden oder einem Copywriter. Bei komplexe Anforderungen wird ein spezialisierter Entwickler herangezogen.“
+
+## Balance zwischen Aussehen und Funktionalität finden
+
+Oft steht das Aussehen der Webseite im Vordergrund, die Benutzbarkeit hingegen wird vernachlässigt.
+
+„Webseiten müssen nicht herausragend sein, damit man Resultate erkennen kann. Manche werden nach vielen Animationen und coolen Grafiken fragen, sie wollen einen in Flash gebauten Splashscreen und Javascript-Rollover für die Links im Menü.“, sagt Debbie Campbell, „Solche Sachen helfen selten, schaden dem Großteil der Webseiten von Firmen.“
+
+## Eine Webseite garantiert keinen sofortigen Besucheransturm
+
+Ein weit verbreiteter Irrtum: Kurz nach dem Erstellen einer Webseite würden Millionen von Besuchern die Seite besuchen. Die Wirklichkeit ist weit davon entfernt.
+
+Eine Seite hat nicht direkt und unmittelbar Erfolg, es dauert beispielsweise bis sie bei Google gelistet wird.
+
+## Datenmüll vermeiden: Die Seite will gepflegt werd
+
+Wenn eine Webseite fertig ist, heißt das noch lange nicht, dass man sie danach einfach ignorieren kann. Ein alter Copyright-Hinweis oder Daten, die ein halbes Jahr alt sind wirken sich negativ auf das Geschäft aus.
+
+Zudem werden die Programme von Suchmaschinen seltener vorbeischauen um nach neuen Inhalten zu suchen, wenn es längere Zeit keine neuen Inhalte mehr gab.
+
+## Das Web-Team wie Profis behandeln
+
+Viele Webdesigner und Webentwickler sind entsetzt darüber, dass angenommen wird ihre Fähigkeiten seien gewöhnlich und wertlos.
+
+Man sollte im Hinterkopf behalten, dass man einen Experten beauftragt hat, weil man sich auf ihn verlassen kann. Professionelles Design beansprucht viel Arbeit, Fachkönnen, Bildung und Begabung.
+
+Lamson: „Schüler mit einer illegalen Version von Dreamweaver und Photoshop können keine Webseiten bauen, die so gut sind wie die von echten Webdesignern – auch wenn die Schüler nur 250 Dollar nehmen.“
+
+Im folgenden die Punkte von Roger Johansson:
+
+## Die meisten Leute in der Webindustrie haben keinen blassen Schimmer
+
+Das hört sich vielleicht rau an, ist aber die traurige Wahrheit. Der große Teil der Webworker sollte seine Fähigkeiten an die Anforderungen im 21sten Jahrhundert anpassen oder sich einen neuen Job suchen.
+
+## Man bekommt immer das, was man bezahlt hat
+
+Wenn es etwas billig gibt, dann ist da _immer_ irgendwo ein Haken. Es gibt Gründe dafür, dass der günstigste Bieter der günstigste Bieter ist. Daran sollte man denken.
+
+## Bitte nicht vor Beginn eines Projektes bereits das CMS kaufen
+
+Viele Organisationen, hauptsächlich im öffentlichen Sektor geraten in diese Falle. Eine Gemeinde kauft beispielsweise ein günstiges CMS, das ihnen gut gefällt und beauftragen dann jemanden eine Webseite darauf aufzubauen. Das Ergebnis ist meist unflexibel und unzugänglich und sieht langweilig aus.

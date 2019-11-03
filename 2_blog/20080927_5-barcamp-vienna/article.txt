@@ -1,0 +1,14 @@
+Title: 5. BarCamp Vienna
+----
+Date: 2008-09-27
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Hoffentlich mit funktionierendem Notebook werde ich am Wochenende vom 4./5.10.2008 am BarCamp Vienna teilnehmen, welches bei HP stattfindet. Seit dem BarCamp Hannover London tatsächlich meine nächste Unkonferenz und erst die dritte vierte in diesem Jahr. (Wie konnte ich nur London vergessen?) [![](http://wp.yatil.net/wp-content/uploads/2008/09/301.png)](http://wp.yatil.net/wp-content/uploads/2008/09/301.png)Ich plane zwei Sessions, die erste ist „Fleisch ist mein Gemüse – Und das Web mein Social Network! Ein Plädoyer gegen Walled Gardens und für offene APIs“ (Arbeitstitel ;)) und soll sich hauptsächlich um Technologien wie OpenID oder OAuth drehen sowie über microformatierte Webseiten. Wahrscheinlich erst Sonntag, weil ich den Samstag noch zur Recherche im Netz brauche. Samstags würde ich gerne, zusammen mit einem Panel von Experten, eine Frage-und-Antwort-Session zum Thema Barrierefreiheit machen. So, jetzt habe ich auch dem Grundsatz “You do blog about BarCamp.” erfüllt.

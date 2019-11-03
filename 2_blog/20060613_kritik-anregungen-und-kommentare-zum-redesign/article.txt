@@ -1,0 +1,14 @@
+Title: Kritik, Anregungen und Kommentare zum Redesign
+----
+Date: 2006-06-13
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+... sind hier gerne gesehen. Getestet habe ich in Firefox und IE 6/7. Gravatare habe ich mal wieder deaktiviert sind mal an und mal aus, da sie im Moment manchmal die Seite unbedienbar langsam machen.

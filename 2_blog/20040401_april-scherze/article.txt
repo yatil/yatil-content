@@ -1,0 +1,20 @@
+Title: April-Scherze
+----
+Date: 2004-04-01
+----
+Category: Fun
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+...findet ihr hier auf der Seite mit Sicherheit nicht (ich bin da viel zu unkreativ). Dafür kann sich sehen lassen, was andere getan haben:
+
+[Stopdesign](http://www.stopdesign.com/log/2004/04/01/home.html) und [Mezzoblue](http://www.mezzoblue.com/archives/covers/apr01-04/) haben die Designs ihrer Homepages getauscht… Normalerweise sehen die Seiten so aus: [Stopdesign](http://www.stopdesign.com/) und [Mezzoblue](http://www.mezzoblue.com/)
+
+Bei [Dunstan](http://www.1976design.com/blog/) fliegen (wohl aus Protest) Kriegsflugzeuge herum (das Bild zeigt normalerweise die aktuelle Tageszeit und das aktuelle Wetter).
+
+Das Web Standards Project hat einen [Artikel über ein Validitäts-Virus](http://webstandards.org/buzz/archive/2004_04.html) veröffentlicht.

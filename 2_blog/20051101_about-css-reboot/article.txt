@@ -1,0 +1,60 @@
+Title: About: CSS Reboot
+----
+Date: 2005-11-01
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Im [vorhergehenden Eintrag](http://yatil.de/Weblog/css-reboot-fast-fertig) wurde ich auf der einen Seite gefragt, was meine Motivation zu dieser Art von Redesign war. Auf der anderen Seite sollte ich was zu Barrierefreiheit und damit – so weit dehne ich das jetzt einfach einmal – zum Code selbst etwas schreiben.
+
+## Motivation und Hintergründe
+
+Meine Vorüberlegungen schwankten zwischen komplexen 6-/12-Spalten-Layouts und dem Einspaltenlayout. Weshalb ich mich für die einspaltige Version entschieden habe ist klar: Der Inhalt soll im Mittelpunkt stehen.
+
+Die nächste Frage war, was ich mit der Navigation machen soll. Nach oben wollte ich sie nicht schieben. Der Inhalt soll im Mittelpunkt stehen.
+
+Also Navigation kurz vor’s Ende der Seite. Die drei Links am oberen Seitenrand sind eigentlich nur notwendige Übel:
+
+1. Der [Archivlink](http://yatil.de/archiv/) ist der Köder für Google, damit er auch wirklich alle Einträge findet.
+2. Das [Impressum](http://yatil.de/impressum/) wird verlinkt um dem Gesetzgeber genüge zu tun.
+3. [zur Navigation](#navigation) führt zur Navigation, und ist für die Benutzer gedacht, die schnell Zugriff auf diese benötigen, das dürften die wenigsten sein.
+ 
+Die Navigation selbst bricht absichtlich mit der Konvention des Einspaltenlayouts. Mit seinen sechs Spalten und dem ausbrechen aus dem System stellt sie zusätzlich einen Blickfang dar.
+
+Auch, wenn dieses System momentan noch kritisiert wird, werde ich daran festhalten, überlege mir aber alternativen.
+
+1. Die “Shaun Inman”-Lösung halte ich nicht für praktikabel, und ohne Javascript hat man das selbe Ergebnis wie jetzt. Ich sehe da nicht wirklich einen Vorteil.
+2. Die Navigation könnte ihren Platz zwischen Artikel und Kommentaren bekommen, das würde den Lesefluss jedoch merklich stören.
+3. Zwischen Kommentaren und Kommentarformular halte ich nicht für sinnvoll.
+ 
+Die Kommentare sind weiterhin Definitionslisten, diesmal zweispaltig angeordnet, das wollte ich vor drei Redesigns schon realisieren.
+
+Die “Dies ist keine Werbung!”-Checkbox ist ein notwendiges Übel gegen Spam. Entweder das oder der Umweg über die Kommentarvorschau. Da lob ich mir doch dieses System!
+
+Noch nicht 100%ig zufrieden bin ich mit der Livesuche, aber ich finde die Benutzung einfacher als noch eine Seite aufzurufen.
+
+Wichtig war mir auch, wieder aktuellen Content auf die Startseite zu bringen. Dazu habe ich auf der einen Seite wieder den letzten Eintrag vorne draufgepackt und zum anderen durch “Im Fokus” eine Kategorie geschaffen, die Artikel beinhaltet, die mir wichtig erscheinen.
+
+## Code & Barrierefreiheit
+
+Zugunsten des Designs habe ich eine vielzahl von `Divs` für das Layout benutzt, ohne vollends im [Div-Wahnsinn](http://yatil.de/Webentwicklung/der-div-wahnsinn) unterzugehen.
+
+So habe ich beispielsweise beachtet, dass die `Divs` logische Bereiche zusammenfassen.
+
+Auch muss ich zugeben mich nicht wirklich um die Optimierung auf wenige `Divs` gekümmert zu haben, so wie das bei der Vorgängerversion war.
+
+Beim Thema Barrierefreiheit ist das Zoomen des Textes der wichtigste Punkt und das ist hier – wie ich finde – ganz gut gelöst. Das Layout ist elastisch und kann (nahezu) beliebig vergrößert und verkleinert werden. Und das auch im Internetexplorer.
+
+Dieser Effekt wird durch die konsequente Auszeichnung von Größen mit `em` erreicht.
+
+Auch [ohne Stylesheets](http://www.iyhy.com/?a=http://yatil.de) ist die Seitenaufteilung klar. Die Seite sollte mit aktuellen Mobiltelefonen korrekt angezeigt werden.
+
+Die Auszeichnung mit den verschiedenen XHTML-Elementen zur Kennzeichnung von Überschriften und Listen ist ja selbstverständlich.
+
+PS: [Die Seite wurde bei screenspire aufgenommen. THANK YOU!](http://screenspire.com/view/yatil.de/)

@@ -1,0 +1,16 @@
+Title: On the #A11y Rules Podcast
+----
+Date: 2018-04-08
+----
+Category: Accessibility
+----
+Summary: 
+----
+Tags: interview, podcast, vavroom
+----
+Image: 
+----
+Text:
+Nic [@vavroom](https://twitter.com/vavroom/) Steenhout ([Blog](https://incl.ca)) invited me to his #A11y Rules Podcast. We talked about my work with [Knowbility](https://knowbility.org) and the [W3C Web Accessibility Initiative (WAI)](https://w3.org/WAI/) and how I got into accessibility. Nic’s podcast is short and sweet, so you don’t have to listen to me waffling on for too long. Nic makes transcripts of the episodes available. [Episode 1 of the two-part interview is out now!](https://a11yrules.com/podcast/e35-interview-with-eric-eggert-part-1/)
+
+Thank you, Nic, for having me!

@@ -1,0 +1,70 @@
+Title: Computer-Umbau-Tag
+----
+Date: 2005-07-26
+----
+Category: Fun
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wie ich gestern schon schrieb stand ein der Umbau des Computers meiner schwester an, der ja über soetwas wie eine Grafikkarte verfügte (8MB shared!), aber leider über keinen AGP-Steckplatz verfügt (typisch Mediamarkt: ausgelötet).
+
+Ok, also zuerst mal alle Kabel und Steckkarten raus – soweit kein Problem. Dann das Mainboard ausbauen – Check. Jetzt Prozessorkühler abnehmen – uh, der klebt ja fest… wie mach ich jetzt den Riegel am Prozessorkern auf… gar nicht! Leicht gezogen, flup Prozessor inkusive Kühler und Lüfter in der Hand (Prozessor 0,5cm, Rest 19,5cm) OK. Aber auf dem neuen Mainboard ist der Prozessor – im Vergleich zum Kühlerhalter um 90° gedreht aufgebracht. Der Prozessor muss also vom Kühler runter… Messer genommen und fest dran gedrückt. Es war geschafft. Prozessor schnell mit Wärmeleitpaste bestrichen und an seinen Bestimmungsort gebracht.
+
+Oh, bei dem neuen Mainboard ist gar keine Halterung für den Prozessor-Kühler dabei, nur der Rahmen… „alte“ Metallhalterungen abgebaut und etwas gerade gebogen. Beim Einsetzen des Kühlers gemerkt: Verdammt! Der Kühler passt nicht in die Halterung. Mainboard wieder ausgebaut, „alter“ Rahmen mitsamt (auf der Rückseite des Mainboards liegenden) Schraubgewinden eingebaut. Mainboard wieder eingebaut… Weshalb ist das denn so komisch gebogen? Ach, die Schraubgewindescheibe (was auch immer) liegt auf einer Laufschiene – lassen wir einfach eine Schraube weg.
+
+Ok, Steckkarten wieder rein, alles angeschlossen… check. Neue Grafikkarte: eingebaut, kein Problem. Ab an den Monitor.
+
+Gebannt betrachteten wir den Bootvorgang, nachdem ich im Bios die richtigen Einstellungen vorgenommen hatte. Das „Windows XP“ blieb jedoch störrisch, wollte sich nicht starten und auch nicht reparieren lassen. Also Neu-Installation ins Verzeichnis „C:windows2“, damit auch alle Daten erhalten bleiben. Nach der Installation Reaktivierung des Betriebssystems beim Hersteller – per Telefon – da ich das Datum aktualisiert habe und ich dann (nach microsoft’scher Rechnung) dreißig Testtage überschritten habe. Nachdem die Computer-Stimme drei mal versagt, lasse ich mich zu einem Service-Mitarbeiter durchstellen.
+
+> Willkommen bei Microsoft.  
+> Wir haben leider ein Server-Update. Rufen Sie innerhalb der nächsten Stunde an. OK?
+
+Über eine Stunde später das selbe Spiel, wieder versagt die Computer-Stimme. Service-Mitarbeiter:
+
+> Bitte lesen Sie die Zahlen auf ihrem Bildschirm vor! ... Drücken Sie auf „Neuen Key anfordern“ (oder wie das heißt) und rufen Sie nochmal an.
+
+OK, Seriennummer vom Gehäuse abgeschrieben, wieder angerufen und – Überraschung – wieder versagt die Computer-Stimme:
+
+> Ihre Nummer konnte nicht verifiziert werden.
+
+Der nächste Service-Mitarbeiter war eine Mitarbeiterin und nachdem ich die Nummer nochmals durchsagte und bestätigte, dass ich das Windows nur auf einem PC verwende wurde mir endlich meine – also die Seriennummer meiner Schwester – durchgesagt.
+
+Nach den Stimmen der Mitarbeiter habe ich übrigens eine kleine Weltreise hinter mir, der erste hörte sich sehr nach Inder an, der zweite schien mir Amerikaner (nein, nicht die zum Essen) und die dritte hatte einen starken russischen Akzent. Aber egal. Nach nur wenigen Stunden und ohne Michael – mit seinen hervorragenden (Ironie) Computerkenntnissen – dafür bezahlen zu müssen läuft der PC wieder einwandfrei. Mit einem funktionierenden Windows XP (bei Auswahl des ersten Eintrags „Microsoft Windows XP Home Edition“ im Bootmenü) und einem Windows-Setup in einer Endlosschleife (bei Auswahl des zweiten Eintrags „Microsoft Windows XP Home Edition“ im Bootmenü).
+
+Jetzt muss nur noch die neue Grafikkarte halten, was sie verspricht… und ich muss die silbernen Flecke von der WLP von meinen Händen bekommen.
+
+**Update:** Und wer denkt, dass das alles war hat falsch gedacht…
+
+Gestern meintemeine Schwester nämlich: „Ach, Eric, so isses Blöd, ich hab gar keinen Speicherplatz mehr auf meiner Festplatte, wollen wir nicht alles löschen?“
+
+Also zuerst alle Daten zusammengesucht und dann auf DVD gebrannt (allein die Spielstände von Sims 2 hatten knapp ein habes Gigabyte). Dann Windows wieder installiert und – ja, richtig – wieder den MS-Support angerufen und das selbe Spiel von vorne:
+
+Wieder eingetippt, wieder nicht verifiziert.
+
+> ... einen Neuen Product-Key…
+
+Kenn ich, antwortete ich. Button geklickt und neue Nummer eingegeben, wieder nicht verifiziert.
+
+> Lesen Sie die ersten sechs Buchstaben der ID vor!  
+> (Ich lese sie vor.)  
+> OK, und die letzten sechs sind 123456?  
+> (Ich: Ja.)  
+> Lesen Sie mir die 25stellige Windows-Kennung vor.  
+> (Ich: Die, die hnten am Computer-Gehäuse angebracht ist?)  
+> Ja.  
+> (Ich (leise): Verdammt. Moment.)
+
+Also – Computer vorgezogen, hingekniet, kopf gedreht (aufrecht ist die Nummer nämlich nicht zu lesen) und vorgelesen
+
+> Ist dies ihre erste Aktivierung?  
+> (Ich: Nein.)  
+> Und auf wievielen PCs haben Sie Windows installiert?  
+> (Ich: Auf einem.)  
+> OK, ihre Nummer lautet…
+
+Also, liebes Windowsherstellerunternehmen: Wenn ich Windows XP auf mehr als einem PC installiert hätte (was ich habe, aber ich habe auch zwei Lizenzen) würde ich freiwillig das natürlich nicht zugeben. Naja, wenigstens hat das mit der Neuformatierung geklappt und jetzt habe ich hoffentlich ein wenig ruhe.

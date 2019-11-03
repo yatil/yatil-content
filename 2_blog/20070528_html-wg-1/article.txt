@@ -1,0 +1,14 @@
+Title: HTML WG +1
+----
+Date: 2007-05-28
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Laut Jens](http://meiert.com/en/blog/20070521/html-wg-1/) mangelt es an klugen Köpfen aus Deutschland in der HTML-Arbeitsgruppe des W3C. Dieser Aufruf ging nicht spurlos an mir vorbei: Heute morgen konnte ich [die Anmeldung](http://ln.hixie.ch/?start=1173385976&count=1) abschließen und bin nun als „Invited Expert“ Mitglied bei der HTML WG. Ich hoffe mich nun auch dort einbringen zu können und bin gespannt wie das dort abläuft. Man hört ja immer wieder über die Ineffizienz des W3C, aber bei 451 Personen, die an den Entscheidungsprozessen beteiligt sind, ist das überhaupt nicht verwunderlich. Die Arbeitsgruppe hat eine Laufzeit bis 2010, was aber – und da sind sich wohl alle einig – eine sehr mutige Schätzung ist. Ich freue mich jedenfalls auf die Zusammenarbeit mit den anderen Team-Mitgliedern. [Übrigens ist eine Anmeldung extrem einfach, und es fehlen noch immer ein paar Deutsche, Österreicher und Schweizer.](http://ln.hixie.ch/?start=1173385976&count=1) (Natürlich sind alle anderen Nationalitäten ebenfalls willkommen.)

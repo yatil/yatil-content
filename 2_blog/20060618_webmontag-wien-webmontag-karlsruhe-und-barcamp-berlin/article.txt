@@ -1,0 +1,38 @@
+Title: Webmontag Wien, Webmontag Karlsruhe und BarCamp Berlin
+----
+Date: 2006-06-18
+----
+Category: Gesellschaft, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Webmontage
+
+### Was ist ein Webmontag?
+
+> Der Web Montag ist ein dezentral organisiertes, informelles Treffen zum Thema Web 2.0 (im weitesten Sinne), das Anwender, Entwickler, Gründer, Unternehmer, Forscher, Web-Pioniere, Blogger, Podcaster, Designer und sonstige Interessenten zusammenbringen möchte. Ziel des Web Montag ist zum einen eine bessere Vernetzung der Web 2.0-Szene in Deutschland sowie zum anderen eine Vertiefung des transatlantischen Ideenaustauschs (Deutschland-USA). [Webmontag-Wiki](http://webmontag.de/doku.php?id=web_montag)
+
+### Webmontag Wien
+
+![Webmontag-Wien-Schriftzug](/images/225.png "Webmontag-Wien-Schriftzug") An meinem Studienstandort soll es auch einen Webmontag geben, der vorgeschlagene Termin lautet 31. Juli 2006. Das ist natürlich ein denkbar schlecht er Zeitpunkt, weil ich da nicht mehr bzw. noch nicht in Wien bin. Ich habe aber mal die [entsprechende Seite im Wiki](http://webmontag.de/doku.php?id=wien) eingerichtet, damit man da nochmal drüber reden kann ;)
+
+### Webmontag Karlsruhe
+
+![Webmontag-Karlsruhe-Schriftzug](/images/226.png "Webmontag-Karlsruhe-Schriftzug") Am 3. Juli soll bereits [der Webmontag in Karlsruhe](http://webmontag.de/doku.php?id=karlsruhe) stattfinden und ich hoffe, dass ich bis dahin wieder deutschen Boden betreten habe und teilnehmen kann. Ob ich es wirklich schaffe weiß ich aber noch nicht.
+
+## BarCamp Berlin
+
+### Was ist das BarCamp?
+
+> ![Barcamp-Berlin-Logo](/images/227.png "Barcamp-Berlin-Logo") Barcamp ist eine Ad-hoc-Nicht-Konferenz _(engl. Un-Conference)_, die aus dem Bedürfnis heraus entstanden ist, dass sich Menschen in einer offenen Umgebung austauschen und voneinander lernen können.[BarCamp Wiki](http://barcampberlin.pbwiki.com/WasWannWoWie)
+
+Dabei findet Freitags eine Kick-Off-Party statt, Samstags und Sonntags findet die eigentliche Konferenz statt.
+
+Der Termin steht noch nicht komplett fest, Ende August/Anfang September ist angepeilt. Ich hoffe aber auf Ende August, da ich im September ja wieder in Wien sein muss.
+
+Das Konzept des BarCamp finde ich sehr gelungen und würde gern teilnehmen, hoffentlich klappt’s.

@@ -1,0 +1,16 @@
+Title: The web accessibility basics – Marco's Accessibility Blog
+----
+Date: 2016-01-24
+----
+Category: Accessibility, Web design, Webstandards
+----
+Summary: 
+----
+Tags: Basics, wcag
+----
+Image: 
+----
+Text:
+> I always thought that it is not so difficult to find resources about these basics, the recurrence of that question prompted me to finally write my own take on this topic. So here it is, my list of absolute web accessibility basics every web developer should know about.
+
+A very solid overview of basic web accessibility techniques by Marco Zehe.

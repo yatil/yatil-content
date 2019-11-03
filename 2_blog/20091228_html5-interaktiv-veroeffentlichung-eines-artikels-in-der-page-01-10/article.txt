@@ -1,0 +1,14 @@
+Title: „HTML5 interaktiv“ – Veröffentlichung eines Artikels in der PAGE 01/10
+----
+Date: 2009-12-28
+----
+Category: Veröffentlichung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+![PAGE 01/10](http://yatil.de/images/319.jpg "PAGE 01/10") Für die PAGE 01/10 durfte ich einen kleinen Artikel zum Thema HTML5, Canvas und CSS3 für die Titelgeschichte schreiben. Auf 1⅓ schön gestalteten Seiten ist der Artikel vor kurzem erschienen. Neben mir werfen auch [Jens Krahe](http://www.triplesense.de), [Mike John Otto](http://www.blackbeltmonkey.com), [Rolf Borcherding](http://www.neue-digitale.de), [Christian Clawien](http://construktiv.de), [Siggi Becker](http://www.siggibecker.de/blog/), [Andreas Gahlert](http://www.razorfish.com), [Ralf Herrmann](http://www.ralf-herrmann.de) sowie [Arne Kittler](http://fork.de) einen Blick auf das Jahr 2010. Ein Ausschnitt aus meiner Einleitung: > „Mit HTML5 wird, nach langen Wirren, erstmals eine Version von HTML erscheinen, die Bereiche erschließt, die bisher Technologien wie Flash oder Silverlight vorbehalten waren. Aber auch, wenn der Weg zur endgültigen Spezifikation noch weit ist, schreitet HTML5 voran. Ein Teil des Entwurfs wird dabei so heiß diskutiert, wie nichts zuvor: Das Canvas-Element bietet Interactive Designern zum ersten Mal ohne Hilfsmittel eine frei nutzbare Zeichenfläche. Auf dieser können sie wie auf einer Leinwand per JavaScript zeichnen und dabei Verläufe und verschiedene Formen nutzen.“

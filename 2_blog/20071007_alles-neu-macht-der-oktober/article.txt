@@ -1,0 +1,14 @@
+Title: Alles neu macht der... Oktober!???
+----
+Date: 2007-10-07
+----
+Category: Design, Textpattern
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Hier ist es nun: Aufgeräumt, schwarz auf weiß und überhaupt sehr neu: Die n+1. Version von yatil! Aber Achtung! Hier und da muss die Farbe noch trocknen, das versteht sich ja wohl von selbst. Hier gibt es jetzt aber ein tolles (und völlig ohne Frameworks entwickeltes) Zwölf-Spalten-Layout. Es ist unglaublich (und für einen Non-Designer wie mich auch unverständlich) wie natürlich sich Seitenelemente zusammenfügen und das Layout einfach passt. [![](http://wp.yatil.net/wp-content/uploads/2007/10/263.png)](http://wp.yatil.net/wp-content/uploads/2007/10/263.png)Was auch auf die Seite gefunden hat sind JavaScript-Spielereien, die allesamt mit jQuery umgesetzt wurden. Natürlich habe ich dabei auf die gute Tastaturbedienbarkeit geachtet. Trotzdem muss ich, vor allem unter dem [bösen Betriebsystem](http://de.wikipedia.org/wiki/Microsoft_Windows), noch weiter testen. Das [Archiv](http://yatil.de/archiv/) ist mit einem eigenen, internen TXP-Plugin umgesetzt und auch zwei weitere Neuigkeiten (die ich noch nicht verraten kann, weil ich überhaupt nicht weiß, ob ich dazu komme oder nicht) werden ein Plugin benötigen. Wer jetzt auf mehr Artikel und Einträge hofft wird wahrscheinlich enttäuscht: Die Uni beginnt morgen wieder einigermaßen ernsthaft und mit dem [Snooker Grand Prix](http://snookerblog.de/kategorie/Grand-Prix-2007/) beginnt das aufwändigste Turnier für die Berichterstatter, zu denen ich ja leider auch gehöre: nach den bereits beendeten 224 Qualifikationsspielen gilt es ab dem 13. Oktober über 120 Gruppenspiele des Hauptturniers zu berichten. Eine Riesenaufgabe. Glücklicherweise konnte ich mir per TXP-Plugin die Arbeit in diesem Bereich deutlich erleichtern. Meinungen?

@@ -1,0 +1,19 @@
+Title: Kunst und Kommerz
+----
+Date: 2004-06-12
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Einige – meist bisher wohl unbemerkte – Änderungen hat diese Seite erfahren: Zuersteinmal wurde das Redaktionssystem [Textpattern](http://textpattern.com/) auf Version [γ1.19](http://forum.textpattern.com/viewtopic.php?id=2102) upgedated.
+
+Zusätzlich gibt es neben den [RSS](http://www.yatil.de/?rss=1 "RDF Site Summary")- und [Atom](http://www.yatil.de/?atom=1)- Newsfeeds auch einen [KlipFolio](http://www.serence.com/site.php)- [Klip](http://www.klipfarm.com/klipinfo.php?klip=2967).  
+KlipFolio ist ein Programm um Neuigkeiten auf einer Website anzuzeigen. Man importiert dann die jeweiligen Klip-Dateien aus der [KlipFarm](http://www.klipfarm.com/farm.php?page=dir_home&lang=de) (es gibt Klips von der [Tagesschau](http://www.klipfarm.com/farm.php?page=info&klip=735) oder der [DTM](http://www.klipfarm.com/farm.php?page=info&klip=2948 "Deutsche Tourenwagen Masters") und von vielen [Weblogs](http://www.klipfarm.com/farm.php?page=dir_home&lang=de)) und sobald es Neuigkeiten auf der Website gibt »klingelts« :).
+
+Auch neu ist die Werbung in der Seitenleiste. Normalerweise dürfen beim Google-Programm keine privaten Seiten mitmachen, ich bin also diesbezüglich privilegiert… Normalerweise werden Textanzeigen eingeblendet, die Content-Related sind. Ich hoffe, das verbessert sich noch innerhalb der nächsten Tagen.

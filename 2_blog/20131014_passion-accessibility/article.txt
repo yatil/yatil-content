@@ -1,0 +1,14 @@
+Title: Passion & Accessibility
+----
+Date: 2013-10-14
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Christian Heilmann](http://christianheilmann.com/) shows an inspiring speaker from Spain, [Luz Rello](http://www.luzrello.com), who talks about the often overlooked topic of accessibility: Dyslexia. In the TEDx talk she really is very passionate about the topic and it shows, and I agree with Chris that we need more Speakers who can actually show their passion for a topic. [See Chris’ article here.](http://christianheilmann.com/2013/10/14/the-passion-accessibility-presentations-need/)I’ve been sitting through a lot of bad accessibility presentations, some with weird and confusing slides. But I personally think that accessibility and passion go together hand in hand, I don’t think that those people were unemotional about the topic. Actually I think they are so involved in their topic that they want to put everything into the presentation and thus fail to articulate themselves better and articulate their passion better.

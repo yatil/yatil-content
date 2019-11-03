@@ -1,0 +1,24 @@
+Title: Screencast: Subversion mit Assembla.com (Update)
+----
+Date: 2007-10-22
+----
+Category: Programmierung, Screencast
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Heute gibt es nicht nur was auf die Ohren sondern auch was auf die Augen. In einem kurzen Tutorial versuche ich zu erklären was Subversion ist und wie man es unter MacOS und Windows einsetzt. Dazu laufen MacOS und Windows parallel. Falls das zu verwirrend ist – ich nehme es fast an – werde ich es bei den nächsten Screencasts anders lösen (und nur noch die MacOS-Version zeigen :p). Ich selbst bin auch kein Subversion-Experte und ein Assembla-Experte bin ich auch nicht. Nach dem Film, also in etwa 600 Pixeln, gibt’s Links zu allen Informationen zum Thema (die mir eingefallen sind). \[video width="960" height="600" mp4="http://wp.yatil.net/wp-content/uploads/2007/10/movie.mp4.mp4"\]\[/video\]
+
+- [Assembla.com](http://assembla.com/)
+- [Subversion.tigris.org](http://subversion.tigris.org/)
+- [Das Subversion-Buch von O’Reilly online](http://svnbook.red-bean.com/)
+- [TortoiseSVN für Windows](http://tortoisesvn.tigris.org/)
+- [SCPlugin für MacOS](http://scplugin.tigris.org/)
+- [ZIGVersion für MacOS](http://zigversion.com/) (kostenlos für nichtkommerzielle Verwendung)
+- [Wikipedia zu Subversion](http://de.wikipedia.org/wiki/Subversion_(Software))
+
+Ach ja, das Hintergrundbild findet man bei den [Happy Webbies](http://www.happywebbies.com/).

@@ -1,0 +1,16 @@
+Title: Ein neuer Artikel online
+----
+Date: 2004-11-22
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Aber leider nicht der dritte Teil von »Tabellenloses Design«, der noch zwei Wochen warten muss, sondern meine erste englischsprachige Veröffentlichung CMS with Textpattern, in der ich beschreibe wie man aus der Blogsoftware [Textpattern](http://textpattern.com/) ein CMS macht, bzw. wie man die internen Mittel dazu benutzt. Falls interesse bestehen sollte, kann ich den Artikel gerne auch auf deutsch übersetzen…
+
+Ich hab den Artikel auf deutsch Übersetzt und haue ihn mal ohne wirkliche Fehlerüberprüfung raus. Viel Spaß!

@@ -1,0 +1,40 @@
+Title: Ein Monat nach dem Wechsel: Ein Erfahrungsbericht
+----
+Date: 2006-09-13
+----
+Category: Switch2Mac
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Hardware und Performanceprobleme
+
+Grundsätzlich ist die Hardware wirklich gut, das Gehäuse neigt meiner Meinung nach aber durch seinen Hochglanz zum verkratzen, die Verarbeitung ist durchweg gut. Was mich ein bisschen stört sind die scharfen Kanten an den Handauflagen, aber mittlerweile habe ich dort eine Hornhaut ausgebildet ;).
+
+Weiß als Farbe ist für mich eh ungewohnt, man denkt irgendwie immer, dass es dreckig ist. Es ist allerdings nur eine andere Art von Dreck, den man sieht, mit Staub beispielsweise habe ich viel weniger Probleme als vorher.
+
+Die Akkulaufzeit ist mit knapp fünf Stunden doch sehr beachtlich und animiert zum Arbeiten fernab von Steckdosen. Schade ist, dass nur zwei USB-Anschlüsse vorhanden sind und sich mein Scanner partout weigert mit dem Mac zusammen zu arbeiten. Naja, selbst schuld, wenn man sich einen Tevion-Scanner kauft, denke ich. Mein Canon-Drucker (iP1600) hingegen arbeitet ohne Probleme Hand in Hand mit dem Mac.
+
+Die Entscheidung für nur 512MB Arbeitsspeicher (zu der mich mein Bankkonto nachhaltig gedrängt hat) war wohl nicht so optimal, manchmal geht das MacOS dann doch ganz schön in die Knie, gerade bei X11-Anwendungen, womit wir bei der zweiten Überschrift wären, die da lautet:
+
+## Betriebssystem und Software
+
+Das Betriebssystem ist genial. Intuitive Bedienung bei Computern gibt es also doch! Mein Highlight war übrigens die Entdeckung der Highlight-Funktion in der Systemsteuerung den Systemeinstellungen. Man hat ein kleines Suchfeld und wenn man dort seinen Suchbegriff eingibt werden die Bereiche der Systemeinstellungen durch einen Spot hervorgehoben, die das Suchwort erhalten. Je weniger Bereiche das sind desto intensiver wird das “Licht”.
+
+So intuitiv wie das Betriebssystem ist so unintuitiv sind manche Programme, gerade wenn sie sich nicht an das Design des Betriebssystems anpassen. Bestes Beispiel ist [GIMPShop](http://plasticbugs.com/?page_id=294), das sich sehr träge verhält und gar nichts von einer MacOS-Anwendung hat. Vor allem die Aufteilung in verschiedene unabhängige Fenster hat dort deutliche Nachteile.
+
+Der Webbrowser meiner Wahl ist übrigens Safari. Er ist schnell, startet gut und hat fast alle Features, die man braucht. Einzig bei der Entwicklung von Webseiten greife ich auf den [Firefox](http://www.mozilla.com/firefox/all.html#de) zurück. [Camino](http://www.caminobrowser.org/) ist mir persönlich zu langsam und hat es nicht geschafft meine Begeisterung zu wecken. Aber schauen was noch kommt, Browser für Mac gibt es genug – [Shiira](http://hmdt-web.net/shiira/en), [OmniWeb](http://www.omnigroup.com/applications/omniweb/) und [wie sie noch alle heißen](http://www.netzwelt.de/news/73683-surflehrer-alle-browseralternativen-fuer-mac.html). Vielleicht kann mich einer von denen überzeugen.
+
+Texteditor meiner Wahl ist momentan [Smultron](http://smultron.sourceforge.net/) (übrigens schwedisch für “Erdbeere”), der für seinen Preis von 0,00 Euro genug Komfort bietet. [Textmate](http://macromates.com/) oder [skEdit](http://www.skti.org/skEdit.php) sind eine Wahl, wenn man etwas in Software investieren will.
+
+Ein Tool, das ich nicht mehr missen möchte ist [Quicksilver](http://quicksilver.blacktree.com/). Per CTRL+Leertaste öffnet sich ein Fenster, die Eingabe des Programmnamens (meist reichen die ersten drei Buchstaben) startet es. Keine Suche mehr im reichlich unübersichtlichen Programmeordner, der dem Win-Startmenü Konkurrenz macht.
+
+Ansonsten sehr empfehlen kann ich [Adium](http://www.adiumx.com/), der neben ICQ auch alle anderen IM-Protokolle kann. [CoreDuoTemp](http://macbricol.free.fr/coreduotemp/) zeigt die Prozessortemperatur an, momentan knapp 60°C. Den E-Bay-Versteigerer [GarageSale](http://www.iwascoding.com/GarageSale/) habe ich bei [MacZot.com](http://maczot.com/) für 12 Euro abgestaubt. Newsreadertechnisch kann ich sowohl [Vienna](http://www.opencommunity.co.uk/vienna2.php) als auch [NewNewsWire Lite](http://www.newsgator.com/NGOLProduct.aspx?ProdId=NetNewsWire&ProdView=lite) empfehlen. Ersteres hat einen integrierten Browser, letzteres eine weniger hakelige Bedienung.
+
+Nicht vergessen sollte ich die Freeware-Fontverwaltung [Linotype FontExplorer X](http://www.linotype.com/fontexplorerX) und [Telekinesis](http://web.mac.com/olliewagner/iWeb/Telekinesis/Home.html). Letzteres macht die Apple-Remote-Fernbedienung auch Benutzbar um sie beispielsweise bei S5-Präsentationen einsetzen zu können. Die Registrierungsgebühr von 7 Dollar unterstützt übrigens in das Vorhaben des Programmierers ein Pro-Wrestler zu werden, wenn das mal keine Zukunftsinvestition ist!
+
+Textverarbeitung und Tabellenkalkulation meiner Wahl ist wie unter Windows [OpenOffice.org](http://porting.openoffice.org/mac/).

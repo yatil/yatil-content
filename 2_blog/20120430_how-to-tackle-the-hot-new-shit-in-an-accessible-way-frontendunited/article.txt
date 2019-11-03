@@ -1,0 +1,16 @@
+Title: How to tackle the hot new shit in an accessible way (FrontendUnited)
+----
+Date: 2012-04-30
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Slides](http://yatil.net/talks/2012-frontendunited/#/title)Thanks to [@mortendk](http://twitter.com/mortendk) for asking me to speak at this nice conference in Amsterdam. It was really nice to see so many frontend people discussing over the future of Drupal. A sign that we chose the right system. Here’s what Morten had to say about my talk: > the accessibility session that for once was not one long boring talk about you being sued if you didn’t put ria roles inside you code – This was about getting it done (and cock pushups…)
+
+And here is your chance to [give the organizers a review of my talk](https://docs.google.com/spreadsheet/viewform?formkey=dE5WR0E3M2I5MEt3c2M3U3ZacDJYUnc6MA#gid=0).

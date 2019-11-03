@@ -1,0 +1,28 @@
+Title: Sunday Seven for March 4, 2018
+----
+Date: 2018-03-04
+----
+Category: Sunday Seven
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+In _Sunday Seven_ I publish a list of seven links to things on the internet. The only criteria to make it in this category is that it is interesting to me.
+
+- Accessibility: [**Apple Park’s Visitor Center** by twitter user @xarph](https://twitter.com/xarph/status/967652885604450305) – An interesting twitter thread about the many small details build for accessibility.[1](#fn-102264-0) (If you enjoy twitter threads as much as I do[2](#fn-102264-1), [read the whole thread as one article on “Thread reader”](https://threadreaderapp.com/thread/967652885604450305.html).)
+- AMP: [**“Ends and Means”** by Jeremy Keith](https://adactio.com/journal/13498) – Insightful post by Jeremy on how companies can act together to help good and how sometimes they go a step too far. To use new CSS properties in Firefox, websites need to support HTTPS before those are available to them. This behavior creates a whole layer of CSS that is harder to be used while learning.
+- Accessibility: [**“WAI-ARIA Screen Reader Compatibility”**](https://www.powermapper.com/tests/screen-readers/aria/) – An overview of ARIA support which is good, but there are always edge-cases. It also shows the tests used to determine support, so if you want to get an impression on how different ARIA roles or attributes are voiced, you can look it up here.[3](#fn-102264-2)
+- Layout: [**“Layout Land”** by Jen Simmons](https://www.youtube.com/playlist?list=PLbSquHt1VCf18lllS0C5quAaOcsuMAC70) – Lots and lots of short videos that describe how to create different layouts with the new capabilities in CSS & Browsers.
+- TV: [**“The Tick”**](http://amzn.to/2Fec1eu) (Amazon Originals) – Sometimes, especially while coding, I need to distract parts of my brain while working. The Tick is funny and not hard to follow. I enjoyed it.
+- Podcast: [**Game Show** by The Incomparable](https://www.theincomparable.com/gameshow/) – I’m late picking up this particular podcast because I dismissed the idea that game shows as podcasts could work. Boy, was I wrong! I love “Random Pursuit,” “Inconceivable,” “Low Definition,” and the text adventures and they had me spontaneously laughing out loud several times in the last few weeks.
+- Action: [**\#WHOagainstGuns**](http://www.realitybombpodcast.com/whoagainstguns/) – Over 40 Doctor Who podcasters are supporting actions for gun control in the U.S. and plan to produce an exclusive series of commentary podcasts for the classic story “The War Games.” Access to those unique recordings will be only available to donors. More info, including a list of possible organizations to donate to, is available on the [Reality Bomb website](http://www.realitybombpodcast.com/whoagainstguns/).
+
+- - - - - -
+
+1. I don’t necessarily agree with the marking of the AED which should arguably be easier to find, but all in all, it is a testament that accessibility does not need to look ugly. [↩](#fnref-102264-0)
+2. Which means “not very much.” [↩](#fnref-102264-1)
+3. Beware: As those test cases are there for testing ARIA attributes the code might not be an example of a best practice but of a possibility. [↩](#fnref-102264-2)

@@ -1,0 +1,16 @@
+Title: S5 — Simples, auf Standards basierendes, Slide Show System
+----
+Date: 2004-10-09
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> S5 ist ein Präsentationsformat, dass vollkommen auf XHTML, CSS, und JavaScript basiert. Mit einer Datei kannst du eine komplette Präsentation laufen lassen und hast sofort eine druckerfreundliche Version zur Hand. Die Auszeichnung ist sehr einfach, hochsemantisch und vollständig zugänglich. [Eric Meyer](http://www.meyerweb.com/eric/) in der [deutschen Übersetzung](http://yatil.de/s5/) (damit hab ich mich eigentlich selbst zitiert… sowas)
+
+Die [deutschen Seiten für dieses innovative Präsentationsformates](http://yatil.de/s5/) finden sich unter dem Dach von [yatil.de](http://yatil.de/). Es gibt auch eine erste [Beispielpräsentation](http://yatil.de/s5/intro/s5-intro.html). Für Hinweise auf Fehler, Probleme in Browsern oder ähnliches bitte hier einen Hinweis hinterlassen oder eine E-Mail an mich senden. Danke. _Edit: Ich hab das ganze jetzt korrektur gelesen und das war ja wirklich ziemlich mies. Das nächste mal muss ich das als Beta rauslassen. Ich hoffe jetzt ist es verständlicher. Ein Druck-Style Sheet hab’ ich auch hinzugefügt._

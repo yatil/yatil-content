@@ -1,0 +1,26 @@
+Title: Wer ist dein Webstandards-Held?
+----
+Date: 2006-09-20
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Egal ob (We-)Blog oder Buchveröffentlichung, egal wie oft eine Aktualisierung stattfindet. Wichtig ist der Beitrag, den die Person der Webstandardsbewegung zukommen lies.
+
+Um den eigenen „Held“ zu veröffentlichen reicht ein Weblogeintrag aus. Eine ausgefeilte Begründung wird natürlich auch gerne gesehen, seitenlange Abhandlungen sind jedoch nicht nötig.
+
+Wäre nett, wenn möglichst viele Leute mitmachen würden, damit wir einen schönen Überblick über die Webstandards-Community haben. (Und wenn niemand mitmacht, dann binde ich es an ein Stöckchen und werfe es herum ;) )
+
+## Mein Webstandards-Held: [Stefan Münz](http://yatil.de/linkto/selfhtml/muenz/stefan/)
+
+Ich mache mal direkt den Anfang: Mein Held ist Stefan Münz. Mit seiner (X)HTML-Sammlung [SELFHTML](http://yatil.de/linkto/selfhtml/) hat er den Grundstein für viele Webentwickler gelegt.
+
+Durch seine Seiten mit (schon in Version 5 oder 6) großartigen Beispielen lernte ich beinahe sämtliche Grundkenntnisse. Und auch wenn mittlerweile das Projekt auf mehrere Schultern verteilt ist (die Personen, denen die Schultern gehören, sind hiermit auch ausdrücklich gelobt) hat Stefan doch den Startschuss für das Projekt gegeben.
+
+Außerdem kommt er aus Rheinland-Pfalz :)

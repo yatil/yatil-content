@@ -1,0 +1,65 @@
+Title: Webstandards für auf die Ohren
+----
+Date: 2006-05-22
+----
+Category: Fun, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Im Folgenden eine kleine Auswahl an Podcasts und MP3s, die mir persönlich in den letzten Wochen positiv aufgefallen sind:
+
+## [Technikwürze](http://www.macx.de/technikwuerze/)
+
+[David Maciejewski](http://www.macx.de) beschreibt in seinem Podcast sehr nüchtern die aktuelle Webdesign-Welt und beleuchtet zudem Usability und alles was es sonst noch zu wissen gibt. Mittlerweile mit festen Kategorien an Bord sind [Nadja Müller](http://blog.calm-n-easy.de/) und [Christian Strang](http://webdesignblog.de). Der Podcast erscheint immer montags.
+
+## [Boagworld](http://boagworld.com/)
+
+Boagworld ist ein englischer Podcast und ein wenig Humor ist schon nötig, wenn man [Paul Boag](http://www.boagworld.com/archives/2005/10/about_paul_boag.html) und seinem Sidekick [Marcus Lillington](http://headscape.co.uk/text/106/marcus_lillington.html) folgen will. Im Allgemeinen wird aber viel Wissen transportiert und man kann als Webschaffender doch das eine oder andere lernen. Auch dieser Podcast erscheint montags.
+
+## [Web Standards with Imagination](http://www.dustindiaz.com/#episodes)
+
+[Dustin Diaz](http://www.dustindiaz.com/) schätze ich aufgrund seiner JavaScript-Beiträge in seinem Weblog sehr und habe mich eigentlich auf seinen Podcast gefreut und wurde enttäuscht. [Episode 12](http://www.dustindiaz.com/episode-12/) fand ich sehr schwach und ich habe relativ früh abgebrochen, weil ich den Stil unheimlich anstrengend fand. In [Episode 11](http://www.dustindiaz.com/episode-11/) allerdings ist Dustin alleine und sein Erzählstil ist um einiges ruhiger, mit den Rülpsern komme ich allerdings nicht so wirklich klar. Der Podcast erscheint sehr unregelmäßig.
+
+## Lieder über Webstandards
+
+Zuletzt noch zwei Lieder, die Webstandards zum Thema haben. Das erste Lied heißt [Hands to Boag](http://www.boagworld.com/archives/2006/04/a_love_song_to_boagworld.html), ein Song, der sich auf den “Boagworld”-Podcast beweihräuchert:
+
+> The supervisor rants. He says “This website’s pants! I want my clicks improved by Friday!”  
+> I hit the URL. It’s like the bowels of hell. God give me strength. It’s just not my day.  
+> So raise your hands to Boag and pray that we can fix this website today.  
+> Tonight I need your CSS, coding in the darkness. From now on no more tables nest; you will meet web standards.  
+> The source code makes me weep. There’s tables fifteen-deep. In Netscape 6 it looks like garbage.  
+> The METAs say this turd was made with MS Word. With every click I find new carnage.  
+> So raise your hands to Boag and pray that we can fix this website today.  
+> Tonight I need your CSS, coding in the darkness. From now on no more tables nest; you will meet web standards.  
+> I guess I’ll have to start from scratch – then I can kiss this piece of trash goodbye… [Boagworld: A love song about web standards](http://www.boagworld.com/archives/2006/04/a_love_song_to_boagworld.html)
+
+Song Nummer 2 ist ein Lied, dass sich um CSS dreht. Dummerweise ist es auf französisch, was mir den Inhalt doch etwas verschließt. Der [Text des Liedes ist auf der Webseite mit nützlichen Zusatzinformationen versehen](http://freedotfr.free.fr/css.htm).
+
+## [Vitamin-Interviews](http://www.thinkvitamin.com/interviews/) (Update, 26.05.06)
+
+[Vitamin](http://www.thinkvitamin.com/) ist eine relativ neue Seite und kann für sich sehr bekannte schreiber verpflichten. Dazu gibt es Interviews. Momentan Online:
+
+- [Eric Meyer – CSS, Life and Print Stylesheets](http://www.thinkvitamin.com/interviews/css/eric-meyer/)
+- [Thomas Fuchs – AJAX, Scriptaculous and Rails](http://www.thinkvitamin.com/interviews/ajax/thomas-fuchs/)
+- [Jason Fried – web apps, cash flow and pricing](http://www.thinkvitamin.com/interviews/webapps/jason-fried/)
+- [Dave Shea – CSS3, IE7 and web professionals](http://www.thinkvitamin.com/interviews/css/dave-shea/)
+- [Geoff Grosenbach – Rails 1.1](http://www.thinkvitamin.com/interviews/rails/geoff-grosenbach/)
+- [David Heinemeier Hansson](http://www.thinkvitamin.com/interviews/rails/david-heinemeier-hansson/)
+ 
+## Präsentationen (Update, 22.05.06)
+
+Neben Podcasts und Songs sind Präsentationen als MP3s sehr beliebt. Meine Favoriten hier kommen beide von der [SXSW Interactive](http://2006.sxsw.com), die vom 10. bis 19. März stattfand.
+
+Sehr gut gemacht ist sicher [Holistic Web Design: Finding the Creative Balance in Multi-Disciplined Teams](http://2006.sxsw.com/coverage/podcasts/) (leider nicht direkt verlinkbar, einfach auf der Seite suchen) von [Garrett Dimon](http://garrettdimon.com), [Shaun Inman](http://shauninman.com/plete/), [Jason Santa Maria](http://jasonsantamaria.com), [Carl Sieber](http://someguynamedcarl.com/) und [Eris Stassi](http://www.erisfree.com/). In diesem Panel reden sie über ihr hervorragendes Redesign von [Plazes.com](http://plazes.com/). Die [Folien zum Vortrag](http://someguynamedcarl.com/plazes/) können natürlich heruntergeladen werden.
+
+Eine andere Präsentation, wenn gleich auch weniger Ernst, ist [How to Be A Web Design Superhero](http://2006.sxsw.com/coverage/podcasts/) (leider nicht direkt verlinkbar, einfach auf der Seite suchen) von [Andy Budd](http://andybudd.com/) und [Andy Clarke](http://stuffandnonsense.co.uk/). In ihrem Vortrag geht es etwas scherzhaft darum, welche Superkräfte ein Webdesigner haben muss. Alles in allem eine sehr amüsante Präsentation, zu der die [Folien natürlich auch online zu finden](http://www.stuffandnonsense.co.uk/archives/how_to_be_a_web_design_superhero.html) sind.
+
+## Weitere Podcasts?
+
+Das sind die einzigen Podcasts, die ich kenne, die sich wirklich ernsthaft mit Webdesign und Webstandards auseinandersetzen. Für Hörempfehlungen, gerade auf deutsch, bin ich allerings immer dankbar.

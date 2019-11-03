@@ -1,0 +1,24 @@
+Title: Alle Jahre wieder: Webkrauts-Adventskalender
+----
+Date: 2006-12-01
+----
+Category: 
+----
+Summary: 
+----
+Tags: webkrauts
+----
+Image: 
+----
+Text:
+Ja, die Weihnachtszeit rückt immer näher (außer in den Geschäften, da ist die schon seit Ostern) und auch die Webkrauts haben euch etwas mitgebracht beziehungsweise werden euch reich beschenken:
+
+[24 Artikel zu den Themen rund um Content Management Systeme und Webstandards, Usability oder Mikroformate werden präsentiert. Zahlreiche hochdekorierte und bekannte Autoren wurden gewonnen.](http://www.webkrauts.de/category/adventskalender2006/)
+
+Als Redaktionsmitglied weiß ich, dass viel Schweiß und die eine oder andere lange Nacht hinter dem Adventskalender steckt und hoffe, dass ihn entsprechend viele Leute lesen und verlinken.
+
+Auch die Kollegen von [24ways](http://24ways.org/) werden wieder mit ihrem Adventskalender in englischer Sprache auftrumpfen.
+
+Und wer sich auf den Adventskalender einstimmen will, dem seien die Kalender der letzten beiden Jahre, [2004](http://grochtdreis.de/adventskalender/) und [2005](http://www.webkrauts.de/category/adventskalender/), ans Herz gelegt.
+
+Im letzten Jahr erschienen im Rahmen des Adventskalenders meine beiden Artikel [Die Kaskade](http://www.webkrauts.de/2004/12/12/kaskaden-mehr-spass-mit-css/) und [Ein Standard-Design](http://www.webkrauts.de/2004/12/20/ein-standard-design/). Da ich für beide Artikel damals gute Kritiken bekommen habe und weil der Artikelbestand in diesem Jahr ein wenig knapp war habe ich mich an einem weiteren Artikel versucht. Falls er durch die Qualitätskontrolle kommt findet ihr ihn auch im Adventskalender.

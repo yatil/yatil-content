@@ -1,0 +1,14 @@
+Title: Wolfenstein 5k
+----
+Date: 2004-04-15
+----
+Category: Design, News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Diese [Version von Wohlfenstein](http://www.innofinity.com/5k/2002/) benötigt lediglich 5 Kilobyte JavaScript-Code.

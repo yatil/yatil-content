@@ -1,0 +1,48 @@
+Title: „Warum barrierefreies Internet?“ (Veranstaltung)
+----
+Date: 2006-10-12
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Was erwartet man sich von einer Veranstaltung mit dem Titel „Warum barrierefreies Internet?“ eigentlich? Für mich hörte sich der Titel wie ein Branchentreffen an, bei dem einmal über dieses Accessibility-Dingens gesprochen werden sollte.
+
+Die [Webseite zum Event](http://www.accessiblemedia.at/aktuelles/2006/09/24/warum-barrierefreies-internet-121006/) machte aber nicht diesen staubtrockenen Eindruck, weshalb ich mich entschied die Veranstaltung zu besuchen. Ein Glücksfall, wie sich herausstellen sollte:
+
+## „Wie schreibe ich einfach“
+
+Es begann – nach der Begrüßung – mit dem Vortrag „Wie schreibe ich einfach“. Leider war mir der Vortrag nicht praktisch genug. Ich fragte mich, was ich im Alltag machen kann um meine Texte verständlicher zu gestalten. Die Vortragenden machten zwar klar, dass eine einfache Sprache oft nötig ist, aber mir fehlten die praktischen Beispiele. Ich werde mir mal die Seite des [Österreichischen Jüdischen Museums](http://ojm.at) anschauen, die es zusätzlich in einfacher Sprache gibt.
+
+## „Accessibility ist ein Prozess – am Beispiel WCAG 2.0“
+
+Es folgte eines der heißen Themen in der Webwelt zurzeit, WCAG2.0. Neu für mich waren die Zugänglichkeitsrichtlinien für Autorenwerkzeuge und Browser. Alles in allem informativ, aber nicht wirklich revolutionär. Mir ist die WCAG2.0 viel zu theoretischer Natur. Der Vortragende, Shadi Abou-Zahra, meinte aber „zuviel Informationen schaden nie“, was natürlich nur eine Seite der Medaille betrachtet: Einen Überblick über die verschiedenen Regelungen zu bekommen benötigt sehr viel Zeit und ist daher unpraktisch. Immerhin gibt es auch einige Vorteile von Version 2.0 gegenüber Version 1.0, von denen er mich auch überzeugen konnte, beispielsweise gibt es klare Richtlinien für den Kontrast. Vorher wurde lediglich „ausreichender Kontrast“ gefordert, was natürlich außerordentlich schwammig ist.
+
+## Praxis
+
+Nach der Frühstückspause ging es mit drei praktischen Beispielen weiter: [Kurier.at](http://kurier.at/), [Wien.at](http://wien.at) und das [Österreichische Jüdische Museum](http://ojm.at) standen im Mittelpunkt.
+
+Über das diesjährige Redesign des Kurier hatte ich ja schon viel gelesen, vor allem bei [Markus Stefan](http://mstefan.at/referenzen_kurier.html). Sicherlich als Designer einer der besten in Österreich, gerade was valide Websites angeht. Herausgekommen ist eine tolle Internetpräsenz, die weitgehend Barrierearm ist. Selbstkritik wurde auch geäußert: Das CMS entspricht noch nicht allen Anforderungen. (Die Präsentation von Thomas Jöchler war übrigens mit [S5](http://yatil.de/s5/) erstellt, brav :))
+
+Bei Wien.at ein ähnliches Bild: Leichtere Relaunches seien möglich, zudem die zentrale Verwaltung der Inhalte. Die Umstellung der Seiten sei allerdings noch im Gange. Barrierefreiheit koste, war die These, sei aber gesetzlich nötig und auch sinnvoll.
+
+Das Ojm.at zeigte dann noch die Umsetzung, die möglichst realitätsnah sein sollte. Dazu die leichte Sprache, in die fast die gesamte Seite übersetzt wurde. Eine klare Navigation zeichnete die Seite ebenfalls aus.
+
+## „Design Barrierefrei“
+
+Mit [Tomas Caspers](http://tomascaspers.de/) (bekannt durch [Einfach für Alle](http://www.einfach-fuer-alle.de/)) folgte nach der Mittagspause das Highlight für mich, da ich danach leider weg musste. Zuvor konnte ich noch einige Worte mit ihm wechseln, was auch sehr nett war (und ich sollte mir abgewöhnen andere Menschen immer siezen zu wollen, da dringt meine gute Kinderstube dann doch durch…).
+
+Er betrachtete Barrierefreiheit aus der Designperspektive und sprach von dem Webentwickler als „Eierlegende Wollmilchsau“, womit er zweifellos recht hat.
+
+Seine weiteren Anmerkungen waren auch sehr prägnant, sehr amerikanisch vorgetragen. Er gab Ausblicke und räumte mit dem Gerücht auf, dass „Flash suckt“. Er forderte ein besseres Bewusstsein für Accessibility. Alles in allem die beste Präsentation bis zu dem Zeitpunkt, schon alleine, weil er während der Präsentation nicht saß, im Gegenteil zu den vorherigen Präsentatoren (Lediglich der „Einfacher Text“- und der WCAG-Vortrag sind von der Kritik ausgenommen – Die einen standen und Shadi sitzt im Rollstuhl).
+
+## Zusammenfassung
+
+Die Veranstaltung war bis zu dem Zeitpunkt an dem ich gehen musste perfekt, es entstanden kaum Längen und auch die Versorgung mit Kaffee und Häppchen war vorbildlich. Letztendlich waren die doch größtenteils gelungenen Präsentationen für das positive Gefühl ausschlaggebend, das ich jetzt habe, wenn ich an Zugänglichkeit denke: Es geht voran.
+
+**PS:** Die Aussicht aus dem 19. Stock war natürlich atemberaubend.

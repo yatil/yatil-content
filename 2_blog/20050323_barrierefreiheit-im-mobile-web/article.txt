@@ -1,0 +1,28 @@
+Title: Barrierefreiheit im »Mobile Web«
+----
+Date: 2005-03-23
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Bei [EfA](http://www.einfach-fuer-alle.de/blog/eintraege.php?id=1178_0_1_0_C) und im [Markup Weblog](http://www.bs-markup.de/archiv/2005/03/22/webdesign-als-fortschrittsbremse/) wird die beliebte Frage nach dem »Mobile Web« gestellt: »Wie kann ich meine Webseite auf Handys benutzbar machen?«
+
+Besprochen werden allerdings wieder die alten Methoden, das geht sogar bis zu einer Alternativversion. Das aber wäre der erneute Rückschritt in der Webstandards-Bewegung.
+
+Die mobilen Endgeräte unterstützen momentan nur veraltetes HTML (bspw. Pocket PC: Version 3.2) und CSS falsch bzw. gar nicht.
+
+Nun zeigt die Erfahrung, dass der Benutzer sein Endgerät (z.B. den Browser) nur wechselt, wenn es für ihn Nachteile hat. So lässt sich auch die Entwicklung des Firefox erklären. Und auch, wenn ein Handy oder ein PDA nicht so oft und nicht so leicht ausgetauscht werden kann wie eine einfache Software.
+
+Trotzdem: Die meisten Tabellenmonster sind unter Handys genauso schlecht zu benutzen wie (X)HTML-konforme Websites, die Bandbreite der Seiten, die korrekt angezeigt werden ist klein.
+
+Es können bei der Interpretation von Webseiten folgende Verhaltensweisen auftreten:
+
+1. **CSS wird nicht interpretiert:** Das bedeutet, dass eine ungestylte Textversion angezeigt werden – optimalerweise mit funktionierenden Sprungmarken.
+2. **CSS wird falsch interpretiert:** Entweder wird das »screen«-Stylesheet geladen oder einige Anweisungen des »handheld«-Stylesheets werden nicht/falsch interpretiert. Die schlimmste Variante.
+3. **CSS wird korrekt interpretiert:** [Opera for Mobile](http://www.opera.com/products/mobile/) interpretiert alle »handheld«-Anweisungen und ist gut bedienbar. Lediglich die geringe Verbreitung (Er kostet 29€) ist schade. Es bleibt zu hoffen, dass Opera eine weitere Verbreitung auf mobilen Plattformen findet.

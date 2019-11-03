@@ -1,0 +1,49 @@
+Title: Speaking at… Accessing Higher Ground
+
+----
+
+Date: 2016-10-04
+
+----
+
+Category: Accessibility, Talk
+
+----
+
+Summary: 
+
+----
+
+Tags: accessibility
+
+----
+
+Image: 
+
+----
+
+Text: 
+
+I’m happy to announce here that I will be speaking at [Accessing Higher Ground](http://accessinghigherground.org) in November, representing [Knowbility](http://knowbility.org). The conference is in Westminster, Colorado and coins itself as an “Accessible Media, Web and Technology Conference”. I will do two three-hour long workshops:
+
+- **[Advanced Accessibility: A Deep Dive for Developers](http://accessinghigherground.org/advanced-accessibility-deep-dive-developers/) 
+  Tuesday, Nov. 15th, 9am**  
+  Focused on UI widgets, WAI-ARIA techniques and semantics, with some JavaScript as a garnish, this workshop will teach how to implement complex widgets in an accessible way that is true to the nature of the web.
+- **[Simplify your development life with tools, tests and procedures](http://accessinghigherground.org/simplify-development-life-tools-tests-procedures/) 
+  Tuesday, Nov. 15th, 1:30pm**  
+  Developers are lazy. I know this because I am one. So having tools, tests and procedures in place that help developers to produce accessible templates and widgets is helping everyone. This workshop will give a broad overview about the possibilities and will also show how to implement some of the provisions in day-to-day work.
+
+Also, I will give two talks: 
+
+- **[Semantic Subtleties](http://accessinghigherground.org/semantic-subtleties/) 
+  Thursday, Nov. 17th, 8am**  
+  This talk takes some of the semantic particularities that come also up in the workshop and will put them under the microscope and examine their meaning.
+- **[ARIA Serious?](http://accessinghigherground.org/aria-serious/) 
+  Thursday, Nov. 17th, 4pm**  
+  Here, I will presumably give a few good and lots of bad examples of ARIA implementation and show where the pitfalls and chances of using ARIA are.
+
+If you are still thinking about going, maybe the [fantastic lineup of speakers](http://accessinghigherground.org/conference-schedule/) can lure you in. Register now at [accessinghigherground.org](http://accessinghigherground.org/registration/).
+
+----
+
+Coverimage: 

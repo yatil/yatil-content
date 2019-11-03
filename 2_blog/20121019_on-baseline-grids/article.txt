@@ -1,0 +1,16 @@
+Title: On baseline grids
+----
+Date: 2012-10-19
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Jason Santa Maria about the[ reasons why baseline grids are not native to the web](http://jasonsantamaria.com/articles/baseline-grids-on-the-web) and should be avoided:
+
+> It’s incredibly difficult to maintain a baseline grid in a medium as inconsistent and fluid as a web page. Images, form elements, rendering differences between browsers and platforms: these can all throw a baseline grid out of phase. This only gets worse when you’re setting up a design for someone else to implement or maintain, as we often do in client work. In other words, if you’re not intimately familiar with the intricacies of a given grid system, it’s incredibly easy to mess it up.

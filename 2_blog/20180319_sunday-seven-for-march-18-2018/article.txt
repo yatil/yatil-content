@@ -1,0 +1,22 @@
+Title: Sunday Seven for March 18, 2018
+----
+Date: 2018-03-19
+----
+Category: Sunday Seven
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+I’m in San Diego where I’ll attend the W3C WAI Education and Outreach WG Face-to-Face meeting, and CSUN, the biggest accessibility conference. It’s always amazing to be able to work with my colleagues in one room and to meet all accessibility experts in one place.
+
+- Beta: [**W3C/WAI Website**](https://www.w3.org/WAI/beta/) – We managed to launch the beta for the new WAI site last week. There are still a few rough edges, but it is essential to get it in front of people. A lot of work from many people went into the site, from design, user testing, development. I made sure we can edit resources in their respective Jekyll projects on GitHub and then integrate it into one repository using git submodules. All repositories use one common theme, so changes to it will be reflected in all resource previews, hosted on GitHub pages.
+- Color: [**Colorblind Accessibility on the Web – Fail and Success Cases**](https://axesslab.com/colorblind-accessibility-web-fail-success-cases/) – An excellent overview of colorblindness and common pitfalls.
+- Principles: [**Accessibility Interview Questions**](https://scottaohara.github.io/accessibility_interview_questions/) – Everyone should have answers to the question collected by Scott O’Hara. Most aim at general principles than specific techniques.
+- Notifications: [**Inclusive Components: Notifications**](https://inclusive-components.design/notifications/) – Another excellent write-up by Heydon Pickering.
+- Buttons: [**Designing Button States**](https://cloudfour.com/thinks/designing-button-states/) – Tyler Sticka on different aspects of button design. Sweating details like this can greatly improve the usability and accessibility of your website or application.
+- PWA: [**Minimal viable service worker**](https://adactio.com/journal/13540) – I don’t know enough about Progressive Web Apps to implement them correctly, yet. However, Jeremy Keith’s article feels like a good starting point to learn more about it.
+- Fonts: [**Shipping system fonts to GitHub.com**](http://markdotto.com/2018/02/07/github-system-fonts/) – Interesting article on a very particular approach to shipping fonts.

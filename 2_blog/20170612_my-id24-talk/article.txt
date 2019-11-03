@@ -1,0 +1,14 @@
+Title: My #ID24 talk
+----
+Date: 2017-06-12
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+On Friday, I was invited to talk at [\#ID24](http://www.inclusivedesign24.org) about WAI-ARIA, with a special focus on the ramifications of bad ARIA. You can [view the slides](http://slides.com/yatil/2017-id24/) or [watch the video](https://www.youtube.com/watch?v=4bH57rWPnYo).

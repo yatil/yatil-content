@@ -1,0 +1,19 @@
+Title: Frames
+----
+Date: 2004-04-24
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Die Gründe sind vielfältig: So konnte sich im Zuge der technologischen Weiterentwicklung das im Jahr 1999 sehr populäre Frames-Konzept \[1\] nicht durchsetzen. Interessant dabei ist, dass dies weniger auf technische Gegebenheiten zurückzuführen ist – Frames werden inzwischen von allen aktuellen Browsern unterstützt – sondern sich hier aus der Präferenz der Internetnutzer ein neuer Standard entwickelt hat. Frames sind insbesondere für Internet-Neulinge schwer nachvollziehbar, sie erschweren die Navigation über die Browserzeile und machen das Speichern einzelner Seiten als Bookmarks schlicht unmöglich. Auch für Suchmaschinen sind Frames-Strukturen ein Problem. Einem benutzerfreundlichen Design sind Frames nicht zuträglich – **Frames haben eine schlechte Usability**.
+
+> \[1\] Die Mitte der 90er Jahre neu eingeführte und sehr populäre Frames (»Rahmen«)-Technik ermöglicht es, in einem Internet-Browser (z.B. Internet Explorer, Netscape Navigator) den im Browserfenster angezeigten Inhalt so in verschiedene Bereiche (Frames) einzuteilen, dass darin voneinander unabhängige HTML-Seiten angezeigt werden. Dadurch ist es beispielsweise möglich, dass in einem oberen Frame eine stets gleichbleibende Titelgrafik erscheint, in einem linken Frame die je nach Nutzerverhalten angepasste Navigationsleiste steht und in einem dritten, mittleren Frame die wechselnden Inhaltsseiten angezeigt werden.
+
+Gefunden in [Ansgar Zerfaß/Hansjörg Zimmermann (Hrsg.): Usability von Internet-Angeboten — Grundlagen und Fallstudien (PDF)](http://www.doit-online.de/ADMIN/ASSETS/files/Stuttgarter%20Beitraege%20Band%2010_mit%20U.pdf) von der [Fachhochschule (für Medien) in Stuttgart](http://www.fh-stuttgart.de/).  
+Muss ich betonen, dass hier, meiner Meinung nach, alles zutrifft?

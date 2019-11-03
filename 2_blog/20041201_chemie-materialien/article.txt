@@ -1,0 +1,14 @@
+Title: Chemie-Materialien
+----
+Date: 2004-12-01
+----
+Category: Schule
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Aufgrund der großen nachfrage stelle ich mal meine [Chemie-Aufzeichnungen](/chemie/) hier herein. Es kann hier auch als [ZIP-Datei](/chemie/chemie.zip) (82kb) heruntergeladen werden. **Wichtig:** Das Dokument entstand aus Aufzeichnungen im Chemie-Unterricht. Es kann kleinere und größere Fehler enthalten. Das Dokument ist für den privaten Gebrauch gedacht. Ich empfehle das Dokument mit einem CSS2.1-Kompatiblen Browser anzuschauen.

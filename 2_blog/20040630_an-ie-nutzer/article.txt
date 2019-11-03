@@ -1,0 +1,19 @@
+Title: An IE-Nutzer
+----
+Date: 2004-06-30
+----
+Category: Gesellschaft, Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Besser als [WorldWideKlein](http://www.worldwideklein.de/index.php?/weblog/sturmwarnung/) hätt’ ich es auch nicht sagen können:
+
+> Hinweis für alle Noch-Nutzer des Internet Exploders: Das _Internet Storm Center_ warnt vor einer [neuen Sicherheitslücke](http://isc.incidents.org/diary.php?date=2004-06-29) im immer noch am weitesten verbreiteten Browser dieser geplagten Welt. Böse Menschen können durch diese Lücke ein malware-Programm schubsen, das Passwörter mitschreibt, beim Verbindungsaufbau mit einer Bank das jeweilige Passwort _noch vor der Verschlüsselung_ abgreift und an einen offensichtlich interessierten Server weitergibt.  
+> Ende der Durchsage. Nu macht was draus, Explorer-Abenteurer.
+
+[Details bei News.com.com!](http://news.com.com/Pop-up+program+reads+keystrokes%2C+steals+passwords/2100-7349_3-5251981.html?tag=nefd.lede)

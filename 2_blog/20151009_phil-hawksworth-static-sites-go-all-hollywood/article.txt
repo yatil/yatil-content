@@ -1,0 +1,99 @@
+Title: Phil Hawksworth – Static Sites Go All Hollywood #fronteers15
+----
+Date: 2015-10-09
+----
+Category: Event, General
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- Simplicity is not dumbing down.
+- There is room for creativity even in relatively simple things.
+- Let’s focus on what matters.
+- Helps to provide the right optimizations for users.
+- Benefits about static sites 
+  - cheaper, simpler hosting
+  - fewer points of failure
+  - fewer vulnerabilities
+  - easier compliance
+  - greater portability
+  - sandboxed environments
+  - attrition avoidance
+- Credibility of static sites 
+  - Just for simple things? That’s not the case
+  - Campaign for Obama – $250 million dollars donated 
+      - Static sites perfect for large audiences
+      - baked with jekyll
+      - large audience
+      - rapid iterations
+      - hosted statically
+  - Google project 
+      - Content on Github
+      - baked with jekyll
+      - served staticly by google
+      - Reduced risk
+  - Google year in search 
+      - Annual retrospective
+      - large audience
+      - infrequently updated
+      - long life
+      - 40 stories, 52 languages
+      - 2.6B social impressions
+      - content abstracted
+      - baked with “goro”
+      - served staticly by google
+  - Static sites are already mainstream
+  - Enablers: 
+      - Front end tooling is a key part
+      - Generators and templating -> staticsitegenerators.net
+      - Style guides as a side effect… as an artifact… as a process 
+            - Styleguide driven development
+            - How to have a style gide as a secondary output for your site
+            - Modules + Templates + Content built site through generator
+            - Style guide also built there
+            - Unless a style guide is part of your built, it is just more documentation to maintain
+      - Automation 
+            - Gulp grunt, brunch, belch, burp, cough, sneeze ;-)
+            - deploy faster, safer
+            - update faster
+            - feels dynamic
+            - surge is good tool to do this deploy
+  - We need a developer mindset and people want to manage content themselves. 
+      - traditional web development is very complex with dev, staging and live stages
+      - also server side logic
+  - Static sites are simpler 
+      - Dev environment: Site generator & build tool -> Production -> User
+      - Content as a service that cares about the admin interface.
+      - Additionally you could use deployment as a service
+      - Is that simplifying?! 
+            - It’s about shifting/outsourcing complexity. Distance between user and complecity.
+            - Source content at build time, not execution time
+      - Jekyll data
+      - [contentful](https://www.contentful.com) is Content Management as a Service 
+            - Hosted CMS interface
+            - Exposes content via an api
+            - Supports translations
+            - user roles & management
+            - Environments & versions
+            - Decouples content administration from the production invironment
+            - integrates into jekyll: jekyll-contentfull
+      - [roots.cx](http://roots.cx)
+      - [netlify](https://www.netlify.com) for deployment 
+            - commit hooks
+            - command line interface
+            - portable configruration, can be in a config file in the repo
+            - notification
+            - control of headers
+            - basic auth
+      - A lot of control
+  - Limitations: 
+      - personalization
+      - very very large sites
+      - user generated content
+  - Need to find the best fit for the project
+  - It depends
+  - <http://bit.ly/ssg-hollywood>

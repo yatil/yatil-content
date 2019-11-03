@@ -1,0 +1,16 @@
+Title: Zeige deine Webseite nackt!
+----
+Date: 2006-04-03
+----
+Category: Fun, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> **Willkommen beim ersten jährlichen CSS-Nackt-Tag, der am 5. April 2006 stattfinden wird.** Die Idee hinter diesem Event ist die Förderung von Webstandards. Ganz einfach. Das schließt die korrekte Benutzung von (X)HTML, semantischer Textauszeichnung, einer guten Hierarchie und – na ja – ein witziges Wortspiel mit ein. Ich meine, wer will nicht nakt sein? Quelle: [CSS Naked Day](http://naked.dustindiaz.com/) von Dustin Diaz
+
+Und [Erics Weblog](http://yatil.de) macht mit.

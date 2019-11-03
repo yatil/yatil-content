@@ -1,0 +1,28 @@
+Title: Meine MobileMe-Alternativen
+----
+Date: 2008-08-04
+----
+Category: Switch2Mac
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Vor knapp drei Wochen hat Apple seinen neuen [MobileMe-Dienst](http://me.com/) eingeführt, der das .Mac-Paket abgelöst hat. MobileMe ist ein System zur Synchronisierung von Computern, bietet Backup-Möglichkeiten, eine Online-Festplatte und Bildergalerien. Zur Bedienung von verschiedenen Computern aus hat Apple zudem eine schicke Web-Oberfläche gebaut, deren Bedienung sich tatsächlich wie die Desktop-Variante anfühlt. [![294](http://wp.yatil.net/wp-content/uploads/2008/08/294.png)](http://wp.yatil.net/wp-content/uploads/2008/08/294.png)Allerdings kostet der Service auch 79€/Jahr, ist also nicht ganz billig. Für mich als Besitzer eines Macs und eines iPod touch lohnt sich das nicht, wenn man die Einstellungen und Programme auf mehreren Macs und vielleicht einem iPhone synchron halten will eventuell schon eher.
+
+## MobileMe-Mail-Alternative: GMail + IMAP
+
+IMAP ist das Standardprotokoll für E-Mails, die auf dem Server gespeichert werden, [GMail](http://mail.google.com/) (bzw. in Deutschland Google Mail) hat einen tollen Spamfilter, mit dem der meines Webhosters nicht mithalten kann. Gleichzeitig möchte ich aber von Google unabhängig sein, falls sich herausstellt, dass sie doch böse sind. Ich lasse daher alle meine E-Mails an ein GMail-Postfach senden und die gefilterten E-Mails wieder zurück an ein nur mir bekanntes Postfach auf meinem Server auf das ich dann per IMAP zugreife. unterwegs kann ich dann immer noch auf das GMail-Postfach zugreifen, oder über die Weboberfläche meines Hosters. ## Adressen und Termine: USB-Synchronisation
+
+Der iPod touch kann nur über den USB-Anschluss des Macs geladen werden und das ist spätestens alle eineinhalb Tage nötig. Da sich meine Kontakte und Termine nicht so schnell so radikal ändern reicht mir dieses bewusste Aktualisieren. Alternativ dazu hat [Googles Kalenderapplikation](http://www.google.com/calendar/) eine gut nutzbare iPhone-Oberfläche. Mit der neuen [CalDAV-Synchronisation](http://www.google.com/support/calendar/bin/answer.py?answer=99358) ließe sich der zumindest vom Desktop in iCal aktualisieren. Alleine das iPhone-Programm, das die Daten dann offline vorhält und synchronisiert gibt es noch nicht. Vielleicht gibt es ja aber in der Kalender-Applikation fürs Phone bald auch CalDAV-Unterstützung, dann stünde der Benutzung von Googles Kalender nichts mehr im Weg. ## Galerien: Flickr
+
+Ich lade meine Bilder seit 2004 bei [Flickr](http://flickr.com/) auf die Server und bin dort Pro-Mitglied. Neben der Einrichtung von Bildergalerien bietet mir Flickr auch ein Netzwerk von Bekannten und Freunden, das bei Apples Online-Galerie fehlt. Die sieht zwar schick aus, kann mich aber nicht von Flickr abtrünnig machen. ## iDisk: Eigener Webspace, Dropbox
+
+Wenn man Online Daten speichern will, um von mehreren Rechnern darauf zuzugreifen, dann gibt es mannigfaltige alternativen zur lahmen iDisk von Apple. Eine Version ist der eigene Webspace. Dort ist meist viel Platz, die Daten werden regelmäßig gesichert. Nachteil: Gerade günstige Anbieter bieten keinen Platz außerhalb des Webroot an. Das bedeutet, dass theoretisch jeder über das Internet auf die Daten zugreifen kann, wenn er das Passwort kennt. Allerdings muss man als Benutzer auch den genauen Pfad der Datei kennen um sie von einem anderen Computer benutzen zu können. Eine Alternative für mich ist daher [Dropbox](http://getdropbox.com/) (Private Beta). Der Service setzt auf Amazons S3-Service auf und spiegelt das Online-Verzeichnis auf die eigene Festplatte. Dadurch hat man auch offline den vollen Zugriff auf die Daten, gleichzeitig ein Online-Backup und ein nettes Web-Interface mit dem man auch mal von einem fremden Computer auf die Dateien zugreifen kann. Dazu lassen sich Ordner mit anderen Nutzern teilen, diese Ordner werden dann zwischen allen Computern ständig synchronisiert. ## Backup: Time Machine+SuperDuper!
+
+Bei allen Vorteilen einer Online-Lösung: Von einem Online-Laufwerk kann ich nicht booten. Also bleibt mir nur eine externe Festplatte für das ständige Backup. Ein Booten von der Festplatte ist mit Time Machine aber nur mit Leopard-DVD möglich, die ich natürlich nicht immer dabei habe. Deshalb benutze ich zusätzlich [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/) um die Festplatte in ein bootbares Backup zu verwandeln. Dieses Backup aktualisiere ich wenn möglich einmal pro Tag. ## Fazit
+
+Bis auf die Synchronisation von Kalender und Kontakten gibt es für das einfache „1 PC/Mac, 1 iPod touch/iPhone“-Szenario einfache und kostenlose/-günstige Möglichkeiten MobileMe zu ersetzen. Für mich wiegen die Vorteile von MobileMe den hohen Preis nicht auf, gerade, wenn man auch die technischen Mängel in der Anfangszeit berücksichtigt. Push war nie wirklich direkt und auch die Mail-Funktion ist oft ausgefallen.

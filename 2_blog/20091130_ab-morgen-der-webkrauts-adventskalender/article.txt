@@ -1,0 +1,14 @@
+Title: Ab morgen: Der Webkrauts-Adventskalender
+----
+Date: 2009-11-30
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: webkrauts
+----
+Image: 
+----
+Text:
+[![Adventskalender der Webkrauts 2009](http://yatil.de/images/318.png "Adventskalender der Webkrauts 2009")](http://www.webkrauts.de/) Ab morgen gibt es wieder eine der besten Ressourcen für Webworker online, der Webkrauts-Adventskalender öffnet 24 Türchen bis zum Ende der Weihnachtszeit. Das Motto in diesem Jahr lautet „Tipps und Tricks“ und enthält viele (hoffentlich) interessante Artikelchen rund um den Webworker-Alltag.

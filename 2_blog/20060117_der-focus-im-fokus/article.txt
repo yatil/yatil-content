@@ -1,0 +1,40 @@
+Title: Der FOCUS im Fokus
+----
+Date: 2006-01-17
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Im Rahmen der Serie [Failed Redesigns in Germany](http://www.vorsprungdurchwebstandards.de/index.php?tag=failedredesigns) hat die (empfehlenswerte) Website [Vorsprung durch Webstandards](http://www.vorsprungdurchwebstandards.de/) die Webseite des Magazins [FOCUS](http://focus.msn.de/) unter die Lupe genommen. Das Ergebnis:
+
+> Focus hat den Trend erkannt. Websites werden ja heutzutage tabellenlos gebaut. Soweit, so gut: Hurra, keine Tabellen. Mehr Fachwissen hatte die Relaunch- Chaostruppe allerdings nicht. Der Code ist vollkommen verschwurbelt (`a href` vor `h`), strotzt vor `div`- Verschachtelungen, wo ein `li` genügt hätte, und ist voll gestopft mit Inline-Stylesheets, altbewährten Blind-Gifs und esoterischer Abstands- `div`- Kunst.  
+> Vorsprung durch Webstandards: [Failed Redesigns in Germany – Episode 1](http://vorsprungdurchwebstandards.de/blog/failed-redesigns-made-in-germany-episode-1/)
+
+“Stimmt”, werden die kenner der Webstandardsszene sagen. Aber auch nur die. Für Außenstehende ist weder die Polemik noch das anschließende Codebeispiel hilfreich. Darauf macht [Jeena Paradies](http://jeenaparadies.net/) in [seinem Kommentar](http://vorsprungdurchwebstandards.de/blog/failed-redesigns-made-in-germany-episode-1/#comment-38) aufmerksam:
+
+> Ich glaube ehrlich gesagt, dass dieses Anprangern, vor allem bei großen und bekannten Seiten, eigentlich gar nichts bringt, außer vielleicht ein wenig Selbstbeweihräucherung und wie Alp letztens sagte, gegenseitiges auf die Schultern Klopfen, weil wir Webstandards benutzen.  
+> So lange wir nicht dahinter kommen, warum sich Qualität, wie wir sie verstehen, nicht auch kommerziell durchsetzt, so lange bekämpfen wir nur die Symptome, anstatt das Problem an der Wurzel zu packen.
+
+Genauere, konkete Vorschläge macht er zudem [einem Weblog-Eintrag](http://jeenaparadies.net/weblog/2006/jan/modernes-webdesign):
+
+> Ja, es ist einfach anderen zu Zeigen was sie so alles falsch machen \[...\], schwieriger wird es aber vorzuleben wie es wirklich gehen kann und soll. Angefangen bei den konkreten Beispielen sollte man vielleicht daran denken die richtige Alternative dazuzuposten, über Vorleben in eigenen Projekten, was ja schon ziemlich viele machen, bis hin zur kommerziell erfolgreichen Seite, die auf Webstandards aufsetzt. Und genau da fehlt es meiner Meinung nach. [Modernes Webdesign professionell an den Mann/Frau gebracht](http://jeenaparadies.net/weblog/2006/jan/modernes-webdesign)
+
+Und recht hat er! Doch wer bitte setzt sich hin und schreibt den Code einer kommerziellen Seite um, verbessert ihn und postet dann noch eine Woche Details des Redesign-Prozesses, Tricks und Kniffe? Soviel Zeit hat doch niemand.
+
+Naja, sagen wir _fast_ niemand. Ich habe mir meinen freien Sonntag, die paar freie Stunden am Montag und Dienstag, die mir neben meinem Zivi-Job noch blieben, genommen und dieses Projekt nicht nur in Angriff genommen sondern auch vollendet. Dies soll keine Selbstbeweihräucherung sein, sondern zeigen, dass eine standardnahe Umsetzung eines solchen Layouts in zwei bis drei Arbeitstagen möglich ist.
+
+[![Screenshot des Focus mit Webstandards](/images/211.png "Screenshot des Focus mit Webstandards")](http://yatil.de/focusstandards/)
+
+Noch ist nicht alles perfekt und der Code könnte noch ein wenig schlanker, das CSS besser dokumentiert sein. Aber genug der Vorrede, kommen wir zum [Recoding der FOCUS-Startseite](http://yatil.de/focusstandards/). Herausstechendstes Merkmal: Die Seite ist komplett skalierbar, inklusive Bilder und Flash(-Werbung). Einfach mal ausprobieren. Links funktionieren allerdings keine.
+
+**HINWEIS:** Wie Jeena mir gerade per E-Mail mitteilt haben Firefox-Versionen unter Version 1.5 einen Fehler und zeigt unmengen von Scrollbalken an. Ich arbeite an einer Lösung für dieses Problem. OK, das hab ich geändert, es sollten keine Scrollbalken mehr da sein. Dafür zeigt der Internet-Explorer noch einen kleinen Fehler.
+
+**Update 19.01.2006, 21:11:** Ich habe die Version 1.35 der Seite hochgeladen, die jetzt zumindest beim ersten Laden die Fehler in Opera und Safari ändern könnte. Beim Reload zeigt Opera 8.5 einen Fehler an (`#content`-Spalte rutscht nach unten). Weshalb auch immer. Hinweise zur Ergreifung des Täters lieferte im Übrigen [Ingo](http://www.satzansatz.de/css.html).
+
+Ach ja: Der gesamte Quelltext ist unter einer [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/de/) veröffentlicht, die Namensnennung bei der Verwendung voraussetzt. Für eine angeregte Diskussion bin ich natürlich offen.

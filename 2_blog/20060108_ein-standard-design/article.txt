@@ -1,0 +1,241 @@
+Title: Ein Standard-Design
+----
+Date: 2006-01-08
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Heute geht es um die Erstellung eines einfachen 3-Spalten-Layouts mittels XHTML und CSS.
+
+## Vorbetrachtungen
+
+Zuerst müssen wir uns im Klaren sein, welche Bereiche unser 3-Spalten-Layout enthalten soll: - Eine Kopf- und eine Fußzeile
+- eine Navigationsspalte
+- eine Hauptspalte für den eigentlichen Seiteninhalt
+- eine Spalte für Zusatzinformationen.
+
+Screenreader sollen außerdem zuerst den Inhalt vorlesen, dann die Navigationspunkte und zuletzt die Zusatzinformationen. ### Abbildung 1: Visueller Aufbau
+
+![Systematische Darstellung des Seitenlayouts: Oben Kopfzeile, unten Fußzeile. Links die Navigation, rechts Zusatzinformationen. Dazwischen die Inhalte.](/images/209.png) 
+
+### Abbildung 2: Struktureller Aufbau
+
+![Systematische Darstellung der Struktur des Seitenlayouts: Zuerst Kopfzeile, dann Inhalte. Danach die Navigation, zuletzt die Zusatzinformationen.](/images/210.png) 
+
+Für das Design streben wir Spalten an, die bis zur Fußzeile reichen. Dass dies keine Selbstverständlichkeit ist wird sich später noch zeigen. ## Die Dokumentstruktur
+
+Der Einfachheit halber werden die hier folgenden Beispiele nur Auszüge aus dem `<body>`-Element sein. Für die gesamte (X)HTML-Datei kann der [Quelltext der Beispielseite](http://yatil.de/krauts/ "Externer Link zur Beispielseite") herangezogen werden. Wie man am strukturellen Aufbau erkennen kann haben wir fünf Bereiche: Die Kopfzeile mit der Seitenidentität (also Logo und Tagline), die drei Spalten und den Fußbereich mit rechtlichen Hinweisen. Wir könnten das folgendermaßen im Quelltext umsetzen: ```
+<pre class="bsp">```
+<div id="identitaet">...</div>
+<div id="inhalt">...</div>
+<div id="navigation">...</div>
+<div id="extra">...</div>
+<div id="rechtliches">...</div> 
+```
+
+```
+
+Dieser Quelltext wäre eine optimale Lösung: - Die Elemente sind ihrem Zweck nach benannt.
+- Es gibt keine Elemente die ausschließlich für das Design eingefügt wurden.
+
+Allerdings ist die Erstellung eines Dreispalters mit diesem Quelltext äußerst schwierig umzusetzen. Eine möglichst einfache und browserübergreifende Lösung benötigt noch ein weiteres Element. Zudem werden die Bereiche von einem weiteren `<div>`-Element eingefasst (`<div id="wrap">`), mit dem sich das Layout ebenfalls verändern lässt. ```
+<pre class="bsp">```
+<span style="color: #a00;"><div id="wrap"></span>
+  <div id="identitaet">...</div>
+ <span style="color: #a00;">   <div id="hauptbereich"></span>
+      <div id="inhalt">...</div>
+      <div id="navigation">...</div>
+ <span style="color: #a00;">   </div></span>
+  <div id="extra">...</div>
+  <div id="rechtliches">...</div>
+<span style="color: #a00;"></div></span>
+
+```
+
+```
+
+## Float as float can.
+
+Diese Struktur erlaubt es uns die gesamte Seite mittels „Floats“ (Schwebende Elemente) zu positionieren, was mir als die nachvollziehbarste Lösung vorkommt. Nun müssen wir uns noch über die Breite der Spalten klar werden. Die Inhaltsspalte soll die Hälfte des `wrap`-Elements einnehmen, die beiden anderen Spalten jeweils 25%. Das Prinzip der Floats ist schnell erklärt: Die Elemente werden aus dem Dokumentenfluss herausgenommen und an eine Seite verschoben. Andere Texte/Elemente laufen dann daran vorbei. Die Bilder in Zeitungen werden auf eine ähnliche Weise gesetzt. Zuerst legen wir eine allgemeine Regel im CSS fest. Wieder ist es der Vereinfachung geschuldet, dass die Stilangaben im Beispieldokument nicht ausgelagert sondern im Dokument vorhanden sind. ```
+```
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+```
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+}
+```
+
+Nun müssen wir das CSS für die verschiedenen Bereiche schreiben. ### Kopf- (`#identitaet`) und Fußzeile (`#rechtliches`)
+
+```
+```
+
+#identitaet {
+  background-color: #369A3D;
+  color: #fff;
+  padding: 1.2em;
+}
+
+```
+
+#rechtliches {
+  background-color: #707883;
+  color: #fff;
+}
+```
+
+Das reicht uns hier bereits. In einem „echten“ Layout würde man wahrscheinlich noch Hintergrundbilder oder andere Gestaltungselemente einfügen. Dies benötigen wir aber in diesem Beispiel nicht. ### Die Spalten
+
+Zuerst kümmern wir uns um die Spalte für Zusatzinformationen (`#extra`) und den Hauptbereich (`#hauptbereich`). Den Hauptbereich wollen wir mit 75% Breite an den linken Seitenrand schieben, die Extraspalte an den rechten: ```
+```
+#hauptbereich {
+  float: left;
+  width: 75%;
+}
+
+
+```
+
+#extra {
+  float: right;
+  width: 25%;
+  background-color: #D39815;
+}
+```
+
+Mit der Inhalts- und der Navigationsspalte verfahren wir ähnlich. Lediglich die Breite der beiden Spalten müssen wir anpassen, da sich diese auf das übergeordnete Element (in diesem Fall also auf den Hauptbereich mit 75%iger Breite) beziehen: ```
+```
+#inhalt {
+  float: right;
+  width: 66.67%;
+  background-color: #002455;
+  color: #fff;
+}
+
+```
+
+#navigation {
+  float: left;
+  width: 33.33%;
+  background-color: #B0001E;
+}
+```
+
+Wenn man sich das Layout nun anschaut fallen zwei Probleme auf: 1. Die Fußleiste ist seltsam verschoben.
+2. Die Spalten sind teilweise viel zu kurz und gehen nicht bis zur Fußleiste.
+
+Die Fußzeile ganz nach unten zu versetzen ist kein Problem: `#rechtliches` wird folgende Anweisung hinzugefügt: `clear: both;`. Dadurch wird die Fußzeile nach unten, unter alle Spalten geschoben. Das zweite Problem kann auf zwei Arten gelöst werden: Entweder man benutzt Hintergrundbilder um Spalten zu simulieren (sog. Faux Colums) oder man wendet einen Trick an, den Alex Robinson bei seiner Suche nach dem einzig wahren Layout gefungen hat. Dieser benutzt einen sehr großen Innenabstand (`padding`) und einen ebenso großen _negativen_ Außenabstand (`margin`) die Spalten entsprechend zu erweitern: ```
+<pre class="bsp">```
+#inhalt, #navigation, #extra, #hauptbereich {
+  padding-bottom: 32767px; <span style="color: #666;">/* Beschränkung durch Safari, der keinen größeren Wert zulässt. */</span>
+  margin-bottom: -32767px;
+}
+ 
+```
+
+```
+
+Nun sind die Spalten aber einfach nur sehr lang. Wir müssen sie also unten kappen, und hier kommt das `wrap`-Element ins Spiel. Durch folgende Anweisung erreichen wir das gewünschte Ergebnis fast: ```
+<pre class="bsp">```
+#wrap {
+  overflow: hidden;
+}
+
+```
+
+```
+
+Was nun noch fehlt ist die Fußzeile: Sie scheint irgerndwie hinter die Spalten gerutscht zu sein. Folgende Anweisungen rücken das wieder gerade: ```
+<pre class="bsp">```
+#wrap {
+  overflow: hidden;
+  <span style="color: #a00;">position: relative;</span>
+}
+#rechtliches {
+  background-color: #707883;
+  <span style="color: #a00;">position: relative;</span>
+  <span style="color: #a00;">z-index: 1;</span>
+} 
+```
+
+```
+
+Jetzt haben wir ein fast perfektes Layout, das in den meißten Browsern funktionieren sollte. Lediglich Opera in der Version 8 macht Probleme. Falls man diesen Browser unterstützen will (oder muss) hilft folgender CSS-Hack. Opera 9 enthält diesen Fahler im übrigen nicht mehr, es liegt also im Ermessen des Autors ob er diesen Hack überhaupt benötigt: ```
+```
+@media all and (min-width: 0px) {
+  #inhalt, #navigation, #extra, #hauptbereich {
+    padding-bottom:0;
+    margin-bottom: 0;
+  }
+
+  
+```
+
+#inhalt:after, #navigation:after, #extra:after, #hauptbereich:after {
+    padding-top:32767px;
+    margin-bottom: -32767px;
+    content: 'Opera 8 Fix';
+    display:block;
+    background: inherit;
+    height: 0;
+  }
+}
+```
+
+## Fluid, fix oder elastisch?
+
+Es mag nun die Frage aufkommen, ob das Layout fluide, fix oder elastisch ist. Fluid bedeutet, dass sich die einzelnen Spalten an die Fensterbreite anpasst. Fix ist ein Layout, wenn die Breite in Pixeln angegeben wurde. Ein elastisches Layout passt sich an der Schriftgröße an. Und das schöne ist: Dieses Layout kann alle drei Layoutarten erfüllen, die Frage ist nur in welcher Einheit die Breite des `wrap`-Elements angegeben wird: Fixes Layout: ```
+#wrap {
+  overflow: hidden;
+  position: relative;
+  <span style="color: #a00;">width: 760<strong>px</strong>;</span>
+  <span style="color: #a00;">margin: auto;</span> <span style="color: #666;">/* Zentrierung des Layouts */</span>
+}
+
+```
+
+Fluides Layout:
+
+```
+<pre class="bsp">```
+#wrap {
+  overflow: hidden;
+  position: relative;
+  <span style="color: #a00;">width: 80<strong>%</strong>;</span>
+  <span style="color: #a00;">margin: auto;</span> <span style="color: #666;">/* Zentrierung des Layouts */</span>
+} 
+```
+
+```
+
+Elastisches Layout:
+
+```
+<pre class="bsp">```
+#wrap {
+  overflow: hidden;
+  position: relative;
+  <span style="color: #a00;">width: 45<strong>em</strong>;</span>
+  <span style="color: #a00;">margin: auto;</span> <span style="color: #666;">/* Zentrierung des Layouts */</span>
+}
+ 
+```
+
+```
+
+## Weiterführende Links
+
+- [Beispielseite](http://yatil.de/krauts/ "Externer Link zur Beispielseite")
+- [YAML: Yet Another Multicolumn Layout](http://www.highresolution.info/webdesign/yaml/ "Externer Link zu YAML")

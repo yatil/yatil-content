@@ -1,0 +1,26 @@
+Title: Webmontag Frankfurt, vierter Streich
+----
+Date: 2006-08-15
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die Vorträge waren eigentlich ganz in Ordnung, der Mikroformate-Vortrag traf für mich nicht des Pudels Kern, das liegt aber daran, dass es auch mein Steckenpferd ist. Als Einführung war die Präsentation allemal brauchbar.
+
+Dann kam der Vortrag zu den WCAG 2.0, der mit fast 50 Minuten einfach zu lang war. Dafür war er fundiert und man sah, dass [Martin](http://learningtheworld.eu/) sich mit dem Thema auseinander gesetzt hatte. Mir hat er jedoch zu sehr die praktische Anwendung betont, die jetzt möglich sei. Ich muss mich doch mal genauer mit dem Thema auseinandersetzen.
+
+Dann stellte [Gerrit](http://praegnanz.de/) seinen „kommentierten Bilderrausch“ vor. „Trends“ im Webdesign waren sein Thema. Unterhaltsam aber ein bisschen kurz, kaum hatte er angefangen saß er auch schon wieder am Tisch.
+
+Eine ganz spannende, wenn auch gleichzeitig beunruhigende, Sache sind sogenannte „OpenIds“. Vorgetragen in einer Präsentation von Lukas Rosenstock ging es vor allem darum sich die Anmeldeprozedur zu ersparen und stattdessen eine Identität zu haben, mit der man sich überall anmelden kann.
+
+Danach Socializing, inklusive Belehrungen von [Beate](http://www.paland.net/) und [Ralf](http://www.das-netzbuch.de/) wie ich mein MacBook doch gefälligst zu benutzen habe. Und der low-distance geekout iChat mit Gerrit. Zwei Macbooks, Rücken an Rücken und dann per iChat miteinander gechattet. Naja.
+
+Hinzu kamen noch Anekdoten von [Jens](http://blog.grochtdreis.de) und anderen. Insgesamt eine tolle Veranstaltung.
+
+[Übrigens gibt es meine kleine XHTML 2-Präsentation zum anschauen, auch wenn ich sie nicht gehalten habe.](http://yatil.de/webmontag/fr0806/)

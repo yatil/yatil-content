@@ -1,0 +1,26 @@
+Title: Google PageRank
+----
+Date: 2004-03-24
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Ich wollt schon immer mal Wissen, welchen PageRank meine Seite bei Google hat. [Mit diesem Tool](http://www.top25web.com/pagerank.php) kann man das nun herausfinden.
+
+Ich hab einen PageRank von 3/10.
+
+Hier einige Homepages, die ich (mehr oder weniger) regelmäßig ansteuere:
+
+[www.google.de](http://www.google.de): 9/10  
+[www.heise.de/tp/](http://www.heise.de/tp/): 8/10  
+[www.designmadeingermany.de](http://www.designmadeingermany.de): 6/10  
+[www.css-technik.de](http://www.css-technik.de): 6/10  
+[www.strohhalm.org](http://www.strohhalm.org): 5/10  
+[www.qxm.de](http://www.qxm.de): 5/10  
+[www.brogge.de](http://www.brogge.de): 1/10

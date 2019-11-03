@@ -1,0 +1,18 @@
+Title: Parsing Webmentions
+----
+Date: 2013-10-07
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+After successfully [testing Webmentions](http://adactio.com/journal/6469/) (a new form of the old Trackback or Pingback mechanisms), [Jeremy Keith](http://adactio.com) shows [how to parse the content of the sites linking back](http://adactio.com/journal/6495/) to display excerpts of their comments:
+
+> The next step is to do something with the responses. After all, I’ve already got the source of each response from those cURL requests \[to verify that the URL contains a back link as it claims\]. \[…\] I’m using \[a microformats parser in PHP\] to check the cURLed source for any responses that have been marked up using h-entry. That’s one of the microformats 2 vocabularies—a much simpler way of writing structured content with microformats.
+
+This is a spec to watch as is everything from the [Indie Web movement](http://indiewebcamp.com/), because they make the web a better and more distributed place.

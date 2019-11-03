@@ -1,0 +1,118 @@
+Title: Die Kaskade
+----
+Date: 2005-12-13
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+_Hinweis:_ Dieser Artikel erschien im Rahmen des [Webkrauts-Adventskalenders](http://webkrauts.de/adventskalender/12/). Meist unterschätzt und oft schwierig zu verstehen ist das, was CSS die „Kaskade“ nennt. Die Kaskade bestimmt welche Regeln auf Elemente angewandt werden oder nicht. Vieles davon nehmen wir als selbstverständlich hin, doch bei Problemen ist hier oft die Lösung zu finden. ## Wer hat Vorfahrt?
+
+Die Kaskade kann man durchaus wie die Verkehrsregelung verstehen. Wenn zwei gleichartige Anweisungen aufeinander treffen, zum Beispiel bei widersprüchliche Angaben in importieren Stylesheets, muss das „Benutzerprogramm“ (i. d. R. ein Webbrowser) entscheiden, welche der Angaben zum Zug kommt. Dafür hat das W3C in der Spezifikation zu CSS einige Festlegungen getroffen. Neben der Frage des Ursprungs ist auch die Frage nach der Spezifikation wichtig um zu entscheiden welche Regeln letztendlich angewendet werden: ## Die Ursprungsfrage
+
+Im Straßenverkehr herrscht der Leitspruch „Rechts vor Links“, es sei denn die Vorfahrt ist anders geregelt. Und ähnlich sieht es auch bei der Kaskade aus. Zwischen folgenden Ursprungsarten wird in CSS unterschieden: Das BenutzerprogrammWenn man eine (X)HTML-Datei in einen Browser lädt bekommt man trotzdem einen lesbaren Text heraus: Die Überschriften (`<h1>`–`<h6>`) sind nach der Wertigkeit dargestellt, Listen (`<ul>`) haben Listenpunkte, Absätze (`<p>`) einen Abstand nach der letzten Zeile und betonte Textabschnitte (`<em>`) werden kursiv dargestellt. Der Browser wendet also ein Standard-Stylesheet auf das Dokument an [\[1\]](#anmerkungnr1).Der BenutzerDer Benutzer (also der, auf dessen Rechner der Browser läuft) kann ein eigenes Benutzerstylesheet einrichten, in dem er beispielsweise eine größere Schrift oder eine andere Schriftart festlegen kann.Der AutorDer Gestalter der Seite wiederum – und das ist die häufigste Form, der wir begegnen – kann Farben, Anordnung und Schrift seiner Webseite festlegen. Diese Autorenstylesheets werden in das (X)HTML-Dokument eingebunden und dann angewandt.### Wer hat das größte Gewicht?
+
+Nun ist natürlich die Frage noch nicht geklärt, welche Anweisungen angewendet werden. Dafür ordnet die Kaskade jeder Stilregel eine Gewichtung zu, wenn mehrere Regeln gelten setzt sich die mit der höheren Gewichtung durch. Es gilt: Regeln in Autorenstylesheets haben ein größeres Gewicht als Benutzerregeln und beide sind gewichtiger als das Browserstylesheet. Ein Ausnahmefall bilden sogenannte „!important-Regeln“. Es gilt folgende Reihenfolge: 1. Benutzerstylesheet mit _!important_ [\*](#anm1)
+2. Autorstylesheet mit _!important_ [\*](#anm1)
+3. Autorstylesheet
+4. Benutzerstylesheet
+5. Browserstylesheet
+
+(\*) Diese Reihenfolge wurde in CSS Level 2 geändert, um beispielsweise vergrößerte Schrift wirken zu lassen (Siehe Beispiel 2). Vorher war die Reihenfolge noch umgekehrt – Browser, die über eine CSS-Implementation nach Level 1 verfügen, bevorzugen also Autorenstylesheets generell vor Benutzerstylesheets.
+
+**Beispiel 1:** Betrachten wir folgendes Browserstylesheet (entnommen aus der `html.css` von Firefox): ```
+blockquote {
+display: block;
+margin: 1em 40px;
+}
+```
+
+Der Benutzer des Browsers hat sich ein Benutzerstylesheet angelegt, in dem er Zitate (`blockquote`) besser hervorheben will. Er setzt also einen roten, 2 Pixel breiten Rahmen um das Zitat und setzt den Außenabstand (`margin`) überall auf `1em`: ```
+blockquote {
+margin: 1em;
+border: 2px solid red;
+}
+```
+
+Der Autor der Seite hat sich nicht viele Gedanken über Zitate gemacht. Er möchte, dass ein breiter grauer Balken links des Zitats erscheint und dass der Text einen Innenabstand (`padding`) von `0.5em` besitzt. In seinem Stylesheet steht nun: ```
+blockquote {
+padding: 0.5em;
+border-left: 2.4em solid silver;
+}
+```
+
+Was aber nun beim Benutzer angezeigt wird ist nichts von alle dem. Es wird viel mehr als ein Gemisch aus all diesen Formen interpretiert: ```
+blockquote {
+display: block;
+margin: 1em;
+padding: 0.5em;
+border: 2px solid red;
+border-left: 2.4em solid silver;
+}
+```
+
+Und das sieht dann so aus: > Sein oder nicht sein. Das ist hier die Frage.
+
+
+
+**Beispiel 2:** Schriftgrößenveränderung durch ein Benutzerstylesheet Im Browser ist eine Standardschriftgröße von 16 Pixel eingestellt. Der Benutzer hat allerdings eine Sehschwäche und erhöht diese durch folgende Anweisungen auf 20 Pixel, damit diese Einstellung nicht durch den Seitenautor überschrieben werden kann kennzeichnet er die Anweisung als `!important`: ```
+
+body {font-size: 20px <em>!important</em>;}
+
+```
+
+Falls der Webseitenautor die Schriftgrößen durchgängig relativ (durch `em`- oder `%`-Angaben) angegeben hat, skalieren diese automatisch mit: Bei 16 Pixel Basisschriftgröße: `h1 {font-size: 220%}`: 35px `h2 {font-size: 1.8em}`: 29px Bei 20 Pixel Basisschriftgröße: `h1 {font-size: 220%}`: 44px `h2 {font-size: 1.8em}`: 36px 
+
+## Die Spezifität
+
+Die Spezifität regelt die Anwendung von Regeln nach dem Prinzip „Je spezifischer, desto wichtiger“. Beispiel: ```
+p {color: green;}
+p.wichtig {color: red;}
+p#quer1 {color: orange;}
+```
+
+Die Frage ist nun: „Welche Regel ist spezifischer?“ Wie wird folgender Code angezeigt: `<p class="wichtig" id="quer1">Dies ist ein wichtiger Absatz.</p>`Die Antwort ist nicht so schwierig, es ist nämlich eine orangene Farbe. Dies ist ein wichtiger Absatz.
+
+
+
+
+
+Weshalb kommt der Browser zu diesem Ergebnis? Er wendet folgende Konventionen beim Berechnen der Spezifität an: - Zuerst werden die ID-Angaben des Selektors gezählt, diese ergeben eine Zahl `a`,
+- dann werden alle Attribute gezählt (dazu gehören Klassen, Pseudoklassen, [Attribut-](http://yatil.de/Webentwicklung/der-div-wahnsinn#attributselektoren) und [Pseudoselektoren](http://yatil.de/Webentwicklung/der-div-wahnsinn#pseudoselektoren)) und `b` zugewiesen.
+- Schließlich werden alle Elemente (und Pseudoelemente) im Selektor gezählt und einer Zahl `c` zugewiesen.
+
+Die Reihenfolge `a`, `b` und `c` ergibt dann die Spezifität, wobei zuerst `a`, dann `b` und schließlich `c` verglichen werden. Wenn sich die Selektoren bereits bei `a` unterscheiden (z.B. 0 und 1) wird der Spezifischere (also der mit der 1) angewendet. Das bedeutet für unser obiges Beispiel folgende Spezifitäten: SelektorabcGesamt`p`0013. Platz`p.wichtig`0112. Platz`p#quer1`1011. PlatzEin Sonderfall ist die Zuweisung von Styleangaben im (X)HTML-Quelltext durch das `style=""`-Attribut. Diese Anweisung ist immer gewichtiger ist als die im Stylesheet angegebenen Definitionen. Schauen wir uns nun folgende Deklarationen an: ```
+div#test1 p { color: green;}
+div p#test2 { color: maroon;}
+```
+
+Die Spezifität beider Werte ist gleich (1,0,2). Nun wendet der Browser immer die _letzte Regel an, die im Stylesheet steht_, in der Annahme diese sei die erwünschte. Bei folgendem (X)HTML-Schnipsel... ```
+
+<div id="test1">
+<p id="test2">Dies ist ein Satz in rotbraun.</p>
+</div>
+
+```
+
+...entsteht also ein Satz in rotbraun. Dies ist ein Satz in rotbraun.
+
+
+
+
+
+Nun ist es nicht verwunderlich, dass man manchmal Probleme mit der Kaskade hat. Oft kommt es vor, dass man einen Rahmen breiter zeichnen möchte und man den entsprechenden Wert im Stylesheet ändert. Doch nichts passiert. Die Begründung dafür kann in der Kaskade zu finden sein, entweder wird die Einstellung durch eine Angabe höherer Spezifität überschrieben oder es folgt eine Angabe mit gleicher Spezifität. Dagegen helfen nur gut kommentierte Stylesheets sowie die Anwendung von sogenannten Pfadangaben, d.h., dass statt einfachen Angaben wie `p.wichtig` kompliziertere Angaben im Stylesheet vorkommen: `div#container div#inhalt p.wichtig`. Weitere Beispiele für Spezifitäten: SelektorID-Angaben (`a`)Attribute (`b`)Elemente (`c`)\*000blockquote001blockquote.pullquote011p:lang(en)011\#special100blockquote#special101body div#inhalt blockquote103blockquote#special.pullquote111## Weiterführende Links
+
+- [Offizielle CSS2.1-Spezifikation: Assigning property values, Cascading, and Inheritance](http://www.w3.org/TR/CSS21/cascade.html "Externer Link zu Edition W3C") .
+- [Offizielle Übersetzung der CSS2-Spezifikation: Eigenschaftswerte zuweisen, Kaskaden und Vererbung](http://edition-w3c.de/TR/1998/REC-CSS2-19980512/kap06.html "Externer Link zu Edition W3C") (Veraltet) .
+- [CSS4You Workshop CSS: Teil 6 – Kaskaden](http://css4you.de/wscss/css06.html "Externer Link zu CSS4You") .
+- [Michael Jendryschik: Kaskade](http://jendryschik.de/wsdev/einfuehrung/css/kaskade "Externer Link zu Michael Jendryschik") .
+- [SelfHTML: Kaskade – Anwendung von Stylesheets auf Dokumente](http://de.selfhtml.org/css/formate/kaskade.htm "Externer Link zu SelfHTML") .
+- [Björn Seibert: Inheritance vs. Cascade – Vererbung und Kaskaden](http://www.bs-markup.de/blog/archiv/2005/04/06/inheritance-vs-cascade-vererbung-und-kaskaden/ "Externer Link zu bs-markup.de") .
+- [Björn Seibert: Spezifizität in CSS](http://www.bs-markup.de/blog/archiv/2005/05/25/spezifizitat/ "Externer Link zu bs-markup.de") .
+- [Der Webstandards-Adventskalender 2004 – Türchen 24 – Die Kaskade](http://www.grochtdreis.de/adventskalender/advent.php#id24 "Externer Link zum Adventskalender 2004") .
+- \[1\] siehe: [Adventskalendertürchen Nummer 10: Das Basisstylesheet](http://webkrauts.de/adventskalender/10/)

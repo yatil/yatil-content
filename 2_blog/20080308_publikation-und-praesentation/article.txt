@@ -1,0 +1,14 @@
+Title: Publikation und Präsentation
+----
+Date: 2008-03-08
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zum [zweiten Mal](http://wp.yatil.de/goin-to-print/ "Goin’ to Print") gibt es einen Artikel aus diesem Blog in Print-Form. Im „Logbuch Accessibility“, welches von der Initiative MAIN herausgegeben wird, wird mein Artikel [„Barrierefreiheit ist mehr als ‚Design für Blinde‘“](http://wp.yatil.de/barrierefreiheit-ist-mehr-als-design-fuer-blinde/ "Barrierefreiheit ist mehr als „Design für Blinde“") erscheinen. Diesen verfasste ich im Rahmen der [„Accessibility Blog Parade“](http://www.mainweb.at/blog/2007/09/28/einladung-accessibility-blog-parade/) und ich freue mich sehr, dass ich in dieser außergewöhnlich gestalteten Sammlung von Beiträgen dabei sein darf. Am 27.3. findet in Wien die [öffentliche Buchausgabe](http://www.mainweb.at/blog/2008/03/06/ein-buch-wird-kommen) ([Venteria](http://venteria.com/events/48304-Logbuch-Accessibility-Oeffentliche-Buchausgabe)) statt. Es ist zudem gegen Erstattung der Portogebühren bei MAIN bestellbar. Ein paar Tage später werde ich beim [Accessible Media Stammtisch April ’08](http://blog.wienfluss.net/index.php/2008/03/07/accessible-media-stammtisch-in-wien-7/) ([Venteria](http://venteria.com/events/48305-Accessible-Media-Stammtisch-April-08)) eine kurze und knappe Einführung zu JavaScript behandeln. Ich möchte vor allem Best-Practices vorstellen und zeigen, wie viel Barrierefreiheit überhaupt mit JavaScript möglich ist.

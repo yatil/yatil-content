@@ -1,0 +1,14 @@
+Title: Essener Bienenstock fährt nach Berlin
+----
+Date: 2010-12-06
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Seit meinem Umzug nach Essen engagiere ich mich im Rahmen des BPSE (Best Practices Stammtisch Essen) für eine Community, die Wert auf Best Practices wie Webstandards, Barrierefreiheit, Design und Usability legt. Zusammen fahren wir nun zur [BIENE-Preisverleihung](http://www.biene-award.de/). Die Biene ist ein Preis für barrierefreie Internetseiten, der von der [Aktion Mensch](http://aktion-mensch.de/) vergeben wird. Mit dem Stammtisch haben wir es geschafft in wenigen Wochen ein Projekt für die BIENE reif zu machen, uns auszutauschen über Barrierefreiheit im Frontend, im Backend, die Richtlinien für Barrierefreie Webinhalte 2.0 (WCAG 2.0) durchzugehen und zu diskutieren. Wir haben alle viel bei diesem Projekt, der Webseite für die [Stiftung Lebenshilfe Duisburg](http://stiftung-lebenshilfe.org), gelernt und es ist wunderbar zu sehen, dass dieser Einsatz belohnt wird: **Wir sind in der Kategorie „Organisationen“ nominiert.**[![](http://farm6.static.flickr.com/5162/5237185943_2773869d26_z.jpg)](http://www.flickr.com/photos/yatil/5237185943/)Wir danken dem fachlichen Beirat der BIENE und allen Testern, denen unsere Arbeit gefallen hat. Nun liegt das Schicksal [in den Händen der Jury](http://www.biene-award.de/presse/#meldung06). Wir hoffen auf ihre Gnade :-)

@@ -1,0 +1,18 @@
+Title: BITV2: Doppelte Anforderungen für deutsche Webagenturen?
+----
+Date: 2008-07-28
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Was man von der [Arbeitsgruppe zur zweiten Version der BITV hört](http://blog.namics.com/2008/06/bitv-2-0-am-gruenen-tisch.html) ist beunruhigend. Schon alleine der Umstand, dass selbst Branchenvertreter nur durch eine [parlamentarische Anfrage](http://dip21.bundestag.de/dip21/btd/16/092/1609283.pdf "PDF") von der Arbeitsgruppe und ihrem Fortschritt erfährt, stellt sie in ein schlechtes Licht. So gut, wie die BITV in der ersten Version funktioniert hat, so beunruhigt bin ich doch im Vorfeld der neuen Version. Anscheinend findet dort eine gehörige Lobbyarbeit der Verbände statt, die die WCAG 2.0 nur als Vorlage ansehen. Bereits bei der BITV 1 gab es gehörige Inkompatibilitäten mit der WCAG 1. Das Bemühen von [EfA die BITV an die internationalen und aktuellen gegebenen Umstände anzupassen](http://www.einfach-fuer-alle.de/artikel/bitv-reloaded/) zeigt das deutlich. Die Ziele der BITV 2 scheinen mit denen der WCAG 2 nicht überein zu stimmen:
+
+> Die Belange von Menschen mit Lern- und geistigen Behinderungen sollen zukünftig stärker berücksichtigt werden, gerade auch in Form von Leichter Sprache. Gleichzeitig soll sich die BITV an den WCAG 2.0 orientieren, in der diese Belange eine deutlich geringere Rolle spielen. [„BITV 2.0 am grünen Tisch?“ — Martin Kliehm](http://blog.namics.com/2008/06/bitv-2-0-am-gruenen-tisch.html)
+
+Zudem findet das Verfahren der BITV hinter verschlossenen Türen statt, der Prozess des W3C ist hingegen für jeden offen. Jeder ist dazu aufgerufen sich an diesen Empfehlungen beteiligen. Weshalb die deutschen Organisationen auf eine Partizipation in diesen Gremien verzichten und lieber ihre eigenen Brötchen backen bleibt mir wohl verschlossen. Eine inkompatiblen BITV verkompliziert aber auch den Vorgang für Unternehmen, die auf europäischer Ebene arbeiten. In der Schweiz und in Österreich werden die WCAG 2 referenziert, in Deutschland könnten diese Seiten als nicht barrierefrei gelten (und umgekehrt). Was passiert eigentlich bei Webseiten, die auf EU-Ebene entstehen? Eine Webseite einer deutschen EU-Präsidentschaft müsste für deutsche Benutzer anders aussehen als für österreichische. Und wollen wir in der EU wirklich 27 verschiedene Regelungen für barrierefreies Web? Ich denke nicht. Die Arbeitsgruppe muss sich strikt an den WCAG 2 orientieren. Meine Optimalvorstellung wäre natürlich eine 1:1-Umsetzung der WCAG 2, und ein größeres Engagement in den W3C-Arbeitsgruppen.

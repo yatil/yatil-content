@@ -1,0 +1,16 @@
+Title: You don’t like IE6? Really?
+----
+Date: 2011-08-01
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Today I read the latest in the long, long, long line of why I won’t support IE6. How fucking droll. If IE6 support is part of your job or the contract – then that’s what it is, that’s the job, that’s the challenge of your work.
+
+[Thanks for writing those words, Remy](http://remy.tumblr.com/post/8334086394/what-do-you-mean-you-dont-like-ie6-really). We don’t support (i.e. haven’t IE6 in our contracts) for about two years now. Of course we try to degrade gracefully whenever possible. If we’d take on work that requires IE6 testing, we’d just do it. We know how to work around it’s odds. For most of our clients to date supporting better tech had more value than IE6 testing.

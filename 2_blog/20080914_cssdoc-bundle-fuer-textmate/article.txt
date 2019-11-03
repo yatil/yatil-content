@@ -1,0 +1,24 @@
+Title: CSSDoc-Bundle für Textmate
+----
+Date: 2008-09-14
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Dirk Jesse hat [CSSDoc-Snippets für Aptana](http://www.highresolution.info/weblog/entry/cssdoc_snippets_fuer_aptana/) veröffentlicht. Auf dem Mac ist Aptana jedoch nicht wirklich erste Wahl um CSS zu schreiben, Textmate, CSSEdit und Coda sind doch viel weiter verbreitet. Leider gibt es für CSSEdit keine Möglichkeit Code-Snippets einzufügen, doch in Textmate ist das sehr komfortabel durch so genannte Bundles möglich. Einfach die Datei [CSSDoc.tmbundle](http://yatil.de/file_download/16/CSSDoc.tmbundle.zip) herunter laden und entpacken und dann mit Doppelklick installieren.
+
+## Dokumentation:
+
+Das Bundle nutzt für das Projekt-Snippet zwei Textmate Shell Variablen, die erst in den Einstellungen unter Advanced -> Shell Variables eingestellt werden sollten. Die beiden Variablen `TM_AUTHOR` und `TM_COPYRIGHT` stellen die Standardwerte für das Snippet dar. [![](http://wp.yatil.net/wp-content/uploads/2008/08/300.png)](http://wp.yatil.net/wp-content/uploads/2008/08/300.png)Die Snippets werden per Tab-Trigger aktiviert, also indem nach dem Codewort die Tabulator-Taste gedrückt wird. Die Codewörter im Einzelnen: - Projekt-Snippet: `cdproject`
+- Section-Snippet: `cds`
+- Sub-Section-Snippet: `cdss`
+- Bugfix: `cdbug`
+- Work Around: `cdwa`
+
+Danach kann man sich durch die einzelnen variablen Teile der Snippets „durchtabben“ und sie einfach überschreiben. Zudem habe ich eine Tastenkombination für einfache Kommentare hinzugefügt, die durch ⌥⇧⌘C (Alt+Shift+Command+C) aktiviert wird. Mal schauen, was noch aus dem CSSDoc-Standard sinnvoll dem Bundle hinzugefügt werden kann. Aber dazu muss ich mich erst noch mehr mit dem Standard auseinander setzen. Weitere Infos zu CSSDoc gibt es unter [CSSDoc.net](http://cssdoc.net/), der [erste Draft](http://cssdoc.net/wiki/CssdocDraft) der Spezifikation ist auch verfügbar. _Aktualisiert mit den Hinweisen von [Dennis](http://yatil.de/Weblog/cssdoc-bundle-fuer-textmate#c003419) !_**UPDATE:** Olaf Gleba hat [eine aktualisierte Version](http://creatics.de/work/2009/02/08/cssdoc-textmate-bundle/) entwickelt.

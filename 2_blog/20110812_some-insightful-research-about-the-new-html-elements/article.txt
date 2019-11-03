@@ -1,0 +1,18 @@
+Title: Some insightful research about the “new” HTML elements
+----
+Date: 2011-08-12
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+…[by Jenn Lukas](http://cognition.happycog.com/article/i-have-a-new-crush-and-its-name-is-figcaption). It looks like mostly the runner ups in each category felt in love for the new elements, probably seeing a chance as a contender there. Seeing chinese shopping site [Taobao](http://www.taobao.com/) there, given the [enormous percentage of IE6 users there](http://www.ie6countdown.com/).
+
+> It’s exciting to look around and see sites using new semantics. Even the mark element is getting some action! Are you using new elements? Which ones do you feel safe to implement?
+
+I use the new elements since about two years now, probably three if you count early private projects, and never looked back. It is just what makes sense and really improves readability and maintainability of our code. To be honest, it would be very hard to be limited to the (X)HTML elements. It just is the right decision to make your HTML the best you can, having more semantics really helps.

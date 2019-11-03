@@ -1,0 +1,30 @@
+Title: Der Validator ist nicht alles!
+----
+Date: 2006-02-15
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Was muss ich da beim [redesignten Pixelgraphix.de](http://www.pixelgraphix.de/) [lesen](http://www.pixelgraphix.de/log/2006-02/prioritaeten-erwartungen-erbsenzaehlerei-und-das-grosse-ganze.php)? Es beschweren sich mal wieder tatsächlich Leute, weil nicht alle Seiten aller Webkrauts validieren würden.
+
+Nur mal zur Information: Der [Validator](http://validator.w3.org) prüft eine Seite auf formale Richtigkeit. Er prüft also beispielsweise ob alle Elemente geschlossen sind. Das hilft beispielsweise bei der Entwicklung, da Fehler im Quelltext von vornherein ausgeschlossen werden.
+
+Was der Validator nicht prüft ist Semantik, also ob die Elemente sinnvoll eingesetzt werden. _Und genau darauf kommt es an._ Es ist wurst, ob es nicht-encodete &-Zeichen gibt, oder ob ein Imgage-Element nicht korrekt geschlossen wurde. Viel wichtiger ist, dass das Bild einen Alternativtext hat.
+
+Der Validator ist ein _Hilfsmittel_, das auf mögliche Probleme hinweist. Er ist nicht unsere Bibel. Er ist ein Hinweisgeber, ein guter Freund, auf den man gerne hört, der aber nichts vorschreiben kann.
+
+Das selbe gilt für das Ausliefern der XHTML-Seiten mit dem Medientyp application/xml. Es wird empfohlen die Seite so auszuliefern. Aber warum? Ich schreibe in XHTML keine Programme, keine Applications. Und ich nutze keinerlei Erweiterungen, die mir XHTML bereitstellen könnte. Ich benötige diese Erweiterungen einfach nicht.
+
+Okay, “Gläubige” werden jetzt damit argumentieren, dass ich dann ja auch “normales” HTML 4.01 hätte ausliefern können. Stimmt. Aber darauf kommt es doch gar nicht an.
+
+In Zukunft wird diese Frage auch noch nicht geklärt sein. Dann heißt es nämlich [W3C XHTML 2.0](http://www.w3.org/TR/xhtml2) gegen [WHATWG Web Applications 1.0](http://www.whatwg.org/specs/web-apps/current-work/) (HTML 5/XHTML 5). Und ich sympathisiere ehrlich gesagt mit letzterer Initiative. Vorteile: Weitgehende Abwärtskompatibilität und leichtere Implementation in die Browser, weil nicht mit allen konventionen rigoros gebrochen wird.
+
+Aber ich schweife ab.
+
+Ein paar Fehler oder Warnungen im Quelltext machen _keine schlechte Seite_.

@@ -1,0 +1,14 @@
+Title: On 24ways & Webkrauts advent calendars
+----
+Date: 2015-12-17
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+I was asked to write an article for 24ways.org, the well known web advent calendar, this year. It was published today! Hop over and read about [The Accessibility Mindset](https://24ways.org/2015/the-accessibility-mindset/). Thanks for all the good work behind the scene, [Drew](http://allinthehead.com/), [Brian](http://suda.co.uk/), [Anna](http://maban.co.uk/), and [Owen](http://fullcreammilk.co.uk/)! If you prefer to read the article in German, don’t shy away and see [Accessibility im Sinn](http://webkrauts.de/artikel/2015/accessibility-im-sinn), published on the Webkrauts Adventskalender. Thanks to [Matthias](http://yellowled.de), [Jens](http://grochtdreis.de), [Nicolai](http://textformer.de), [Kerstin](http://www.barrierefreie-informationskultur.de/), and [Nils](http://pookerart.de) for their continuous efforts to bring those articles to the German speaking audience.

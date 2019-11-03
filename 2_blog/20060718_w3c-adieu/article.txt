@@ -1,0 +1,35 @@
+Title: W3C adieu?
+----
+Date: 2006-07-18
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Björn führt für seine Entscheidung einige Punkte an, ausgedruckt ist die E-Mail 5 Seiten lang und sehr interessant zu lesen. Folgende Punkte sind ihm besonders wichtig:
+
+- **Aktive Entwicklung und Wartung** des Validators. Das W3C vertraut auf freiwillige und um die wichtigen tools für Webdesigner zu warten und zu entwickeln. Björn fragt sich, ob es bei Mitgliedsbeiträgen von 50.000 Dollar pro Kopf nicht möglich sei Entwickler einzustellen. Das W3C empfiehlt Firmen sich auf Webdesigner zu verlassen deren Arbeit den Validator korrekt passiert – doch vieles im Validator funktioniert anscheinend nicht richtig. Wer soll sich darauf verlassen?
+- **Hardware** könnte man ja wenigstens für das Geld einkaufen, doch auch dafür scheint kein Geld da zu sein. Dies führte auch schon zu Serverausfällen.
+- Zudem sieht er kaum **Unterstützung von den W3C-Arbeitsgruppen**. Der Validator unterstützt beispielsweise kein XHTML2, da „es keine Benutzbaren DTD geben kann“ (Masayasu Ishikawa). Das sei für eine Spezifikation, die HTML und XHTML wie wir es heute kennen zu wenig.
+- Zudem würden **Spezifikationen kaum gewartet** werden. Die Angabe `<div<div>` sei erlaubt obwohl es kaum ein Browser verstehe. Und das Validator-Team will, dass solche Fehler angezeigt werden können. Entsprechende Anfragen blieben unbeantwortet.
+ 
+Jeffrey Zeldman geht noch weiter und stellt die Institution „Web Standards Consortium“ in Frage:
+
+> Von geschäftlichen Zahlmeistern, die als einzige die Mitgliedschaft bezahlen können, abgesehen scheint sich das W3C von den einfachen Designern und Entwicklern abgekoppelt zu haben. Um die Wahrheit zu sagen: Wir und unsere praktischen Anliegen haben die Organisation nie gelenkt. Aber nachdem normale Designer und Entwickler fast eine Dekade investiert haben Webstandards Browserhersteller schmackhaft zu machen und „Best Practices“ zu Zugänglichkeit und Semantik zu entwerfen, könnte man meine, dass das W3C realisiert haben könnte welchen Nutzen eine gelegentliche Konsultation der Basis bringen kann.  
+>   
+> Leider scheint sich die Organisation keine Gedanken um unsere Bedürfnisse zu machen und sie scheint nicht an der Nutzung unserer Erfahrung und Einsichten zu interessiert zu sein. Sie bleib ein geschlossenes, ein Einweg-System. Wie alte Fernsehwerbung vor der Einführung des Kabels. Nicht wie das Web.  
+>   
+> Das W3C fragt ja nach dem Community-Feedback, bevor es die Empfehlungen beendet. Aber die Leute zu etwas zu befragen was bereits fast fertig ist ist nicht das selbe wie herauszufinden, was sie brauchen und ihnen eine Mitarbeit von Anfang an anzubieten.  
+>   
+> Wir brauchen Spezifikationen, die auf unseren Bedürfnissen und die unserer Benutzer basieren. Die kommenden [Zugänglichkeits-](http://www.einfach-fuer-alle.de/artikel/to-hell-with-wcag2/) und [Markup-Spezifikationen](http://www.dzr-web.com/people/darren/blog/2006/07/12/is-the-w3c-failing-us/) versagen bei beidem. Wir brauchen Validatoren, die funktionieren und die auf dem neuesten Stand gehalten werden. Stattdessen sind diese Wekzeuge immernoch kaputt, auch wenn die Probleme schon vor Jahren gemeldet wurden.  
+>   
+> Zwei dinge können passieren. Entweder wird das W3C eine Kurskorrektur vornehmen, oder die Standardsgemeinschaft wird sich [woanders](http://microformats.org/) umschauen. Übersetzung von [Jeffrey Zeldmans „An angry fix“](http://www.zeldman.com/2006/07/17/an-angry-fix/)
+
+Vor allem die Erwähnung von Mikroformaten durch Zeldman ist sehr erstaunlich, doch nachvollziehbar. Wenn die neuen Standards keine Akzeptanz finden werden sich die Webseitenentwickler nach Alternativen umschauen. Diese liegen tatsächlich im Bereich Mikroformate. Es scheint sich generell die Meinung zu verbreiten, dass XHTML 2.0 eine Luftnummer wird.
+
+Die Entwicklung erwarte ich mit Spannung…

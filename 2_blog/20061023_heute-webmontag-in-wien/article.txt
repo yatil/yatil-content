@@ -1,0 +1,30 @@
+Title: Heute: Webmontag in Wien (+ Zusammenfassung)
+----
+Date: 2006-10-23
+----
+Category: Gesellschaft, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+So, jetzt ist es zwanzig vor neun und die Vorstellungsrunde ist gerade im Gange. Vorher waren zwei Präsentationen über HTML5/WebForms2 und Rhizome Navigation, ähnlich der beiden beim Barcamp. Deshalb erspare ich mir eine größere Zusammenfassung. Firefox 2.0 kann übrigens noch nicht wirklich WebForms2.
+
+Danach (ich schreibe jetzt um 1.35 Uhr) haben sich auch noch die Crew um [Markus Stefan](http://mstefan.com) zu uns gesellt. Einer kurzen Vorstellung der [Webkrauts](http://webkrauts.de/) meinerseits inklusive der momentanen (struktuellen) Probleme innerhalb der Gruppe folgte (Ein entsprechender Rant folgt).
+
+Zu diesem Thema entwickelte sich eine sehr angenehme Diskussion, die sich – nachdem einstimmig gegen eine Diskussion in der Gruppe votiert worden war – eine Diskussion in der Gruppe.
+
+Im Vordergrund standen vor allem die Benutzer von Webseiten, wie sie das Medium Internet benutzen und rezipieren. Auch die Frage, welche Firmen überhaupt Webseiten brauchen, wurde thematisiert.
+
+Schlussendlich waren übrigens fast 15 engagierte (nein, ich meine nicht bezahlte!) Interessierte anwesend. Ein Traum, wenn man bedenkt, dass sich vor einer Woche gerade mal zwei Leute für einen Webmontag angemeldet hatten.
+
+Natürlich war Knallgrau wieder vertreten, die sich ja auch um das Barcamp verdient gemacht haben sowie Christine und Thomas Khom von [Creative4you.at](http://www.creative4you.at/).
+
+Das Metalab war übrigens eine tolle Location obwohl im Umbau begriffen. Diese provisorische Umgebung konnte den regen Gedankenaustausch nicht unterbinden.
+
+Nach der eigentlichen Webmontagsveranstaltung zogen wir uns ins nahe liegende Café Einstein zurück, wo die Unterhaltungen angeregt weiter liefen.
+
+Der Webmontag ist in Österreich angekommen.

@@ -1,0 +1,14 @@
+Title: A New Start
+----
+Date: 2011-07-12
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Here we are, yatil.net is live. It is the successor of [yatil.de](http://yatil.de) – my long lasting German blog. This publication will be English only. I want to share links and articles with you, getting into the details of web design and web development. My main objectives at the moment are responsive web design (ORLY) and the nitty gritty of HTML5 and CSS3. Accessibility is a main concern to me, so it will find its place here, too. Technical details: the CMS is [Textpattern](http://textpattern.com/), the layout and design is based on [“320 and up”](http://stuffandnonsense.co.uk/projects/320andup/) by @malarkey based on the genius [HTML5boilerplate.com](http://html5boilerplate.com/). Statistics are collected by [Gauges](http://get.gaug.es/). As you can see there are no comments enabled on this site. I want to keep it very clean here, and we got so many social back channels, so hit me on [Twitter](http://twitter.com/yatil), [Facebook](http://www.facebook.com/yatil) or [Google+](https://plus.google.com/106627512405543005122) if you like to comment on an article. If you’re really old school, just write me an [e-mail](mailto:mail@yatil.net)Don’t forget to get the [Feed!](http://feeds.feedburner.com/yatil)

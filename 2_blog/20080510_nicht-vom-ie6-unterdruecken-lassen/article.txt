@@ -1,0 +1,20 @@
+Title: Nicht vom IE6 unterdrücken lassen!
+----
+Date: 2008-05-10
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Als Microsoft [im März ankündigte](http://www.webkrauts.de/2008/03/04/ie8-standardverhalten-microsoft-aendert-meinung/), dass der IE8 standardmäßig mit seinem besten Rendering-Modus veröffentlicht wurde fiel uns allen ein Stein vom Herzen. Endlich kein **hasLayout** mehr und volle CSS2-Unterstützung. Doch relativ schnell meldeten sich besorgte [Leser bei den Webkrauts](http://www.webkrauts.de/2008/03/04/ie8-standardverhalten-microsoft-aendert-meinung/#comment-25429).
+
+> „Doch das größte Problem ist und bleibt ja der IE6. Und Leute die nicht auf den 7er geupdated haben, werden wohl auch nicht auf den 8er updaten. Also ändert sich nicht viel, man muss auch weiterhin an seinen Seiten rum schustern bis auch der IE6 sie gescheit darstellt-.-“ [Andreas](http://www.webkrauts.de/2008/03/04/ie8-standardverhalten-microsoft-aendert-meinung/#comment-25429)
+
+Sogar mit dem IE4+5 wird argumentiert: > „\[… A\]ber gerade der IE ist noch immer sehr weit verbreitet und das bis zur alten Version 4.“[Ingo](http://www.webkrauts.de/2008/03/04/ie8-standardverhalten-microsoft-aendert-meinung/#comment-25609)
+
+Okay, jetzt mal Tacheles: Die IE4 und 5 sind völlig unbedeutend. Wer sich immer noch auf diese bezieht und dafür optimiert und darauf testet, macht sich selbst das Leben schwer. [Laut W3Schools](http://www.w3schools.com/browsers/browsers_stats.asp) lag der IE5 im März bei 1,1%, der IE4 unter 0,5%. Das sind vernachlässigbare Werte. Beide Browser sind tot. Unsere Aufgabe ist es dafür zu sorgen, dass die Benutzer solcher Antiquariate noch Inhalte zu sehen bekommen, sie werden dass schon aus ihrem Alltag kennen. Wie das Funktioniert zeigt(e) Jon Hicks in einer [Präsentation bei der FOWD](http://www.hicksdesign.co.uk/journal/design-to-deployment "Future of Web Design"). Aber nun zum IE6. Obwohl sich sein Marktanteil seit der Einführung des IE7 halbiert hat (30,1% im März 2008 von 60,3% im Januar 2006) ist er noch das Schwergewicht im Browserzirkus. Die Frage ist nur: **Soll man sich vom IE6 in seiner Gestaltungsfreiheit einschränken lassen?**Meine Antwort darauf lautet klar **nein**. Ich bin ein großer Anhänger von Progressive Enhancement, also dem schrittweisen Verbessern von Webseiten ausgehend von den Fähigkeiten. Es ist wirklich keine große Sache, wenn der IE keine abgerundeten Ecken hat, die „guten Browser“ aber über CSS3-Border-Radius welche bekommen. In Wirklichkeit schaut sich kein Internetbenutzer die Seite in zwei verschiedenen Browsern an, das machen nur Auftraggeber, die dann Pixel-Perfektion verlangen. Kurzum: Es ist heute schon möglich Webseiten umzusetzen und sich nicht durch die Angst vor dem bösen IE6 hemmen zu lassen. Je weiter Features verbreitet sind, desto weiter muss auch Microsoft einen Einbau in den IE9 erwägen. Leider wird der IE8 nur CSS2-Unterstützung haben. Viele sehen das schon als Untergang des Abendlandes an. Ich bin mir aber sicher, dass viele Webdesigner CSS3-Features sowieso noch nicht nutzen und, dass Microsoft mit dem IE8 ein gutes Fundament hat um darauf aufzubauen. Diese Rendering-Engine ist hoffentlich für die Zukunft besser gefeit als die der IE-Versionen zuvor.

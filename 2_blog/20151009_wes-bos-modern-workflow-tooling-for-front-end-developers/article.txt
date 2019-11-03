@@ -1,0 +1,125 @@
+Title: Wes Bos – Modern Workflow + Tooling for Front-end Developers #fronteers15
+----
+Date: 2015-10-09
+----
+Category: Event, General
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- Lets compare tooling to plumbing
+- new type of fitting: Sharkbite 
+  - Lego for plumbing
+  - snaps together instantly
+  - can connect any material to copper
+  - can be redone
+  - less prone to leaks
+  - more expensive
+  - less error prone
+  - plumbers: too expensive, too new
+  - changes the industry competely.
+- Some people write off tooling as over-engeneering, others see the benefits
+- Fine line between tooling for tooling’s sake and tooling to get work done
+- Let’s be smart about the tools that we’re using 
+  - Investments need to pay beck
+- Overwhelmed? Crying? 😭
+- This talk: 😭-> 😃
+- Build tools: 
+  - biggest barrier to entry
+  - a lot
+  - what are they for
+  - compiling + converting styles
+  - concatenation
+  - test running
+  - deployment
+  - anything, really
+  - two big: grunt, gulp
+  - npm as a built system by using the CLI commands directly using scripts in the package.js, takes bash 
+      - But probably best used with simple sites
+      - hard to maintain
+  - Webpack 
+      - javascript modules focused - gulp meets browserfy
+      - bit of a hard to learn api
+      - react community likes it
+  - What should I use? 
+      - Pick one. Whatever is best for you.
+      - Personally like gulp 
+            - built speed
+            - packages available
+            - easy to understand and author
+            - overall industry acceptance
+            - 47% use gulp, 20% don’t use anything
+      - Sass brought people to the built train
+- Performance 
+  - Critical: First paint is important
+  - Purify: Removes unused CSS 
+      - Looks at JS and CSS and finds unused CSS
+      - Much smaller CSS files
+  - ImageMin: common interface to 17 different image compression libraries 
+      - Recommendation: MOZJPEG
+  - Uglify.js: Minifies, compresses and mangles code
+- Dependency + Module Management 
+  - We’re seeing a huge shift on how we manage frontend dependencies
+  - Problem: Many scripts, duplicated, different versions of the same file
+  - The solution: Modules for javascript
+  - How does it work 
+      1. Install your libraries, ex. npm/bower install jquery
+      2. Write your code, ex. var$ = require('jquery'); or in IE6: import $ from jquery
+      3. Compile into a single or multiple bundles 
+            - Browsify - simple, quickest setup
+            - WebPack - handles css
+            - JSPM - client side, close to JS spec
+      4. Stop?! What about Gulp/Grunt? 
+            - They are task runners, one of the tasks will be “bundle javascript”, they can call those bundlers.
+  - Small modules that do one thing, and one thing well
+  - Only need ajax, npm install fetch
+  - Pick and chose from lodash 
+      - Is coded in a way that you can access all methods individually, exports only that module to use
+  - NPM or Bower? 
+      - Libraries, similar
+      - NPM for everything!
+      - Ecosystems coming soon to NPM, helps categorize the modules
+- The Future 
+  - JS + CSS evolve rapidly
+  - Don’t need to wait with future code today
+  - Wasn’t possible before
+  - JavaScipt 
+      - ES6/7/Next
+      - Arrow functions
+      - let and const for variable declarations
+      - template strings
+      - many more
+      - Babel 
+            - Allows you to write IE6 code but will then compile it to code that will work today.
+            - gulp-babel
+            - What about new language features? 
+                    - polyfillable require babel/polyfill
+  - CSS4 
+      - Everyone 😍 SASS, comes to browser 
+            - Nesting
+            - Scoping
+            - Variables
+      - CSSnext allows to write in CSS4 and compiles to CSS3
+      - part of postCSS ecosystem
+      - quantityQueries helps to work with those, also a postCSS plugin
+- Workflow treats 
+  - Browsersync – like live reload but actually works 
+      - Instant reload
+      - Includes server with cert for easy local HTTPS
+      - Proxies existing applications/servers: Wordpess, ruby, python
+      - Exposes server via local IP, can test on multiple devices
+      - Syncs clicks, submits, scrolls
+      - MAGIC
+  - Sourcemaps 
+      - Code goes through several transforms before it is in the browser
+      - If there is an error that needs to be traced back
+      - Sourcemaps is standardized
+      - Can be used with a lot of plugins
+- Tooling is extremely important
+- Everyone should have built process
+- Sky is the limit
+- Better code

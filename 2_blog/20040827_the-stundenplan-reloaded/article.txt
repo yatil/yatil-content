@@ -1,0 +1,36 @@
+Title: The Stundenplan, reloaded
+----
+Date: 2004-08-27
+----
+Category: Schule, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Aus dem [invaliden](http://validator.w3.org/check?verbose=1&uri=http%3A//yatil.de/lgp/stundenplan13.htm) [13er Stundenplan\*](http://yatil.de/lgp/stundenplan13.htm), der lieblos in einen WYSIWYG-Editor eingetippt wurde habe ich eine [dynamische Webseite](http://yatil.de/lgp/stdplan13.html) gemacht, in der man seine eigenen Fächer auswählen und dann markiert ausdrucken kann. Dieser »interaktive« Stundenplan basiert auf Webstandards und hat zusätzlich noch ein geringeres Dateigewicht als das Original.
+
+Zum Vergleich:
+
+Orginal-Datei: 37,1 Kb
+
+Special Edition:  
+XHTML-Datei: 9,560 KB (zuvor: 9,32 KB)  
+Screen-CSS: 0,898 KB (zuvor: 0,94 KB)  
+Print-CSS: 0,333 KB (zuvor: 0,91 KB)  
+JavaScript-Datei: 0,763 KB (zuvor: 0,80 KB)  
+**Insgesamt: 11,554 KB** (zuvor: 11,97 KB)  
+(im Vergleich zum Original: **ca. -69%**)
+
+[Das Tutorial kann hier gelesen werden.](http://www.yatil.de/artikel/100084/interaktive-tabelle-mit-dom-scripting) Ach ja: Ein aktueller Browser (Mozilla, Firefox, Netscape oder Internet Explorer) und eingeschaltetes JavaScript ist schon nötig um das »Special Feature« zu nutzen. Zugänglich ist die Tabelle trotzdem.
+
+**Edit (22.22 Uhr):** Die ausgewählten Stunden können nun auch deselektiert werden.
+
+**Edit (30.08.04, 17.50 Uhr):** Die Zahlen oben wurden nochmals verändert, in Klammern die vorherige Zahl. Die XHTML-Datei wurde größer, weil ich etwas vergessen hatte.
+
+\*Von der [Leibniz-Seite](http://leibniz-ps.bildung-rp.de) heruntergeladen.
+
+Abgewandelte Filmtitel scheinen hier zur Mode zu werden. Ich muss das stoppen.

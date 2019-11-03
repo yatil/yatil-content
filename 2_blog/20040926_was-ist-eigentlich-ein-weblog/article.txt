@@ -1,0 +1,20 @@
+Title: Was ist eigentlich ein Weblog?
+----
+Date: 2004-09-26
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Ein Weblog ist eine Website, die regelmässig mit _meist persönlich gefärbten_ Beiträgen aktualisiert wird und diese Beiträge in umgekehrter chronologischer Reihenfolge auflistet.
+
+Die hervorgehobene Stelle bitte ich in Zukunft zu beachten ;).
+
+Wer mehr über Weblogs erfahren will sollte sich die [WeblogFAQ](http://www.stefanbucher.net/weblogfaq/) anschauen.
+
+Vielen Dank dafür an [Stefan Bucher](http://www.stefanbucher.net/blog/autor.php) aus Zürich.

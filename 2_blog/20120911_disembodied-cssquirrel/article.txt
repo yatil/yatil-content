@@ -1,0 +1,16 @@
+Title: Disembodied (CSSquirrel)
+----
+Date: 2012-09-11
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> During a standoff between the W3C groups responsible for HTML and ARIA, Sam Ruby (Co-Chair of the HTML WG) [suggested that the entirety of ARIA be removed from the HTML5 spec](http://lists.w3.org/Archives/Public/public-html/2012Sep/0020.html) until sometime in the future when Issue-30 could be amicably resolved. This is absurd! It’s like throwing the baby out with the bathwater! There is a lot of ARIA that is seeing author implementation in HTML right now, most notably [ARIA roles](http://www.webteacher.ws/2010/10/14/aria-roles-101/). Their inclusion provide real assistance for visitors with accessibility issues in navigating and understanding the content of a website, and in some cases provide extra helpers for non-human agents to crawl the content as well. (I’ve even used them as clever hooks for tricky bits of CSS).
+
+— [CSSquirrel](http://cssquirrel.com/blog/2012/09/10/disembodied/)The W3C seems to be on a role… I mean roll… with those things lately. Could we stop the politics and make awesome stuff now?

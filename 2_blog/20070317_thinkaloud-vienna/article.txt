@@ -1,0 +1,42 @@
+Title: ThinkAloud Vienna
+----
+Date: 2007-03-17
+----
+Category: Programmierung, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zuerst einmal ein ganz großes Lob an die Veranstalter. Der Ort des Events war mit dem [Millennium Tower](http://de.wikipedia.org/wiki/Millennium_Tower_Wien) sehr gut gewählt, der Raum „Kirk“ war von der Größe her optimal, nämlich gerade groß genug.
+
+Für Essen und Getränke war ebenfalls gesorgt, als es um 10 Uhr losging. Die Veranstalter [Wolfgang Zeglovits](http://sek.antville.org/) und [Helge Fahrnberger](http://www.helge.at/) erklärten allen, die noch nie bei einem [Barcamp](http://barcamp.at) waren, wie der Tag ablaufen sollte.
+
+Die erste Präsentation war direkt ein Big Player im Web-2.0-Markt. IBM zeigte in Form von Anton Fricko ihre Mashup-Lösung QEDWiki. An [meinem Twitter-Kommentar](http://twitter.com/yatil/statuses/8525881) „too complicated for John and Jane Doe…“ halte ich fest. Technisch interessant, scheint mir das Tool in seiner jetzigen Form für den Markt absolut unausgegoren.
+
+Danach ergriff Wolfgang Fasching das Wort: In seiner Session „Web 2.0 Hype – Was tun?“ wurde Web 2.0 zu definieren versucht. Dieses unmögliche Unterfangen zog sich so lange, dass wir eine Session verschieben mussten. Letztlich wurde das Thema wie Unternehmen und Web 2.0 zusammen finden nur angeschnitten und in der Diskussion zerrieben. Das interessanteste waren die Erzählungen des Last.fm-Mitgründers Michael Breidenbrücker, der tief in die Marktmechanismen 2.0 blicken lies.
+
+Danach zeigte Peter Gollowitsch eine Software mit der der Landesparteitag der schleswig-holsteinischen Grünen organisiert und mit der abgestimmt wurde. Niko Alm hielt dagegen: Auch mit einem Wiki ist eine demokratische Meinungsbildung möglich, siehe [neuverhandeln.at](http://neuverhandeln.at/).
+
+Kurz vor der Mittagspause (mit lecker Essen) referierte [Jörg Linder](http://www.japhy.at/) zum Thema Usability 2.0. Nichts neues (für mich) hier. Das Back-Button-Problem ist immer noch eines.
+
+Nach dem heißen Essen ging es dann in die heiße Phase. Wieder wurden Slots verteilt. Und es folgte mein Highlight der Konferenz. “SystemOne“http://systemone.at/ ist ein Inhaltemanagementsystem, das auf Wiki und Blogbasis funktioniert und dazu Daten aus verschiedenen Quellen gleichzeitig akquiriert. Der Screencast [auf der Webseite](http://systemone.at/) verrät mehr. Vielen Dank an den SystemOne-Chef Michael Schuster, der ankündigte die Privatversion (1 Benutzername) frei zu Verfügung zu stellen.
+
+Während der Diskussion ums „Marketing 2.0“ habe ich nicht wirklich aufgepasst, ich war in die Vorbereitung meines Vortrages vertieft. Ich glaube, da ging es irgendwie um Banner oder wie man Werbung oder andere Einnahmen… Ich habe keine Ahnung.
+
+Vor der Kaffeepause um 16 Uhr eine „Maps Mashup Session“. Dabei erzählte Helge etwas über bikemap.de, eine Radfahrseite, die noch nicht online ist und die Jungs von [Tupalo](http://tupalo.com/) fassten ihren 45-Minuten-Vortrag in fünf Minuten zusammen. Dann war Pause.
+
+Pünktlich um kurz nach halb fünf begann ich dann meinen abgespeckten Vortrag zum Thema Mikroformate. Durch die von 15 auf 10 Folien heruntergefahrene Präsentation versuchte ich möglichst schnell durchzufliegen, wir haben ja keine Zeit. Danach gab es viele Fragen, und ich zeigte Beispiele in Mikroformaten. [Martin Rölls Einschätzung](http://www.flickr.com/photos/martinroell/423963078/) deckt sich mit meiner: „Super Vortrag über Mikroformate (microformats). Hier zeigt er, wie er für sich in Textpattern eine mikroformatierte Filmkritikseite gebaut hat. Amusement über seine Kommentare zu den Filmen.“
+
+Der Vortrag lief wirklich gut, auch wenn ich zwischendurch das Gefühl hatte, dass die Zuhörer mir wegen des ganzen Gelächters um meine [Filmkritiken](http://yatil.de/filme/) entgleiten könnten. Ich habe viel direktes positives Feedback erhalten. Damit hatte sich mein Vortrag als nicht ganz so schlecht herausgestellt. Als ich dann an [Christopher Clay](http://log.c3o.org/) übergab, der mit seinem Firefox 3-Vortrag meine Session ergänzen wollte bemerkte ich, dass es bereits 17:25 Uhr war. Ein wenig sehr überzogen, dafür, dass wir alle drei – Christopher, [Heimo Reiter](http://heimo.zapzarap.net/blog/) und ich – eigentlich um 17 Uhr hätte fertig sein sollen.
+
+Christophers Vortrag war sehr Interessant. Vor allem ein Aspekt des neuen Firefox hat mich sehr überzeugt. Aber ich habe vergessen was es war. Ich werde mir [seine Präsentation](http://www.thinkaloud.at/index.php?title=Firefox_3) aber nochmals anschauen und dann berichten. Hoffe ich.
+
+Ab 18 Uhr wurde dann wieder ausgetauscht und zwar zum Thema Video 2.0, was einerseits interessant war, andererseits sich aber auch sehr lang gezogen hat. Das Ergebnis der Diskussion ist mir nicht bekannt.
+
+Fazit: Im Großen und Ganzen eine gelungene Veranstaltung mit interessanten Vorträgen und Vortragenden. Martin Röll hatte keine eigene Session, das war schade, ich hätte gerne mehr von ihm gehört. Das muss unbedingt wiederholt werden.
+
+Nach der Konferenz wurde dann noch zusammen gegessen (was Cisco nicht zahlte – aber das war auch das einzige). Ausklingen ließen wir den Abend im [WerkzeugH](http://www.werkzeugh.at/), das nach dem Umbau wirklich schön geworden ist. Ich habe alle nochmal an den [Webmontag](http://webmontag.at) erinnert und habe mich dann um kurz nach null Uhr auf den Heimweg gemacht, da ich ja heute morgen bereits um sechs Uhr wieder aufstehen durfte. Was man nicht alles fürs Studium macht.

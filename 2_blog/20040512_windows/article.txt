@@ -1,0 +1,20 @@
+Title: Windows!
+----
+Date: 2004-05-12
+----
+Category: Gesellschaft
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Der Softwarekonzern hatte erst im vergangenen Monat insgesamt 20 Sicherheitslücken in Windows und seinen Programmen per Update geschlossen. Windows-Benutzern wird empfohlen, regelmäßig über die Windows-Aktualisierung aktuelle Updates auf ihren Rechner zu spielen.
+
+Quelle: [Netzeitung](http://www.netzeitung.de/internet/viren/286074.html)
+
+Und wer verklagt Microsoft wegen fahrläsigem (wenn nicht vorsätzlichem!) Verstoß gegen den Datenschutz? Ich denk, das man **solche** Betriebssysteme keinem Nutzer zumuten sollte. In Firmen erst recht nicht. Alternativen: [Macintosh](http://www.apple.de/), [Suse Linux](http://www.suse.de) oder [BeOS](http://www.bezip.de/) / [Zeta](http://www.yellowtab.biz/).
+
+Der nächste »Sasser« kommt bestimmt!

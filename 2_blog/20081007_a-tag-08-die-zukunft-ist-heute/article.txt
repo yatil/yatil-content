@@ -1,0 +1,18 @@
+Title: A-Tag ’08 – Die Zukunft ist heute
+----
+Date: 2008-10-07
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Interesse am Thema Accessibility? Dann habe ich eine Veranstaltungsempfehlung für meine lieben Leser. Am **21. November 2008** findet im TechGate in Wien der dritte A-Tag statt. Diesmal wird er von [accessible media](http://www.accessiblemedia.at/) in Zusammenarbeit mit dem [Bundesministerium für Gesundheit, Familie und Jugend](http://bmgfj.gv.at/) veranstaltet und bietet Vorträge vom Allerfeinsten. [![304](http://wp.yatil.net/wp-content/uploads/2008/10/304.png)](http://wp.yatil.net/wp-content/uploads/2008/10/304.png)Ich habe die Ehre das Event mit zu organisieren und bin stolz, dass uns ein [hochkarätiges Programm](http://atag.accessiblemedia.at/programm/) mit [tollen Vortragenden](http://atag.accessiblemedia.at/vortragende/) gelungen ist: Neben den Webkrauts [Christian Heilmann](http://wait-till-i.com/), [Maria Putzhuber](http://putzhuber.net/), [Tomas Caspers](http://tomascaspers.de/) und [Martin Kliehm](http://learningtheworld.eu) sind weitere Vortragende aus unterschiedlichen Bereichen des Barrierefreien Webs eingeladen. Die Keynote wird [Robert Lender](http://robertlender.info/) halten, Artur Ortega von Yahoo! wird zum Thema JavaScript sprechen, Shadi Abou-Zhara über WCAG2 und Peter Purgathofer über E-Voting. Ein weiterer Schwerpunkt wird im Bereich e-Government gesetzt, barrierefreie CMS spielen genauso eine Rolle wie Barrierefreiheit in Ausschreibungen. In einem [Beitrag auf MAIN\_web](http://www.mainweb.at/blog/2008/10/06/a-tag-08-die-zukunft-ist-heute/) hat die Vorsitzende von accessible media, Eva Papst, einige treffende Worte zum Titel der Veranstaltung gefunden:
+
+> „Mit der Themenvielfalt der diversen Referate beim A-Tag ‘08 versuchen die VeranstalterInnen den unterschiedlichsten Bedürfnissen unseres heterogenen Publikums und somit allen Generationen der WebgestalterInnen gerecht zu werden. Ob Richtlinien, Standards, Organisation, Checktools oder moderne Webtechnologie – es ist sicher für jeden etwas dabei, das den Generationskonflikt der Weblandschaft verringern helfen kann.“
+
+Neben allgemeinen Organisationsaufgaben habe ich auch die [Webseite zur Veranstaltung](http://atag.accessiblemedia.at/) auf meine Kappe genommen. Zum Einsatz kommt das [CodeIgniter-Framework](http://codeigniter.com/), mit dem sich die Seite einfach umsetzen ließ. Es funktioniert ähnlich wie das in Textpattern integrierte Bannister-Framework, mit dem ich schon vorher gearbeitet hatte. Die [Registrierung für den A-Tag ’08](http://atag.accessiblemedia.at/anmeldung/) ist kostenlos.

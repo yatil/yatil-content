@@ -1,0 +1,23 @@
+Title: Using icon fonts and demystifying speak:none;
+----
+Date: 2013-04-14
+----
+Category: Accessibility, General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+I just listened to the talks of [Responsive Day Out](http://responsiveconf.com/) from last march as a [Podcast](http://huffduffer.com/adactio/tags/responsiveconf). And the talk of [Josh Emerson](http://joshemerson.co.uk/) of [Clearleft](http://clearleft.com/) about asset fonts ([Slides on Speaker Deck](https://speakerdeck.com/joshje/asset-fonts)) caught my interest. Asset fonts is just a more fancy, yet more fitting, name for icon fonts. He makes a very convincing case about those fonts and shows how to create them and using them. But then there is one large myth coming up (on slide 23): ![.icon:before { content: '\xe012'; font-family: 'Cleardings'; speak: none; }](http://yatil.net/wp-content/uploads/2014/12/slide_22-1024x768.jpg)He uses `speak:none` because he thinks that would hide the icon from the screen reader, but that isn’t true. As I wrote my [A better way to use icon fonts](/?p=29) article back in 2012 that property isn’t interpreted at all. It is only defined by the aural media type, too. I think it would be great if it worked, but it doesn’t and many icon font tutorials are dependent on it, so here’s how to make your icon font accessible in three easy steps:
+
+1. Don’t ever use “regular letters” for icons. Use a service like
+
+[Icomoon](http://icomoon.io) and use the private use area (PUA) of the font. Those areas are specifically made for this usage and don’t have any letters attached to it. Screen readers won’t read letters in the PUA. 1. Use colors with [enough contrast](http://leaverou.github.io/contrast-ratio/) for your icons.
+2. Never use an icon without a text (that you may hide). As icons are not read out, we don’t have any hint for a screen reader user what actually is on the screen, an alternative text is important as long as the content doesn’t make sense without an icon at all. I generally use the [HTML5Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css#L148) solution, which is very robust.
+
+Icons, if in fonts or not, should be very descriptive, especially if they stand on their own. If in doubt, add a descriptive text so users can find out what it means. (In the pre-touch era of web design I’d just have recommended a `title attribute, but those times are over.) You can find the complete presentation which has other valuable information in it here:
+
+[Asset Fonts](https://speakerdeck.com/joshje/asset-fonts?slide=23)

@@ -1,0 +1,14 @@
+Title: Web fonts: Use only WOFF & WOFF2 formats
+----
+Date: 2015-07-19
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: typography, web fonts, web typography
+----
+Image: 
+----
+Text:
+WOFF is an acronym for “[Web Open Font Format 1.0](http://www.w3.org/TR/WOFF/)”, a web standard that was introduced in December 2012. There is a version 2.0 of the same format in the works, currently published as a [working draft](http://www.w3.org/TR/WOFF2/). In comparison with traditional font formats like TTF or OTF, they provide better compression while keeping a lot of features of those formats, like ligatures, small caps, or alternative styles. Those feature can be used in CSS by leveraging the `font-feature-settings` property. WOFF2 provides even better compression and faster decompression, which is especially important on mobile devices. WOFF is available in all modern browsers. The only notable exceptions for support are IE8 (and previous versions, obviously), Opera 12 & Mini, and Android Browser up to 4.3. The enhanced WOFF2 is available in Firefox 39+, Chrome 36+, modern Opera, current Android Browser and current Chrome for Android. ([See CanIUse.com](http://caniuse.com/#search=WOFF)) By using the modern file formats and providing a good fallback font for browsers not supporting WOFF/2, websites render more quickly, the build process is quicker and more easily to maintain, and users with older hardware don’t get the additional burden of downloading and decompressing a font file. In addition the font should always be loaded using JavaScript, allowing the user to start reading instead of staring at invisible text while the web fonts load. An even more [advanced technique by the Filament Group](https://www.filamentgroup.com/lab/font-events.html) uses cookies to provide the user with the (then cached font) on page load immediately on the second request.

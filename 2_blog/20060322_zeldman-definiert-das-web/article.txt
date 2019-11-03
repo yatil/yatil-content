@@ -1,0 +1,22 @@
+Title: Zeldman definiert das Web
+----
+Date: 2006-03-22
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Und wirklich neues über den “Internet Explorer 7” erwartete er auch nicht. In seinem [daily report](http://www.zeldman.com/-Post) [Unmixed](http://www.zeldman.com/2006/03/22/unmixed/) schreibt er deshalb von seinem Web:
+
+> No matter what’s said at any conference, my web will continue to be about good writing and good design. Because that’s what I care about. And your web is your web because you care about what you care about. And whatever that is, there’s plenty of it to be found or made on this big web we share.  
+> No matter how many new marketing phrases and acronyms emerge (some even with concepts attached), and no matter how much money some people make or lose betting on them \[...\], what I value does not change. Aus: Jeffrey Zeldman: [Unmixed](http://www.zeldman.com/2006/03/22/unmixed/)
+
+Übersetzung:
+
+> Egal, was auf irgendeiner Konferenz gesagt wurde: Mein Web wird sich um gute Texte und gutes Design drehen. Weil ich mich darum kümmere. Und dein Web ist dein Web, weil du dich um das kümmerst, was dich kümmert. Und was auch immer das ist, es gibt vieles, das wir im großen Internet finden oder daraus machen können.  
+> Egal, welche neuen Phrasen und Abkürzungen auftauchen (manche davon mit dazugehörigen Konzepten) und egal wie viel Geld einige Leute verdienen oder verlieren indem sie auf sie wetten \[...\], es ändert nichts an dem, was ich schätze. Aus: Jeffrey Zeldman: [Unmixed](http://www.zeldman.com/2006/03/22/unmixed/)

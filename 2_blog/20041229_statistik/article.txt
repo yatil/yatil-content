@@ -1,0 +1,14 @@
+Title: Statistik
+----
+Date: 2004-12-29
+----
+Category: News, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+![](/images/169t.png) Wie man an der Grafik erkennen kann stiegen sowohl Traffic als auch Zugriffszahlen (Hits) bis zum Oktober an und stabilisierten sich dann bei etwa 120.000 Besucher bzw. 600 Megabytes im November und Dezember (Hochrechnung auf Daten bis zum 26. Dezember). Alles in allem eine sehr positive Entwicklung. ![](/images/168t.png) Eine andere positive Entwicklung ist in den Browser-Statistiken abzusehen: Der Internet Explorer von Microsoft verliert im Vergleich zum Gesamtzeitraum 12% wenn man die letzten sieben Tage vor Weihnachten betrachtet. Alle anderen Browser gewinnen Anteile hinzu, vor allem Mozilla mit einem Plus von fast 5%. Ein Rätsel gibt mir der große Anteil der Netscape-Benutzer. Suchmaschinen-Bots wurden aus der Statistik herausgerechnet.

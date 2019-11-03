@@ -1,0 +1,22 @@
+Title: Neue Seiten
+----
+Date: 2005-08-07
+----
+Category: News, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zwei neue „Mini-Projekte“ habe ich diese Woche online gestellt:
+
+Zum einen die Seite zum Restaurant [Romeo’s Pizzaah & Rips](http://romeos.yatil.de/), eine einfache Übersichtsseite, die hauptsächlich die Speisekarte vorstellt.
+
+Auf die Anpassung des Bildes für den Internet Explorers
+
+Zudem habe ich die [Liste der auszuleihenden Gegenstände](http://verleih.yatil.de/) des Verleihs des Studentenwerkes Kaiserslautern ins Internet gestellt.
+
+Übrigens: Wenn es Probleme mit dieser Seite gibt ist es eine gute Idee eine [E-Mail](mailto:ee@yatil.de) an mich zu schicken, dann kann ich die Probleme beheben. Zur allgemeinen Verwunderung bin ich nämlich nicht den ganzen Tag auf meiner Seite unterwegs und prüfe, ob alle Links funktionieren.

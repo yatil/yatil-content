@@ -1,0 +1,38 @@
+Title: egg_widont: Witwen in Titeln vermeiden (Update!)
+----
+Date: 2006-09-04
+----
+Category: Textpattern
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[English Description](#english)
+
+**Hinweis:** Es gab einen Fehler in Version 0.1, der verhinderte, dass das Plugin mehrmals auf einer Seite ausgeführt werden konnte. Dies wurde nun behoben.
+
+Ein weiteres Plugin für Textpattern gibt es nun [hier zum Download](http://yatil.de/file_download/7).
+
+Ich möchte mich nicht mit fremden Federn schmücken, der Code kommt zu 80% von [Shaun Inman](http://www.shauninman.com/plete/2006/08/widont-wordpress-plugin.php), der rest aus der Textpattern Codebase.
+
+Ich habe nur zusammengebracht, was zusammen gehört.
+
+Das Plugin vermeidet sogenannte „Witwen“, früher „Hurenkinder“. Das sind Wörter, die alleine in einer Zeile stehen.
+
+Zur Benutzung: Einfach nach Installation und Aktivierung des Plugins den `<txp:title />`-Tag durch `<txp:egg_widont />` ersetzen.
+
+## Avoid Widows in Titles
+
+**Attention:** There was an error in version 0.1 which prevented using this plugin multiple times on one page.
+
+Even I created this plugin, [Shaun Inman](http://www.shauninman.com/) and the Textpattern developers did the majority of the work.
+
+This Plugin avoids “widows”, lonely words in one line.
+
+[You can download it here.](http://yatil.de/file_download/7)
+
+Usage: Just install and enable it. Then you have to replace all `<txp:title />` tags with `<txp:egg_widont />`.

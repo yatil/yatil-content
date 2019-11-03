@@ -1,0 +1,38 @@
+Title: Tag Eins
+----
+Date: 2006-08-08
+----
+Category: Switch2Mac
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+![Hasta la vista, Vista. Webebanner von Apple.](/images/235.png "Hasta la vista, Vista. Webebanner von Apple.")
+
+## Obligatorisches
+
+Beim Auspacken fällt auf: Beim Mac ist alles schnörkellos. Klassisches weißes Gehäuse mit einem ausgestanzten Apfel. Herrlich. Ansonsten im Paket: iRemote, eine Mini-Fernbedienung sowie das Netzteil. Das fühlt sich ebenfalls sehr glat an und macht optisch was her. Besonderes Gimmick: Es verfügt über Aufrollhilfen, das Kabel kann so kompakt verstaut werden.
+
+## It’s all about the OS.
+
+MacOS X.4 ist der Hammer. Auch wenn der „Leopard“ bereits angekündigt ist, der Tiger macht eine sehr gute Figur im Tank Notebook. Die Bedienung ist einfach, „Rechtsklick“ (durch berühren des Touchpads mit zwei Fingern) ist auch schnell eingestellt. Die Bedienung wirkt durchdacht. Etwas ungewohnt ist es noch, dass Programme, die über das – in Windows finale – X-Icon beendet werden im Hintergrund weiterlaufen.
+
+Schnell mal alle Programme durchprobiert, GarageBand, Photo Booth und Konsorten. Der Gedanke „Doch nur ein Spielzeug!“ flitzt mir duch den Kopf.
+
+## Update Time
+
+Naja, da ich kein USB-Modem habe (ja, immer noch habe – MacOS ist halt nicht wirklich Mainstream… und 56k-Modems auch nicht) habe ich mich entschlossen alle Programmempfehlungen und Systemupdates bei meinem Bruder herunterzuladen. Der hat DSL und da gingen auch die knapp 400MB Systemupdates ratzfatz.
+
+Angetan hat’s mir für den Moment Adium, ein Mufu-ICQ-Client. Sehr cooles Interface. Die ungewohnte Installationsprozedur nötigte mir doch einiges ab, brach mehrmals mit einem unbekannten Fehler (-49) ab. Doch schlimmeres passierte nicht, nachdem ich alle Schritte nochmal langsam wiederholte (und verstand was ich tat) landeten auch OpenOffice.org, Firefox, Camino und andere Programme im Applications-Folder.
+
+## Zusammenfassung
+
+Das MacBook überzeugt alleine durch seine Ausmaße und Ausstattung. Es ist um 1/3 kleiner und nur halb so dick wie mein altes Notebook (an dem ich jetzt sitze und diese Zeilen tippe – ich brauche ein Modem!). Dashboard Widgets sind sehr cool und nützlich. Etwas schade sind die wenigen USB-Ports (zwei) und das fehlende Modem (ja, ich komme nicht drüber weg). Auch das Netzwerk mit dem Windows PC wollte nicht so klappen. Da half noch nichtmal die Hilfe. Schlussendlich war es ganz simpel: Im Finder „Gehe zu“ > „Mit Server verbinden…“ (alternativ Apfel+K) und dann ins Textfeld „smb://computername“ eingeben. Fertig.
+
+Übrigens habe ich zweimal Safari beendet als ich ein @ eingeben wollte und stattdessen Apfel+Q gedrückt habe. Am Mac ist die entsprechende Tastenkombination Alt+L.
+
+Ach ja: [Bilder gibt’s sobald ich sie habe bei Flickr](http://www.flickr.com/photos/yatil/sets/72157594230389654/) :)

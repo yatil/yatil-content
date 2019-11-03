@@ -1,0 +1,16 @@
+Title: Global Experience Language for the BBC
+----
+Date: 2011-07-21
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> The [GEL guidelines](http://www.bbc.co.uk/guidelines/gel/) are a reference point for all designers creating BBC websites (future iterations will also incorporate mobile and IPTV recommendations).
+
+A compendium about how the BBC’s website work, a great resource. Probably every web project should have something like that. Don’t forget to see the [style guide in PDF form](http://www.bbc.co.uk/guidelines/gel/downloads/GEL_styleguide.pdf). (via @danoliver)

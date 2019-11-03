@@ -1,0 +1,18 @@
+Title: Lass dich nicht verarschen...
+----
+Date: 2005-01-03
+----
+Category: Gesellschaft
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+...vor allem nicht beim Preis Rabatt!
+
+Der [große rote Riese](http://mediamarkt.de/) warb mit einem Nachlass von 16%... Mehrwertsteuer. Für geübte Dreisatzrechner ist die Strategie hinter dem Angebot schnell zu durchschauen. Die Mehrwertsteuer errechnet sich vom Netto-Betrag: Für ein Produkt, das (ohne MwSt) 100€ kostet fallen 16€ MwSt an. Es kostet also 116€. Bekäme man nun auf ein Produkt zum Preis von 116€ (inkl. MwSt) 16% Rabatt ergibt das eine Einsparung von (116/100\*16=) [18,56 €](http://www.google.de/search?q=116%2F100*16&sourceid=mozilla-search&start=0&start=0&ie=utf-8&oe=utf-8&client=firefox-a&rls=org.mozilla:de-DE:official), was zu einem Verkaufspreis von [97,44 €](http://www.google.de/search?hl=de&client=firefox-a&rls=org.mozilla%3Ade-DE%3Aofficial&q=116-18.56&btnG=Suche) führt.
+
+Ob das den (geschätzten) 800 Personen, die sich heute im Media Markt in Mannheim drängten bewusst war oder nicht, ist mir nicht bekannt. Auch nicht, wie der Media Markt selbst gerechnet hat. Auf jeden Fall habe ich ihn fluchtartig verlassen, da kaufe ich mir meine Druckerpatronen lieber zum Normalpreis.

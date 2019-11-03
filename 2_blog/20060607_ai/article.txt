@@ -1,0 +1,14 @@
+Title: ai
+----
+Date: 2006-06-07
+----
+Category: Gesellschaft
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Eine neue, erschütternde Kampagne von [Amnesty International](http://amnesty.de/): “Es geschieht nicht hier. Aber jetzt.” (via: [svn](http://37signals.com/svn/archives2/amnestys_amazing_ads.php), Bild: [Commercial Archive](http://commercial-archive.com/129885.php))

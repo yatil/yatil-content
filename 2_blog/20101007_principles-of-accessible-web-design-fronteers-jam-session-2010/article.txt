@@ -1,0 +1,14 @@
+Title: Principles of Accessible Web Design @ Fronteers Jam Session 2010
+----
+Date: 2010-10-07
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Principles of Accessible Web Design](http://www.scribd.com/doc/59509264/Principles-of-Accessible-Web-Design "View Principles of Accessible Web Design on Scribd")(function() { var scribd = document.createElement(&#8220;script&#8221;); scribd.type = &#8220;text/javascript&#8221;; scribd.async = true; scribd.src = &#8220;http://www.scribd.com/javascripts/embed_code/inject.js&#8221;; var s = document.getElementsByTagName(&#8220;script&#8221;)<sup id="fnrev775125054e22a900233f9" class="footnote"><a href="#fn775125054e22a900233f9">0; s.parentNode.insertBefore(scribd, s); })();

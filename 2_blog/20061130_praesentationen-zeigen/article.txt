@@ -1,0 +1,68 @@
+Title: Präsentationen zeigen
+----
+Date: 2006-11-30
+----
+Category: Gesellschaft, Studium
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Know Your Stuff
+
+Eine der Grundregeln lautet: Du musst wissen worüber du sprichst. Es reicht nicht dich durch die Sätze zu hangeln, die auf den Folien stehen, im Gegenteil: Deine Präsentation präsentiert das Wissen in einem bestimmten Bereich. Sie muss auch gänzlich ohne Folien funktionieren.
+
+Folien dienen lediglich als visuelle Eselsbrücke, die aber nicht für dich sondern für die Zuhörer gedacht ist. Natürlich ist es nicht verboten auch mal auf die Folie zu schielen, wenn man gerade etwas nicht weiß. Die ganze Präsentation mit dem Rücken zum Publikum zu halten gehört sich nicht.
+
+## Die Zuschauer sind dumm
+
+Stimmt zwar meist nicht, aber die Annahme hilft sich in die Köpfe der Zuhörer hineinzudenken: Stelle dir vor sie kommen aus dem BigBrother-Dorf und hätten noch nie was von dem Thema gehört. Worauf würden sie Wert legen? Natürlich muss man ein gewisses Vorwissen immer mit einplanen, immer bei Adam und Eva anzufangen ist nicht Sinn der Sache. In diesem Falle heißt das, das man sich die Frage stellt, was die gemeinsame Grundlage ist von der man ausgehen kann.
+
+## Persönlichkeit schlägt Technik
+
+Eine Präsentation muss nicht aufwändig gestaltet sein – einige raten davon gänzlich ab. Wichtiger ist, dass der vortragende sympathisch rüberkommt, nicht langweilt und sich nicht in Details verstrickt. Dies ist bei kurzen Präsentationen genauso wichtig wie in langen. Gönne deinen Zuschauern auch mal eine Pause. Zwanzig Sekunden Stille können verdammt erholsam sein, wenn vorher komplexe Sachverhalte erläutert wurden. Da muss man dann einfach sacken lassen.
+
+Wichtig ist dabei auch eine klare, ruhige Aussprache. Nichts stört bei einer Präsentation mehr als Unverständlichkeit. Dialektsprache sollte möglichst vermieden werden.
+
+## Ähhh… und die Folien
+
+Nun für die Folien gibt es ganz einfache Richtlinien:
+
+### Inhalte
+
+- Kurze, prägnante Stichworte
+- Keine Sätze! Das vermeidet den Hang zum vorlesen.
+- Nicht mehr als 7 Stichworte auf einer Folie (besser: nicht mehr als 5)
+- Keine aufwändigen Graphiken oder Diagramme, sofern nicht unbedingt notwendig
+ 
+### Gestaltung
+
+- Keine Farben – zumindest keine reines Rot, Grün oder Blau (schmerzt in den Augen und ist nahezu unlesbar)
+- Kein rein-weißer Hintergrund (lieber beige oder schwarz, verhindert auch auffällige Farbverfälschungen durch die Wandbeschaffenheit)
+- Keine Schriften mit Serifen (Beamer-Auflösung meist zu niedrig um sie korrekt darzustellen)
+- Keine großen weißen Flächen (also nicht oben links drei Punkte und den Rest frei lassen), das gilt auch für Flächen anderer Farbe
+- Tabellen nur benutzen, wenn sie bis zu fünf Spalten und Zeilen groß sind. Alles darüber hinaus ist zu komplex.
+- Effekte sparsam einsetzen und nur, wenn sie die Aussage unterstützen oder veranschaulichen
+- Schon eine außergewöhnliche Schrift (bei mir die [Delicious](http://www.josbuivenga.demon.nl/delicious.html)) kann Spannung in die Präsentation bringen (Comic Sans, Arial, Impact gehören nicht dazu!)
+- In manchen Situationen reicht ein illustrierendes Photo für einen Sachverhalt , den man vorträgt. Die Zuhörenden werden über das Bild als Eselsbrücke immer wieder an die Worte des vortragenden erinnert.
+ 
+## Technik
+
+Die technischen Mittel für Präsentationen sind unbegrenzt. Am weitesten verbreitet ist [Microsofts Powerpoint](http://office.microsoft.com/de-de/powerpoint/FX100487761031.aspx). Die kostenlose Alternative dazu heißt [OpenOffice.org Impress](http://de.openoffice.org/product/impress.html). Beide Programme sind für Windows und MacOS verfügbar, OpenOffice.org auch für Linux.
+
+Unter MacOS gibt es allerdings noch eine wesentlich bessere Alternative zu beidem: [Apple Keynote 3](http://www.apple.com/de/iwork/keynote/) kostet zwar 79€ (Zusammen mit [Pages](http://www.apple.com/de/iwork/pages/) im [iWork-Paket](http://www.apple.com/de/iwork/)) ist jedoch wesentlich besser an das Betriebssystem angepasst. Noch nie hat das Erstellen von Präsentationen so viel Spaß gemacht.
+
+Für hartgesottene HTML-Coder gibt es auch noch [S5](http://yatil.de/s5/). Das ist eine Anwendung welche komplett im Browser läuft und dadurch plattformunabhängig ist.
+
+## Weitere Anmerkungen
+
+Überhaupt ist es wichtig sich mit seinen Gerätschaften auseinander zu setzen. Der eigene Laptop macht die Präsentation gleich doppelt so gut, man hat das sicher Gefühl alles unter der eigenen Kontrolle zu haben. Eine Fernbedienung (wie sie Macs beiliegt) ist nicht unbedingt nötig (aber „nice to have“). Von der Verwendung von Laserpointern würde ich abraten. Zum einen muss man sich dabei umdrehen, zum anderen sind Folien, auf denen man etwas zeigen muss meist falsch aufgebaut.
+
+Überhaupt hilft es, wenn man sich stark auf die Präsentationen vorbereitet, sie zwei-, vielleicht dreimal durchexerziert um den einen oder anderen Fehler zu finden. Immer unter der Prämisse „Kann ich mir selbst folgen?“. Manchmal ist es sinnvoll unbedarften die Präsentation vorzuführen, die stellen meist die besten Fragen.
+
+Und üben. Übung ist ein zentrales Element des Vortragens. Gerade, wenn du aufgeregt bist und dich nicht traust, dann geh hinaus mit einer guten Präsentation, die auch viel Freirum zum Reden lässt und trage vor. Nutze jede Gelegenheit, die sich bietet. Präsentationen halten kann jeder. Und jeder kann es gut. Niemand blamiert sich, nur weil ein Fehler in der Präsentation vorliegt.
+
+Das alles sind grobe Richtlinien. In Einzelfällen darf und soll davon abgewichen werden.

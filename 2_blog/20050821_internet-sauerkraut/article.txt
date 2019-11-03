@@ -1,0 +1,18 @@
+Title: Internet-Sauerkraut
+----
+Date: 2005-08-21
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Es gibt nun in Deutschland eine neue Gruppierung pro Webstandards, die sich [Webkrauts](http://webkrauts.de/) nennt. Dieser Name ist etwas was mir sauer aufstößt: [Krauts](http://de.wikipedia.org/wiki/Krauts) ist ein Schimpfwort für die Deutschen, hat also auf jeden Fall eine negative Konnotation.
+
+Ansonsten ist die Akton natürlich klasse und durchaus positiv zu bewerten.
+
+> Das Bewußtsein für moderne, standardkonforme Webseiten ist in Deutschland geweckt. Immer mehr Webseiten verzichten auf Layouttabellen und entwickeln sich in die richtige Richtung. Aber es gibt noch viel zu tun. Noch hat nicht jeden Webentwickler und jeden Grafiker die Kunde von den Webstandards erreicht. Viele Engagierte mühen sich ab, das Wissen über standardkonformes Webdesign in Foren, Weblogs und Communities zu verbreiten. Aber möglicherweise fehlt es den Einzelnen an Stimme, an Durchschlagskraft. Quelle: [Webkrauts-Seite](http://webkrauts.de/)

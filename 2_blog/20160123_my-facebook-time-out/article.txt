@@ -1,0 +1,14 @@
+Title: My Facebook Time-Out
+----
+Date: 2016-01-23
+----
+Category: Personal, Thoughts
+----
+Summary: 
+----
+Tags: facebook, social media, time-out
+----
+Image: 
+----
+Text:
+Over the past years my social web interaction shifted from Twitter and this very blog more and more to Facebook. I have so many contacts and interactions there that it feels very overwhelming and occupying a good chunk of my free time that I would love to spend otherwise: Hiking through the sun, having random thoughts and ideas, read long-form articles or play video games. I was under the impression that engaging on Facebook – and to a lesser extend on Twitter – would allow me to relax, to have social interactions and would be worth the time. I have realized that this became less and less the case. Either things are fairly irrelevant for me, or there is in-depth political discussion. This made Facebook feel like a burden for me now, and the only way to reevaluate my usage is to stop using it almost completely. While I had a pinned tab with Facebook open at all time, as well as the mobile app installed, I have now closed that tab and removed the app from my iPhone. I have disabled all notifications. This is day three and I only had brief looks into Facebook on the mobile web version to check for important notifications. I also allow myself to syndicate content to Facebook – like this blog post and via an iOS extension called [Linky](https://pragmaticcode.com/linky) (which doesn’t currently support sharing to WordPress, e.g. this blog _hint hint_) but also using custom [Workflow](https://www.workflow.is)s. Although my brain doesn’t yet know what to do with those free cycles, it _feels_ like a change for the better. I want to continue at least for another week or two. Then I probably need to make significant changes to the websites and people I follow to reduce the load. The [experiments of CGP Grey](http://www.cgpgrey.com/blog/dialing-down) and Myke Hurley inspired me for this time-out. They outline their methods of [“Dialing Down”](https://www.relay.fm/cortex/17) in an Episode of their (much recommended) [Cortex podcast](https://www.relay.fm/cortex/17). (Image by [Jonathan Bean via Unsplash](https://unsplash.com/photos/ywnnwzcdR5o).)

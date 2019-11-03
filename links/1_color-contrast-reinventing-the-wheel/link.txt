@@ -1,0 +1,13 @@
+Title: Color Contrast: Fixing the Wheel
+
+----
+
+Date: 2018-10-18 16:38
+
+----
+
+Url: https://cloudfour.com/thinks/color-contrast-fixing-the-wheel/
+
+----
+
+Quote: More recently than I’d like to admit, our team began incorporating color contrast checks into our process. This fundamentally changed the way we approach color in our design systems.

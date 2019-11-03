@@ -1,0 +1,14 @@
+Title: How to tackle the hot new shit in an accessible way (btPlay!)
+----
+Date: 2012-04-30
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Slides](http://yatil.net/talks/2012-btplay/)I held a similar talk to the one at FrontendUnited at “beyond tellerrand — play!” in Cologne the same week. It went quite well and [@marcthiele](http://twitter.com/marcthiele) was an awesome host. Learned a lot about Flash techniques and general playing with technologies at that conference, so a really good view over the “tellerrand” for me.

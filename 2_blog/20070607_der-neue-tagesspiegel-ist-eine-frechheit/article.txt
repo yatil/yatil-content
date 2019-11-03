@@ -1,0 +1,47 @@
+Title: Der neue Tagesspiegel ist eine Frechheit
+----
+Date: 2007-06-07
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Welche Agentur hat denn den [neuen Tagesspiegel](http://www.tagesspiegel.de/) verbrochen? Was war das Konzept? Über 1200 Pixel breit muss das Fenster sein um keinen horizontalen Scollbalken zu haben[1](#fn79017126746d15f37e8452). Die doppelten Istgleich-Linien machen das Design auch nicht besser. Das Design ist unruhig, nicht aufeinander abgestimmt. Ein Raster ist nicht zu erkennen. Die Schrift ist zu klein und läuft zumindest im oberen Teil zu klein, wenn es dann zum Hauptteaser geht ist der unheimlich Groß im Verhältnis. Dazu gibt es größere Löcher im Layout, wo Inhalte und Layout überhaupt nicht aufeinander abgestimmt sind. Wie man auf die Idee kommt Inhalte in 9 100 Pixel Breite zu pressen kann ich mir auch nicht erklären. Unten gibt es dann auch noch sechs etwa 160 Pixel breite Spalten. Und das sind nur die Sachen, die man auf anhieb sieht. Nicht weniger als 626 Divs werden auf der Startseite benutzt. Der Validator zeigt 217 HTML-Fehler. Von Alt-Attributen hat man noch nichts gehört. Die Ladezeiten sind heftig. Laut [WebSiteOptimization.com](http://www.websiteoptimization.com/services/analyze/wso.php) ist die Seite über ein halbes Megabyte groß, über zwei Minuten Ladezeit auf einer 56k-Modemverbindung. Und 149 Serverzugriffe für die Startseite sind eine große Belastung für den Server. Übrigens: Die Teaser oben gehen nur mit JavaScript, genauso wie viele andere Inhalte. Das sind Methoden von 1997. Es gibt folgende, völlig hirnrissige, Codepassagen:
+
+```
+<span class="ps_rs_versteckt"
+id="ar_unterzeile_2316336">bild</span>
+<span class="ps_rs_versteckt"
+id="ar_stichzeile_2316336"></span>
+<span class="ps_rs_versteckt"
+id="thumb_2316336"><img border="0"
+src="/storage/pic/nomc/skyboy/144847_2_oceans13_2_outnow_195.png"
+width="195" height="117" alt="" /></span>
+<span class="ps_rs_versteckt" id="li_link_2316336"></span>
+<span class="ps_rs_versteckt" id="link_2316336">href="#"
+onclick="var los
+=multimedia('/medien/cme1,139662');;return(false);"
+onmouseover="return(true)"</span>
+<span class="ps_rs_versteckt" id="ar_title_2316336">Oceans
+13</span>
+<span class="ps_rs_versteckt" id="ar_merker_2316336"><img
+src="/storage/tog/artpin/2316336/status.gif?46672a8dead4f"
+onclick="this.src='/storage/tog/artpin/2316336/toggle.gif?'+Math.random()"></span>
+<span class="ps_rs_versteckt" id="ar_short_2316336"></span>
+<span class="ps_rs_versteckt" id="rurl_2316336"></span>
+<span class="ps_rs_versteckt" id="rname_2316336"></span>
+<script type="text/javascript">
+var arid = 2316336;
+inc = skybox(2316336,inc);
+</script>
+
+```
+
+Aus diesen Blöcken werden dann per JavaScript die Teaser erzeugt. Das ist nicht nur Umständlich, es vermischt auch Markup mit Inhalten. Das ist wohl der Worst Case, das ist schlimmer als Layout-Tabellen (die es natürlich auch noch gibt). Ich kann nicht verstehen, dass es heutzutage noch professionell erstellte Webseiten gibt, die a) visuell kaum durchdacht, b) technisch schlecht und c) unter vollkommener Missachtung anerkannter Webdesign-Paradigmen erstellt sind. Zudem erfüllt die Seite nicht einmal grundlegende Anforderungen an Zugänglichkeit wie vergrößerbare Schrift oder Trennung von Inhalt und Layout. Und von JavaScript abhängig ist. Das ist eine klare 6, eher eine 8, das ist ein Armutszeugnis für Webdesign in Deutschland. Und wenn [Mercedes Bunz dann in ihrem Text zum neuen Layout](http://www.tagesspiegel.de/magazin/medien/Medien;art290,2315553) schreibt: > Mit dem Auftritt reagieren wir auf die Zeichen der Zeit: Allzu oft verliert man in der Fülle der heutigen Informationen den Überblick. Deshalb zeigt sich der Tagesspiegel im Internet für Sie in einem neuen Gewand.
+
+Dann ist Hohn und Spott einfach angebracht, wie kann man so an der Internetrealität vorbeileben? Es tut mir leid, ich kann das weder verstehen, noch tolerieren. 1 Anscheinend gab es zum Zeitpunkt als der obige Screenshot entstand ein zusätzliches Banner am rechten Rand der Seite, welches jetzt horizontal über dem eigentlichen Kopf der Seite liegt. Die Seite ist daher auch bei 1024er-Auflösung noch komplett zu sehen. Glückwunsch.

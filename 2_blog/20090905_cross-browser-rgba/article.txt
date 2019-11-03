@@ -1,0 +1,43 @@
+Title: Cross-Browser rgba()
+----
+Date: 2009-09-05
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Im Juli nahm ich am [CSS Summit](http://www.environmentsforhumans.com/css_summit/) teil, einer Online-Konferenz zum spezifischen Thema CSS. Ich würde behaupten mich mit CSS gut auszukennen, doch unter anderem diesen einen kleinen Trick konnte ich aus dem Vortrag von [Dave McFarland](http://www.sawmac.com/) mitnehmen: Cross-Browser rgba(). Rgba() ist eine Methode um Alphatransparenz mit Farben zu benutzen, im Gegensatz zu Opacity kann man so halbtransparenten Text auf einem Hintergrundbild machen oder halbtransparente Hintergrundfarben. Nachteil der Technik: Sie ist nur für Firefox (ab Version 3), Safari und Opera 10 verfügbar. Andere Browser tun einfach nichts, wenn sie auf diese unbekannte Angabe stoßen. Beispiel:
+
+```
+background-color: rgba(255,255,255,.3);
+
+```
+
+Diese Angabe zeigt in den oben genannten Browsern eine halbtransparenten, weißen Hintergrund an. Andere Browser zeigen nichts an, also „Volltransparenz“, wenn man so will. Man kann sich dadurch behelfen, dass man ihnen vorher eine Hintergrundfarbe ohne Transparenz angibt: ```
+background-color: rgb(255,255,255);
+background-color: rgba(255,255,255,.3);
+
+```
+
+Alle CSS2.1-fähigen Browser zeigen nun einen rein weißen Hintergrund an, wenn sie diese beiden Regeln sehen, da sie die zweite „einfach“ ignorieren. Diese Art von (nicht-)transparentem Hintergrund funktioniert auch im IE8, im Firefox 2 und Opera. Doch für IEs gibt es eine Möglichkeit ebenfalls transparente Farben zu nutzen (obwohl es natürlich nicht halb so schön ist wie rgba()). Im IE nutzen wir die proprietären Filter um den Effekt zu erzeugen. `DXImageTransform.Microsoft.gradient` kann nämlich nicht nur Farbverläufe zeichnen, sondern auch halbtransparente Farbverläufe. Wenn sich die Verlaufsfarben dabei nicht verändern bedeutet das faktisch eine halbtransparente Fläche. Indem wir unserem Element nun folgenden Code mitgeben bekommt es in IEs<8 eine transparente Fläche: ```
+filter:progid:DXImageTransform.Microsoft.gradient(
+  startColorstr=#4CFFFFFF,endColorstr=#4CFFFFFF);
+
+```
+
+Erklärungsbedarf benötigen sicher die startColorstr und endColorstr-Werte. #4CFFFFFF ist ein Hex-Wert, der sich aus zwei Bestandteilen zusammensetzt: #4C als Grad der Transparenz (#4C = hex(.3\*255)) und #FFFFFF für die Farbe. Das Problem im IE8, da er die CSS-Regeln beachtet hat er ja den weißen Hintergrund für die älteren Browsermodelle. Das müssen wir ihm noch abgewöhnen. `background-color: transparent9;` wird nur vom IE8 verstanden (fragt nicht warum, ich hab’s [bei Dirk](http://blog.ginader.de/archives/2009/02/01/CSS-Voodoo-Die-dunkle-Kunst-der-CSS-Hacks.php) gefunden). Noch einmal das gesamte CSS auf einen Blick: ```
+background-color: rgb(255,255,255);
+background-color: rgba(255,255,255,.3);
+background-color: transparent9;
+filter:progid:DXImageTransform.Microsoft.gradient(
+  startColorstr=#4CFFFFFF,endColorstr=#4CFFFFFF);
+zoom:1;
+
+```
+
+Also: Wir setzen eine Standard-Hintergrundfarbe, überschreiben sie für Moderne Browser mit der halbtransparenten Variante, entfernen sie aber für den IE8 ganz. Dann benutzen wir den IE-Filter um einen halbtransparenten Gradient ohne Farbwechsel zu erzeugen. Und zum Schluss geben wir dem Element noch hasLayout, das braucht der IE6 nämlich um den den Trick überhaupt darzustellen (und schadet ansonsten niemandem). [Beispiel- und Testseite](http://yatil.de/beispiele/rgba/)(Wer Transparenz auch für FF2 und OP<10 benötigt sollte das mit einem halbtransparentes PNG bewerkstelligen oder alternativ [Dirk Jesses Lösung](http://www.highresolution.info/weblog/entry/transparente_hintergruende_mit_css/) benutzen, die aber ein zusätzliches, rein zu Präsentationszwecken eingefügtes `div` benutzt – und dessen Beitrag mich zu diesem Beitrag inspiriert hat.)

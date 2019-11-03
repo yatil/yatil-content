@@ -1,0 +1,16 @@
+Title: Jeremy Keith on publishing on your own platform
+----
+Date: 2013-12-29
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> I’m going to continue to publish here on my own website, journal, blog, or whatever you want to call it. It’s still possible that I might lose everything but I’d rather take the responsibility for that, rather than placing my trust in ”the cloud” someone else’s server. I’m owning my own words.
+
+[Really good article](http://adactio.com/journal/6620/) on why we should host our content ourselves and why it is so hard to understand for younger people. This is a must-read!

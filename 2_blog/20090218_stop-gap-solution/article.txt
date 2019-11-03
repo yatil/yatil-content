@@ -1,0 +1,18 @@
+Title: CSS layouts are stop gap solutions
+----
+Date: 2009-02-18
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+CSS expert [Eric Meyer](http://meyerweb.com/) is releasing [a series of articles](http://meyerweb.com/eric/thoughts/2009/02/11/feedback-on-wasp-community-css3-feedback-2008/) providing feedback on CSS3 for the [Web Standards Project](http://www.webstandards.org/). Every article is as you’d expect a good and insightful read. In the latest part of the series Meyer writes about [the need of a layout sys­tem in CSS](http://meyerweb.com/eric/thoughts/2009/02/17/wanted-layout-system/):
+
+> “How do we get those abilities in a form that im­ple­men­tors will, y’know, im­ple­ment? I don’t know. I don’t care. We just need it, and have need­ed it for a good decade or so. With­out it, CSS is a styling lang­uage but not a lay­out lang­uage. We’ve bent it into being some­thing close to a lay­out lang­uage, which is nice but not really ideal.”
+
+Un­surprisingly Meyer is right. We are using stop gap solutions for layout since the beginning of the web. _Tables for layout_ — stop gap solution. _CSS float_ — stop gap solution. _CSS position­ing_ — stop gap solution. _CSS tables_ as well. All CSS solutions work great for certain tasks. Floats are a great con­cept, position­ing and even CSS tables (beat me!). But they don’t fit together in a usable way. We are tinkering those bits and pieces together, struggling be­cause it’s com­pli­cated as hell as those pieces where never deve­loped for the use case of com­plex lay­outs. CSS layouts are the best solution out there, _but_ they are far from perfect. We need a new approach to layout on the web. An easy to use solution with maximum flexibility has to be de­ve­loped, inside or outside the W3C, in­side or outside CSS, it does­n’t matter to me. We are waiting far, far too long for a good solution. And we don’t need it on a piece of paper or in the mind of some de­ve­loper. We need it im­ple­men­ted across browsers as fast as possible and as good as possible. It can’t be more difficult then supporting all those half-arsed solutions that are out there.

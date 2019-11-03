@@ -1,0 +1,56 @@
+Title: Kolophon
+----
+Date: 2005-06-13
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Was ist das?
+
+![](/kolophonimg/1.png) Ein Kolophon ist eine kleine Zusammenfassung über die Entstehungsgeschichte einer Website. Dabei werden historische, gestalterische und technische Daten angesprochen.
+
+## Wer oder was steht hinter [Erics Weblog](http://yatil.de) ?
+
+![](/kolophonimg/2.png) Mein Name ist Eric Eggert, ich bin 21 Jahre alt und betreue/gestalte/besitze diese Webseite nun seit dem Jahr 2001.
+
+![](/kolophonimg/3.png) Bisher war ich Schüler und was die Zukunft bringt weiß ich noch nicht so genau, aber ich sehe am Horizont ein Studium in Informatik oder Mediendesign aufblitzen.
+
+## Für was steht “yatil”?
+
+![](/kolophonimg/4.png) Das werde ich oft gefragt und die Erklärung ist einfach: Die Frage “Gibt es…?” lautet auf französisch “Y-a-t-il …?”. Aus Kuriosität (Wie bitte kann man drei Bindestriche in einem Wort verwenden???) und wegen des Klanges habe ich diesen Namen ausgewählt und benutze ihn seither als Spitznamen und für diese Domain. Tatsächlich wird er immernoch relativ französisch ausgesprochen (\_jatil\_), nicht etwa englisch (\_tschätil\_).
+
+## Historisches
+
+![](/kolophonimg/5.png) Im Jahr 2000 (oder schon früher?) hatte ich mir die Domain ericeggert.com über einen Free-Domain-Anbieter (soetwas gab es damals noch) registriert und lies von dort auf einen Free-Webspace-Anbieter (ja, gab es auch noch) umleiten. Vorher lief die Website noch über die Pseudodomain eggi.istcool.de. Das alles lief noch unter dem Namen EggWare… naja.
+
+![](/kolophonimg/6.png) ![](/kolophonimg/7.png) Im Januar 2001 entschloss ich mich dann eine neue Ära in meiner persönlichen Webgeschichte aufzustoßen. Mit meiner Webseite, die sich hauptsächlich um das Programmieren mit [Profan²](http://profan2.de/) und um die damit programmierten Programme drehte zog ich zu einem großen Webspaceanbieter: Strato. Neu war, dass ich nun für meinen Webspace und für meine Domain zahlen musste, und das nicht zu knapp: 9,95 DM/Monat (5,09 €) und 39 DM (19,94 €) Einrichtungsgebühr. Dazu noch Versandkosten von 11,80 DM (6,03 €) für die Software. So war die erste Rechnung (inkl. 5 Monaten) mit 110,50 DM (56,50 €) nicht eben niedrig.
+
+![](/kolophonimg/8.png) ![](/kolophonimg/9.png) Dafür hatte ich aber endlich meine erste eigene Domain: innotic.de war das Label unter dem ich damals Software entwickelte, die manchmal sogar gut ankam. yatil.de war eine Weiterleitung darauf und sollte noch sehr vielseitig eingesetzt werden, im Gegensatz zu thatsucks.de, das nie eine eigenständige Seite gesehen hat.
+
+![](/kolophonimg/10.png) ![](/kolophonimg/11.png) ![](/kolophonimg/12.png) Nach drei Jahren bei Strato war mir einfaches Webhosting nicht mehr genug, ich wechselte im März 2003 zu “Global Interactive” oder “Glovi”, wie der Anbieter sich auch nannte. Die Kosten bei diesem Anbieter waren **sehr** günstig. Für knapp 2,50 €/Monat war man dabei und hatte alles, was sich ein Mensch nur wünschen kann. Dort wurde das Weblog auch erstmals dynamisch, dank PHP und MySQL. Sunlog und Nucleus waren die Systeme meiner Wahl, bis ich auf Textpattern stoßen sollte ([mehr dazu weiter unten](#technisches)).
+
+![](/kolophonimg/13.png) ![](/kolophonimg/14.png) ![](/kolophonimg/15.png) Dummerweise ging dieser Anbieter Pleite und ich musste mir im Mai 2004 einen neuen Anbieter suchen und stieß auf all-inkl.com, einen Anbieter, der ein gutes Preis-/Leistungs-Verhältnis bietet (4,95 €/Monat + 15 € Einrichtung). Leider ist das Administrationssystem nicht wirklich komfortabel. Aber man kann ja nicht alles haben.
+
+![](/kolophonimg/16.png) Die Seite unterlag einem stetigen Wandel, von der Programmierwebseite zum Profanmagazin und über eine Testseite zum Weblog, erst statisch und später dynamisch. Einige Miniscreenshots finden Sie rechts.
+
+## Design
+
+Das Design ist ein klassisches 1-Spaltenlayout. Weshalb ich ein solch simples Layout benutze? Die Inhalte sollen im Vordergrund stehen, dazu kommt noch, dass die meisten Besucher über Suchmaschinen oder andere Weblogs auf diese Seite kommen. Ich denke, diese sind nur auf die Inhalte scharf, selten auf eine lange Liste von Links, eine Blogroll oder ein Überangebot an Navigation.
+
+Deshalb arbeite ich vermehrt mit Sektionen und Kategorien: Wenn ein Artikel interessant ist kann der Besucher seine Erkundungstour darüber fortsetzen – oder es lassen.
+
+Als Schriftart wird durchgehend Georgia eingesetzt, alternativ Times New Roman oder Times.
+
+## Technisches
+
+Diese Webseite ist aus validem XHTML 1.0 und CSS aufgebaut. Dabei wurde auf eine möglichst einfache Struktur der Dokumente geachtet. So werden z.B. (mit Ausnahme der Startseite) keine `div`-Elemente benutzt sondern alle Elemente stehen direkt im `body`-Element.
+
+Die Kommentare sind Definitionslisten `dl`,da dies eine optimale semantische Bedeutung ergibt.
+
+Als Weblog-Engine bzw. CMS wird hier [Textpattern](http://textpattern.com) eingesetzt, und zwar in Version 1RC3.

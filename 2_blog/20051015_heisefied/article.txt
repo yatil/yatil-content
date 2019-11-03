@@ -1,0 +1,20 @@
+Title: „Heisefied“
+----
+Date: 2005-10-15
+----
+Category: News, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Erstaunt war ich, als ich heute Morgen in meinen Refferern die Domain [heise.de](http://heise.de/) sah. Ein [klick auf den Link](http://www.heise.de/ct/05/22/urls/) brachte – ziemlich weit unten auf der Seite (Seiten 218-219) – Gewissheit:
+
+Die [S5-Seite](http://yatil.de/s5/) wurde von der Heise-Redaktion wohl in ihrem Artikel “S5 statt PowerPoint” in der c’t erwähnt.
+
+Leider kann ich mich momentan nicht um die Seite kümmern, weshalb die aktuellste Version 1.1 noch nicht in den Referenzen vor kommt. Das wird aber natürlich so schnell wie möglich behoben – versprochen.
+
+Auf das Rezensionsexemplar freue ich mich bereits :)

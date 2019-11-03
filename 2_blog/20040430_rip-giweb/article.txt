@@ -1,0 +1,16 @@
+Title: RIP GiWeb
+----
+Date: 2004-04-30
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Der Provider [GiWeb](http://www.giweb.de/) oder [Global Interactive](http://www.giweb.de/) stellt seine geschäftlichen Tätigkeiten bis zum 15.04.04 ein. Falls ihr jetzt denkt: »Ist mir doch egal!« habt ihr pech gehabt, da unter anderem auch diese Website auf deren Webspace liegt. Jetzt heißt es wieder Providersuche… Wie ich es hasse!
+
+Nachtrag (21:43): Benutzt bitte die E-Mail-Adresse [EricEggert@web.de](mailto:EricEggert@web.de) für wichtige E-Mails.

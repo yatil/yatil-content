@@ -1,0 +1,90 @@
+Title: Rachel Andrew – But what about old browsers?!? #fronteers15
+----
+Date: 2015-10-09
+----
+Category: Event
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- Lots of old techniques out there have been outdated.
+- Layout methods have not.
+- Still using the same techniques as we did years ago.
+- Increasingly we’re using frameworks.
+- Add markup.
+- CSS processors.
+- Hopes for layout: 
+  - Flexbox
+  - CSS Grid Layout
+  - Box alignment module
+- Give us source oder separation from visual layout
+- precise alignment control
+- relationships to each other
+- Remember Faux Columns? (2004)
+- people jumped at display:table; give us a relationship between columns
+- Separation of content and markup
+- Separation of source and display
+- A bit of a failed promise
+- Need compromises, usually
+- Flexbox and Grid Layout helps to display items in every order
+- Default positioning
+- grid-auto-flow helps to fill gaps maisonette.js style
+- Kind of scary, especially if you think about accessibility. 
+  - Got a lot to learn
+  - Good = Creating the best source with the best markup and then displaying it best for the breakpoint
+  - Bad = So, I don’t need to care about the source order
+  - Terrible = Flattening out the source order and do everything using CSS grid and flexbox
+- Relationship of the items but independent from source order
+- Control of alignment
+- Box alignment module level 3 
+  - flexbox alignment to use for other specs
+  - VERTICALLY CENTER ALL THE THINGS!
+  - Distributed alignment 
+      - justify-content
+      - align-items 
+            - stretch
+            - center
+      - justify-self
+      - align-self
+  - In CSS grid layout 
+      - Chrome canary
+      - align-items center in a css grid with repeated columns
+      - instead of stretch
+- Responsive by default 
+  - Flexbox: 
+      - flex-grow
+      - flex-shrink
+      - flex-basis
+      - flex shorthand property recommended
+      - flex: 1 1 200px means grow or shrink as you see fit but the optimal width is 200px
+      - <http://madebymike.com.au/demos/flexbox-tester/>
+  - CSS Grid: 
+      - fr (fraction) unit – similar to flex grow 
+            - grid-template-columns: 1fr, 1fr, 1fr -> same width
+            - grid-template-columns: 600px, 1fr, 1fr -> remaining space is shared between column 2 & 3
+      - grid-template-areas -> ASCI Art building of layouts
+- But what about old browsers?! I can’t use that stuff! 
+  - We must to cater for the web of today, but we need to look forward and use progressive enhancement.
+  - No layout is not an option.
+  - Need to think about feature support differently in a world of evergreen browsers.
+  - Business case: How long will the website that you build right now be active, the site will be updated when users upgrade.
+  - CSS Grid Layout 
+      - Early implementation in IE10,11 & edge
+      - Current spec in Chrome, Opera (experimental flag)
+      - Prefixed in Webkit Nightlies
+      - Partial in Firefox Nightly
+      - In near future
+      - High priority on edge
+  - This is not all or nothing. You can begin with small UI elements, use the modern methods for finessing
+  - Flexbox in the real world: [Zoe M. Gillenwater Enhancing Responsiveness With Flexbox](https://www.youtube.com/watch?v=_98SE8WUvLk)
+  - Check stats and compare feature support, for example that is supported by gaug.es
+  - Separate mobile and desktop stats – mobile might be more advanced
+  - Use such tools for prototyping – you learn how they work, and you immediately can work with it while it is developed
+  - You can give feedback to the Working group and it has an effect and they get implemented.
+  - It is too late to comment when the things are out in browsers. If you want to be involved, do it now.
+  - [gridbyexample.com](http://gridbyexample.com)
+  - Slides & more information: <https://rachelandrew.co.uk/presentations/css-grid>

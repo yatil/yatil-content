@@ -1,0 +1,20 @@
+Title: Präsentationen mit W3C-Standards II
+----
+Date: 2004-09-25
+----
+Category: Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nachdem ich ja heute morgen schonmal was zu dem Thema geschrieben hatte, muss ich da nochmal einhaken.
+
+Ich habe eine [neue Version](http://www.yatil.de/slideshow/test.html) entwickelt, mit der man einzelne Folien direkt ansteuern kann.
+
+Zum Beispiel Folie [Nummer 5, The Advantages](http://www.yatil.de/slideshow/test.html#s5).
+
+Im Moment gibt es nur noch ein Problem mit den Vor-/Zurück-Pfeilen. Mal schauen, ob/wie ich das noch in den Griff bekomme…

@@ -1,0 +1,40 @@
+Title: Geld verdienen mit dem eigenen Blog, geht das?
+----
+Date: 2007-02-27
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zuersteinmal: Reich werden kann man mit einem Blog i.d.R. nicht, auch nicht mit mehreren. Aber man kann sich einen kleinen Nebenverdienst sichern.
+
+Ich habe mich dazu entschlossen keine Zahlen zu nennen, weil diese sich sowieso von Blog zu blog unterscheiden. Auch habe ich keine konsequente Kundengewinnung vorangetrieben sondern habe mich darauf verlassen, dass die Werbetreibenden mich finden. Alle Diagramme und Annahmen beziehen sich auf die Kombination von [yatil.de](http://yatil.de) und dem [Snookerblog](http://snookerblog.de).
+
+Und nur um alle Spekulationen zu beruhigen: Die Einnahmen pro Stunde übersteigen 5€ nicht. (Und nein, ich schreibe nicht wieviele Stunden im Monat ich annehme für die Seiten aufzubringen. Wahrscheinlich ist es auch eine konservative Schätzung.)
+
+Generell verwende ich drei verschiedene Arten von Werbung. Das erste sind Linkblöcke, die hier auf yatil.de angezeigt werden. Diese stellen quasi ein Fundament an Einnahmen dar, auf das ich mich verlassen kann. Diese Linkblöcke sind „selbstvermarktet“, das heißt es gibt keinen Mittelsmann, der daran verdient.
+
+Dazu kommen [Google-Werbeeinblendungen.](https://www.google.com/adsense/) Diese sind die unzuverlässigste Werbeart. Statt einer fixen Summe bekommt man Klicks bezahlt, die Besucher auf diese Werbeeinblendungen machen.
+
+Dritte Einnahmequelle sind [Text-Link-Ads](http://www.text-link-ads.com/). Die gleichnamige Firma vermittelt Textwerbung und behält dafür etwa die Hälfte der Gesamteinnahmen. Diese Einnahmen sind auch nicht immer sicher, jedoch sehr hoch. Dies resultiert aus der Popularität des Werbenetzwerkes.
+
+## Arbeit, Arbeit und nochmals Arbeit
+
+Man kann noch so ein tolles Blog haben, wenn sich nichts tut bleiben die Besucher weg und wenn keine Besucher da sind, dann gibt es keine Werbeeinnahmen. Und dies nicht nur bei Googles Adsense sondern auch bei TLA, wo sich die Popularität anhand des [Alexa-Rankings](http://alexa.com/) misst. Je mehr Besucher man hat, desto mehr Einnahmen kann man per Werbung erzielen lautet die Binsenweisheit.
+
+Also geht es darum Leser zu behalten und diese auch dann zuverlässig auf das Blog zu lotsen. Beispielsweise indem man die RSS-Newsfeed-Texte einkürzt (ja, das ist böse!). Auch Gewinnspiele oder andere Anreize können für einen kurzfristigen Besucheransturm sorgen, der vielleicht ein paar Stammleser zurück lassen wird. Dazu ist es jedoch notwendig immer neue Inhalte zu produzieren, denn niemand besucht eine Webseite auf der sich nichts tut (Ja, der Punkt ist redundant, aber er ist mir auch sehr wichtig).
+
+Meist wird nicht an jedem Tag ein neuer Beitrag erwartet, wenn man aber dann mal drei oder vier Wochen nichts von sich hören lässt kann das schon eine signifikante Auswirkungen auf die Besucherzahlen haben.
+
+ ![Etwa 1/4 nehmen die Linkblöcke ein. Über die Hälfte TLAs und der Rest ist Google.](http://yatil.de/images/245.jpg)Für Google Adsense ist es übrigens das Beste viele Suchmaschinen-Besucher zu haben. Diese lesen sich den Inhalt der Seite (eventuell) durch, entdecken in der Werbung eine interessante Weiterleitung und klicken darauf. Dauerbesucher werden das nicht tun, was auch ihr gutes Recht ist, deshalb ist es auch die Pflicht diese zu halten. Alles andere Funktioniert höchstens bei aktuellen Themen, oder welchen, die ihre Gültigkeit über eine lange Zeit behalten.
+
+Bei mir macht Google Adsense nicht einmal ein Viertel der Einnahmen aus. Der Löwenanteil bringen die TLAs. Diese sind Momentan noch relativ sicher und konsistent bei den Einnahmen. Dies könnte sich allerdings auch genauso schnell wieder ändern.
+
+Dass es lange dauern kann, bis man wirkliche Einnahmen erzielt zeigt das letzte Schaubild. Bis Mitte 2006 kamen per Adsense immer nur Beträge im niedrigen 1-stelligen-Dollarbereich an. Es war – nach zwei Jahren – sogar so niederschmetternd, dass ich mir sagte: Nach der ersten Auszahlung hörst du auf. Doch dann stiegen die Einnahmen plötzlich derart an, dass sich die Schaltung weiterhin lohnte.
+
+ ![Webeeinnahmen: Entwicklung von Juni 2004 bis Februar 2007](http://yatil.de/images/246.png)

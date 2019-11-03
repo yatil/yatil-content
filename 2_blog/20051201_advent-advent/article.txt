@@ -1,0 +1,20 @@
+Title: Advent, Advent...
+----
+Date: 2005-12-01
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+...ein [Webstandardsadventskalendertürchen](http://www.webkrauts.de/adventskalender) ist offen :)
+
+Im ersten Beitrag geht es um das Thema Webstandards allgemein. [Wozu Webstandards?](http://webkrauts.de/adventskalender/1/) fragt der erste Artikel und gibt gleich die Antworten:
+
+> Am Anfang stand die Idee, Informationen auf der ganzen Welt für Jedermann zugänglich zu machen. Es wurden Grundregeln entwickelt, nach denen Endgeräte die aufbereiteten Texte interpretieren sollten. Es wurden also Standards gesetzt. Standards sind die Regelwerke, auf denen die Entwicklung des Web fußt: HTML, CSS, ECMA-Script (Javascript), XML. \[...\] Modernes Webdesign mit Webstandards wendet sich von den traditionellen Layouttabellen ab und trennt Struktur und Layout. So war es bei der Erschaffung von HTML gedacht. HTML gibt dem Inhalt eine Struktur. Die Tags zeichnen Textteile danach aus, was sie **sind**, nicht wie sie aussehen sollen. \[...\] Die Trennung von Inhalt und Layout wird gerne synonym für Webstandards genommen. [Webstandardadventskalendertürchen Nummer 1](http://webkrauts.de/adventskalender/1/) ([Jens Grochtdreis](http://blog.grochtdreis.de/))
+
+Meine Artikel erscheinen am zwölften und zwanzigsten Dezember.

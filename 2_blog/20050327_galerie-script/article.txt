@@ -1,0 +1,20 @@
+Title: Galerie Script
+----
+Date: 2005-03-27
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Weshalb in die Ferne schweifen, liegt das Gute doch so nah: Über [Google](http://google.de/) und [Pixelgraphix](http://pixelgraphix.de/log/2004-11/php-galerie-skript.php) habe ich das [Simple PHP Gallery](http://relativelyabsolute.com/spg/) -Script gefunden.
+
+Es ist eine Galerie, die die Verzeichnisstruktur als Grundlage benutzt. Das Anfügen von Beschreibungen und Titeln ist etwas mühsam, da diese Änderungen alle in einer .ini-Datei gemacht werden müssen.
+
+Zur Feier dieses Ereignisses habe ich [Bilder des Snookermatches Ryan Day gegen Jin Long](http://yatil.de/galerie/folder/Snooker0405/China%20Open/RyanDayJinLong) hochgeladen.
+
+**Update:** Und wieder eine Neuerung, ich habe die [Enhanced Simple PHP Gallery](http://www.quirm.net/espg/) gefunden, diese Version ist noch ein bisschen besser als das Original. Die lokalisierte Version stelle ich Online, wenn in den nächsten paar Tagen keine größeren Bugs auftreten.

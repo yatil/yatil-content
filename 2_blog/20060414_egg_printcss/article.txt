@@ -1,0 +1,85 @@
+Title: egg_printcss: Ein Textpattern-Plugin
+----
+Date: 2006-04-14
+----
+Category: Programmierung, Textpattern
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Was macht das Plugin?
+
+Das Plugin erlaubt die Angabe von Screen- und Druck-Stylesheet. Das letztere wird entweder durch die Angabe `?do=print` am Ende der URL oder durch das Anhängen eines Zusatzes wie `/print/` an die URL angesprochen (Clean URLs).
+
+## Vorteile dieser Implementation
+
+Der wohl wichtigste Vorteil ist, dass der Benutzer sieht was er druckt. Zudem sind die “Druckvorschauen” direkt verlinkbar (auch wenn Verlinkbarkeit sooo Web 1.0 ist).
+
+### Installation
+
+Einfach das Plugin [herunterladen](http://yatil.de/file_download/4). Den Inhalt der Textdatei per Copy&Paste im Textpattern-Interface unter Administration -> Plugins einfügen und das Plugin aktivieren.
+
+Die Codezeile, die `&lt;txp:css />` beinhaltet kann dann mit `&lt;txp:egg_printcss />` ersetzt werden. Zur weiteren Benutzung dieses Tags siehe unten.
+
+Für Clean URLs muss die `.htaccess`-Datei von Textpattern bearbeitet werden. Vor der Zeile `RewriteRule ^(.*) index.php` muss folgendes eingefügt werden:
+
+```
+RewriteBase /
+RewriteRule ==^([^/]+)drucken/?$ drucken== [R,L]
+RewriteRule ^(.+)/drucken/?$ ?do=print
+```
+
+Für Übersetzungen kann `drucken` durch entsprechende Übersetzungen ersetzt werden. Lediglich das letzte `?do=print` muss erhalten bleiben.
+
+### Parameter für `&lt;txp:egg_printcss />`
+
+Diese Funktion hat zwei Parameter:
+
+- `screen` (Vorgabe: `default`)
+- `print` (Vorgabe: `print`)
+ 
+Die beiden Parameter nehmen als Werte jeweils die Namen von Stilvorlagen auf, wie sie unter Präsentation -> Stilvorlagen zu finden sind.
+
+#### Beispiel:
+
+`&lt;txp:egg_printcss screen="new" print="newprint" />`  
+**Ausgabe:**`&lt;link href="/textpattern/css.php?n=new" media="screen, print" rel="stylesheet" type="text/css" />` (Bildschirmausgabe)  
+**Oder:**`&lt;link href="/textpattern/css.php?n=newprint" media="screen, print" rel="stylesheet" type="text/css" />` (Druckausgabe)
+
+### Der Tag `&lt;txp:egg_print_link />`
+
+Folgende Parameter können diesem Tag mit auf den Weg gegeben werden:
+
+- `title`: Linktext, Vorgabe: “Print”
+- `clean`: Wenn auf 1 (Vorgabe) gesetzt wird der Clean URL-Modus benutzt
+- `cleanstr`: Der Name, der in der `.htaccess` für die Clean URLs benutzt wurde. Vorgabe: “print”
+ 
+#### Beispiele:
+
+`&lt;txp:egg_print_link title="Print this!" />`  
+**Ausgabe:**`&lt;a href="http://yourdomain.com/section/title/print/">Print this!&lt;/a>`
+
+`&lt;txp:egg_print_link title="Druckvorschau" cleanstr="drucken" />`  
+**Ausgabe:**`&lt;a href="http://yourdomain.com/section/title/drucken/">Druckvorschau&lt;/a>`
+
+#### Hilfsfunktionen `&lt;txp:egg_if_print />` und `&lt;txp:egg_if_not_print />`
+
+Diese Funktionen helfen druckspezifischen Code anzuzeigen oder wegzuhalten. Man könnte die Sidebar verstecken oder einen Druckvorschau anzeigen und in derselben verstecken.
+
+Beide Tags haben keine Parameter und können nicht per `&lt;txp:else />` angesprochen werden.
+
+#### Implementationen
+
+Momentan keine bekannt.
+
+#### Status
+
+Das Projekt ist noch im Entwicklungsstatus, das heißt alles könnte sich noch ändern, das schließt Tagparameter mit ein. Bei entsprechenden Änderungen werden diese natürlich vor einem Update entsprechend kenntlich gemacht.
+
+## Download
+
+[Version 0.25](http://yatil.de/file_download/4)

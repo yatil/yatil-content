@@ -1,0 +1,24 @@
+Title: flickr
+----
+Date: 2005-03-21
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wie ihr vielleicht schon bemerkt habt, habe ich mich von [Flickr](http://flickr.com/) als Bildermanagement-Tool verabschiedet. Es gibt dazu einige Gründe:
+
+- Flickr ist begrenzt – und zwar auf 10 MB Upload pro Monat
+- Flickr ist unzugänglich – wenn man über kein Flash Plugin verfügt
+- Flickr ist teuer – 30€ (verbilligt) ist mir der Service nicht wert
+ 
+Andererseits ist Flickr natürlich sehr bedienfreundlich, flexibel und einfach genial. Zudem gibt es keine Tools für den eigenen Server, die auch nur eine annähernde Funktionsvielfalt bieten.
+
+Der [Kauf von Flickr durch Yahoo!](http://blog.flickr.com/flickrblog/2005/03/yahoo_actually_.html) hat damit allerdings nichts zu tun.
+
+Bleibt nur noch die Suche nach einem schönen Tool für den eigenen Server.

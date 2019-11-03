@@ -1,0 +1,26 @@
+Title: Allen kann man es einfach nicht recht machen.
+----
+Date: 2005-11-08
+----
+Category: Fun, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Okay, ich seh’s ja ein: C.Mücke gefällt mein Design nicht. “Der schlimmste Augenkrebs wird \[...\] durch die zentrierten Headlines verursacht” schreibt er/sie [in seinem Blog](http://coldheat.de/archiv/000138css_reboot.html) und ich scheine seinen ästhetischen Ansprüchen nicht zu genügen.
+
+Ich weiß auch, dass die Fußleistennavigation auf Unverständnis stößt und Kontroversen auslöst. Wie [Derek Powazek](http://www.powazek.com/2005/09/000537.html) schon zu seiner – ähnlichen – Navigation schrieb:
+
+> Think about it this way: Sure, maybe only a small percentage of all readers will ever make it to the bottom of a page, but those readers are your most valuable. They read all the way to the bottom. They scrolled, even! When a reader reaches the bottom, they should be rewarded with a special treat – content, navigation, tools, whatever – not coldly abandoned the way most most sites do. [Derek Powazek](http://www.powazek.com/): [Digging in the Dirt](http://www.powazek.com/2005/09/000537.html)
+
+Ich könnte ja nun auch sein/ihr Layout kritisieren, wie schwach ich sein/ihr Kopfbild findet, dass ein durchschnittliches Beispiel eines “Ich-kann-auch-Photoshop”-Wicked-Worn-Looks darstellt. Oder, dass er/sie ein Fixed-Width-Layout hat. Oder, dass es mich stört, wenn Überschriften mit kleinen Buchstaben beginnen. Oder, dass ich auf der Seite keine Informationen finden konnte, ob er/sie ein er oder eine sie ist.
+
+Aber das alles muss ich ja nicht, weil es okay ist, wenn Menschen ihren eigenen Stil haben. Und weil ich es gut finde, wenn es kontroverse Meinungen gibt. Aber ich mag auch zentrierte Überschriften.
+
+Zusammenfassung: Wem es hier nicht gefällt, der kann sich gerne auf [anderen Webseiten](http://google.de/) umsehen, das reduziert dann auch die Gefahr [Augenkrebs](http://de.wikipedia.org/wiki/Augenkrebs) zu bekommen.
+
+**Die EU-Webdesignminister warnen: [Zentrierte Überschriften](http://alistapart.com/) und [animierte Hintergründe](http://mahopa.de/murks/augenkrebs-hintergrund-a16.html) führen zu Formen von [Augenkrebs](http://de.wikipedia.org/wiki/Augenkrebs).**

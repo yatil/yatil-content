@@ -1,0 +1,22 @@
+Title: DOM-Scripting-Tutorial
+----
+Date: 2004-08-30
+----
+Category: Programmierung, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Das Tutorial zur »interaktiven« Tabelle ist online.
+
+Für ihre Einsichten danke ich Dunstan für [Redesign explained: tag transformations](http://www.1976design.com/blog/archive/2004/07/29/redesign-tag-transform/) und Richard Rutter für seinen Artikel [How to size text using ems](http://www.clagnut.com/blog/348/) – auch wenn er nur entfernt etwas mit dem Thema zu tun hatte.
+
+Einen großen Anteil hat auch Stefan Borns Artikel [Events ohne onFoo()](http://home.arcor.de/xbo/events_ohne_onfoo.html).
+
+[Aber nun direkt zum Artikel!](http://www.yatil.de/artikel/100084/interaktive-tabelle-mit-dom-scripting)
+
+Ach ja: [Die Zahlen](http://www.yatil.de/weblog/100081/the-stundenplan-reloaded) haben sich – durch rigoroses Streichen von unnötigen Stylesheets nochmals verändert.

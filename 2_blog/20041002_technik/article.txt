@@ -1,0 +1,29 @@
+Title: Technik
+----
+Date: 2004-10-02
+----
+Category: Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Mal was zu der Technik dieser Seite.  
+Realisiert wurde sie in [Textpattern](http://www.textpattern.com/), einem CMS auf PHP-Basis.
+
+Die Kommentare verdankt ihr (sowohl in Aussehen als auch bezüglich des Live-Previews) [John Hicks](http://www.hicksdesign.co.uk/about/?c=hicksdesign) [Notes about Textpattern](http://www.hicksdesign.co.uk/search/?q=textpattern&x=0&y=0).
+
+Dazu werden einige Plugins verwendet:
+
+- [asy\_category\_tags](http://forum.textpattern.com/viewtopic.php?id=2395) für die Kategorien-Anzeige auf den Detail-Seiten.
+- [fpx\_blogroll](http://forum.textpattern.com/viewtopic.php?id=1369) für die Blogroll.
+- [gbl\_blog\_stats](http://forum.textpattern.com/viewtopic.php?id=1122) für die ach-so-geliebte Rangliste.
+- [mdn\_recent\_comments\_by\_section](http://mnorton.chaosnet.org/files/mdn_section_aware_comments.txt) für die getrennten »Letzte Kommentare« und »Letzte Gästebucheinträge«.
+- [ob1\_modified](http://rise.lewander.com/textpattern/81/txpob1-modified) für die »Geändert am«-Angabe in den Artikel-Details.
+- [rdi\_archive](http://forum.textpattern.com/viewtopic.php?id=3324) für die Archiv-Seite.
+- [rsx\_word\_count](http://forum.textpattern.com/viewtopic.php?id=1597um) die Wörter zu zählen.
+- [sdr\_guestbook](http://forum.textpattern.com/viewtopic.php?id=3390) für das Gästebuch.
+- [zem\_link](http://forum.textpattern.com/viewtopic.php?id=2761) zum leichten Verlinken von Artikeln.

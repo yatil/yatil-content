@@ -1,0 +1,18 @@
+Title: Vorwärts in die Vergangenheit: Netzeitung-Relaunch
+----
+Date: 2008-02-15
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die [Netzeitung](http://netzeitung.de/) wurde neu gestaltet. An der Oberfläche wurde das Design klarer und freundlicher (grün funktioniert immer!), doch nicht wirklich aufregender. Die blauen Überschriften wirken langweilig und können nicht so überzeugen. Auch die Seitenleiste wirkt durch viele Boxen unruhig. Was weiterhin auffällt ist die schlechte technische Qualität der Seite. Tabellenlayout so weit das Auge reicht: Die Agentur [Exozet](http://www.exozet.com/) kann anders, wie man u.a. an ihrer Webseite sieht, schade, dass sie das weder beim Relaunch von [N24](http://n24.de/) noch bei dem Redesign der Netzeitung anwenden konnten.
+
+> „Das alles ist natürlich nur ein kleiner Schritt. Ein größerer soll folgen.“ [Domenika Ahlrichs, Chefredakteurin](http://www.netzeitung.de/ansichtssache/901339.html)
+
+Die Seite hat ganz offensichtliche Schwächen in der Konzeption, schon eine Vergrößerung der Schrift um 2 Stufen sorgt für eine Überlagerung von Elementen, was nicht sehr schön ist. [![](http://wp.yatil.net/wp-content/uploads/2008/02/278.png)](http://wp.yatil.net/wp-content/uploads/2008/02/278.png)Auch die grundlegenden Accessibility-Features sind nicht vorhanden: Sprunglinks, die ein Navigieren durch die Tabellenhölle erlauben würden sind genauso wenig vorhanden wie sinnvolle Alternativtexte bei Bildern. Bei Formularelementen (Abstimmungen) gibt es keine Labels, die bei der Erfassung der Formulare helfen. Alles in allem eine sehr schwache Leistung. Semantik ist – natürlich – exorbitant überhaupt nicht eingesetzt. H1-Überschriften sind wohl der Suchmaschinenoptimierung geschuldet. Absätze sind mal in P-Elemente gepackt, mal nur mit zwei BR-Elementen abgetrennt. Immerhin sind die Listen Listen. Dass die Kommentare nur per JavaScript/AJAX zu begutachten sind ist ein weiteres Manko an der Seite, die es so nur noch ein Stück schwerer macht an die Inhalte zu kommen. Was ich sowieso noch nie verstanden habe ist, weshalb große Bilder nur durch einen Klick auf die Lupe geöffnet werden – und nicht, wenn man das Miniaturbild anklickt. (Dass das große Bild dann in einem JS-Popup aufgerufen wird ist selbstverständlich.) Liebe Frau Ahlrichs: Ein größerer Schritt muss kommen. Diese Poliererei an der Oberfläche bringt doch niemandem weiter. Wenn die Netzeitung erfolgreich sein und bleiben will, dann muss sie auch in das Gesamtgefüge „Web 2008“ passen. Momentan passt sie besser in das „Web 1999“.

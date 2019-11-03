@@ -1,0 +1,28 @@
+Title: BlogTalk Vienna
+----
+Date: 2006-10-02
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wohl als einziger, übrigens :)
+
+Nun gut, und jetzt sitze ich hier und die Seite des BlogTalk ist offline.
+
+Die Seite des BlogTalks kann unter [blogtalk.net](http://blogtalk.net) eingesehen werden.
+
+Momentan redet gerade Lee Bryant von [Headshift](http://www.headshift.com/) über die Einführung von Social Software in existierende Firmensysteme.
+
+Wirklich interessant wird es allerdings nach dem Mittagessen um 15:00 Uhr: Matt Mullenweg hält eine Keynote über Wordpress und Jazz. Wahrscheinlich kann er mich aber eh nicht überzeugen von [Textpattern](http://textpattern.com/) umzusteigen.
+
+Moderiert wird dann von [Thomas N. Burg](http://randgaenge.net/).
+
+13:30 | Na, da hatte sich der gute Matt gleich mal in Reichweite gesetzt: <http://flickr.com/photos/yatil/258471843/>
+
+15:30 | Ahh, Matt redet über Jazzmusiker, deren Aussagen und was sie für Softwareentwickler bedeuten. [Und bei Google kann man sich’s schon anschauen.](http://video.google.de/videoplay?docid=1894820332739192341&hl=de) Tolle Organisation!

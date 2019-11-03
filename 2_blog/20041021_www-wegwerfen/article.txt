@@ -1,0 +1,20 @@
+Title: WWW wegwerfen!
+----
+Date: 2004-10-21
+----
+Category: News, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nein, ich meine damit nicht das WWW als solches, sondern die Benutzung in URIs bzw. URLs.
+
+Das »www.« gibt nämlich nur einen Unterordner an, der aber mit dem Rest (domain.tld) identisch ist.
+
+Bei Links in Weblog-Einträgen lasse ich das »www.« grundsätzlich weg, auf [yatil.de](http://yatil.de/) werde ich das jetzt auch intern so handhaben.
+
+(Angeregt durch: [Julian Bez](http://julian-bez.de/blog/2004/10/13/why-link-to-indexphp/) in seinem Weblog via [FiftyFourEleven](http://fiftyfoureleven.com/sandbox/weblog/2004/oct/linking-to-your-home-page/) )

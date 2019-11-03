@@ -1,0 +1,14 @@
+Title: Speaking at AccessU Summit
+----
+Date: 2015-04-25
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+While being in [Austin for AccesU](/?p=101563) in May, the [AccessU Summit](http://environmentsforhumans.com/2015/accessu-summit/) takes place online. I will speak about “Web Accessibility Essentials Using WAI-ARIA and HTML5”, a short version of the course I give in person in Austin the day before. Other speakers include John Foliot, Henny Swan and Christopher Schmitt. Ticket prices are $179 for an individual or $479 for a meeting room ticket.

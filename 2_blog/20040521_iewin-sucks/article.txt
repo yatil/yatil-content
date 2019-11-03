@@ -1,0 +1,20 @@
+Title: IE/Win sucks
+----
+Date: 2004-05-21
+----
+Category: Design, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Was macht der Internet Explorer unter Windows beim Anzeigen dieser Seiten? Er zeigt [zuerst die rechte Spalte an, allerdings ohne Hintergrund](http://www.browsercam.com/projects/67036/1107908.jpg).  
+In nahezu jedem verdammten anderen Browser wird’s [richtig](http://www.browsercam.com/projects/67036/1107907.jpg) (Mozilla/ IEMac)oder zumindest [fast richtig](http://www.browsercam.com/projects/67036/1107912.jpg) (Opera) angezeigt!
+
+Weitere [Screenshots bei Browsercam](http://www.browsercam.com/public.aspx?proj_id=67036)!
+
+**Edit:** Ok, hab jetzt grad das endgültige Redesign hochgeladen, das [funktioniert ohne Probleme](http://www.browsercam.com/public.aspx?proj_id=67053).  
+Diese resultierten wohl aus einem »ö«.

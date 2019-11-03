@@ -1,0 +1,41 @@
+Title: :focus-ring
+
+----
+
+Intro: 
+
+----
+
+Text:
+
+Great video over at the [Google Chrome Developers channel](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) about the upcoming [CSS Level 4 `:focus-ring` selector (draft)](https://drafts.csswg.org/selectors-4/#the-focusring-pseudo). The focus is often removed for stylistic reasons when using the mouse, but then keyboard users also have no indication of where they are on the website. `:focus-ring` solves that issue.
+
+<embetty-video type="youtube" video-id="ilj2P5-5CjI"></embetty-video>
+
+https://www.youtube.com/watch?v=ilj2P5-5CjI&index=1&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g 
+
+The video includes a shout out to this [handy polyfill](https://github.com/wicg/focus-ring) on Github. There are [other videos about accessibility](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g), also presented by [Rob Dodson](https://robdodson.me), available on the channel as well. Captions are available.
+
+----
+
+Date: 2017-03-25 00:00
+
+----
+
+Coverimage: 
+
+----
+
+Category: Accessibility
+
+----
+
+Summary: 
+
+----
+
+Tags: a11y, focus, keyboard, video
+
+----
+
+Image: 

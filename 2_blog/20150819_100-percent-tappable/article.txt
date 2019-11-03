@@ -1,0 +1,14 @@
+Title: 100% Tappable
+----
+Date: 2015-08-19
+----
+Category: Accessibility, Web design
+----
+Summary: 
+----
+Tags: clicking, usability
+----
+Image: 
+----
+Text:
+Aaron Gustafson on a [common design issue](http://www.aaron-gustafson.com/notebook/web-design-101-100-percent-tappable/): Buttons and links that can’t be clicked everywhere where the visual click area seems to be. In addition, remember that buttons or links need to be activated using the keyboard which means that `<a>` elements need to have a `href` attribute, for example.

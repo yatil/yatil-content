@@ -1,0 +1,14 @@
+Title: Alles Neu.
+----
+Date: 2010-01-10
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Von Zeit zu Zeit sind Neuanfänge unausweichlich. Neue Umgebungen schaffen neue kreative Freiräume, neue Herausforderungen helfen die eigenen Grenzen zu erforschen. 2010 bedeutet für mich Neuanfang. Ich bin seit Anfang des Jahres in Vollzeit selbstständig als Webdesigner/-entwickler tätig und nehme gerne Aufträge an. Mein Portfolio lässt allerdings (leider) noch etwas auf sich warten. Zudem entwickle ich neue Kooperationen und Konzepte für Webseiten und Projekte, 2010 wird auch hier ein sehr spannendes Jahr. Und ich möchte mehr. Mehr schreiben, öfter Vortragen, mehr interessante Projekte umsetzen. Ich beginne damit bereits übernächste Woche: Im Frankfurt/Main findet wieder ein [Webmontag](http://www.webmontag.de/location/frankfurt/index) statt, bei dem ich vortragen werde. Der Arbeitstitel ist „Advanced CSS“. [![Project 52 Logo](http://yatil.de/images/320.png "Project 52 Logo")](http://project52.info/) Zwei Artikel habe ich im Dezember für den [Webkrauts-Adventskalender](http://webktauts.de/) verfasst, die für mich schon den Auftakt für ein artikelreiches Jahr 2010 bildeten: [»Das Styling der Anderen«](http://www.webkrauts.de/2009/12/09/das-styling-der-anderen/) und [»Von Transitionen und Animationen«](http://www.webkrauts.de/2009/12/21/von-transitionen-und-animationen/). Auf dieser Seite möchte ich auch beim [Project 52](http://project52.info/) mitmachen und jede Woche einen gut ausgearbeiteten Artikel veröffentlichen. Mal sehen wie viel Erfolg ich damit habe…

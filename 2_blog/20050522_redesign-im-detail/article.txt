@@ -1,0 +1,36 @@
+Title: Redesign im Detail
+----
+Date: 2005-05-22
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nachdem ich nun mit den meisten Details der Seite fertig bin und nur noch die neu-gestaltete Startseite fehlt möchte ich die markanten Punkte dieses Redesigns beschreiben.
+
+> **Lena:** [Herr Blume](http://guillemets.de/) hat fertig, und es schaut aus wie bei [Gerrit](http://praegnanz.de/), ist das Zufall oder habt ihr Euch auf ein gar so homogenes Design geeinigt?  
+> **Gerrit:** Alle Weblogs sehen so aus. Weil es so am einfachsten zu bedienen ist :-)  
+> Quelle: [Praegnanz.de/weblog](http://praegnanz.de/weblog/): [Herr Blume hat fertig](http://praegnanz.de/weblog/620/herr-blume-hat-fertig)
+
+Was lernen wir daraus: Weblogs sehen alle gleich aus, weil das am einfachsten zu bedienen ist. Das sehe ich nicht so. Die meißten Besucher von Weblogs kommen entweder über RSS-Feeds oder über Suchmaschinen.
+
+Die Besucher suchen also auf jeden Fall Inhalte, kein ausgefallenes Design. Vorreiter dieses Stils sind [Joseph Wain](http://www.penandthink.com/niggle/) und [Garret Dimon](http://garrettdimon.com/). Letzterer verzichtet sogar komplett auf eine Navigation und auf Kategorisierungen.
+
+Es gibt also keinen Zwang für ein 2-spaltiges Layout.
+
+Den Weg des einspaltigen Layouts bin ich auch gegangen, zumindest sichtbar.
+
+In meinem Bemühen auch einige traditionellere Gestaltungstechniken einzubringen habe ich mich für ein 6-spaltiges Layout entschieden, dabei wurde ich hauptsächlich von den Artikeln [Feeling your way around grids](http://designinflight.com/issues/2005/apr/12.html) (Exzerpt) in der neuesten Ausgabe von [Design In-Flight](http://designinflight.com/) sowie [Columns & Grids](http://www.mezzoblue.com/archives/2005/05/13/columns_grid/) von [Dave Shea](http://www.mezzoblue.com/).
+
+Der Autor des ersten Artikels, [Mark Boulton](http://www.markboulton.co.uk/), hat auch eine sehr gute Serie über Typographie geschrieben: [Five simple steps to better typography](http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_better_typography/) (Teile [2](http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_better_typography_part_2/), [3](http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_better_typography_part_3/), [4](http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_better_typography_part_4/), [5](http://www.markboulton.co.uk/journal/comments/five_simple_steps_to_better_typography_part_5/)). Ihm verdankt ihr z.B. die hängenden Listenpunkte.
+
+Zur Technik:  
+Wie fast immer verwende ich ein XHTML-1.0-Doctype.
+
+Zudem habe ich versucht möglichst wenige unsemantische Elemente zu benutzen, so habe ich auf `div`-Elemente komplett verzichtet. Statt dessen glänzt [der Code](view-source:http://yatil.de/) nun durch eine sehr einfache Lesbarkeit. Wie immer ist die Seite zugänglich und auch [in Lynx](http://flickr.com/photos/yatil/15050278/) benutzbar. Zudem sieht die Seite auch [ohne CSS](http://flickr.com/photos/yatil/15050733/ "Cascading Style Sheets") sehr benutzbar aus und sollte keine größere Hürde für Screenreader darstellen.  
+Die Anregung dafür habe ich bei [Andy Clarke](http://www.stuffandnonsense.co.uk/) aufgeschnappt.

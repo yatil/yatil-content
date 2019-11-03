@@ -1,0 +1,99 @@
+Title: Zur Hölle mit den WCAG 2
+----
+Date: 2006-05-23
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Ich möchte hier nur Teile des [Artikels](http://www.alistapart.com/articles/tohellwithwcag2) übersetzt wiedergeben:
+
+## Umfang
+
+Zum einen sei der Umfang – W3C-typisch, wie er anmerkt – viel zu groß. Im Folgenden die Dokumente und ihre Seitenzahl, wenn man sie auf Papier im U.S.-Letter-Format druckt:
+
+- [Web Content Accessibility Guidelines 2.0](http://www.w3.org/TR/WCAG20/complete.html) ist die eigentliche Spezifikation und gilt als einziges Dokument als „normativ“, ist also der eigentliche Standard (72 Seiten, 20.800 Wörter).
+- [WCAG 2.0 verstehen](http://www.w3.org/TR/UNDERSTANDING-WCAG20/) ist ein Dokument, das von sich behauptet WCAG 2.0 zu erklären (165 Seiten, 51.000 Wörter).
+- [Techniken für WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/) stellt „allgemeine“ Techniken zu Verfügung (221 Seiten, 88.000 Wörter).
+ 
+Dadurch übertreffen die drei Teile zusammen mit 450 Seiten die meisten Bücher zu WCAG 1, die von Clark eingeschlossen.
+
+Zudem gibt es eine weitere Veröffentlichung unter dem Namen [HTML-Techniken](http://www.w3.org/TR/WCAG20-HTML-TECHS/), die seit November 2005 nicht mehr aktualisiert wurde.
+
+Zudem heißen die Richtlinien („guidelines“) nun Erfolgskriterien („success criteria“).
+
+## Einwirken auf die Spezifikation
+
+Was das Unterfangen auf den letztendlichen Standard einzuwirken noch deutlich erschwert, ist der kurze Zeitraum, in dem man überhaupt Kommentare abgeben kann. er beträgt 34 Tage und die Frist endet am 31. Mai.
+
+Clark kritisiert weiter, dass die Entwicklung der Richtlinie nie zugänglich war. Es konnte niemand ohne Englischkenntnisse an der Entwicklung teil nehmen, geschweige denn jemand mit einer Behinderung. Selbst Menschen mit Leseproblemen hatten keine Chance, weil sie sich durch schlecht geschriebene Standards-Dokumente quählen mussten oder an einer Mailingliste teilnehmen.
+
+## Fehler in der Spezifikation
+
+„Sie haben tolle Arbeit geleistet indem sie die Richtlinie aussehen ließen als könnte sie funktionieren. Sie wird aber scheitern.“ Dazu führt Joe Clark eine Liste an mit Fehlern, die ihm offensichtlich scheinen:
+
+1. Was genau eine „Seite“ (oder gar eine „Site“) ist wird ein Streitthema sein.
+2. Eine Webseite, die in Zukunft WCAG 2 erfüllt **benötigt kein valides HTML** (mehr dazu später). Allerdings muss die Ausgabe des DOM in verschiedenen Browsern übereinstimmen.
+3. Du kannst immernoch Layouttabellen benutzen. (Und nicht nur eine Layouttabelle, Tabellen fürs Layout, Plural.)
+4. Deine Seite oder Teile von ihr dürfen für bis zu drei Sekunden blinken.
+5. Du wirst bestimmte Technologien als „grundlegend“ definieren können. Das bedeutet, dass jemand ohne diese Technologie kaum oder keine Möglichkeit hat sich über die Unzugänglichkeit deiner Seite zu beschweren.
+6. Es wird dir möglich sein ganze Verzeichnisse als außerhalb der Zugänglichkeit zu definierten.
+7. Wenn du WCAG 2-Kompatibilität für dich in Anspruch nehmen willst, musst du eine Checkliste von Deklarationen veröffentlichen, die an Zwangsbeichten erinnern als an irgendeine Zugänglichkeitsregelung, die man heutzutage findet.
+8. Nicht, dass jemals jemand ein Video zugänglich gemacht hätte, aber wenn du jetzt Videos online stellst musst du nicht mehr Audiobeschreibungen hinzufügen um den niedrigsten „Konformitäts-Level“ zu erreichen. Und nur aufgezeichnete Videos benötigen Bildunterschriften.
+9. Deine Podcasts könnten eventuell so abgemischt werden müssen, dass die Stimme 20 Dezibel lauter ist als längere Hintergrundgeräusche. (Du musst aber keine Untertitel zu Verfügung stellen, weil sie nichtmehr „Multimedia“ sind. Präsentationen sind nun aber als „Video“ kategorisiert, was für flickr-Benutzer sicherlich überraschend ist.)
+10. Du kannst hunderte von Navigationslinks auf eine Seite packen und nichts tun, aber wenn du zwei Seiten beieinander hast und drei Navigationslinks auf jeder, bist du verpflichtet einen Weg einzubinden um die Navigation zu überspringen.
+11. Du darfst keine Positionierung außerhalb des Bildschirms verwenden um Beschreibungen (z.B. für Formulare) nur den Leuten zu zeigen, die diese Hilfstechnologie benötigen. Jeder muss sie sehen.
+12. CSS-Layouts, genauer gesagt CSS-Layouts mit absolut positionierten Elementen, die vom Dokumentenfluss entfernt werden, könnten einfach vom höchsten Level ausgenommen werden. Faktisch muss die Folge der Elemente im Quelltext mit der der Präsentation übereinstimmen – auch im niedrigsten Level.
+13. Auf dem höchsten Level muss zudem folgendes bereitgestellt werden: 
+  1. Definitionen von Dialekten und „Jargon“
+  2. Erklärung von Abkürzungen
+  3. Aussprache einiger Wörter
+14. Zudem muss ein alternatives Dokument bereit gestellt werden, wenn ein Leser mit „niedrigem sekundärem Ausbildungslevel“ das Hauptdokument nicht verstehen kann. (Tatsächlich schlagen die WCAG 2-Richtlinien wiederholt vor zugängliche und unzugängliche Seiten nebeneinander zu pflegen. Du musst also manchmal deine Seiten nicht zugänglicher machen sondern einfach eine andere produzieren.)
+ 
+WCAG 1 war sehr HTML-spezifisch. Jeder sah ein, dass das ein Problem werden könnte, wenn Formate, die von blinden Menschen gehasst werden (wie PDF und Flash) langsam zugänglich werden. Also musste WCAG 2 technologieneutral sein.
+
+## Die kreative Fiktion mehrerer Level
+
+Dabei wurde aber ein Paralleluniversum erschaffen in dem die Inhalte in HTML, CSS und Javascript aufhörten zu existieren. Es wurde eine Welt erdacht in der ein Haufen Flash, PDF und andere noch unentwickelte Formate verfügbar und zugänglich wären. Um in dieser Traumwelt zu bestehen wurde WCAG 2 geschrieben und umgeschrieben und umumgeschrieben. Auf dem Weg dahin ging die Fähigkeit auf die wirklichen Probleme an denen Entwickler jeden Tag arbeiten (also HTML, CSS und JavaScript) verloren.
+
+Zudem gibt es ein unheimliches Durcheinander bei den Prioritätsstufen. Gab es bei WCAG 1 noch die Stufen 1, 2 und 3 – auch bekannt als A, AA und AAA. Dabei konnten die Stufen 1 und 2 erreicht werden, Stufe 3 war (fast) unmöglich zu erreichen. Ein objektiver Beobachter bemerkt, dass Stufe 3 also unnötig ist. Trotzdem hat sich die Kommission, die WCAG 2 entwickelt hat dieses 3-Stufen-Modell beibehalten und alle drei Level als „wichtig“ beschrieben:
+
+- Level-1-Erfolgskriterien 
+  - Erreiche ein Minimum von Zugänglichkeit.
+  - Kann auf jede Art von Webinhalten angewandt werden.
+- Level-2-Erfolgskriterien 
+  - Erreiche ein erweitertes Level der Zugänglichkeit.
+  - Kann angemessen auf alle Arten von Inhalten angewandt werden.
+- Level-3-Erfolgskriterien 
+  - Erreiche zusätzliche Zugänglichkeit.
+  - Muss nicht auf alle Inhalte angewandt werden können.
+ 
+Wir übersetzen: Wir haben die Prioritäten-Level aus WCAG 1 als wirkliche Prioritäten gedeutet. In WCAG 2 bedeutet das „Essentiell für einige Menschen“, trotzdem bleibt die Dreiteilung.
+
+Dies führt zu folgenden Feststellungen:
+
+1. Auch, wenn du alle drei Level in WCAG 2 erfüllst, kannst du trotzdem [eine unzugängliche Seite haben](http://www.w3.org/TR/WCAG20/complete.html#conformance).
+2. Du wirst nie mit [mehr als der Hälfte](http://www.w3.org/TR/WCAG20/complete.html#conformance-reqs) der Level-3-Richtlinien übereinstimmen müssen.
+3. Das WCAG-2-Dokument selbst [stellt fest](http://www.w3.org/TR/WCAG20/complete.html#N10471), dass „es nicht empfohlen ist, dass Triple-A-Konformität für ganze Seiten benötigt wird“.
+4. Zudem musst du Level 3 in einigen Fällen gar nicht erfüllen, wenn du [Richtlinie 4.2.4](http://www.w3.org/TR/WCAG20/complete.html#accessible-alternatives-level2) auf Level 3 erfüllen willst…
+ 
+## Als ob Webstandards nie existiert hätten
+
+Die WCAG-Arbeitsgruppe hat in ihrem Paralleluniversum gewisse anerkannte Konzepte verworfen.
+
+[Wir wissen](http://www.bestkungfu.com/archive/date/2005/11/on-accessibility-and-validity/) bereits, dass [eine valide HTML-Seite noch nicht automatisch eine zugängliche macht](http://www.w3.org/WAI/GL/2005/06/validity-accessibility.html). Die Minderheit, die valide Seiten herstellt wird nur noch von der Elite übertroffen, die weiß wie man Seiten zugänglich macht.
+
+Valides HTML war die Voraussetzung für WCAG-1-Level-2. Nun ist das einzige, was in WCAG 2 darüber steht, dass die Seite eindeutig geparsed wird. [Das heißt](http://www.w3.org/TR/WCAG20-TECHS/#F28-failex1), dass es keine ungültig verschachtelten Elemente geben darf.
+
+In der Spezifikation kann ein `<p>` nicht in einem `<p>` vorkommen. Du musst kein Element oder Attribut benutzen, das von der Spezifikation gefordert wird. [Du musst noch nicht mal ein Element _entsprechend_ der Spezifikation benutzen.](http://lists.w3.org/Archives/Public/w3c-wai-gl/2006AprJun/0187.html)
+
+Ein Dokument, das nur aus `<div>`s und `<span>`s besteht ist laut WCAG 2 in Ordnung so lange es eindeutig zu parsen ist.
+
+WCAG hat eine Voraussetzung zurückgenommen, die jetzt, wo so viele HTML-Coder die Prinzipien von validem und semantischem HTML benutzen, genau zur rechten Zeit gekommen wäre.
+
+Im folgenden beschreibt Clark noch die Auswirkungen auf Multimedia-Inhalte, die ich allerdings hier ausklammere, da ich mich hauptsächlich mit HTML beschäftige.

@@ -1,0 +1,26 @@
+Title: Snookerblog in neuem Gewand
+----
+Date: 2006-11-06
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die Änderungen sind offensichtlich. Die Farbpalette wurde im Gegensatz zur alten Version deutlich verjüngt. Zudem setzt das Redesign auf scharfe Kanten statt auf weiche Abstufungen sowie auf durchgezogene Linien statt gepunkteter Trennstriche.
+
+Die Meta-Daten, also Kategorie, Datum und Kommentare, haben nun endlich eine prominente Stelle im Layout und hängen nicht einfach so am Ende der Artikel rum.
+
+Die Typographie wurde ebenfalls entschlackt, es kommt jetzt überall „Helvetica Neue“ zum Einsatz. Ersatzschriften sind Helvetica, Arial und Verdana.
+
+Die Kommentare verbleiben weiterhin in der Seitenleiste, auch wenn das die Gefahr birgt, dass es viel Weißraum neben eben diesen gibt. Angesichts der verhaltenen Kommentatoren und der Tatsache, dass die Kommentare nicht nur eine kleinere Schrift haben sondern auch verbreitert wurden, denke ich die richtige Entscheidung getroffen zu haben.
+
+An so manchem Detail muss noch gefeilt werden, so ist die Beschriftung des Sprungmenüs noch zu kontrastarm.
+
+Der Oktober war ein sehr erfolgreicher Monat für das Snookerblog. Die Besuche nahmen laut Google Analytics von 2.359 im September auf 12.546 im Oktober zu, das ist eine Steigerung auf knapp 530%. Daran mitschuld war sicherlich der tragische Krebstod von Paul Hunter. Jedoch haben auf diesem Wege einige neue Leser den Weg zum Snookerblog gefunden. So könnten – hochgerechnet – bis zu fünftausend Besucher das Snookerblog im November beehren.
+
+Nach eineinhalb Jahren unterzieht sich das Snookerblog optisch einer Erneuerung, an der Qualität der Inhalte wird sich wenig ändern. Und wenn, dann wird sie sich verbessern.

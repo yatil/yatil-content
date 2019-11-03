@@ -1,0 +1,14 @@
+Title: CodeIgniter
+----
+Date: 2008-10-15
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Als ich mir vor gut einem Jahr PHP-Frameworks angeschaut habe, sagte mir [CodeIgniter](http://codeigniter.com) beim ersten Test gleich extrem zu. Eine saubere Baumstruktur und konsequentes hinarbeiten auf das MVC-Pattern machten gleich einen guten Eindruck. Nun konnte ich bei der Entwicklung der [A-Tag-’08-Webseite](http://atag.accessiblemedia.at/) erstmals dieses Framework wirklich nutzen und austesten. Natürlich dauerte dieses erste Projekt als Lernphase relativ lange, aber mit etwas Übung ist das Framework wirklich gut zu beherrschen. Als besonders praktisch hat sich die [ActiveRecord-Komponente](http://codeigniter.com/user_guide/database/active_record.html) der [Datenbank-Bibliothek](http://codeigniter.com/user_guide/database/index.html) erwiesen. Dadurch ist es möglich auch komplexere SQL-Anfragen zu formulieren ohne die genaue SQL-Grammatik zu kennen, was vor allem bei sehr dynamischen Abfragen sinnvoll ist. <txp:glx\_code file="activerecord" dir="code/codeigniter" /> Im Großen und Ganzen habe ich die Möglichkeiten von CodeIgniter sicherlich nur oberflächlich angekratzt, für ähnliche Projekte ist es aber ganz sicher wieder das Werkzeug meiner Wahl.

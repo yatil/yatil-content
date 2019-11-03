@@ -1,0 +1,33 @@
+Title: Auf ein Neues
+----
+Date: 2005-05-19
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Aufgrund der fortgeschrittenen Uhrzeit (1.59 Uhr) werde ich jetzt keine lange Abhandlungen über das Layout machen, das folgt in den nächsten Tagen, übrigens genauso wie das umsortieren der Artikel in die neuen Sektionen “Webentwicklung” und “Snooker”.
+
+Zudem wird es ein Kolophon geben mit Informationen, wie diese Seite zustande kommt und kam.
+
+Folgende Dinge müssen noch getan werden:
+
+- Startseite verändern
+- Sektionen füllen
+- Umleitungen setzen – Cool URIs don’t change
+- CSS optimieren
+- CSS definieren für:
+  - Tabellen
+  - Codebeispiele
+  - Blockquotes und Pullquotes (Zitate)
+- Kommentar-Links absetzen!
+- Werbung platzieren
+- Kopfgrafik aufmöbeln
+- Hauptnavigation aufmöbeln
+ 
+Was haltet ihr von dem Layout? Fragen und Anregungen bitte in den Kommentaren hinterlassen.

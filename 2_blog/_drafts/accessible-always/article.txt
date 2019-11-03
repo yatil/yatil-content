@@ -1,0 +1,21 @@
+Title: Accessible, Always.
+
+----
+
+Coverimage: 
+
+----
+
+Date: 2018-12-29
+
+----
+
+Text: 
+
+Over on Twitter, I found a video of an exciting accessibility talk, but it was not captioned. In Overcast, I see many podcasts focusing on accessibility that do not have transcripts available[^My friend [Nic blogged about missing podcast transcripts](https://incl.ca/people-transcripts-and-money/) lately.]. I see accessibility articles with missing alternative texts and accessibility infographics that have no long description. I have used inaccessible accessibility testing tools. Accessibility reports are often delivered in inaccessible PDFs.
+
+**This must stop.**
+
+If people _in_ the accessibility community can’t make it work, who can? Yes, captions and transcripts are expensive and/or time-consuming. But making your content inaccessible for D/deaf or hard of hearing people weakens your point.
+
+We have to lead by example, even if it is difficult.

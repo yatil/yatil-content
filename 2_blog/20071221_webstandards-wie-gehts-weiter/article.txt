@@ -1,0 +1,19 @@
+Title: Webstandards: Wie geht’s weiter?
+----
+Date: 2007-12-21
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Die Nachricht](http://www.webkrauts.de/2007/12/20/ie8-acid2/) führte zu Jubelstürmen bei Webdesignern: Der _Internet Explorer 8_ wird ein weiterer großer Sprung in Richtung Kompatibilität mit Webstandards sein. Mit dem Bestehen des [Acid2-Tests](http://www.webstandards.org/action/acid2/) bedeutet, dass der IE8 u.a. folgende CSS-Eigenschaften unterstützen wird: - CSS-Tabellenlayouts: `display:table;`
+- Data-URLs (Also eingebettete Dateien z.B. in Grafiken)
+- Generated Content
+- Korrekte Verwendung des `inherit`-Wertes
+
+Das klingt alles sehr gut. Zudem wird es kein [hasLayout](http://onhavinglayout.fwpf-webdesign.de/) mehr geben. Das bedeutet, dass dieses seltsame Verhalten des IE endlich verschwindet. Etwas verwundert hat mich die Auffassung in den [Kommentaren zur Ankündigung](http://blogs.msdn.com/ie/archive/2007/12/19/internet-explorer-8-and-acid2-a-milestone.aspx), dass man den Standards-Modus erst in den Einstellungen aktivieren müsse. Ich empfehle, sich mal mit dem Prinzip des [Doctype-Switching](http://jendryschik.de/wsdev/einfuehrung/css/browserkompatibilitaet#doctype-switching) vertraut zu machen. Die Frage ist nur, wie es dann weiter geht: HTML4 ist am 18. Dezember 10 Jahre alt geworden. HTML5 hat noch viele Jahre bevor es verabschiedet wird. CSS2.1 ist effektiv noch kein Standard, sondern hat im Juli die Empfehlung zur Veröffentlichung enthalten. Browserhersteller stellen aber bereits Elemente aus HTML5 dar (`canvas`) und auch CSS2.1/CSS3-Eigenschaften werden schon fleißig implementiert. Einerseits zeigt das, dass wir die neuen Elemente und Eigenschaften benötigen und auch die Browserhersteller dieses Bedürfnis erkennen und bedienen wollen. (Wobei ich vom IE8 weder Unterstützung für `canvas` noch für die fortgeschrittenen CSS3-Eigenschaften erwarte.) Aber die Zeit bis zur Verabschiedung von HTML5 ist lang und es kann bis dahin keine vernünftigen Prüftools geben. Der experimentelle [HTML5-Validator](http://validator.nu/) ist wirklich Experimentell und die Überprüfung auf CSS3 bringt nichts, weil die Präfixe nicht erkannt werden: `webkit` und `moz` bringen den Validator – zurecht – aus dem tritt. Als Webstandards-Verfechter sitzt man da natürlich zwischen zwei Stühlen: Einerseits möchte man die neuesten und besten Techniken anwenden, andererseits soll das ganze natürlich auch überprüfbar dem Standard entsprechen. Noch schlimmer wird das, wenn man an Menschen denkt, die gerade HTML und CSS lernen. Wie sollen sie zwischen absichtlichem und versehentlichem Verstoß gegen die Regeln unterscheiden? Und was ist ein guter absichtlicher Verstoß und was ein schlechter? Und kann ich mich überhaupt darauf verlassen, dass die Darstellung meiner Seite auch dann noch so ist wie gedacht, wenn die Verhandlungen über neue Elemente und Eigenschaften erst einmal abgeschlossen sind? Wie so oft erscheint mir Maß und Ziel die Antwort auf diese Fragen. HTML4 (auch in der XHTML-Variante) und CSS2.1 sollten die Basis für unser Verständnis des Webs legen. Dazu sinnvoll eingesetztes JavaScript. In besonderen Situation kann dann im Moment schon das eine oder andere neue HTML5-Element hinzu oder die eine oder andere CSS3-Eigenschaft verwendet werden. Um sich darauf zu verlassen ist es allerdings noch viel zu früh.

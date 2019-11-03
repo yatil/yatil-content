@@ -1,0 +1,24 @@
+Title: Podcast N°4
+----
+Date: 2005-01-23
+----
+Category: Podcast
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Heute geht’s um… mich. Ums Abitur und um Podcasting und ID3-Tags.
+
+## Links:
+
+- [iPod-fun.de](http://ipod-fun.de/index.php?option=com_content&task=view&id=191&Itemid=1)
+- [German Podcast Wiki](http://http://germanpodcast.wikicities.com/index.php/Hauptseite)
+ 
+## Podcast
+
+- **[Die eigentliche MP3-Datei](http://yatil.de/podcast/yatil-2005-01-23-podcast.mp3) (1,5MB)**
+- [Der RSS-Feed](http://yatil.de/feeds/podcast/)

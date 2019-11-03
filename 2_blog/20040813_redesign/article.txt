@@ -1,0 +1,20 @@
+Title: Redesign
+----
+Date: 2004-08-13
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Es ist mal wieder soweit, diese Seite soll neu gestaltet werden. Dabei geht es nicht nur um ein neues Aussehen sondern auch um die Benutzerfreundlichkeit. Hier eine kleine Vorschau, alles andere als fertig:
+
+[![Redesign neu](/images/136.png "Redesign neu")](http://www.yatil.de/images/redesign.png)
+
+Anstatt der letzten Kommentare werden die 5 zuletzt diskuttierten Themen angezeigt werden. Auch die Kommentare werden beim neuen Layout in den gelben Feldern rechts angezeigt. Auch einige andere »Features« sind geplant.
+
+Anregungen und Hinweise sowie Kritik per Kommentarfunktion hinterlasen.

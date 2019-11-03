@@ -1,0 +1,23 @@
+Title: Vanished Specifications (German)
+----
+Date: 2012-09-20
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Matthias Pfefferle](http://notizblog.org/) collected some [specifications which are gone](http://notizblog.org/2012/09/20/404-specification-not-found/) by now: - MicroID
+- POSHFormats
+- MicroJSON
+- Portability Policy
+- Microsyntax
+- AXSchema.org
+- Monkeyformats.org
+- Bioformats
+
+The problem is not that they weren’t adopted, but that there are no traces of the thought process that led to certain decisions. That means we can’t learn from them, even failures are important to learn from. Matthias recommends the [W3C Community Groups](http://www.w3.org/community/) for those specs to be built and to be conserved over time.

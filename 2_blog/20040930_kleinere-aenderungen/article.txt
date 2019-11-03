@@ -1,0 +1,18 @@
+Title: Kleinere Änderungen
+----
+Date: 2004-09-30
+----
+Category: News, Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zuerstmal gibt es eine (duch JavaScript verwirklichte) Vorschau unter dem Kontakt-Formular. Die kann auch Textile.
+
+Auch die letzten Kommentare habe ich erweitert, jetzt sind dort 10 statt 7 Einträge zu sehen. Die Einträge des Gästebuchs sind von den anderen Kommentaren getrennt.
+
+Und das Datum und die Uhrzeit der letzten Änderung wurde in der Detailansicht hinzugefügt.

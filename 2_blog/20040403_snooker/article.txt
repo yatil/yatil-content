@@ -1,0 +1,38 @@
+Title: Snooker
+----
+Date: 2004-04-03
+----
+Category: Fernsehen, Sport
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die **Players Championship** läuft in Glasgow. Die Übertragungen werden – wie immer – auf [Eurosport](http://www.eurosport.de/) gezeigt.
+
+- **Montag:**
+  - 15.00 – 16.30 Uhr (Live)
+  - 20.15 – 23.00 Uhr (Live)
+- **Dienstag:**
+  - 15.00 – 16.30 Uhr (Live)
+  - 17.30 – 19.00 Uhr
+- **Mittwoch:**
+  - 15.00 – 16.30 Uhr (Live)
+  - 17.30 – 19.00 Uhr
+  - 20.00 – 23.00 Uhr (Live)
+- **Donnerstag:**
+  - 15.00 – 16.30 Uhr (Live)
+  - 17.30 – 19.00 Uhr
+  - 20.00 – 22.45 Uhr (Live)
+- **Freitag:**
+  - 15.30 – 17.00 Uhr (Live)
+  - 20.15 – 23.00 Uhr (Live)
+- **Samstag:**
+  - 15.00 – 17.45 Uhr (Live)
+  - 21.00 – 23.00 Uhr (Live)
+- **Sonntag (Finale):**
+  - 17.45 – 19.00 Uhr
+  - 20.30 – 23.00 Uhr (Live) \[Wahrscheinlich: Open End\]

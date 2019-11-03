@@ -1,0 +1,14 @@
+Title: Welche Standards wollt ihr eigentlich?!??
+----
+Date: 2008-01-20
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Jaja, man hört es immer wieder: Das [W3C ist zerstritten](http://cmsblog.msdazu.de/?p=243) und [langsam und es kommt sowieso nix dabei heraus](http://grochtdreis.de/weblog/2008/01/20/css-working-group/). Als (eher stilles) Mitglied der HTML5-Arbeitsgruppe sehe ich das mittlerweile anders. Das W3C ist nicht in der Position Fehler in einer Spezifikation durch ein Update zu beheben, kann keine HTML5.0.0.11 nachreichen. Spezifikationen sind – für Internetverhältnisse – für die Ewigkeit ausgelegt. Das heißt 5, 10 oder gar 20 Jahre. Oft wird dem W3C vorgeworfen, dass es die CSS2.1-Spezifikation nicht abgeschlossen hat, es wird aber übersehen, dass eine Spezifikation erst dann abgeschlossen werden kann, wenn es zwei komplette, voneinander unabhängige Implementationen gibt. Das liegt bei CSS2.1 nicht vor. Und da mag sich ja die Katze in den Schwanz beißen, aber solange es keine Implementationen gibt ist die Spezifikation nicht fertig und solange es keine Spezifikation gibt bauen die Browserhersteller es nicht vollständig ein. Das ist gut und richtig so. Weshalb? Nun HTML4 wurde in einem atemberaubenden Tempo verabschiedet, ohne Implementationen abzuwarten. Das brachte uns nicht nur eine neue HTML-Version sondern auch viele Probleme. So gingen Browser mit Fehlern im Quelltext anders um, hatten schlechtere oder bessere SGML/HTML-Parser und durften sich auch an vielen Stellen einfach aussuchen, wie sie es anzeigen wollten. HTML4, und der darauf aufbauende XHTML1.0-Standard, sind eigentlich ganz schlechte Spezifikationen. An vieles wurde nicht gedacht, manches einfach ignoriert. Das W3C hat eine viel größere Verantwortung. Anfang 1998 gab es [101 Millionen Internetbenutzer](http://www.dns.net/andras/stats.html), mittlerweile liegt diese Zahl zwölfmal so hoch bei [1,2 Milliarden Benutzern](http://www.internetworldstats.com/stats.htm) weltweit. Das ist ein gutes sechstel der Weltbevölkerung. Alle Arbeitsgruppen im W3C, auch HTML5 und CSS2.1/3, haben die Verantwortung und die Verpflichtung gute Standards zu machen. Keine, die „schon irgendwie“ funktionieren und wir damit den nächsten IE bekommen. Sondern wirklich verlässliche Standards, die implementiert werden können und implementiert werden. Schnellschüsse helfen da überhaupt nichts. Übrigens geht man bei den WCAG 2 einen ähnlichen Weg. Die Spezifikation wird als W3C Recommendation veröffentlicht, alle Supportdokumente nur als Working Group Notes. Das heißt sie können schnell und effizient an Entwicklungen angepasst werden und es bleiben keine Leichen wie in der WCAG1 übrig. Stichwort da: „Until User Agents support“.

@@ -1,0 +1,30 @@
+Title: Bye Bye, Klingeltonhilfe.
+----
+Date: 2007-01-11
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Das alles wäre halb so bemerkenswert, wenn sich nach der Aufgabe der Domain nicht gleich ein – ich sage mal – Trittbrettfahrer klingeltonhilfe.de gesichert hätte. Okay, auch das ist kein Problem. Es ist aber sehr wohl ein Problem, wenn er einfach so meine Texte übernimmt ohne mich danach zu fragen (schließlich war die Erstellung derselben nicht zeitunaufwändig).
+
+Das wäre doch das mindeste Anzeichen von Etikette gewesen. Dass die Seite noch nichtmal ein Impressum hat ist genauso beunruhigend wie die Tatsache, dass die meisten Links ins 404-Nirvana zeigen. Vom nicht-standardkonformen Code mit so wunderschönen Sachen wie der Folgenden ganz zu schweigen:
+
+ ```
+```
+<style>
+<!--
+BODY{
+sc
+}
+-->
+</style>
+```
+
+</pre
+```

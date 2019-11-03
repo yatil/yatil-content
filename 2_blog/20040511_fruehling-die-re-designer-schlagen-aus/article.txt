@@ -1,0 +1,34 @@
+Title: Frühling: Die (Re-)Designer schlagen aus
+----
+Date: 2004-05-11
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Einige bemerkenswerte Redesigns ereigneten sich in letzter Zeit. Und – oh Wunder – alle basieren auf CSS.
+
+## Norddeutscher Rundfunk
+
+[![Homepage des NDR](/images/40.png "Homepage des NDR")](http://www.ndr.de/) Der [NDR](http://www.ndr.de/ "Norddeutscher Rundfunk") hat seine Seiten in CSS wiederaufgelegt. Schade ist allerdings, das die Navigation nicht skalierbar ist, obwohl sie aus Text besteht (der allerdings dummerweise als Grafik abgespeichert wurde). Ansonsten stößt mir negativ auf, das die mittlere Spalte sich zumindest bei meiner Auflösung einfach zu weit zieht, das ist schlecht zu lesen.
+
+## Deutsche Bundesbank
+
+[![Homepage der Bundesbank](/images/41.png "Homepage der Bundesbank")](http://www.bundesbank.de/) Mit neuem Vorsitzendem und neuer Homepage geht die [Deutsche Bundesbank](http://www.bundesbank.de/) in den Frühling. Das 4-Spalten-Layout ist sehr übersichtlich und angenehm zu lesen. Im Gegensatz zur NDR-Homepage validiert sie sogar nach dem HTML 4.01-Standard.
+
+## Jeffrey Zeldmans Daily Report
+
+[![Jeffrey Zeldmans Daily Report](/images/42.png "Jeffrey Zeldmans Daily Report")](http://www.zeldman.com/) Auch Design-Guru [Jeffrey Zeldman](http://www.zeldman.com/) hat seine Seite (schon das zweite Mal innerhalb von 6 Monaten) überarbeitet. Sie erstrahlt in einer tollen Grün-Beige-Kombi… Sehr schön. Wer mehr Kontrast mag kann das übrigens auch einstellen.
+
+## MP3.com
+
+[![MP3.com](/images/43.png "MP3.com")](http://www.mp3.com/) Das ehemalige Underground- Band- MP3- Download- Angebot wurde von [cNet](http://www.cnet.com) gekauft und zu einer Art Informations- Plattform rund um Musik und die Technik (vor allem MP3- und WMA-Format). Dazu gibt es Foren und Tutorials.
+
+## Blogger.com
+
+[![Blogger.com](/images/44.png "Blogger.com")](http://www.blogger.com/) Am meisten Eindruck macht das Redesign von [Blogger.com](http://www.blogger.com/), dem Portal für Weblog-Dienste. Douglas Bowman beschreibt auf [Stopdesign](http://www.stopdesign.com/log/2004/05/09/blogger.html) die Gedanken, die hinter dem Redesign stehen.

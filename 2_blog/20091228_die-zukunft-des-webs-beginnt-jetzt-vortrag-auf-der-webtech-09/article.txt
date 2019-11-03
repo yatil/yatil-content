@@ -1,0 +1,18 @@
+Title: Die Zukunft des Webs beginnt jetzt – Vortrag auf der Webtech ’09
+----
+Date: 2009-12-28
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Im November hatte ich die Möglichkeit auf der 3-tägigen [Webtech-Konferenz](http://it-republik.de/konferenzen/webtech09/) in Karlsruhe einen Vortrag zu Zukunftstechnologien im Web zu halten. Ich begann die Session mit folgender Präsentation, [Martin Kliehm vollendete](http://blog.namics.com/2009/11/webtech09.html) (u.a. mit 3D-Canvas-Sachen von denen mir heute noch der Kopf schwirrt ;). Ich habe es versäumt eine Audio-Aufnahme zu machen, der Vortrag wurde jedoch gefilmt und soll wohl auf einer der nächsten [PHP-User-Ausgaben](http://it-republik.de/php/php-user-magazin) erscheinen. Da im Rahmen des „Webstandards Day“ auch noch Vorträgen von anderen Webkrauts gab, sind drei Artikel dort im Blog erschienen, in denen auf die Inhalte der Präsentationen eingegangen und verlinkt wird:
+
+- [Webkrauts auf der WebTech – Rückblick Teil Ⅰ](http://www.webkrauts.de/2009/11/24/webkrauts-auf-der-webtech-rueckblick-teil-i/)
+- [Webkrauts auf der WebTech – Rückblick Teil Ⅱ](http://www.webkrauts.de/2009/11/24/webkrauts-auf-der-webtech-rueckblick-teil-ii/)
+- [Webkrauts auf der WebTech – Rückblick Teil Ⅲ](http://www.webkrauts.de/2009/11/24/webkrauts-auf-der-webtech-rueckblick-teil-iii/)

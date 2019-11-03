@@ -1,0 +1,34 @@
+Title: Joe Clark sammelt Spenden, um Spenden zu sammeln
+----
+Date: 2006-11-09
+----
+Category: Gesellschaft
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Deshalb sammelt Joe fleißig 7.777 Kanadische Dollar, die ihn vier Monate lang über Wasser halten sollen. In dieser Zeit versucht er das Budget des Projekts, das sich auf 7 Millionen Kanadische Dollar beläuft zu sammeln. Im ersten Jahr benötigt er 400.000 Kanadische Dollar um richtig loszulegen.
+
+Das „Open & Closed Project“ hat ganz konkrete Ziele:
+
+- Eine Reihe von Anleitungen für vier Felder von Zugänglichkeit soll geschrieben werden – Beschriftung, Audio-Beschreibung, Untertitelung und Synchronisation. Diese Anleitungen sollen auf Beweisen und Nachforschungen basieren. Falls solche noch fehlen werden die Nachforschungen vom Project selbst vorgenommen. Das Schreiben der Anleitungen wird vier Jahre dauern und wird ein offener Prozess sein. Danach kommt eine einjährige Testphase in der Fehler bereinigt werden. Diese Anleitungen werden weder „Public Domain“ noch „Open Source“ sein, jedoch werden sie kostenlos herunterladbar sein. Gedruckte Exemplare gibt es gegen Bares.
+- Zudem sollen Ausbildungs- und Zertifikationsprogramme entwickelt werden. Man kann dann also auf einer Schule z.B. eine Ausbildung zu „Zertifizierten Untertitler“ machen. TV-Sender und Filmstudios haben dann zudem die Möglichkeit auf zertifizierte Kräfte zurückzugreifen.
+- Zudem soll ein Dateiformat entwickelt werden, das alle Zugänglichkeitsfelder in sich vereint. Dies wurde bereits mehrere Male versucht, jedoch ohne Erfolg.
+- Die Initiative wird neue Schriftarten zur Beschriftung und zur Untertitelung designen und testen. Dieser Bereich ist bereits zwei Jahre im Gang.
+ 
+[Im großen und ganzen eine tolle Idee und eine gute Aktion für den man den einen oder anderen Dollar locker machen sollte. **Spendet!**](http://joeclark.org/micro/)
+
+**UPDATE:**
+
+Habe sogar direkte Antwort auf meine Anmerkung bei der Spende bekommen:
+
+> \> I wish you and the project the best. Use my little money to make  
+> \>something big.  
+> I’m gonna try, that’s for sure. And “little” means little; it’s the  
+> thought that counts. You have my thanks. E-Mail von Joe Clark an mich
+
+Schön, dass er sich die Zeit nimmt!

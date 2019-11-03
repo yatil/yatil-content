@@ -1,0 +1,14 @@
+Title: Primary buttons
+----
+Date: 2015-01-31
+----
+Category: Accessibility, Thoughts, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Intentionally provocative statement: If a “primary button” is an emphasized button, could/should we use `<em><button>Primary</button></em>` instead of `<button class="primary">Primary</button>`?

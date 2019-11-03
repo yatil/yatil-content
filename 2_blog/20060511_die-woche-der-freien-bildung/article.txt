@@ -1,0 +1,40 @@
+Title: „Die Woche der freien Bildung“
+----
+Date: 2006-05-11
+----
+Category: Internationale Politik, Studium
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Die TU Wien geht auf die Straße. Im Rahmen der Woche der freien Bildung trägt die Universität Facetten ihrer Aktivitäten in den öffentlichen Raum.  
+> Die Woche der freien Bildung ist eine von Studierenden organisierte und in Zusammenarbeit mit den Lehrenden verwirklichte Aktion, mit der auf die Probleme im universitären Leben hingewiesen werden soll. Studiengebühren, Zugangsbeschränkungen und soziale Verschlechterungen erschweren den Studierenden ihr Studium. Trotz guter, kooperativer Arbeit aller Universitätsangehörigen untergräbt zunehmende Unterfinanzierung das Fundament der TU Wien. [ÖH: TU Wien: Zukunft für Wissenschaft und Bildung](http://beschraenkt.at/beschraenkt/114675947455)
+
+Dass die Vorlesungen ausgerechnet neben einem Kinderspielplatz stattfinden mussten, ist wohl mit besonderer Volksnähe zu erklären. Die Vorlesung jedenfalls, die ich mir anschauen konnte war „Multi-Modal Information Retrival“ (Horst Eidenberger). Verstanden habe ich zwar nichts, das lag aber auch daran, dass ich erst später dazugestoßen bin, ich dachte nämlich zuerst an einen fliegenden Händler, der seine Waren feil bot.
+
+Auf dem Flyer, der dort auslag, konnte man auch von der Aktion „Freie Fahrt für freie Bildung“ lesen, einer Straßenbahnlinie, die den ganzen Tag nur im Kreis fuhr und in der ebenfalls Vorlesungen abgehalten werden sollten. Das Thema um 12:20 Uhr machte auf sich aufmerksam. „Dr. Pichlmair, Dr. Purgathofer: \_open content, free media\_“ stand da und ich dachte mir, dass das genau mein Ding sei.
+
+Also nix wie rein in die Bahn und dem wirklich interessanten Vortrag, der u.a. von Creative-Commons-Lizenzen und Mash-Ups handelte zugehört. Einziges Manko: Da im hinteren Teil der „Bim“ keine Lautsprecher angebracht waren war die Soundqualität doch eher miserabel. Im Stehen war das zuhören allerdings kein Problem.
+
+Alles in allem eine interessante Idee und ich stelle mir seit heute Mittag die Frage, ob so eine Art des öffentlichen Vortrags nicht auch eine Methode wär Webstandards zu promoten.
+
+[Mehr zu der „Woche der freien Bildung“ gibt es unter un.beschraenkt.at](http://un.beschraenkt.at/)
+
+Am Freitag findet eine weitere, nicht minder interessante Vortragsreihe statt: „Sozio-politische Alternativen mit digitalen Kommunikationsmedien“ ist ein Workshop, der im Rahmen des Alternativgipfels EU-Lateinamerika stattfindet.
+
+> 1\. Sitzung: 10:00-13:00 Uhr (veranstaltet von der Europäischen Linken)  
+> A. Ökonomische Aspekte der Informationsgesellschaft  
+> B. Telesur – ein alternatives Medium  
+> C. Freie/libre Software und digitale Kommunikationsmedien  
+> D. Autorenrechte  
+>   
+> 2\. Sitzung: 14:00-16:00 Uhr (veranstaltet von MINGA Informativa und International Network of Engineers and Scientists)  
+> A. Die Rolle von Zeit, Energie und Information in einer demokratischen Gesellschaft  
+> B. Geistige Monopolrechte und die Privatisierung des kulturellen Erbes der Menschheit  
+> C. Diskussionsforum: Die Entwicklung einer Sozialen Agenda für Kommunikation [Informatik und Gesellschaft 1 Blog](http://cartoon.iguw.tuwien.ac.at/zope/lvas/iug1_ss/get_article?nr=26)
+
+Alles in allem sehr interessante Themen. Und vielleicht schaut [Hugo Chávez](http://derstandard.at/?url=/?id=2439407) ja persönlich vorbei ;)

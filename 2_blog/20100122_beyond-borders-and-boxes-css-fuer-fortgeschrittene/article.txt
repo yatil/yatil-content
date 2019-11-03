@@ -1,0 +1,20 @@
+Title: “Beyond Borders and Boxes”: CSS für Fortgeschrittene
+----
+Date: 2010-01-22
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Am Montag durfte ich beim Webmontag in Frankfurt vortragen. Das Publikum bei diesen Webmontagen ist immer herzlich und die Stimmung gelöst, trotzdem herrscht eine gespannte Atmosphäre des Wissensaustauschs. Darren Cooper moderierte in bekannt englisch-lockerer Art und auch die [anderen 4 Vorträge](http://vimeo.com/groups/32374/videos/sort:newest/format:thumbnail) wussten zu überzeugen. Zu meinem Vortrag “Beyond Borders and Boxes” habe ich viel positives Feedback erhalten.
+
+## Video:
+
+## Folien:
+
+Mehr [Dokumente](http://www.slideshare.net/) von [Eric Eggert](http://www.slideshare.net/yatil) anschauen.

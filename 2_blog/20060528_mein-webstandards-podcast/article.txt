@@ -1,0 +1,24 @@
+Title: Mein Webstandards-Podcast
+----
+Date: 2006-05-28
+----
+Category: Podcast, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Der – wenig einfallsreiche – Name des Podcastes ist Casted und er hat jetzt sogar ein Intro!
+
+> Kein Intro, kein Outro, unmotiviert, unregelmäßig… wenn du das ändern würdest, wärst du schon ein en großen schritt weiter. [Carina](http://www.podster.de/profile/4595) in einem [Kommentar auf Podster](http://www.podster.de/view/12#id-6755)
+
+Der Podcast richtet sich allerdings an die fortgeschrittenen Webseitenersteller und sieht sich als technischere Ergänzung zum [Technikwürze-Podcast](http://technikwuerze.de/), nicht als Konkurrenzprogramm.
+
+An der Podcastingtechnik bin ich zwar sehr zufrieden, aber in den nächsten Sendungen will ich das ganze noch ein bisschen auflocker, im Moment ist das ganze ein dreißigminütiger Redeschwall, was vielleicht nicht ganz so optimal ist.
+
+Themen in der [ersten Ausgabe](http://casted.yatil.de/index.php?id=1) sind CSS Showcases “So 2003?”, WCAG 2 und “How to monetize your website?”.
+
+Die Webseite wird übrigens per [Loudblog](http://loudblog.de/) umgesetzt, wobei ich schon Datenverlust hatte, die Daten des Eintrags waren einfach gelöscht – vielleicht könnte [Gerrit](http://praegnanz.de/) sich mal drum kümmern.

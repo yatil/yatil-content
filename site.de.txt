@@ -1,0 +1,13 @@
+Title: Eric Eggert
+
+----
+
+Author: Eric Eggert
+
+----
+
+Description: Die persönliche Website von Eric Eggert.
+
+----
+
+Copyright: © 2001–(date: Year) (link: https://yatil.net text: Eric Eggert)

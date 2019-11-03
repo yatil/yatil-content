@@ -1,0 +1,26 @@
+Title: Tabellenloses Design
+----
+Date: 2005-03-30
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Aufgrund der Nachfrage habe ich nun eine Artikelserie begonnen, deren Ziel es ist ein tabellenlos “Layout” bzw. “Design” zu entwerfen.
+
+- Teil 1: [Die Grundlagen](http://yatil.de/Artikel/tabellenloses-design-teil-1---die-grundlagen)
+- Teil 2: [Das XHTML-Grundgerüst](http://yatil.de/Artikel/tabellenloses-design-teil-2---das-xhtml-grundgeruest-update)
+- Teil 3: [Eine Übersicht über Layoutgattungen](http://yatil.de/Artikel/tabellenloses-design-teil-3--eine-uebersicht-ueber-layoutgattungen)
+- Teil 4: [Fixed-Width-Layout](http://yatil.de/Artikel/tabellenloses-design-teil-4---fixed-width-layout)
+ 
+Hinzugefügt:  
+1\. Teil: 03.10.2004, 12.42 Uhr  
+2\. Teil: 24.10.2004, 21.17 Uhr  
+2\. Teil überarbeitet: 29.03.2005, 23.30 Uhr  
+3\. Teil: 30.03.2005, 08.36 Uhr  
+4\. Teil: 30.03.2005, 14.47 Uhr

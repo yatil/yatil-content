@@ -1,0 +1,30 @@
+Title: CeBIT 2005: Ich war da.
+----
+Date: 2005-03-17
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Am Dienstag um 10 Uhr in Leimen (Pfalz) brachen wir, das heißt Christian L., Markus und ich, Richtung Hannover auf. Die Fahrt verlief reibungslos, lediglich einmal fuhren wir einen Umweg von ungefähr 40km.
+
+Über Hannover fuhren wir zu unserem Quartier in Springe. Nachdem wir die Stadt erkundigten (u.a. mit folgendem Wortwechsel: Ich: »Ich glaub’ da drüben ist das Rotlichtviertel…« – Markus: »Vielleicht honn die Internet!«) übernachteten wir in der [Jugendherberge Springe](http://www.jugendherberge.de/html/jugendherbergen/individual_jh.jsp?IDJH=315).
+
+Am nächsten Morgen machten wir uns auf zur Messe. 45 Minuten Fahrt in der S-Bahn lagen vor uns. Dummerweise liegt uns das Lesen von S-Bahnhof-Schildern nicht, so dass wir eine Haltestelle in die falsche Richtung fuhren.
+
+Das war jedoch halb so schlimm, da wir nicht lange an der Kasse der Messe anstehen mussten und so schon kurz nach neun das Gelände der Weltausstellung betreten konnten.
+
+Dort zeigte sich ein diffuses Bild, auf der einen Seite riesige Stände der großen Firmen, auf der anderen Seite kleine 3-4m²-Stände von kleinen, meist asiatischen, Firmen. Nachdem wir durch die Hallen 13, 12 und 11 (Telekommunikation) durchgelaufen waren erreichten wir den »Public Sector Parc« bzw. »future parc« (Halle 9), wo unter anderem die [TU Kaiserslautern](http://uni-kl.de/) mit dem [Knoppix-Projekt](http://www.knopper.net/knoppix/) vertreten war. Natürlich wanderte eine der CDs in meinen Beutel.
+
+Danach arbeiteten wir uns »Rückwärts« durch die Messe, besuchten Microsoft, wo gleich 3 CDs den Weg in meinen Beutel fanden und Intel und schauten bei den anderen Großen der Branche vorbei. In Halle 1 (die übrigens viel zu groß ist, für meinen Geschmack) traf man dann auch auf Apple (u.a. mit zwei nebeneinander geschalteten 30"-Displays – Beeindruckend) Zudem gab es dort eine Solaris-Vollversion zu ergattern. Dieses Unix-Derivat wird bald kostenlos vertrieben und auch Open Source gehen. Dort wird es wohl den gleichen Weg wie [OpenOffice](http://de.openoffice.org/) gehen: Eine freie und parallel eine kommerzielle Version. Der Sun-Vertreter wollte mit der Sprache nicht so wirklich herausrücken.
+
+Danach besuchten wir noch die Hallen 19-26 und waren dann am Ende unserer Kräfte. Dass dazu viele kleine Händler schon um 16.00 Uhr abbauten entmutigte uns auch ein bisschen, so dass wir Energie tankten, bevor wir uns zur Verlosung eines Notebooks von [Intel](http://intel.de/) in Halle 2 zurückbegeben. Als niemand von uns gewonnen hatte begaben wir uns Richtung Zug und nach einem kleinen Sprint gelang es uns den Zug um 18.10 Uhr zu erreichen.
+
+Die Rückfahrt klappte diesmal ohne Zwischenfälle. Nachdem wir in Springe ankamen setzten wir uns ins Auto und fuhren (das heißt, ich fuhr) knapp sechs Stunden wieder zurück in die Westpfalz. Dummerweise hatten wir keine Ahnung, wie man von Springe direkt auf die Autobahn kommt, so dass wir zuerst wieder nach Hannover fahren mussten um die Autobahn zu finden, das kostete mindestens 40 Minuten.
+
+Die Bilder sind leider alle verschwommen und der Podcast hätte zu viel Zeit gekostet, deshalb werde ich zumindest zum Thema CeBIT keinen mehr veröffentlichen. Sorry.

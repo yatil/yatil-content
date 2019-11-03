@@ -1,0 +1,14 @@
+Title: Veröffentlichungswahn
+----
+Date: 2007-05-31
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Als ob die beinahe täglichen Posts in letzter Zeit hier nicht schon genug waren ist jetzt bei den Webkrauts eine Übersetzung eines Textes von CSS-Guru [Eric Meyer](http://meyerweb.com/) erschienen. Es geht [darin](http://meyerweb.com/eric/thoughts/2007/05/15/formal-weirdness/) um das merkwürdige Verhalten geschlechtsreifer Informa… von Formularelementen beim Versuch sie mit CSS zu gestalten. Auf deutsch heißt der Artikel [„Verrückte Formulare“](http://www.webkrauts.de/2007/05/31/verrueckte-formulare/). Übersetzt habe ich den Text. Als Haus-und-Hof-Übersetzer Erics (erinnert sich noch jemand an [S5](http://yatil.de/s5/)?) war das ja auch das geringste, das ich tun konnte.

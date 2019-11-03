@@ -1,0 +1,49 @@
+Title: CMS with Textpattern
+----
+Date: 2004-11-22
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+This is my first article in english language so please excuse any language errors. If there are, give me a hint via [e-mail](mailto:mail@yatil.de).
+
+## What is a CMS?
+
+A CMS is a content management system, this means that you can alter your content without the use of XHTML, CSS or any other language. But first the CMS has to be installed. There are millions of different occasions and more different page layouts so unfortunately there is no standard way of using textpattern as a CMS – But there is some knowledge which makes it relatively easy to do so. ## Use of pages, and what is doarticle?
+
+You will need one page for every section you use. With an `id` in the body element you can make the sections “cssdistinguishable”, s not only every site may have its own style, even navigation elements can be marked as “current”. Things who are used in multiple instances should be split into chunks which are called forms in TXP. Then, after having a page which is the main part of the section go back to the write tag and write your output. Save the new article and go back to the section page and enter the following piece of code where you want to have your article displayed: `<txp:doarticle id="##" />`(## = ID of the according document) This means that the article N°## will be parsed, using the default form. if you need another form you can specify it with the `form` attribute. This is practical if you want only one article in a section but you will soon see that it isn’t if you want more articles. It is now clever to say: “Well, nomally you’d see an article list, now you see an article. But if I specify an article I want to show this.” That’s absolutely right and here comes the trick: With both built in conditionals `<txp:if_individual_article />` and `<txp:if_article_list />` it is easy to distinguish both situations. Be careful! The order is the key: ```
+<txp:if_individual_article>
+<txp:article form="default" listform="default" />
+</txp:if_individual_article>
+<txp:if_article_list>
+<txp:doarticle id="4" />
+</txp:if_article_list>
+```
+
+This works like a charm, but if you change the order it will not work: ```
+<txp:if_article_list>
+<txp:doarticle id="4" />
+</txp:if_article_list>
+<txp:if_individual_article>
+<txp:article form="default" listform="default" />
+</txp:if_individual_article>
+```
+
+On article lists the article N°4 will be displayed, txp then says “oh there is an individual article on this page” and displays the article a second time because the second condition is fulfilled. This to avoid frustration. To make the edition of pages as easy as possible you should use the zem\_link-plugin. But there is (sort of) a drawback: the listings of articles in sections are no more automatically created, but that is quite easy to do, especially if you just want to use unordered lists: Create a new article form with the name “listing”. The content of that form is just `<li><txp:permlink><txp:title /></txp:permlink></li>`. To create such a listing go back to the pages and write just under your `<txp:doArticle ... />`: ```
+<ul>
+<txp:article_custom form="listing" limit="5" section="yoursection" listform="listing" />
+</ul>
+```
+
+The drawback: The article you see at that moment will be displayed to. You have different options to get rid of this effect: - Use another author name and alter the `artice_custom` with `author="JohnDoe"`.
+- Use a category and use the category “listed” to specify articles who sould be listed. Your main article shouldn’t of course. You have to use `category="guesswhat"`.
+- Use keywords to specify the listed article. `keywords="listed"`
+- Another posibility is the use of the excerpt field. Just type “You will not be listed!” (or any other word or even just “A”) into the excert field and use the excerpted=“n” flag in article\_custom.
+
+I’d prefer the last point.

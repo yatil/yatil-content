@@ -1,0 +1,88 @@
+Title: Tabellenloses Design Teil 4 - Fixed-Width-Layout
+----
+Date: 2005-03-30
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Einführung
+
+Wie Sie sich sicher noch erinnern geht es in dieser kleinen nicht mehr ganz so kleinen Serie um die Erstellung von Webseiten ohne Layouttabellen oder ähnliche Mittel. Wir benutzen lediglich CSS um die XHTML-Datei zu formatieren. Aber unsere XHTML-Datei weiß noch gar nichts von ihrem Glück, wir müssen ihr sagen, dass sie ein Stylesheed bekommt. Dazu fügen wir folgende Zeile in den `head`-Bereich ein: `<link href="style.css" rel="stylesheet" type="text/css" />`Zu den einzelnen Attributen: - `href`: Verweis auf die Stylesheet-Datei (sie liegt hier im gleichen Verzeichnis und heißt `style.css`).
+- `rel`: Relation zum XHTML-Dokument. Dies bedeutet so etwas wie Verwandschaft, der Wert `stylesheet` zeigt dem Browser an, dass die Datei `style.css` zum Dokument gehört.
+- `type`: Es gab früher noch eine andere Art Stylesheets (deren Name mir aber gerade entfallen ist), wir nutzen Standard-CSS.
+
+Nun gilt es nur noch in dem Ordner, in dem die XHTML-Datei liegt auch eine Datei zu erstellen, die `style.css` heißt. Da dies (wie XHTML) ein reines Textformat ist reicht der “normale” Windows-Editor dafür aus. ## Erste Schritte
+
+Der erste Eintrag in unsere CSS-Datei ist der folgende: ```
+* {
+    margin: 0;
+    padding: 0;
+}
+```
+
+Diese Angaben setzen `margin` (“Außenabstand”) und `padding` (“Innenabstand”) Null. Das Ergebnis wirkt verstörend: Alle Elemente kleben aneinander. Weshalb ist das erwünscht: Verschiedene Browser benutzen verschiedene interne CSS-Angaben. Was im einen Browser standardmäßig einen Abstand von 20px nach oben hat, hat im anderen eventuell überhaupt keinen. Durch diese Angabe bringen wir alle Browser auf einen Stand. Das Sternchen (\*) steht dabei für “alle Elemente”. Als weiteren Eintrag in die CSS-Datei bietet sich folgendes an: ```
+body {
+    padding: 15px;
+    background-color: #333;
+    color: #eee;
+}
+```
+
+Die Ausgabe hat sich jetzt schon deutlich verändert: Der Hintergrund ist dunkel-, die Schrift hellgrau. Die nächste Anweisung sollte so lauten: ```
+#wrap {
+    width: 770px;
+    background: #777;
+    border: 2px solid #aaa;
+    margin: 20px auto;
+}
+```
+
+In modernen Browsern (Mozilla, Opera, IE 6.0) ist unser Layout nun zentriert und 770 Pixel breit. In IE 5.x ist die Box zwar 770px breit, aber linksbündig. Diese Browser lassen sich durch folgendes Workaround besänftigen: In die `body`-Anweisung wird ein `text-align: center;` eingefügt, in die `#wrap`-Anweisung `text-align: left;`. Das `#wrap` steht hier im Übrigen für “Element mit der `id wrap`”. ## Und weiter geht es:
+
+```
+#head {
+    border-bottom: 2px solid #aaa;
+}
+
+#foot {
+    border-top: 2px solid #aaa;    
+}
+```
+
+Damit sind Kopf- und Fußzeile schon mal abgetrennt. Die schwierigste Operation liegt aber noch vor uns: 2 Spalten. Dazu gibt es die `float`-Anweisung, die ein Element aus dem Textfluss heraus nimmt und an eine Seite positioniert wird, das hört sich seltsam an, ist aber in der Praxis unproblematisch. ```
+#content {
+    width: 550px;
+    float: right;
+}
+
+#side {
+    width: 200px;
+    float: left;
+}
+```
+
+Das Verhalten, dass alle Browser jetzt an den Tag legen verwirrt die meisten Anfänger, aber eine Erklärung ist schnell gefunden: Dadurch, dass die beiden Elemente aus dem Textfluss genommen werden sind sie nicht da, nehmen 0 Pixel Höhe ein. Im Internet-Explorer wird die umgebende Box bis unter die beiden Spalten gezogen, dieses Verhalten ist allerdings falsch. Nun gibt es eine ganz einfache Art und Weise diesen Missstand zu beheben: Wir eben dem `foot` folgende Eigenschaft: `clear: both;`. Dadurch werden alle Floats beendet und die Fußzeile, die vorher eher unorthodox daher kam befindet sich wieder an ihrem angestammten Platz: unten. ## Cleaning out the closet
+
+![](/images/185.png) Es gibt aber noch einige “Schönheitsfehler”: Unsere Navigationsliste hat in modernen Browsern noch Listenpunkte (s. Screenshot). Um diese zu entfernen (das Gestalten von Listen, insbesondere von Navigationslisten, folgt später) tragen wir `.nav {list-style: none;}` ein. Was gemerkt? Der Punkt vor der Bezeichnung deutet an, dass es um eine Klasse geht. Klassen werden benutzt, wenn es mehrere gleiche Elemente auf einer Seite geben kann. Für einmalige Elemente ist eine `ID` die bessere Wahl. Ein weiterer “Fehler”: Die Absätze erkennt man nicht, sie hängen einfach zusammen, die Überschrift zweiter Ordnung klebt auch am Rand. Bevor wir nun jedem Absatz eine Klasse zuweisen benutzen wir das, was wir für `body` schon benutzt haben: Stile für ganze Elemente. ```
+h2 {
+    margin-top: 20px;
+}
+
+h2, p {
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+```
+
+Beide Selektoren, `h2` und `p`, haben gemeinsame Werte, deshalb können diese direkt in einen Block geschrieben werden. ## Die Dateien
+
+- [Webseite](http://yatil.de/xhtml/bsp3.html)
+- [Stylesheet](http://yatil.de/xhtml/bsp3.css)
+
+Damit ist unser Basislayout fertig. Im nächsten Teil der Serie geht es um ein elastisches Layout, basierend auf dem gleichen XHTML-Code.

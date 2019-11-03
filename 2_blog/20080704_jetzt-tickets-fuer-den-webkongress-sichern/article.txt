@@ -1,0 +1,18 @@
+Title: Jetzt Tickets für den Webkongress sichern
+----
+Date: 2008-07-04
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Am 4. und 5. September findet der Webkongress Erlangen statt und Tickets sind nun zum Frühbucherpreis noch [bis zum 13. Juli erhältlich](http://de.amiando.com/wke?gat=Cz3e1Ooj). Es gibt auch eine ermäßigten Preis für Studenten (und öffl. Dienst, Behinderte, Arbeitslose, Renter), der noch mal einen 40-€-Rabatt bedeutet. Grund für meinen Eintrag hier dient aber natürlich nicht der reinen Werbung (ok, eigentlich schon), sondern der Hinweis auf mein Engagement als Sprecher. Am zweiten Kongresstag darf ich meinen bewusst provokant benannten Vortrag „Webdesigner an die Macht“ präsentieren. Es geht darin um folgendes: [![](http://wp.yatil.net/wp-content/uploads/2008/07/293.png)](http://wp.yatil.net/wp-content/uploads/2008/07/293.png)
+
+> Webseiten sind heute das Mittel der Kommunikation mit Kunden, deren Erwartungen natürlich erfüllt werden müssen. Die Arbeit von Frontend-Webdesignern wird daher immer wichtiger. Häufig ist deren Aufgabe jedoch nur das Umsetzen von Photoshop-Vorlagen in HTML und CSS, doch hochwertige, barrierefreie Webseiten benötigen viel mehr Zuwendung. Fluide oder elastische Layouts können in Photoshop maximal simuliert werden, das Verhalten der Webseite bei Aktionen der Benutzer ebenso. Gute Webdesigner wissen, wie man mit den Beschränkungen und Möglichkeiten des Webs umgehen kann. Sie stehen für Progressive Enhancement und für Webseiten, die auf die Zukunft, nicht auf die Vergangenheit ausgerichtet sind.
+
+[Beide](http://www.webkongress.uni-erlangen.de/vortraege/tag1.shtml "Programm für den 4. September") [Kongresstage](http://www.webkongress.uni-erlangen.de/vortraege/tag2.shtml "Programm für den 5. September") sind mikroformatiert aufbereitet und bieten vielfältige Themen rund um das Web. Gleich am ersten Tag gibt es einige interessante Vorträge, z.B. [Nicolai Schwarz](http://textformer.de/) mit „Wenn der Hund beim Jonglieren scheitert, sollte er vielleicht das Kleid ausziehen“, der leider gleichzeitig mit [Martin Kliehm](http://learningtheworld.eu/) die bühne betritt. Dabei hätte ich wirklich gerne etwas über „Wet Floor und Coverflow: Canvas in HTML5“ gehört. [Ansgar Hein](http://www.anatom5.de/) zeigt „Progressive Enhancement & Barrierefreiheit am Beispiel von jQuery“ und [Dirk „YAML“ Jesse](http://www.yaml.de/) stellt uns „Erwartungen, Mythen und reale Vorteile von CSS Frameworks“ vor. Tagesabschluss am ersten Tag könnte dann [Tomas Caspers](http://www.tomascaspers.de/) sein: „Barrierefreiheit im Jahre 2008 – Mehr offene Fragen als Antworten?“. Der zweite Tag beginnt entweder mit „Barrierefreiem Javascript“ oder dem „Web 3.0“ bevor [Jens Grochtdreis](http://grochtdreis.de/weblog/) auf „Die 10 drängendsten Herausforderungen des Web“ eingeht. Nach meinem Talk wird [Michael Jendryschik](http://jendryschik.de/) „6 Beispiele für die nützliche Anwendung von Mikroformaten“ zeigen und [Nils Pooker](http://pookerart.de/wordpress/) den Kongresstag mit „Webstandards – noch immer ein Thema?“ abschließen. Damit sind unter anderem gleich **neun Webkrauts** zu hören, eine tolle Sache. Alle Informationen gibt es [auf der Webseite des Webkongresses](http://www.webkongress.uni-erlangen.de/).

@@ -1,0 +1,257 @@
+Title: Interaktive Tabelle mit DOM-Scripting
+----
+Date: 2004-08-30
+----
+Category: Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+In diesem Artikel geht es um die Herstellung einer interaktiven Tabelle, dazu wird JavaScript, das DOM, CSS und XHTML benutzt.
+
+## Was erreicht werden soll
+
+Zuerst sollte man einen Blick auf das [fertige Ergebnis](/lgp/stdplan13.html) werfen. Dieser Stundenplan, der für alle Schüler der Jahrgangsstufe 13 (2004) gilt, kann durch anklicken der eigenen Stunden “personalisiert” werden. Wer gleich “in medias res” gehen will kann sich das [Paket downloaden](#domdownload). ## Das Fundament
+
+Sinn macht DOM-Scripting natürlich nur, wenn man ein XHTML-Dokument hat, welches valide ist. Nur so ist gewährleistet, dass man mit dem JavaScript die richtigen Elemente auswählt. Das XHTML-Dokument ist sehr groß (257 Zeilen/9,32 KB), weshalb ich es hier nicht vollständig veröffentlichen werde. (Es ist damit aber immer noch um 75% kleiner als das [Original](http://www.yatil.de/lgp/stundenplan13.htm).) Zur Veranschaulichung: Eine XHTML-Tabelle besteht immer aus den 3 Teilen: Kopf (`<thead>`), Fuß (`<tfoot>`) und Körper (`<tbody>`). Dazu gibt es noch eine Beschriftung (`<caption>`). Hier eine verkürzte Version: ```
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>
+      Stundenplan MSS 13
+    </title>
+    <link rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="./print.css" media="print" />
+    <script type="text/javascript" src="color.js"></script>
+  </head>
+  <body>
+    <table>
+        <caption>Stundenplan der MSS 13</caption>
+        <thead>
+            <tr>
+                <td>&nbsp;</td>
+                <th colspan="5">Montag</th>
+                <th colspan="5">Dienstag</th>
+                <th colspan="6">Mittwoch</th>
+                <th colspan="6">Donnerstag</th>
+                <th colspan="5">Freitag</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <td colspan="28">Stundenplan: MSS 13, Schuljahr: 2004/2005, Gestaltung: &copy;<a href="http://www.yatil.de/impressum/">Eric Eggert</a> 2004</td>
+            </tr>
+        </tfoot>
+        <tbody>
+            <tr class="odd">
+                <th>1</th>
+                <td class="first">ph2<br />Fr<br />Ph&Uuml;</td>
+                <td>ch2<br />Wk<br />ChL</td>
+                <td colspan="3">&nbsp;</td>
+                <td class="first">kr1<br />Fs<br />304</td>
+                <td>kr2<br />Md<br />302</td>
+                <td>er<br />Fl<br />202</td>
+                <td>et<br />Ha<br />107</td>
+                <td>&nbsp;</td>
+                <td class="first">m3<br />Fr<br />204</td>
+                <td>m2<br />Ju<br />105</td>
+                <td>m1<br />Ny<br />107</td>
+                <td>M<br />Se<br />310</td>
+                <td colspan="2">&nbsp;</td>
+                <td class="first">D1<br />Bw<br />107</td>
+                <td>SK2<br />Wk<br />412</td>
+                <td>ENG1<br />Br<br />SL</td>
+                <td>BI2<br />Hk<br />BiL</td>
+                <td>CH<br />Cl<br />ChL</td>
+                <td>L<br />Hu<br />Bibl</td>
+                <td class="first">mu1<br />Sch<br />Msk</td>
+                <td>if<br />Li<br />IR</td>
+                <td colspan="3">&nbsp;</td>
+            </tr>
+            <tr class="even">
+                <!-- ... -->
+            </tr>
+            <!-- ... -->
+        </tbody>
+    </table>
+    <div id="dontprint">
+        <!-- ... -->
+    </div>
+  </body>
+</html>
+```
+
+**Anmerkungen:**Zuerst musste die Anzahl der Tabellenspalten festgestellt werden (es sind 28), da die Daten zeilenweise eingegeben werden. Im Tabellenkopf (Zeilen 16-25) werden die Wochentage angebracht, für die erste Spalte wird ein leeres `<td>` (table data) angebracht, um Platz für die Stundenangabe zu schaffen. Die Tage sind dann als `<th>` (table header) ausgezeichnet. Durch das `colspan`-Attribut werden die Wochentagbeschriftungen über fünf bzw. sechs Spalten gespannt, da an einigen Tagen (Montag, Dienstag, Freitag) fünf, an anderen sechs, Stunden parallel liegen. Der Tabellenfuß (Zeilen 26-30) enthält den Copyrighthinweis, der unter allen 28 Spalten gespannt wird. Im Tabellenkörper (Zeilen 31-61) kommen dann die eigentlichen Daten, die Stundenangabe als `<th>` ausgezeichnet. In jeder Tabellenreihe (`<tr>`) werden die verschiedenen Stunden eingetragen. Es werden immer im Format Fach`<br />`Lehrer`<br />`Saal (line break). Die jeweils ersten Spalten der Wochentage bekommen die Klasse `first`, damit die Spalten gestaltbar sind. Die letzten, leeren Spalten einer Stunde werden per `colspan` zusammengefasst. Die ungeraden Zeilen werden mit der Klasse `odd`, die geraden Zeilen mit `even` gekennzeichnet. In den Bereich `dontprint` (Zeilen 63-65) wird die Anleitung geschrieben, die nicht mitgedruckt werden soll. Dafür sorgt später das Druck-Stylesheet. Das Dokument an sich ist nun fertig, es sieht aber noch sehr langweilig aus: ![Tabelle - Ungestylt](/images/143.gif "Tabelle - Ungestylt")## Eine Haut verpassen
+
+Das – ziemlich langweilige – XHTML-Dokument müssen wir nun gestalten, damit wir eine ansehnliche und übersichtliche Tabelle bekommen. Dazu benutzen wir CSS. ```
+body {
+    font: 62.5% "Bitstream Vera Sans", "Lucida Grande", "Lucida Sans Unicode", Lucida, Verdana, sans-serif;
+    color: #333;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+caption {
+    text-align: left;
+    font-size: 2em;
+    padding-bottom: 0.5em;
+}
+```
+
+**Anmerkungen:**Was es mit der Schriftgröße von 62,5% (Zeile 2) auf sich hat [erklärt Richard Rutter](http://www.clagnut.com/blog/348/). Die Farbe \#333 (Zeile 3), ein dunkles Grau sorgt dafür, dass die Schrift einen nicht allzuhohen Kontrast hat. Durch das kollabieren der Tabellenränder (Zeile 7) wird erreicht, das die Ränder der Zellen zusammenfallen und kein Freiraum dazwischen bleibt. Für die Tabellenbeschriftung (Zeilen 10-14) definieren wir Links-Ausrichtung und doppelte Schriftgröße. Auch ein bisschen Abstand nach unten (0,5em) wird festgelegt. ```
+td, th {
+    border: 1px solid #333;
+    color: #333;
+}
+
+tr {
+    height: 3em;
+    border-right: 2px solid #333;
+}
+
+tr.even {
+    background: #EFFFEF;
+}
+
+tr.odd {
+    background: #FFF8E7;
+}
+
+tr.even th, tr.odd th {
+    font-size: 1.5em;
+}
+```
+
+**Anmerkungen:**Zuerst (Zeilen 1-4) werden um alle Tabellenzellen Ränder gezogen. Die Reihen werden auf 3em Höhe festgelegt, rechts bekommen sie einen 2px breiten Rahmen. Die Farben für die wechselnden Spalten festgelegt (\#EFFFEF und \#FFF8E7). Zudem wird die erste Spalte mit den Stundennummern noch vergrößert. ```
+td {
+    text-align: center;
+    font-size: 1.2em;
+    width: 3em;
+    cursor: crosshair;
+}
+
+td:first-line {
+    font-weight:bold;
+}
+
+td.first {
+    border-left-width: 2px;
+}
+```
+
+**Anmerkungen:**Der Inhalt der Zellen wird zentriert dargestellt und auf 3em Breite fixiert. Die erste Zeile (durch das “Pseudoformat” :first-line) wird fett dargestellt. Als Mauszeiger (cursor) legen wir ein “Zielkreuz” fest. Dies soll dem Benutzer zeigen, wo und dass es was zu tun gibt. Die Zellen mit dem ersten Fach des Tages einer Stunde haben wir mit der Klasse `first` ausgezeichnet. Diese Zellen bekommen nun einen dickeren linken Rahmen, dadurch können wir die Wochentage optisch besser voneinander unterscheiden. ```
+thead tr {
+    height: auto;
+}
+
+thead td {
+    border: none;
+    cursor: default;
+}
+
+thead th {
+    background: #eee;
+    font-size: 1.75em;
+    border-left-width: 2px;
+}
+```
+
+**Anmerkungen:**Diese Formatierungen für den Tabellenkopf sind eigentlich einfache Regeln. Das `<td>` im Kopfbereich wird ohne Linie dargestellt und auch der Mauszeiger bleibt normal. ```
+tfoot td {
+    width:auto;
+}
+
+p {
+    font-size: 1.3em;
+}
+```
+
+**Anmerkung:**Die Schriftgröße für Absätze wird hochgesetzt und die Breite für die Zelle im Tabellenfuß auf “automatisch” gesetzt. Der Internet Explorer kommt nämlich ansonsten nicht zurecht und stellt jedes Wort im Tabellenfuß in einer eigenen Zeile dar. Unsere Tabelle sieht nun so aus, aber interaktiv ist das noch nicht. ![Tabelle - Gestylt](/images/144.gif "Tabelle - Gestylt")## Ordnung auch beim Druck!
+
+Auf dem Papier ist eine schwarz/weiße Darstellung am Übersichtlichsten, unsere gewählten Felder bleiben (nachdem wir später die Funktionalität eingebaut haben) aber rot. Dadurch ist zuerst einmal gewährleistet, dass man auch anderen Auskunft über ihren Saal geben kann, gleichzeitig aber alle für einen selbst relevanten Stunden sofort findet. ```
+body {
+    font-size: 10pt;
+}
+
+table {
+        width: 100%;
+}
+
+caption {
+    font-size: 14.5pt;
+}
+
+tr.even {
+    background: #eee;
+}
+
+tr.odd {
+    background: #ddd;
+}
+
+tr.even th, tr.odd th {
+    font-size: 12pt;
+}
+
+td {
+    font-size: 9pt;
+    width: auto;
+}
+
+thead th {
+    font-size: 13pt;
+}
+
+div#dontprint {
+    display: none;
+}
+```
+
+**Anmerkung:**Wirklich bemerkenswert sind nur die Zeilen 34-36: Der Bereich `dontprint` wird nicht angezeigt, wenn gedruckt wird (Hier hätte es die eigene ID gar nicht gebraucht, aber eventuell wird das Dokument mal erweitert und dann gibt es eventuell auch `divs`, die nicht gedruckt werden sollen). Im Druck sieht das Dokument dann so aus: ![Tabelle - Im Druck](/images/145.gif "Tabelle - Im Druck")(Screenshot aus der Druckvorschau des Firefox.) ## Schalt’ den Dynamo ein!
+
+Jetzt kommt das, was immer schwammig als “Interaktivität” oder “Dynamik” bezeichnet wird. In diesem Fall wird der Effekt durch ein kleines aber feines JavaScript und das DOM erreicht. Dazu griff ich auf einen Code von dem exzellenten Artikel [Events ohne onFoo()](http://home.arcor.de/xbo/events_ohne_onfoo.html) von [Stefan Born](http://home.arcor.de/xbo/) zurück: ```
+function addEvent(obj, evType, fn) {
+    if (obj.addEventListener) {
+        obj.addEventListener(evType, fn, false);
+        return true;
+    } else if (obj.attachEvent) {
+        var r = obj.attachEvent("on"+evType, fn);
+        return r;
+    } else {
+        return false;
+    }
+}
+    
+function getEventTarget(e) {
+    return (e.target) ? e.target : e.srcElement
+}
+    
+ColorIt = function(e){
+    var tg = getEventTarget(e);
+    if ((tg.style.backgroundColor.indexOf("240")>0) || (tg.style.backgroundColor == "#f07e60")) {
+        tg.style.backgroundColor = "";
+    } else {
+        tg.style.backgroundColor = "#F07E60";
+    }
+}
+
+onPageLoad = function(){
+    var td = document.getElementsByTagName("td");
+    for (var i = 1; i < td.length; i++) {
+        addEvent(td[i], "click", ColorIt);
+    }
+}
+    
+window.onload = onPageLoad;
+```
+
+Die ersten beiden Funktionen stammen aus dem o.g. Artikel und sind ein Beispiel für effizientes und schönes Javascript. Die letzte Funktion weißt allen Zellen (außer der ersten, deshalb beginnt die for-Schleife mit 1) einen Event-Handler zu, in diesem Fall onClick, und, dass die Funktion ColorIt aufgerufen werden soll, wenn geklickt wird. Diese Funktion prüft, ob der backgroundColor-Wert in der angeklickten Zelle den Wert 240 oder unseren Farbton enthält. Diese Oder-Prüfung benötigt man, da Mozillas den Wert als CSS-rgb-Wert speichern, der Internet Explorer aber den Farbwert als Hexwert ins Dokument speichert. Ist also ein Farbwert vorhanden, so wird er mit _Nichts_ überschrieben, wodurch der Hintergrund wieder zum vorschein kommt. Ansonsten wird die Hintergrundfarbe mit \#F07E60 überschrieben. [Unser Dokument ist fertig.](http://www.yatil.de/lgp/stdplan13.html)## Download
+
+[Hier kann das gesamte Verzeichnis als Zip-Datei (3,5 KB) heruntergeladen werden.](http://www.yatil.de/zip/lgp.zip)

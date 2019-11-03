@@ -1,0 +1,73 @@
+Title: Line-On-Sides Headers Reloaded
+----
+Date: 2015-12-19
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: flexbox
+----
+Image: 
+----
+Text:
+I read the [Webkrauts advent calendar article by Jens Grochtdreis](http://webkrauts.de/artikel/2015/ueberschrift-ueber-durchgestrichener-linie) earlier today, it is about headers with lines on the side, quite like in the article image above. Actually exactly like the example above. (There is a similar [article by Chris Coyier on CSS-Tricks](https://css-tricks.com/line-on-sides-headers/) for English-speaking people out there.) He presents a solution with one or two pseudo elements and an extra `<span>` in both cases and has a pretty simple code for it, as well. I wondered if there is an even simpler solution and I believe I have found one that doesn’t need the other `<span>` and just uses the pseudo elements. One caveat: the solution depends on [flexbox](http://caniuse.com/#feat=flexbox), so older browsers are out of look and you might need some prefixes. But yeah, progressive enhancement!
+
+## Heading – oh look, no span!
+
+```css 
+h2 {
+  display: flex;
+  align-items: center;
+  color: rebeccapurple;
+}
+
+h2::before, h2::after {
+  flex: 1;
+  height: 3px;
+  content: '';
+  background-color: currentColor;
+}
+
+h2::before { margin-right: 10px; }
+h2::after  { margin-left:  10px; }
+```
+
+We define the heading as a flex container, `align-items` centers the pseudo elements. The `::before` and `::after` pseudo elements are set to the height that defines the width of the line. Using `flex: 1` distributes the pseudo elements evenly, ans as they are before and after the text, they push it to the center. Margins help to have a gap between the text and the lines. To add the left and right variants, these two “modifier classes” (also known as layout classes) can be defined: 
+
+```css 
+.left-aligned::before {
+  flex: 0;
+  margin-right: 0;
+}
+
+.right-aligned::after {
+  flex: 0;
+  margin-left: 0;
+}
+```
+
+Voilà! The effect works perfectly, is scalable and works when you don’t have tight control over the HTML, such as when you get output from a CMS WYSIWYG editor. You can play with the code in the following codepen: 
+
+See the Pen [Line-On-Sides Headers with Flexbox](http://codepen.io/yatil/pen/RraBxW/) by Eric Eggert ([@yatil](http://codepen.io/yatil)) on [CodePen](http://codepen.io).
+
+## Addendum
+
+Of course, while writing this article, [Gunnar Bittersman](http://bittersmann.de/) had already posted the [flexbox approach to the article comments](http://webkrauts.de/artikel/2015/ueberschrift-ueber-durchgestrichener-linie#comment-5255). He knows everything. But while reading the comments, the topic of more words per line came up and how the solution looks when there are more lines involved. Turns out: Not too good. The lines shrink to 0 and the only thing you see is the margin. Flexbox to the rescue. Again! The `flex` shorthand can take the values of three other properties: `flex-grow`, `flex-shrink`, and `flex-basis`. If we set `flex-basis` to `20%`, this is the default width of the element. `flex-shrink` is set to `0` to avoid shrinking below those `20%` but the `flex-grow` is set to `1` to allow growing larger than `20%`: 
+
+```css 
+h2:before, h2:after {
+  flex: 1 0 20%;
+  height: 3px;
+  content: '';
+  background-color: currentColor;
+}
+```
+
+And a codepen for you to play around with this solution: 
+
+See the Pen [Line-On-Sides Headers with Flexbox and minimal lines](http://codepen.io/yatil/pen/NxNejB/) by Eric Eggert ([@yatil](http://codepen.io/yatil)) on [CodePen](http://codepen.io)
+
+And here is another example. This time we use border-image and an SVG to have an ornament around the heading: 
+
+See the Pen [Line-On-Sides Headers with Flexbox and border images](http://codepen.io/yatil/pen/VeaoMP/) by Eric Eggert ([@yatil](http://codepen.io/yatil)) on [CodePen](http://codepen.io).

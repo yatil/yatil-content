@@ -1,0 +1,18 @@
+Title: Wieder online.
+----
+Date: 2005-10-22
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nachdem ein Hardwareausfall in der Nacht meinen Hoster [all-inkl.com](http://www.all-inkl.com/index.php?partner=146218) komplett von der Außenwelt abgeschnitten hatte war diese Webseite (zusammen mit allen weiteren Seiten von mir) nicht mehr erreichbar.
+
+Aber auch knapp 16 1/2 Stunden Downtime ist kein Grund den Hoster zu wechseln: Der Grund für die Störung ist [LambdaNet](http://lambdanet.de/), deren Switch wohl abgeraucht ist.
+
+Zudem ist der Support von [all-inkl.com](http://www.all-inkl.com/index.php?partner=146218) in der Regel genial und sehr schnell. Ich sollte aber eventuell mal einen Serverwechsel anfragen, die Seite wird doch immer langsamer.

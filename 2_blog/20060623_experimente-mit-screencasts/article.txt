@@ -1,0 +1,18 @@
+Title: Experimente mit Screencasts
+----
+Date: 2006-06-23
+----
+Category: Fun, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Da ich das grundsätzlich interessant finde und die Nachrichtenlage für den [Podcast](http://casted.yatil.de) reichlich dünn ist habe ich ein bisschen mit der [Freeware Wink](http://www.debugmode.com/wink/), Version 2.0, herumgespielt.
+
+Herausgekommen ist ein [Tutorial zur Installation von Textpattern](http://yatil.de/txptutorials/1/). Alles noch sehr experimentell und deshalb mit Vorsicht zu geniesen. Die Dateigröße ist mit einem knappen Megabyte noch ziemlich klein, was auch an dem nicht vorhandenen Ton liegen wird.
+
+Von Anregungen bitte ich ausdrücklich **nicht** abzusehen.

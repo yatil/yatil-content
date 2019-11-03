@@ -1,0 +1,16 @@
+Title: Newsmap
+----
+Date: 2004-04-04
+----
+Category: Design, News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die wichtigsten News Nachrichten auf einen Blick zeigt uns die [Newsmap](http://www.marumushi.com/apps/newsmap/newsmap.cfm?selected=de&categories=world,nation,business,technology,sports,entertainment,health) (hier: Nachrichten auf deutsch). Die Daten bezieht das Programm dabei aus den [Google News](http://news.google.de) .
+
+Ich finde, das ist eine geniale Idee…

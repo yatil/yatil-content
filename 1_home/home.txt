@@ -1,0 +1,13 @@
+Title: Home
+
+----
+
+Intro: ![Avatar](https://avatar.yatil.net/300){.intro-image} **My name is Eric.** I’m a Web Accessibility Specialist and work with [Knowbility](https://knowbility.org/) and the [W3C](https://www.w3.org)’s [Web Accessibility Initiative](https://www.w3.org/WAI/) to make the Web a better, more inclusive, place.<br>Find me on <a href="https://micro.yatil.net/@yatil" rel="me">Mastodon</a> and <a href="https://github.com/yatil/" rel="me">Github</a>, too.
+
+----
+
+Text: Other profiles on the web & email: <a href="https://twitter.com/yatil" rel="me">Twitter</a>, <a href="https://www.instagram.com/yatil" rel="me">Instagram</a>, <a href="https://www.flickr.com/people/yatil" rel="me">Flickr</a>, <a href="https://www.linkedin.com/in/yatil/" rel="me">LinkedIn</a>, <a href="https://keybase.io/yatil" rel="me">Keybase</a>, <a href="https://t.me/yatil2k" rel="me">Telegram</a>, <a href="mailto:mail@yatil.net" rel="me">mail@yatil.net</a>
+
+----
+
+Perpage: 10

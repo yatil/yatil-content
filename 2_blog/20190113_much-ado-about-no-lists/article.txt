@@ -1,0 +1,67 @@
+Title: Much Ado About No Lists
+
+----
+
+Intro: In the past two days, people noticed that VoiceOver (VO) on top of Safari is not reading list semantics when the list is not styled in a list-like fashion.
+
+----
+
+Text:
+
+First things first:
+
+## What does it mean for me as a web developer that Safari is not reading lists when it doesn't look like a list?
+
+**Nothing.** The first commits for “layout lists”[^1] have been committed to the [source in 2014](https://github.com/WebKit/webkit/commit/9ee768fd0a2fc2104c9a94542545f60e51421c07#diff-c0dfd1400d023854a36f3c70192c8968), the code for this particular functionality has [not changed since mid-2015](https://github.com/WebKit/webkit/commit/c484541d223f49c710cf5c8bfaeda672eeafe854#diff-c0dfd1400d023854a36f3c70192c8968). Considering that the issue just came up in 2019 probably means that it did not have a negative impact on users. Instead, according to [a comment made by James Craig](https://bugs.webkit.org/show_bug.cgi?id=170179#c1), “Customers seem much happier in the 3 years since this change went in.”
+
+## But shouldn't browsers and screen readers respect semantics?
+
+That was my first [knee-jerk reaction on Twitter](https://twitter.com/yatil/status/1083736641737502720).
+
+In a perfect world where developers would code perfect code, this principle would hold true. However, in the diverse context of the web, browsers and assistive technologies have to make judgment calls. Back in the day that was mostly about repairing HTML (before the behavior was standardized in HTML5). 
+
+Today those judgment calls revolve around how users actually use and want to read content on the web. When mobile browsers were introduced, the viewport was set to 960px by default to avoid breaking sites. It was a judgment call to not break the web.
+
+When Safari decides that it is better not to announce lists in certain circumstances, that is a judgment call they are allowed to make whether I agree with it or not.
+
+Indeed this already happens with tables where browsers (all of them!) make a determination of layout table, or not.[^2]
+
+Most screen readers also decide to not use `<strong>` or `<em>` semantics, so they are usually not announced. In fact, even such useful elements as `<del>` and `<ins>` usually have no recognition at all in browsers.[^3]
+
+## So we need standards for screen reader output!
+
+Yes, and no. Users of screen readers are very diverse. Many screen reader users can see the screen. Some know every bit of the screen reader’s settings, other users struggle with the essential functions. In the end, a screen reader is a highly personalized piece of assistive technology.
+
+In principle, I’d personally prefer the behavior to be a setting in the screen reader (VoiceOver) itself, rather than Safari deciding what to do. On the other hand that has also ramifications: How would the browser communicate that it deems a list is used for “layout”? We generally don’t want assistive technologies to access the HTML directly, because this lead to issues in the past.
+
+## Next steps?
+
+Of course, we can yell at browsers and assistive technologies for making our lives more complicated, but the reality is that we are living in a complex world and there is not a black and white answer (yet!) on how to tackle issues like this.
+
+> We really need an open conversation on what CSS is allowed to overwrite semantics. Apart from display:none/visibility:hidden, I personally think no CSS should alter the semantics of the page.
+
+The above paragraph was my hot-take two days ago. I’m not sure if it holds up as much as I would want it to do. I think we need to define the expected or preferred behavior of user agents somehow but to flat-out forbid interpretation might be to the decrement of the users.
+
+We have come so far to agree that [websites don’t need to look the same in every browser](http://dowebsitesneedtolookexactlythesameineverybrowser.com) mostly due to bugs in their rendering engines or preferences of the user.
+
+I think the same is true for screen readers and other assistive technology: **Websites don’t need to sound the same in every screen reader.**
+
+The issue with “listitis”[^4] stems from HTML not having a lot of ways to structure content differently. Do we really need `<ul>` lists in every `<nav>` element? Wouldn’t it make more sense to have `<item>`[^5] elements as direct children in the navigation? Do we need additional ways to group content that are not lists? Maybe we should adopt the `<g>` element from SVG in HTML. Maybe we should more often use `<section>`s as a grouping mechanism.
+
+It is great that we have this conversation around semantics, interpretation, and standardization. It is needed. But please don’t use the discussion to frighten developers of accessibility. Best practices are useful. Semantic code is always better for accessibility, even if some users or technology decides not to use parts of it. Differences are OK as long as users have a good experience and without an indication that it hurts users, I don’t think we should “fix” it at all.
+
+See also: [Scott O’Hara’s take on the issue (with a lot of more background information and ways to force list semantics to VO/Safari users, if you really have to.)](https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html)
+
+[^1]: I think that saying those lists are used as “layout” is quite a misnomer, the lists are used as a generic grouping mechanism.
+[^2]: This is an entirely different issue than the one that removes semantics from responsive tables.
+[^3]: Which is a shame, they are so useful!
+[^4]: Using lists to structure every little part of the content.
+[^5]: Sorry for uninventive naming.
+
+----
+
+Date: 2019-01-13 11:50
+
+----
+
+Coverimage: 

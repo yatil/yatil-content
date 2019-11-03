@@ -1,0 +1,20 @@
+Title: 2 Redesigns
+----
+Date: 2004-08-18
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## [Mezzoblue](http://www.mezzoblue.com/)
+
+[![Screenshot von mezzoblue.com](/images/138.png "Screenshot von mezzoblue.com")](http://www.mezzoblue.com) [Dave Shea](http://www.mezzoblue.com/about/dave/) hat seine Website neu gestaltet. Das letzte **Mezzoblue**-Design war ja [nicht so prickelnd](http://www.yatil.de/weblog/99990/sommer-bei-dave). Nun hat er sich selbst wieder übertroffen, obwohl noch ein bisschen Feintuning nötig ist, vor allem beim Kontrast.
+
+## [Design by Fire](http://www.designbyfire.com/)
+
+[![Screenshot von designbyfire.com](/images/139.png "Screenshot von designbyfire.com")](http://www.designbyfire.com) Auch [Andrei Herasimchuck](http://www.designbyfire.com/andrei.php) hat seine Seite überarbeitet. Allerdings finde ich die seite weniger durch Feuer designt. Die Seite sieht »bloggisch« aus und ähnelt dem früheren Design von [Jeffrey Zeldmans](http://www.happycog.com/people/zeldman/) [zeldman.com](http://www.zeldman.com/). Im Vergleich zur vorherigen Seite eine eher schwache Leistung.

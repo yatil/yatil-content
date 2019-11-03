@@ -1,0 +1,22 @@
+Title: MOCK-UP: W*** Kino***
+----
+Date: 2005-06-14
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Im W\*\*\* Kino\*\*\* laufen zwar schöne Filme, aber “deren Webseite” ist ein Alptraum. Ein Frames und Tabellengewirr mit versteckten Informationen in der Seite.
+
+Darum habe ich mir die Arbeit gemacht ein kleines Mock-up gemacht: “W\*\*\* Kino\*\*\* P\*\*\* Mock-up”.
+
+“Dieses Mock-up” besteht lediglich aus einer Seite enthält aber fast alle Elemente der originalen Seite. Ursprünglich war geplant, dass die Filme verlinkt sind und Informationen zum Film eingeblendet werden.
+
+Aufgrund der exszessiven Nutzung von halb-transparenten PNGs und der Verwendung des [IE7-JavaScript-Moduls](http://dean.edwards.name/IE7/) war solch eine Funktion jedoch nicht möglich. Eventuell gibt es dafür aber in Zukunft einen Workaround.
+
+**Hinweis:** Dieser Artikel wurde aufgrund von Drohungen mit einem Rechtsanwalt abgeändert. Das Verhalten des Kinos schockiert mich zutiefst!

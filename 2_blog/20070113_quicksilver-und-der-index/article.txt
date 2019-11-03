@@ -1,0 +1,18 @@
+Title: Quicksilver und der Index
+----
+Date: 2007-01-13
+----
+Category: News, Switch2Mac
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+In letzter Zeit wurde mein Mac immer langsamer und vieles ging nicht mehr so „smooth“ wie in der Anfangszeit und ich habe mich ernsthaft gewundert woran das liegt.
+
+Die Erklärung war letztlich ganz einfach: Die Index-Datei von Quicksilver war auf knapp hundert Megabyte gewachsen, die natürlich dann jedes Mal in den Arbeitsspeicher geladen werden musste. Bei 512 Megabyte kein wirklich kleiner Anteil.
+
+Die Lösung: Schnell mit [AppZapper](http://www.appzapper.com/) (US$ 12.95) deinstalliert und neu installiert… Läuft wie geschmiert…

@@ -1,0 +1,119 @@
+Title: A better way to use icon fonts
+
+----
+
+Intro: **Please note:** There is a [follow-up](http://yatil.net/the-best-way-to-use-icon-fonts) to this article, which provides a much simpler and cleaner solution than anything noted in this article, which still provides some good points regarding `before` and `after` and Screen Readers: [“The best way to use icon fonts”](http://yatil.net/blog/the-best-way-to-use-icon-fonts)
+
+----
+
+Text:
+
+There are some browser and screen reader combinations that treat CSS not only as a presentational thing, but apply meaning according to the used properties. For example [some won’t read a list if you use `list-style: none;` in your CSS](http://www.456bereastreet.com/archive/201109/screen_readers_list_items_and_list-stylenone/). This assumes that the meaning of your HTML is overwritten by the visual style: If it doesn’t look like a dumb bullet list, it must be no list at all. I’m not sure I conclude with that assumption, but that isn’t the main point of the article here. I’m sure about another property that changes how a screen reader reads a document: `content()`. This one clearly adds content like text or an image to the content of the document, hence the name. It alters the document. Look at this code: 
+
+```css
+a[href$=".pdf"]:after {
+	content: " (PDF document)";
+}
+```
+
+Clearly here content gets inserted that will benefit everyone, so reading it out to screen reader users is a good thing. (Note: While Firefox thinks this is valuable for screen readers, it doesn’t allow us to select or copy that text, see [this fiddle](http://jsfiddle.net/yatil/66Pgb/). I consider this a bug and will file one. This is a bug since – grab a seat! – August 1999. No, [really it is!](https://bugzilla.mozilla.org/show_bug.cgi?id=12460)) Now, finally, to icons: The best practice until now to add icons from fonts is to use a data attribute and generated content through `:before` or `:after` pseudo elements, like [Jon Hicks](http://hicksdesign.co.uk/) showed in his [24ways article](http://24ways.org/2011/displaying-icons-with-fonts-and-data-attributes). This works great and has all the benefits you get from the icon fonts: Unlimited scalability, easy maintainability, small footprint, no tedious sprites, easy to change color, text effects using text-shadow, to name a few. (See this [example of font icons in use by css-tricks.com](http://css-tricks.com/examples/IconFont/) to experience the benefits.) This is the code currently used to define the icon ([example by Nathan Smith](https://gist.github.com/1477017)): HTML: 
+
+```html
+<!-- Assuming "D" is your font's Delete icon -->
+<span data-icon="D">Delete</span>
+```
+
+CSS: 
+
+```css
+[data-icon]:before {
+  font-family: 'Icon Font Here';
+  content: attr(data-icon);
+}
+```
+
+Sadly, the behavior of browsers and screen readers make this example inaccessible (or at least somewhat annoying), as it reads: “D Delete”. This is not desirable, as this [blog post by Scott Jehl of Filament Group shows](http://filamentgroup.com/lab/dingbat_webfonts_accessibility_issues/). There is nothing we can do to prevent this using CSS, but there is one technique that can help with this issue: 
+
+## ARIA please help us!
+
+ARIA is an intermediate solution to the problem of HTML being not powerful enough to handle (more complex) tasks accessible. One thing you can do with ARIA is telling the screen reader that an element is not visible to assistive technology. That’s exactly what we want. ARIA works directly in the HTML, unfortunately, so there is no stylesheet-like language we could use. Using pure HTML the accessible example would look like this: 
+
+``` html
+<!-- Assuming "D" is your font's Delete icon -->
+<span><b aria-hidden="true">D</b> Delete</span>
+```
+
+CSS: 
+
+```css
+b { font-family: 'Icon Font Here'; }
+```
+
+
+
+This looks ugly but works. Typing that whole HTML may be a lot of work in interfaces and there is no way back if we get an property in CSS that sets generated content to presentational only. ## jQuery to the rescue!
+
+So we need JavaScript to insert the icons. The HTML is the one from the example by Nathan: 
+
+```html
+<!-- Assuming "D" is your font's Delete icon -->
+<span data-icon="D">Delete</span>
+```
+
+CSS: 
+```css
+[data-icon] b { font-family: 'Icon Font Here'; }
+```
+
+jQuery JS: 
+
+```javascript
+$(document).ready(function(){
+	$('[data-icon]').each(function(){
+		var target = $(this);
+		var icon = $('<b>' + target.attr('data-icon') + '</b>');
+		icon.attr('aria-hidden', 'true');
+		target.prepend(icon);
+	});
+});
+```
+
+What does this code: For every element with an `data-icon` attribute we create a `b` element which content is the value of the `data-icon` attribute. The `b` is set as `aria-hidden` and prepends the first child of the element with the `data-icon` attribute. (So this is the before behavior, we could add after using another `data` attribute, but I decided to keep it simple.) That’s great and works but of course you won’t have icons if your JS fails to load, so hide the text of the `button` (or `span`) only if JS is loaded and executed. 
+
+## The future?
+
+```css
+[data-icon]:before {content:attr(data-icon); speak:none;}
+```
+
+<embetty-tweet status="146194784653021184"></embetty-tweet>
+
+This was the idea of [Nicolas Gallagher](http://nicolasgallagher.com) (or [@necolas](http://twitter.com/necolas)) [on Twitter](https://twitter.com/#!/necolas/status/146194784653021184:)> `<a href="https://twitter.com/MarcoZehe">MarcoZehe</a> `[yatil](https://twitter.com/yatil) I wonder if `:before {content:”$”; speak:none;}` would work to prevent reading of that content? — Nicolas Gallagher (@necolas) [December 12, 2011](https://twitter.com/necolas/status/146194784653021184)
+
+There is a lot to love here. First: It keeps the simplicity of the CSS-only solution. Second: [This is already defined in CSS 2.1](http://www.w3.org/TR/CSS21/aural.html#speaking-props), although only in the `aural` media type. Third: No JS needed. This value is not exposed by Firefox as far as I can tell and isn’t interpreted in any way. Webkit seems to support it, at least it appears in the inspector, but a quick test using voice over on the iPad resulted in no success. I think Firefox and the other browsers should adopt the property and expose it to assistive technology, or treat `speak:none;` as the css equivalent of `aria-hidden="true"` attribute/value. What do you think about this issue? Is `speak:none` the Holy Grail of icon fonts? Or could we use SVGs to archive similar things? What is the best way in your opinion? Write something in the internets and ping me (by mailing, tweeting or plussing me). 
+
+[Tomas Caspers](http://tomascaspers.de) made me aware of a mistake in the article: If you use `role="presentation"`, the text is read but the element has no meaning. The right attribute/value is `aria-hidden="true"`.
+
+----
+
+Date: 2011-12-14 00:00
+
+----
+
+Coverimage: 
+
+----
+
+Category: General
+
+----
+
+Summary: 
+
+----
+
+Tags: 
+
+----
+
+Image: 

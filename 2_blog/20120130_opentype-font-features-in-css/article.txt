@@ -1,0 +1,16 @@
+Title: OpenType font features in CSS
+----
+Date: 2012-01-30
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Really looking forward to all those [OpenType font features in Browsers](http://blog.fontdeck.com/post/15777165734/opentype-1). I wonder how long it takes until we can chose stylistic sets in font services like Fontdeck. Another question is how much weight they add to the font file.
+
+> Web designers have had access to OpenType features for a year or so, through properties proposed in the [CSS 3 Fonts Module](http://www.w3.org/TR/css3-fonts/). Firefox has supported this since version 4, and but until recently it was the only browser do so. Now Microsoft has joined the party by announcing OpenType support in Internet Explorer 10, along with Chrome on Windows (not Mac yet).

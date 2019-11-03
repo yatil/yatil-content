@@ -1,0 +1,24 @@
+Title: Das HTML5-Jahr
+----
+Date: 2009-01-05
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Im Gegensatz zu [anderen Menschen](http://wortvogel.de/?p=3568) behaupte ich nicht, dass ich Dinge vorhersagen kann. Ich erlaube mir dennoch eine kleine Beobachtung auf das Jahr 2009 zu übertragen: HTML5 wird 2009 seinen großen Durchbruch erleben. Warum? Führende Opinion Leader vertrauen der neuen Technologie, zum Beispiel [Jeffrey Zeldman](http://zeldman.com/2009/01/01/an-event-apart-redesigned/), [Eric Meyer](http://meyerweb.com/eric/thoughts/2009/01/02/an-event-apart-and-html-5/) und [Jeremy Keith](http://adactio.com/journal/1540/). Neben dem von mir gestalteten [A-Tag ’08](http://atag.accessiblemedia.at/), der die neuen Möglichkeiten noch sehr sporadisch einsetzt und im Oktober veröffentlicht wurde (Erster!), gibt es nun gleich zwei Weitere Konferenzen, deren Webseiten auf HTML5 setzen und die damit auch einen kleinen Trend vorgeben: [An Event Apart](http://aneventapart.com/), eine ganze Serie von hochpreisigen und hochqualitativen Web-Events setzt genauso wie die ebenso hochpreisige und Qualitative [UX London](http://uxlondon.com/) auf den neuen Standard. Es gibt allerdings noch einige Probleme mit der Implementation in den Browsern, so verweigert der Firefox 2 unbekannten Elementen, die Block-Elemente beinhalten, den eigenen Block-Zustand und schließt sie direkt wieder. Das ist natürlich nicht optimal, der Anteil der Firefox-2-Benutzer schrumpft aber zugunsten des Firefox 3 stetig, so das uns das nicht wirklich langfristig Probleme machen wird. Bis dahin kann man sich mit zusätzlichen div-Elementen helfen. Der IE lässt das styling von unbekannten Elementen nicht zu, es sei denn man meldet sie per Javascript an:
+
+```
+document.createElement("abbr"); // Yes, IE there is an abbr element in HTML
+document.createElement("dialog"); // And a dialog as well.
+document.createElement("article"); // Articles
+document.createElement("nav"); // Navigation
+
+```
+
+Das sind alles einfache Workarounds für diese Problematik. HTML5 ist definitiv praxistauglich, auch wenn einiges noch nicht so einfach und intuitiv funktioniert, wie es sollte – aber das tut es ja ansonsten auch nicht. Die Browser werden die neuen Sachen in diesem Jahr weiter und immer besser unterstützen, auch der IE in Version 8 wird da einen Schritt nach vorne machen. Nun fehlt nur noch die umfassende Unterstützung für die wichtigen CSS3-Standards (Abgerundete Ecken, Schatten, Advanced Layout, Webfonts usw. usf.) und die Webentwickler-Welt wäre wieder einen guten Schritt perfekter. (Ja, und mir ist es völlig wurscht ob der IE6 das nicht kann.)

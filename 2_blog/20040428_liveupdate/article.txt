@@ -1,0 +1,23 @@
+Title: LiveUpdate
+----
+Date: 2004-04-28
+----
+Category: Design, News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Falls zwischen jetzt und Mitternacht (und eventuell auch »etwas« darüber hinaus) irgendetwas auf dieser Seite seltsam aussieht: Nicht wundern.  
+Ich führe ein Live-Update durch.
+
+Schritte:
+
+1. Datenbank-Backup
+2. Update von Textpattern γ 1.16 auf γ1.18a
+3. Anpassen des XHTML-Codes
+4. Anpassen des Style-Sheets
+5. Verbessern von vergessenem :)

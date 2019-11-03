@@ -1,0 +1,30 @@
+Title: Tabula Rasa
+----
+Date: 2006-07-03
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Okay, die [Mac-Fraktion](http://praegnanz.de/) wird sich ein “Ich habs ihm ja gesagt…” nicht verkneifen können. Aber es ist – auch für einen Windows-Rechner – merkwürdig, wenn jeder Startvorgang mit einem Neustart quittiert wird…
+
+Das Notebook machte in der Vergangenheit bereits einige Zicken, aber das war dem Bösen dann doch zuviel. System-CDs hatte ich in Wien nämlich keine dabei und Versuche den “Abgesicherten Modus” hochzufahren scheiterten entweder (und luden unendlich lange) oder brachten keine nennenswerte Hilfe.
+
+Okay, ich hatte ja gestern auch noch genug zu erledigen, meine Präsentation zum Thema [Mikroformate](http://microformats.org/) wollte ich allerdings auch noch fertigmachen. Naja. Es war nix zu machen und unter einer breitgezogenen 800×600er-Auflösung wollte ich nicht arbeiten.
+
+Nach dem Herflug (Ankunft Flughafen Hahn/Hunsrück um 23.20 Uhr) und der darauf folgenden Heimfahrt (immerhin bis um 1.30 Uhr) habe ich dann mal nach System-CDs geschaut. Ergebnis: Es befanden sich zwei Silberlinge mit der Aufschrift “Recovery” in meinem Besitz.
+
+“Einfach Windows drüberinstallieren wird schon helfen”, dachte ich in jugendlicher Leichtsinnigkeit. Weit gefehlt. Nach einlegen der richtigen CD (es war nicht etwa eine mit der Aufschrift “Recovery” sondern eine mit der Aufschrift “System CD”) sah ich ein “Die erste Partition wird gelöscht.” auf meinem Bildschirm aufblitzen.
+
+Immerhin konnte ich diesen Vorgang noch abbrechen. Was nun. Windows drüberinstallieren ging ja nicht. Und von “Tabula Rasa” wollte ich eigentlich absehen. Erstmal eine der (geschätzt) 17 Ubuntu-CDs eingelegt und die Daten gesichert. Zum Glück habe ich ja noch eine zweite Partition, wer weiß wie dieses Linux mit meinem DVD-Brenner im Notebook zusammengearbeitet hätte.
+
+Nach weiterem rum und ausprobieren hatte ich dann doch nur noch die Wahl per Recovery-CD die Festplatte zu löschen und Windows neu aufzusetzen. Natürlich waren die ersten zwei Programme Firefox und die T-Online-Software um mich (wieder per Modem) mit euch in Verbindung zu setzen. Wie man sieht funktioniert wenigstens das. Schade natürlich, dass meine ganzen Windows- und Software-Updates verloren gingen.
+
+Naja, meinen Download-Ordner und das meiste andere konnte ich retten. Jetzt wird erstmal Sage installiert und die Feeds importiert und dann schaue ich mal weiter.
+
+PS: Microsoft und Acer kann ich nur beglückwünschen. Wenn ich Windows nicht zum Webseiten-Testen brauchte würde ich es mir für mein nächstes Notebook nicht mehr kaufen. Und mein Acer-Notebook ist so fehleranfällig (im Moment funktioniert es nur per Stromanschluss, beim Akkubetrieb schaltet er sich aus…) und muss diese Woche auf jeden Fall noch in Reperatur, dass mein nächstes wohl aus Prinzip ein [Apfellogo](http://apple.de/) tragen wird.

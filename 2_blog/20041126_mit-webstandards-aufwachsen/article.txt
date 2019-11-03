@@ -1,0 +1,30 @@
+Title: Mit Webstandards aufwachsen
+----
+Date: 2004-11-26
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+(Dieser Eintrag wurde inspiriert von [boxofchocolates.ca](http://boxofchocolates.ca/archives/2004/11/22/growing-up-with-web-standards))
+
+Man kann immer öfter beobachten, dass auch große Firmen Webstandards benutzen. Ein ganz gutes Beispiel ist [gmx.de](http://gmx.de/), ein weniger gutes [web.de](http://web.de/).
+
+Bei GMX validiert die Startseite XHTML 1.0 Transitional, wohingegen WEB.de noch nicht mal ein HTML 4.0 schafft. Immerhin versuchen sich beide an einem layouttabellenlosen Layout (\_das\_ hört sich redundant an!).
+
+Aber weshalb setzen immer mehr Webseiten-Bauer (“Webdesigner”) auf diese “neuen” Techniken.
+
+Die Antwort auf diese Frage ist recht einfach: “Sie sind damit aufgewachsen.” Das heißt zumindest in den letzten Jahren haben sich – durch den beendeten Browser-Krieg und die Standardsanpassung des Internet Explorers – immer mehr Webdesigner gelernt mit Methoden der Webstandards umzugehen.
+
+Andere haben nichts anderes gelernt und stellen so Seiten mit ihrem Hilfsmittel – Webstandards – her.
+
+Doch, und das stellt auch Derek Featherstone fest, es gibt immer noch Webdesigner- und Entwickler, die keine Ahnung von Webstandards haben und deshalb Seiten noch mit ihren (ungültigen) Hilfsmitteln bauen – Layouttabellen und Blind-Gifs sowie Vermischung von Inhalt und Layout.
+
+Deshalb ruft er auf weiterhin Anleitungen für Anfänger zu verfassen und damit die alten, fehlerhaften aus den Suchmaschinen zu verbannen und dann – nach und nach – auch die Bücher und die anderen Offline-Publikationen “auf den rechten Pfad” zurückzubringen.
+
+Ich hoffe ich kann mit meinen Tutorials ein kleines Stückchen dazu beitragen. Gerade das macht auch den dritten Teil, die Einführung in CSS so schwierig. Das Niveau eines Anfängers zu erreichen ist wesentlich schwieriger als einem Mitglied der “Community” etwas zu erklären. Das sehe ich aber als Herausforderung und ich glaube und hoffe, dass meine Artikel wenigstens einigen Menschen weiterhelfen.

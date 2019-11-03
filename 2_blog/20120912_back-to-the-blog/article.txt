@@ -1,0 +1,14 @@
+Title: Back to the blog
+----
+Date: 2012-09-12
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+As you may or may not have noticed, there is activity again on this blog. The reason is easy: I want to twitter less, taking stuff back into my own hands. Of course [Twitter’s recent moves](https://dev.twitter.com/blog/changes-coming-to-twitter-api) toward a secret-service protected walled garden with laser guns on the door helped to make that decision. I actually thought a lot about where to bring my content: Status.net, App.net, Google+ or Facebook were amongst the contenders, but I don’t like that others own my data. It is back to square one, interesting links or thoughts will find their way to this blog way more often, I will even enable comments again. Discussions and talking will still be on Twitter, but I expect to do much less there. I am a fighter for the open web. Open APIs are even more important to me than ease of use or experience. I want data to be free. I want to be the owner of my stuff. That was why I chose twitter in the first place: Great clients, great APIs, unlimited versatility. Since years, I collect [all my tweets on my server](http://tweets.ericeggert.de/), as soon or later Twitter will vanish into oblivion. Probably that won’t be possible in the future. Probably I will get advertisements without having an option to disable it. (Yes, Twitter, you could have all some of my money.) It is a risk now, and that sucks.

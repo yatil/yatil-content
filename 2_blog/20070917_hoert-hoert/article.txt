@@ -1,0 +1,14 @@
+Title: Hört, hört!
+----
+Date: 2007-09-17
+----
+Category: Podcast
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Heute gibt’s was auf die Ohren: Die [90. Technikwürze](http://www.technikwuerze.de/podcast/technikwuerze90/) enthält nicht nur ein paar spannende News sondern auch meine Wenigkeit, der versucht ein bisschen Licht ins CSS3-Dunkel zu bringen. Dabei geht es vor allem um das CSS3/Grid-Modul, welches [David](http://macx.de/) und ich beleuchten. Ich empfehle jedem, den das Thema interessiert, mal rein zu hören :)

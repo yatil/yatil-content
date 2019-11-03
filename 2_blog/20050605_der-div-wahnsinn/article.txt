@@ -1,0 +1,230 @@
+Title: Der Div-Wahnsinn
+----
+Date: 2005-06-05
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Zusammenfassung
+
+Immer mehr Webdokumente scheinen aus nichts anderem als einer Ansammlung von `div`-Elementen zu bestehen. In den meisten Fällen könnte eine bessere Nutzung von CSS-Selektoren diese Masse von `div`-Elementen verhindern.
+
+Original-Autor: [Gez Lemon](http://juicystudio.com/): [Div Mania](http://juicystudio.com/article/div-mania.php)  
+Übersetzung: [Eric Eggert](http://yatil.de/impressum/)
+
+## Inhalt
+
+- [Was bedeutet Div-Wahnsinn?](#bedeutung)
+- [Regel-Sets](#regelsets)
+- [Spezifität von Selektoren](#spezifitaet)
+- [Selektoren](#selektoren)
+  - [Der Universalselektor](#universalselektor)
+  - [Der Typselektor](#typselektor)
+  - [Das Gruppieren von Selektoren](#gruppieren)
+  - [Der Klassenselektor](#klassenselektor)
+  - [Der ID-Selektor](#idselektor)
+  - [Abhängige Selektoren](#abhaengigeselektoren)
+  - [Der Kindselektor](#kindselektor)
+  - [Der Benachbarte- Geschwister- Selektor](#benachbartegeschwisterselektor)
+  - [Attributselektoren](#attributselektoren)
+      - [\[Attr\]](#einfacherattr)
+      - [\[Attr=Wert\]](#attrwert)
+      - [\[Attr~=Wert\]](#attrwertaus)
+      - [\[Attr|=Wert\]](#attrwertbindestrich)
+      - [Attributselektoren in CSS 3](#attrcss)
+  - [Pseudoselektoren](#pseudoselektoren)
+- [Schlussfolgerung](#schlussfolgerung)
+ 
+## Was bedeutet Div-Wahnsinn?
+
+Die `div`- und `span`-Elemente wurden in HTML 4 eingeführt um allgemeine Mechanismen zur Gruppierung von Elementen zur Verfügung zu stellen und um die Dokumente zu strukturieren. Das `div`-Element ist ein Block-Container, `span` ein Inlineelement.
+
+Meist werden diesen Elementen `id`- und/oder `class`-Attribute hinzugefügt, damit sie mit CSS oder Scripting angesprochen werden können.
+
+Der Div-Wahnsinn beginnt dort, wo Entwickler tabellenbasierte Layouts durch CSS-Layouts ersetzt haben jedoch das `div`-Element in solch einem Ausmaß missbrauchen, so dass sie mehr oder minder eine eigene Auszeichnungssprache erstellt haben, die fast ausschließlich aus verschachtelten `div`-Elementen besteht.
+
+Das `div`-Element ist semantisch neutral: es hat keine Bedeutung außer der, dass es ein Containerelement ist. Es sollte nur benutzt werden, wenn es kein anderes Element mit einer Bedeutung gibt, das als Container dienen kann, wie Überschriften, Absätze, Listen, usw.
+
+Ein typisches Dokument, das im Div-Wahn erstellt wurde, könnte so aussehen:
+
+Entwickler, die in die `div`-Falle treten sind sich dessen meist noch nicht einmal bewusst. Wenn sie ein Dokument voller `div`s durch einen automatischen Auszeichnungsvalidator schicken, und sich dadurch von der strukturellen Richtigkeit des Dokumentes überzeugen, wird der Validator korrektes (X)HTML bestätigen; Er ist nicht in der Lage herauszufinden, ob die passendsten Elemente verwendet werden.
+
+Viele Faktoren tragen zu diesem Problem bei, wie fehlendes Verständnis von [Auszeichnungselementen](http://www.edition-w3.de/TR/1999/REC-html401-19991224/index/elements.html) (beachte missbiligte Elemente), vom [CSS-Box-Modell](http://edition-w3c.de/TR/1998/REC-CSS2-19980512/kap08.html), [Vererbung und Kaskade](http://edition-w3c.de/TR/1998/REC-CSS2-19980512/kap06.html) und von der Wahl der [richtigen Selektoren](http://edition-w3c.de/TR/1998/REC-CSS2-19980512/kap05.html).
+
+Im Gespräch mit Entwicklern, die ein gewisses Verständnis von CSS haben, zeigt sich, dass die größten Lücken im Bereich der Selektoren zu finden sind. Der Rest dieses Dokumentes gibt deshalb einen Überblick über die CSS 2.1-Selektoren.
+
+[Nach oben](#inhalt)
+
+## Regel-Sets
+
+Eine CSS-Datei besteht aus einer Sammlung von Regeln, wobei eine Regel aus einem Selektor und einem Deklarationsblock besteht. Da es meist mehr als eine Regel in einer Datei gibt wird diese auch als Regel-Set bezeichnet.
+
+Der Selektor wählt diejenigen Elemente im Dokumentbaum, für die die Regel gilt. Falls der Selektor fehlerhaft ist ignorieren Browser alles innerhalb des Deklarationsblocks.
+
+Der Deklarationsblock ist eine durch Semikolon (`;`) getrennte Liste von Null oder mehr Deklarationen, die von geschweiften Klammern (`{` bzw. `}`) umgeben ist.
+
+Eine einzelne Deklaration kann entweder leer sein oder ein Paar aus Eigenschaft und Wert, die von einem Doppelpunkt getrennt sind.
+
+Betrachten wir folgendes Beispiel:
+
+In der obigen Regel ist der Selektor `h1` und der Deklarationsblock alles in den geschweiften Klammern sowie die Klammern selbst. Der Deklarationsblock besteht aus zwei Deklarationen, die mit Semikolon getrennt sind. Da diese nur zum Trennen genutzt werden ist die Angabe bei der zweiten Deklaration nicht nötig aber legal. Dem ersten Merkmal, `padding-top`, wird der Wert `1em` zugewiesen. Hierzu ist auch [Anhang F er Spezifikation für eine Liste aller Eigenschaften](http://edition-w3c.de/TR/1998/REC-CSS2-19980512/an_f.html) zu beachten.
+
+[Nach oben](#inhalt)
+
+## Spezifität
+
+Um zu verstehen, wie Selektoren auf Elemente angewandt werden ist ein grundlegendes Verständnis von Vererbung und Kaskade nötig. Vererbung bedeutet, dass ein Element Eigenschaften von seinem Übergeordneten Element übernimmt. Wenn man beispielsweise eine Schriftgröße für die Navigation festlegt, so wird jedes untergeordnete Element diese Schriftgröße übernehmen, zum Beispiel Absätze oder Listenpunkte.  
+Nicht alle Eigenschaften werden vererbt, aber die meisten. Falls keine Vererbung einer Eigenschaft statt findet kann sie durch den Wert `inherit` erzwungen werden.
+
+Kaskade hingegen beschreibt mehrere Regeln für ein Element. Spezifität wird benutzt um festzustellen, welche dieser Regeln anzuwenden ist. Beachte die Reihenfolge: Wenn zwei Selektoren die selbe Spezifität haben gilt der zuletzt definierte.
+
+[Nach oben](#inhalt)
+
+## CSS-Selektoren
+
+Selektoren sind Schemata, die feststellen, auf welche Elemente des Dokumentenbaumes die Stilregeln angewandt werden.
+
+Im Beispiel oben ist das `h1`-Element das Selektorschema.  
+Es können auch kompexere Schemata angewandt werde, die spezifischer Elemente aus dem Dokumentenbaum auswählen können.
+
+### Der Universalselektor
+
+Der Universalselektor wird durch ein Sternchen (`*`) ausgedrückt und steht für alle Elemente im Dokumentenbaum. Das folgende Beispiel würde allen Elementen eine hellgelbe Hintergrundfarbe zuweisen, die die `background-color`-Eigenschaft erhalten können, es sei denn ein [spezifischerer Selektor](#spezifitaet) würde benutzt.
+
+Für alle anderen Definitionen werde ich die Spezifität nicht mehr erwähnen, aber es ist wichtig, das man im Hinterkopf behält, dass alle folgenden Beispiele nur dann angewandt werden, wenn keine spezifischeren Selektoren definiert werden.
+
+Folgendes Beispiel würde auf alle Elemente die den Klassennamen `attention` haben angewandt.
+
+Wenn der Stern – wie im obigen Beispiel – am Schema beteilig ist kann er sicher weggelassen werden. Ein Schema `.attention` sollte so effektiv sein wie `*.attention`.
+
+[Nach oben](#inhalt)
+
+### Der Typselektor
+
+Der Typselektor entspricht jedem Vorkommen eines bestimmten Elementes im Dokumentenbaum. Das folgende Beispiel wählt alle `p`-Elemente aus und weist ihnen einen hellgelben Hintergrund zu:
+
+[Nach oben](#inhalt)
+
+### Gruppieren von Selektoren
+
+Wenn mehrere Selektoren den selben Deklarationsblock teilen können sie zusammengefasst werden indem sie durch Kommata abgetrennt werden. Folgendes Beispiel weist sowohl allen `strong`- als auch allen `em`-Elementen eine hellgelbe Hintergrundfarbe zu:
+
+[Nach oben](#inhalt)
+
+### Der Klassenselektor
+
+Der Klassenselektor kann als alternative zu [Attributselektoren](#attributselektoren) benutzt werden. Er wird durch einen vorangestellten Punkt (`.`) gekennzeichnet und auf alle Elemente angewandt, die diese Klasse (`class`-Attribut) besitzen.
+
+Folgendes Beispiel weist allen Listenpunkten mit der Klasse `.attention` zu:
+
+Wenn die Klasse auf mehrere Elemente angewandt werden soll können die Selektoren gruppiert werden oder der [Universalselektor](#universalselektor) benutzt werden (`*.className` oder `.className`)
+
+[Nach oben](#inhalt)
+
+### Der ID-Selektor
+
+Innerhalb eines Webdokumentes muss das `id`-Attribut einzigartig sein, das heißt man kann nur ein bestimmtes Element des Dokumentenbaumes auswählen. Dem ID-Selektor wird ein Raute-Symbol (`#`) vorangestellt.
+
+Folgendes Beispiel würde der Überschrift zweiter Ordnung mit der einzigartigen ID `offers` einen hellgelben Hintergrund zuweisen:
+
+Da die ID einzigartig sein muss, macht es keine Probleme den [Universalselektor](#universalselektor) mit dem ID-Selektor zu kombinieren (`*#idName` oder `#idName`). Zwecks Lesbarkeit und Instandhaltung ist es aber eine gute Idee den Elementnamen beizubehalten.
+
+[Nach oben](#inhalt)
+
+### Abhängige Selektoren
+
+Der Dokumentenbaum ist so aufgebaut, dass jedes Element im Baum ein übergeordnetes Element (Elternelement) hat, vom Wurzelelement abgesehen. Abhängige Selektoren werden benutzt um bestimmte Elemente, die in bestimmten Elternelementen vorhanden sind auszuwählen.
+
+Abhängige Selektoren werden durch ein Leerzeichen zwischen zwei Selektoren gekennzeichnet, wobei der jeweils folgende Selektor im vorherigen enthalten sein muss. Folgendes Beispiel wählt alle `strong`-Elemente in einem Absatz aus und ordnet ihnen eine hellgelbe Hintergrundfarbe zu:
+
+[Nach oben](#inhalt)
+
+### Der Kindselektor
+
+Ein Kindselektor wird benutzt um ein untergeordnetes Element auszuwählen. Zwischen zwei Selektoren wird ein Größerzeichen notiert (`>`), mit dem Elternelement links und dem Kindelement rechts.
+
+Im folgenden Beispiel wird der Hintergrund aller `strong`-Elemente hellgelb gefärbt, sofern sie Kindelemente von `p` sind.
+
+Der Unterschied zwischen Kindselektor und abhängigem Selektor ist, dass der abhängige Selektor `strong` auswählt woimmer es in `p` vorkommt, wogegen der Kindselektor spezifischer ist und nur elemente auswählt, die _direkte_ Kindelemente von `p` sind. Beispiel:
+
+Der abhängige Selektor würde beide `strong`-Elemente auswählen, der Kindselektor würde nur das letzte `strong` auswählen, da das erste kein Kindelement von `p` sondern von `q` ist.
+
+_Unglücklicherweise funktionieren Kindselektoren nicht im Internet Explorer 6._
+
+[Nach oben](#inhalt)
+
+### Der Benachbarte- Geschwister- Selektor
+
+Geschwisterelemente sind Elemente, die das selbe Elternelement haben. Benachbarte Geschwister sind Geschwisterelemente, die direkt aufeinander folgen. Sie werden durch ein Pluszeichen (`+`) zwischen den Selektoren gekennzeichnet. Folgendes Beispiel weist jedem `h2`-Element, das auf ein `h1`-Element folgt eine hallgelbe Hintergrundfarbe zu, falls sie das selbe Elternelement haben.
+
+[Nach oben](#inhalt)
+
+### Attributselektoren
+
+Attributselektoren wählen Elemente aus, die im Dokument Attribute besitzen. _Attributselektoren funktionieren nicht im Internet-Explorer 6._ In CSS 2.1 gibt es folgende vier Attributselektoren:
+
+#### \[Attr\]
+
+Der einfache Attributselektor wählt alle Elemente, die über das Attribut verfügen, der Wert des Attributes ist dabei egal. Nachstehendes Beispiel wählt alle `a`-Elemente aus, die über ein `title`-Attribut verfügen.
+
+[Nach oben](#inhalt)
+
+#### \[Attr=Wert\]
+
+Dieser Attributselektor findet alle Elemente, die über das angegebene Attribut verfügen und deren Wert mit dem angegebenen übereinstimmt. Folgendes Beispiel würde `a`-Elementen einen hellgelben Hintergrund zuweisen, falls diese über ein `rel`-Attribut mit dem Wert `external` verfügt.
+
+[Nach oben](#inhalt)
+
+#### \[Attr~=Wert\]
+
+Einige Attribute erlauben eine leerzeichengetrennte Liste von Werten, die zugewiesen werden können. Durch das Hinzufügen einer Tilde (`~`) vor dem Gleichheitszeichen wird dafür gesorgt, dass einer dieser Werte einen Treffer ergibt.
+
+Folgendes Beispiel weist allen Absätzen mit einem Klassenattribut einen hellgelben Hintergrund zu, falls dieses den Wert `attention` hat.
+
+`p[clss~=attention]` ist also das selbe wie `p.attention`.
+
+[Nach oben](#inhalt)
+
+#### \[Attr|=Wert\]
+
+Dieser Selektor ist für Attribute gedacht, deren Werte durch einen Bindestrich getrennt sind. Er dient hauptsächlich zum Gebrauch mit Sprachcodes. Der Vergleich beginnt am Anfang des Attributwertes.
+
+Das folgende Beispiel trifft auf alle `a`-Elemente zu, deren Wert des `hreflang`-Attributes mit `en` beginnen. Das beinhaltet `en`, `en-US`, `en-GB`, `en-cockney` und jede andere `en`-Kombination.
+
+Mehrere Attributselektoren können auch kombiniert werden. Folgendes Beispiel weist nur einen hellgelben Hintergrund zu, wenn ein `title`-Attribut in einem `a`-Element vorhanden ist und das `rel`-Attribut zusätzlich den Wert `external` hat.
+
+[Nach oben](#inhalt)
+
+#### CSS 3-Attributselektoren
+
+CSS 3 fügt noch weitere großartige Attributselektoren hinzu. Dazu gehört ein Selektor um den Anfang des Attributwertes zu überprüfen `E[Attr^=Wer]`, einen um Treffer am Ende des Attributwertes zu ermitteln `E[Attr$=ert]` und einen um auf Zeichenfolgen innerhalb des Attributwertes zu überprüfen `E[Attr*=er]`.
+
+Mozilla/Firefox und Opera kennen bereits all diese Attributselektoren, inklusive denen aus CSS 3. Der Internet Explorer 6 versteht keine Attributselektoren.
+
+[Nach oben](#inhalt)
+
+### Pseudo-Selektoren
+
+Pseudo-Selektoren werden dort eingesetzt, wo die Position eines Elementes nicht ausreicht um es anzusprechen, wie beispielsweise die erste Zeile eines Absatzes. Es gibt sowohl Pseudoelemente als auch Pseudoklassen, die uns auf Informationen außerhalb des Dokumentenbaumes zugreifen lassen.
+
+Diesen Selektoren wird ein Doppelpunkt (`:`) vorangestellt. CSS 2.1 kennt vier Pseudoelemente: `:first-line`, `:first-letter`, `:before` und `:after`. Folgendes Beispiel erhöht die Schriftgröße des ersten Buchstaben im Absatz auf `2em`:
+
+Zudem kennt CSS 2.1 die `:first-child`-Pseudoklasse sowie zwei Pseudoklassen für Links (`:link` und `:visited`), drei dynamische Pseudoklassen (`:active`, `:hover` und `:focus`) sowie eine sprachspezifische Pseudoklasse (`:lang`).
+
+Folgendes Beispiel färbt alle Links, die das erste Kindelement irgendeines Elements sind, grün ein:
+
+Das nächste Beispiel färbt besuchte Links grün:
+
+Folgender Code setzt eine hellgelbe Hintergrundfarbe für Abschnitte auf französisch.
+
+[Nach oben](#inhalt)
+
+### Schlussfolgerung:
+
+Ein mangelhaftes Verständnis von CSS-Selektoren mag nicht die einzige Erklärung für den Div-Wahnsinn sein, ist jedoch weitgehend dafür verantwortlich. Das `div`-Element mag nützlich für die Gruppierung und Positionierung des Inhaltes sein, aber CSS kann direkt auf Listen und andere Elemente, die eine akzeptable Bedeutung haben angewandt werden.

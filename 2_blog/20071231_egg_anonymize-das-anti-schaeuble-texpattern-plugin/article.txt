@@ -1,0 +1,14 @@
+Title: egg_anonymize: Das Anti-Schäuble-Texpattern-Plugin
+----
+Date: 2007-12-31
+----
+Category: Innenpolitik, Textpattern
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nachdem [Bundespräsident Horst Köhler](http://www.bundespraesident.de/) die umstrittene [Vorratsdatenspeicherung](http://www.vorratsdatenspeicherung.de/) unterzeichnet hat, steht nichts mehr im Weg den gesamten Datenverkehr inklusive Telefon aufzuzeichnen (natürlich nur die Verbindungsdaten, ist doch klar). Was oft vergessen wird: Auch wir sind kleine Vorratsdatenspeicherer. Dabei hat das Amtsgericht Berlin Mitte entschieden, dass Webseitenbetreiber ohne vorherige explizite Einwilligung keine IP-Adressen speichern darf, da das persönliche Daten sind. Die Problematik wird sehr schön bei [Advisign](http://www.advisign.de/datenschutz/2007-10/die-vorratsdatenspeicherung-fuer-den-hausgebrauch-oder-darf-man-ip-adressen-der-websitebesucher-speichern) beschrieben. Mein Plugin **egg\_anonymizer** bekämpft den kleinen Schäuble in uns zumindest für Textpatternbenutzer: Wenn man möchte werden bei jedem Einloggen in Textpattern alle IP-Adressen von Benutzern gelöscht. Alles Weitere findet man in der Hilfe zum Plugin. **[egg\_anonymizer\_v0.3 herunterladen…](http://wp.yatil.net/wp-content/uploads/2007/12/egg_anonymizer_v0.3.txt)**Voraussetzungen: TXP 4.0.5

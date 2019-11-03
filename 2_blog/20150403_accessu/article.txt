@@ -1,0 +1,14 @@
+Title: AccessU
+----
+Date: 2015-04-03
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+I’m really looking forward to attending and speaking at [Knowbility](http://www.knowbility.org/)’s [John Slatin AccessU conference](http://www.knowbility.org/v/john-slatin-accessu/) in May! I will do two classes (1.5h sessions) on the following topics: [Web Accessibility Essentials using WAI-ARIA and HTML5](http://www.knowbility.org/v/accessu-course-detail/Web-Accessibility-Essentials-using-WAI-ARIA-and-HTML5/g1/) and [A Case Study for Responsive Web Design: Web Accessibility Tutorials](http://www.knowbility.org/v/accessu-course-detail/A-Case-Study-for-Responsive-Web-Design-Web-Accessibility-Tutorials/g2/). Hope to see you there.

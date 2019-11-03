@@ -1,0 +1,35 @@
+Title: All I could hear was CSS CSS CSS.
+----
+Date: 2004-03-28
+----
+Category: Design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> »I’d like to think I introduced new and different ways to approach common UI[1](#fn1) quandaries with my presentation, but I left the conference looking for more. And not necessarily more presentations, but more conversation in the hallways. All I could hear was CSS CSS CSS.«  
+> —Jason Fried im [Signal vs. Noise-Weblog](http://www.37signals.com/svn/archives/000600.php)
+
+Nachdem der Text schon so oft kommentiert wurde muss auch ich meine Meinung dazu sagen:  
+CSS ist kein Allheilmittel (so wie 1997 Tabellen kein Allheilmittel waren). Es ist lediglich Mittel zum Zweck, erreicht man doch soviele Dinge auf einmal:
+
+- Schnelle Ladezeiten
+- Accessability
+- Trennung von Form und Content
+ 
+Trotz allem kann natürlich auch mit CSS das User Interface bescheiden sein. Es geht ja letztendlich nicht um Tables, CSS oder Frames.
+
+Der User muss im Mittelpunkt eines gelungenen Designs stehen, nicht das Design und erst recht nicht die Technik.
+
+Vergleichen wir doch mal Webdesign und Automobilbranche:  
+Der geneigte Autokäufer möchte an erster Stelle ein Auto, welches funktioniert, dann ein Auto, welches ganz gut aussieht und erst ganz am Schluss denkt er darüber nach, ob ihm ein Benziner oder ein Diesel-Fahrzeug lieber ist.
+
+Das selbe muss für Websites gelten: Zuerst muss es funktionieren (für Webapplications wie MyPHPAdmin oder ähnliches sind Frames durchaus legitim), dann kommt das Design der Website, das natürlich mit der Benutzbarkeit des Angebots stark zusammenhängt.
+
+Mit welchen Mitteln dies geschieht ist dem Anwender erstmal völlig egal. Aber wenn die Website schnell geladen wird ist ihm das lieber, als wenn er minutenlang warten muss.
+
+1 User Interface

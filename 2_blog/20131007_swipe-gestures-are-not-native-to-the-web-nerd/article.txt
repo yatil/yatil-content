@@ -1,0 +1,16 @@
+Title: Swipe gestures are not native to the web
+----
+Date: 2013-10-07
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Vasilis van Gemert](http://vasilis.nl/) [on swiping versus scrolling on the web](http://nerd.vasilis.nl/swipe-gestures-native-web/): > It seems like swiping is considered to be extremely cool. Scrolling, on the other hand, not so much. I understand that new stuff is exciting, and I also understand that new stuff has to be investigated. But I believe that as of today we can safely assume that swiping is not native to the web. \[…\] More and more browsers start using swipe gestures to navigate to the previous and next pages in the user’s history.
+
+Spot on.

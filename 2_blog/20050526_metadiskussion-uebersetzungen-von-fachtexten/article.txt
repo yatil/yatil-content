@@ -1,0 +1,24 @@
+Title: Metadiskussion: Übersetzungen von Fachtexten
+----
+Date: 2005-05-26
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wie ich soeben festgestellt habe arbeitete noch ein anderer aus der deutschen „Webentwickler-Szene“ an der Übersetzung von [Zugänglichkeit: Mythen und falsche Vorstellungen](http://yatil.de/Webentwicklung/zugaenglichkeit-mythen-und-falsche-vorstellungen) arbeitet(e).
+
+Das ist ärgerlich, auf der einen Seite, weil solche Übersetzungen viel Arbeit bedeuten und diese natürlich dann für die Katz’ ist. Zudem ist es ja unnötig, wenn zwei Leute die selbe Arbeit machen.
+
+In diesem Fall war es meine Schuld, weil ich nicht daran dachte nachzufragen, ob schon jemand an einer Übersetzung arbeitet.
+
+Es fehlt also generell im „Übersetzungslager“ an Koordination, was ich schade finde.
+
+Man könnte eine Mailingliste oder ein Wiki einrichten, in der/m wir uns entsprechend absprechen.
+
+Für weitere Vorschläge oder Anregungen bin ich natürlich offen.

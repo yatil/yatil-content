@@ -1,0 +1,36 @@
+Title: Verrebootet?
+----
+Date: 2006-05-05
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zuersteinmal hat Gerrit natürlich total recht, wenn er in seinem Blog schreibt:
+
+> Mir geht die allgemeine Völlerei in den Weblogs ein wenig auf die Nerven. Links und rechts zugeknallte Leisten mit hunderten von Listen, Thumbnails, aggregierten Informationen, Badges, Mitgliedschaften, usw. Wunderbar. Doch wer nutzt diese Informationen wirklich? Die Leser des Blogs? Oder sind das alles wichtige Services für den Autor, damit er sein Blog wie ein Magazin wirken lassen kann? Dabei ist das Unsinn: Ein Blog ist ein Blog, und das ist gut so! Je weniger der Blogger von seinen eigentlichen Texten ablenkt, desto klarer werden seine Aussagen wahrgenommen. Oder wollen die alle nur davon ablenken, dass sie gar nicht interessant schreiben können? [Gerrit van Aaken – Worte zum Reboot](http://praegnanz.de/weblog/worte-zum-reboot)
+
+Aber so wie mein Weblog aussah konnte es nicht weitergehen. Und das Konzept hat grundsätzlich funktioniert, im Livebetrieb hat sich das momentane Design allerdings als ziemlich unhandlich und viel zu zusammengewürfelt erwiesen. Das war nicht meine Absicht, die Abstände sind zu gering gewählt und das Suchfeld, das nicht auffällt, habe ich bereits an Manuela kritisiert, die eine ähnliche Implementationwie hier verfolgte:
+
+> Das Sucheingabefeld gefällt mir sehr gut, es ist jedoch nicht auf Anhieb als solches zu erkennen. [Ich in den Kommentaren zu Manuelas Artikel ‘pixelgraphix Reboot – Redesign abgeschlossen’](http://www.pixelgraphix.de/log/2006-02/pixelgraphix-reboot-redesign-abgeschlossen.php#comment-15693)
+
+Außerdem ist der Inhalt nicht spezifisch genug, mein Auge springt permanent zwischen Inhaltsbereich, Header und Seitenleiste hin und her, verweilt an den Überschriften um sich dann, wiederholt springend dem Inhaltsbereich, dem Header und der Seitenleiste zu widmen.
+
+Schade ist auch, dass mein Grid so gar nicht ankommt, aber angesichts der o.g. Probleme ist das nur all zu verständlich.
+
+Als Lösung wird wohl nur ein weiteres Redesign in naher Zukunft tauglich sein, in dem ich zu alten Tugenden, also Einspaltigkeit, Klarheit und Übersichtlichkeit zurückkehren will.
+
+Da das aber ein Redesign “from scratch” bedeutet und ich “nebenher” ja noch zwei Unimonate nachholen muss/soll/darf ist vor Ende Mai mit keiner Neugestaltung mehr zu rechnen. Dafür hoffe ich aber, dass sich die Zeit und die (erweiterte) Konzeptionsphase als positiv erweisen und ihren Dienst zu einem unbeschwerten Onlinevergnügen beitragen werden.
+
+**Nachtrag:** Oh, und noch ein Grund: Das neue Design passt nicht mehr auf ein 800×600px großes Display, war Horizontalscrollen bedeutet, und das ist wirklich ungeschickt.
+
+**Nachtrag 2 (22:07):** Habe mal die Schriftgröße erhöht und die Sidebar gekickt, also per `display:none;` ausgeblendet. Nicht wirklich gut, aber schon besser.
+
+**Nachtrag 3 (22:58):** Schon schlimm genug, dass ich in einer Stadt wie _WIEN_ an einem Freitagabend nix besseres zu tun hab als das Design meiner Webseite halbwegs zu retten. Schlimmer ist, dass es mir sogar halbwegs gelungen ist,hier und da stimmen aber die Proportionen immer noch nicht…
+
+1 Und ich hab ja was gemacht, also vergesst den ersten Teil des Satzes.

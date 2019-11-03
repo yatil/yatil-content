@@ -1,0 +1,22 @@
+Title: How Mozilla takes back the Web – Vortrag auf der CLC09
+----
+Date: 2009-10-27
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Relativ kurzfristig wurde ich zur CLC eingeladen und habe dort einen Vortrag über den Einfluss von Mozilla auf die Entwicklung von Open Source und Open Standards gehalten:
+
+[How Mozilla takes back the web](http://www.slideshare.net/yatil/how-mozilla-takes-back-the-web "How Mozilla takes back the web")View more [documents](http://www.slideshare.net/) from [Eric Eggert](http://www.slideshare.net/yatil).
+
+
+
+## Audio-Aufnahme
+
+Die MP3-Datei bei Archive.org: [How Mozilla takes back the Web \[MP3, 19MB\]](http://www.archive.org/download/HowMozillaTakesBackTheWeb/clc09.mp3) ([andere Formate](http://www.archive.org/details/HowMozillaTakesBackTheWeb))

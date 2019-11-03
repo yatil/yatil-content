@@ -1,0 +1,54 @@
+Title: Tabellenloses Design Teil 2 - Das XHTML-Grundgerüst (Update)
+----
+Date: 2005-03-30
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nachdem im [1.Teil](http://wp.yatil.de/tabellenloses-design-teil-1-die-grundlagen/ "Tabellenloses Design Teil 1 – Die Grundlagen") die Grundlagen für das Layout gelegt wurden gehe ich nun auf die Struktur der XHTML-Datei ein:
+
+```
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+        <title>[Seitentitel]</title>
+    </head>
+
+    <body>
+        [Seiteninhalt]
+    </body>
+</html>
+```
+
+In den Zeilen 1 und 2 wird der Dokumententyp deklariert – hier eine XHTML 1.0-Strict-Datei. In Zeile 4 wird der `<html>`-Bereich geöffnet, in dem sich alle Daten des Dokuments befinden. In den Zeilen 4-7 befindet sich der `<head>`-Bereich in dem (Zeile 6) der Seitentitel festgelegt wird. Zuvor wird der Zeichensatz angegeben in dem das Dokument gesetzt wurde, damit wir deutsche Umlaute einfach in das Dokument schreiben können. Die Angabe `iso-8859-1` steht dabei für den Standard-Zeichensatz von Windows. Eine andere gebräuchliche Angabe ist `utf-8`. Der Inhalt des Dokuments (was also letztendlich ausgegeben wird) wird im `<body>` festgelegt. Dies ist die Grundlegende Struktur, die in jedem XHTML-Dokument vorhanden sein _muss_. Die meisten Anweisungen kommen in den `<body>`, zum Beispiel auch folgende Zeilen: ```
+<div id="wrap">
+    <div id="head">
+        <h1>Unsere Beispielseite</h1>
+    </div>
+    <div id="content">
+        <h2>Inhalt</h2>
+        <p>Dies ist ein Beispieltext.</p>
+    </div>
+    <div id="side">
+        <ul class="nav">
+        <li><a href="index.html">Startseite</a></li>
+        <li><a href="uebermich.html">&Uuml;ber mich</a></li>
+        <li><a href="artikel.html">Artikel</a></li>
+        <li><a href="impressum.html">Impressum</a></li>
+        </ul>
+    </div>
+    <div id="foot">
+        <p>All Rights reserved.</p>
+    </div>
+</div>
+```
+
+Dies ist die spätere Struktur der Seite. Alle Bereiche sind durch `wrap` zusammengefasst, das ist praktisch, wenn wir später unserer Datei eine Form geben. Das `head`-`<div>` soll platz für das Logo und den Namen der Website enthalten, welcher auch in einem `<h1>`-Element steht. Darauf folgt der eigentliche Inhalt (`content`) sowie die Seiten-Leiste. Zum Schluß der Seitenfuß. Die [fertige XHTML-Seite](http://yatil.de/xhtml/bsp1.html) sehen sie [hier](http://yatil.de/xhtml/bsp1.html).

@@ -1,0 +1,54 @@
+Title: Chris Eppstein – Lightning Fast SASS #fronteers15
+----
+Date: 2015-10-08
+----
+Category: Event, General
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- SASS well received although it is built in Ruby. But it is slow and no-one uses it for something else, also it loses to nodejs.
+- libSass developed, a C/C++ port of Sass engine but not with all features.
+- Most other languages can use the libSass binaries.
+- Big bet on libSass, has now 98% compatibility – mostly edge cases missing.
+- Worth it? – libSass is very fast
+- Downsides: 
+  - Binary files – OS/HW dependent
+  - C++ not known by many webdevs
+  - slow to develop new features
+  - Ecosystem fragmentation
+- Focus on the JS portion 
+  - libSass to node.
+  - Don’t want people to have tools with less features.
+  - C++ <-> Node.js bridge
+- Compass not ported to libSass 
+  - Best parts of compass regenerated in JavaScript.
+  - Stop development of compass.
+- Sass modules as npm modules instead of ruby gems.
+- New open source project with support from linkedIn 
+  - Eyeglass takes compass features to JS
+  - Distribute Sass modules via npm
+  - Import Sass from modules
+  - Define Sass functions in JS
+  - Global resolution of shared dependencies
+  - Deliver assets with the right URLs.
+  - Node-like importing
+  - Filesystem API
+  - <http://eyeglass.rocks>
+  - 30 modules on npm under eyglass-module
+  - Install: npm install --save-dev module\_name
+  - Use: @use module\_name.sass(?)
+  - Eyeglass is not an asset pipeline.
+  - Motivation is to make it easier to contribute to eyeglass
+  - Module: Sprite maps for Sass files 
+      - Advantage: Works with multiple file formats
+      - Files can be in several directories
+      - No “Magic Import” that was confusing to people
+- Use libSass. It’s ready
+- Use eyeglass to distribute Sass.
+- node-sass-utils for writing Sass functions in JS.
+- But the Ruby Sass is not dead.

@@ -1,0 +1,67 @@
+Title: Remy Sharp – The Art of Debugging #fronteers15
+----
+Date: 2015-10-09
+----
+Category: Event
+----
+Summary: 
+----
+Tags: fronteers15
+----
+Image: 
+----
+Text:
+- Personal debugging workflow
+- Don’t Write Bugs!
+- Although…
+- the opposite is true
+- the artifact of writing software is fixing bugs
+- gives you experience
+- no silver bullet to debugging
+- you need to pick and chose the right tools
+- debugging helps you to identify issues earlier
+- Disclaimer 1: Frameworks? 
+  - Don’t have a project that required frameworks.
+  - Tools I use are not for frameworks
+  - For react: It brings it own debugging tool, because it has to as it is so abstract.
+- Disclaimer 2: I rarely do x-browser testing 
+  - Current work is not requiring it, mostly doing JavaScript
+- The art of debugging (says wikipedia)
+- The parts to debugging 
+  1. Replicate 
+      - Hardest and most important part
+      - Bug report: Saving doesn’t work.
+      - I know saving works.
+      - But it doesn’t work for them.
+      - Wontfix is no solution.
+      - Litmus-Test to see if it happens at the URL that the user is using.
+      - Likely: Series of event happens to the bug
+      - Debugging is the end of the process, it should have been caught in tests, right?!
+      - Caching and browser add-ons mess with pages
+  2. Isolate 
+      - Pair down to the simplest form where the bug occurs
+  3. Eliminate 
+      - That makes fixing the bug much easier
+- But what is if you have a Heisenburg bug? (A bug that changes its shape while you’re debugging.)
+- Clean the environment as much as possible
+- State 
+  - All debugging comes out of state.
+  - Two types: passive state 
+      - What happens?
+      - Literally looking how the canvas was built
+      - Memory history.
+  - Interactive state 
+      - Fixing in the browser to not lose context
+      - no back and forth to the editor and back
+  - The stack
+- Two methods: 
+  - Inside out 
+      - When something changes and you have no idea where in the stack is the error introduced.
+  - Outside in 
+      - You know where the bug is and you go in and edit the file.
+- You can import your local source in the Chrome devtools debugger and link it to the running files
+- Timeline mode is also useful to find performance bugs
+- DOM breakpoints allow you to stop the script when an element changes and shows the code snippet
+- Debug memory leaks with profiles. The memory should be on the level where it started. Snapshot help
+- Red background in profiles: Garbage collection didn’t work out right.
+- There is no silver bullet!

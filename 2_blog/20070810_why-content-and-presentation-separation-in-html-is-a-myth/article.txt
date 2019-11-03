@@ -1,0 +1,14 @@
+Title: Why content and presentation separation in HTML is a myth
+----
+Date: 2007-08-10
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Jeff Croft just published [an article about the attempt of separating content and presentation with HTML](http://www2.jeffcroft.com/blog/2007/aug/09/myth-content-and-presentation-separation/). He writes: “\[T\]he idea that a redesign of anything more than the most basic of sites will not require changes to (X)HTML markup is simply a myth.” Of course he’s right and here’s why: HTML was never meant to be not altered on a redesign, because a HTML document doesn’t contain only content, it also contains structure. It’s quite important to take that point into consideration when talking about this issue. But shouldn’t we separate content and presentation? Well, we do. Nowadays, websites are most of the time database powered, with huge content management systems. Contents is safely and independently stored in these databases. So what are you doing with your CMS: you take the content, add a document structure to it, then you’ll likely style the page and add some behavioral javascript. So in reality there are four different layers. In static HTML documents the non-separation of structure and content really stands in the way of redesigning a site effectively. But the W3C has an solution for this problem, too: XML and XSLT. XML contains the content. A headline, body text, a picture reference. XSLT then adds the structure. The whole content should stay in a `div` with `class="hentry"` and the headline will be in a `h1`. It indeed is like templating in modern CMS, like using smarty or another php solution (like wordpress does) or something like Textpattern with it [unique XML like tags](http://textbook.textpattern.net/wiki/index.php?title=Alphabetical_Tag_Listing). If you’re doing a redesigning, let’s say going from a two to a three column layout, that’s not only a matter of changing how the page looks like. The whole structure of the site may change in that step. And that change should be reflected in the markup, too.

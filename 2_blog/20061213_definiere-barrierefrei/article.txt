@@ -1,0 +1,20 @@
+Title: Definiere Barrierefrei
+----
+Date: 2006-12-13
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Gerade unter [Jens’](http://weblog.grochtdreis.de/weblog/index.php) [Artikel zu Lightboxen](http://www.webkrauts.de/2006/12/13/lightboxen-das-neue-popup/) gefunden:
+
+> Weiterer Nachteil: nicht Barrierefrei [Zen zum Artikel](http://www.webkrauts.de/2006/12/13/lightboxen-das-neue-popup/#comment-1523)
+
+> Definiere Barrierefrei [Barrierefrei-Guru Tomas Caspers dazu](http://www.webkrauts.de/2006/12/13/lightboxen-das-neue-popup/#comment-1524)
+
+Ist übrigens genauso falsch wie die Behauptung „Flash ist nicht Barrierefrei“.

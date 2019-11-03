@@ -1,0 +1,17 @@
+Title: self()->Sommer
+----
+Date: 2004-05-18
+----
+Category: News, Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Also ich hab ja eigentlich ausschließlich positive Kritik an der Website »geerntet«. Trotzdem finde ich die Seite ziemlich langweilig. Deshalb hab ich mich zu einem Redesign entschlossen. Diesmal wird die Änderung allerdings nicht an einem Abend vorgenommen sondern nacheinander in verschiedenen Schritten, die jeweils ausführlich dokumentiert werden.  
+Diese Dokumentation wird auch einige grundlegende Elemente der standardkonformen XHTML-Codierung beinhalten. Aber natürlich keine Einführung in XHTML von Grund auf.
+
+Die Dokumentation und das gleichzeitige Redesign beginnt morgen um ca. 20.00 Uhr.

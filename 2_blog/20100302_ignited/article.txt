@@ -1,0 +1,18 @@
+Title: Ignited
+----
+Date: 2010-03-02
+----
+Category: Barrierefreiheit
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Yesterday I was speaking at my first [Ignite event at Frankfurt/Main](http://www.webmontag.de/location/frankfurt/index). It was a special edition of the Webmontag which happens at the Brotfabrik every two months. [![Eric Eggert, at the beginning of his talk, the beamer in the background says (Almost.) Everyone here is disabled. (Or will be at some time.) – Photo by patricklenz.](http://farm3.static.flickr.com/2758/4406946297_392164f66d.jpg)](http://www.flickr.com/photos/scoop/4406946297/)
+
+> ![](http://yatil.de/images/321t.jpg) “Fast-paced, fun, thought-provoking, social, local, global—Ignite is all of these and more. It’s a high-energy evening of 5-minute talks by people who have an idea—and the guts to get onstage and share it with their hometown crowd. Run by local volunteers who are connected through the global Ignite network, Ignite is a force for raising the collective IQ and building connections in each city. And, via streaming and archived videos of local talks, local Ignites share all that knowledge and passion with the world.”
+
+[![Eric Eggert, presenting the difference between add-on accessibility and integrated accessibility. Photo by  ScreenOrigami.](http://farm3.static.flickr.com/2680/4407705611_f329b5f7a9.jpg)](http://www.flickr.com/photos/screenorigami/4407705611/in/set-72157623558213264)I had _a lot_ of fun with my talk and the other talks I’ve seen. I had to leave the event early, to get back to Essen, during the break, but I’m sure the other talks were great, too. My talk was about web accessibility basics, here are the slides: The video and transcript will follow, when released by the Ignite Frankfurt team. _Images by ScreenOrigami and patricklenz on flickr._

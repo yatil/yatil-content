@@ -1,0 +1,20 @@
+Title: Wenn Microsoft nur wollte...
+----
+Date: 2004-12-02
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+könnten sie Standards in ihren Browser integrieren, so [Tristan Nitot](http://standblog.org/blog/2004/11/27/93113842-how-microsoft-can-support-css2-without-breaking-the-web), der Präsident von Mozilla Europe. Aber Microsoft _will_ gar keine Standards unterstützen:
+
+> We could change the CSS support and many other standards elements within the browser rendering platform. But in doing so, we would also potentially break a lot of things. Quelle: [Aussage eines Microsoft-Vorsitzenden](http://www.betanews.com/article/Microsoft_Windows_Exec_Talks_IE_Firefox/1100534022)
+
+Das ganze hat [Eric Meyer](http://meyerweb.com/eric/) in seinem [Weblog-Eintrag](http://www.meyerweb.com/eric/thoughts/2004/12/01/unbreaking-the-web/) noch einmal aufgegriffen.
+
+Ist schon eine Schweinerei, zu behaupten, dass man falsch gecodete Webseiten kaputt macht, wenn man den Browser updatet.

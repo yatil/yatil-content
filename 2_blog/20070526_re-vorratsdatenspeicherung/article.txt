@@ -1,0 +1,83 @@
+Title: Re: Vorratsdatenspeicherung
+----
+Date: 2007-05-26
+----
+Category: Innenpolitik, Internationale Politik
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Tenor: Wir sind nicht schuld!
+
+Durch beide Antworten zieht sich das Zeigen mit dem Zeigefinger auf die EU.
+
+> „Wie Sie vielleicht wissen, geht die Vorratsdatenspeicherung auf eine bis Herbst 2007 umzusetzende EU-Richtlinie zurück, welche die Mitgliedstaaten und damit auch Deutschland zur Einführung von Speicherungspflichten für bestimmte Telefon- und Internetdaten zu Zwecken der Terror- und Verbrechensbekämpfung für eine Dauer von mindestens sechs und höchstens 24 Monaten verpflichtet.“ Lydia Westrich, SPD in ihrer E-Mail vom 2. Mai
+
+> „Dieser \[Gesetzes-\]Entwurf entspricht der Umsetzung der EU-Richtlinie Nr 2006/24/EG und folgt letztlich genau Ihrer Forderung, sich für den Schutzder im Grundgesetz verbrieften Grundrechte einzusetzen. Allerdings ist hier ein schwieriger Spagat zu vollbringen zwischen den Freiheitsrechten der Bürger einerseits und der Gewährleistung der öffentlichen Sicherheit als einer der Kernaufgaben eines jeden Staates andererseits.“ Anita Schäfer in ihrem Brief vom 16. Mai
+
+Bei aller Leibe. Man hat das auf EU-Ebene mit durch gewunken und jetzt sagt man die EU ist schuld. Das finde ich erstens zynisch und zweitens hinterhältig. Da kann Frau Westrich auch folgendes betonen:
+
+> „Auf europäischer Ebene haben wir unseren Vorbehalt gegen die EU-Regelung zur Vorratsdatenspeicherung erst aufgegeben, nachdem die Bundesregierung in Brüssel einen zufrieden stellenden Kompromiss erzielt hat.“ Lydia Westrich, SPD in ihrer E-Mail vom 2. Mai
+
+Ja, die Vorratsdatenspeicherung sollte länger andauern, und ja, andere Länder wollten längere Laufzeiten, z.B. „Großbritannien, Irland und Schweden (…) von 36 Monaten durchsetzen“. Aber trotzdem ist sie falsch.
+
+## Tenor: Wir wollen doch überhaupt nix schlimmes.
+
+> „Ursprünglich sollten auch Standortdaten am Ende von Mobilfunkverbindungen gespeichert werden. Der Vorschlag wurde gekippt und somit verhindert, dass durch das Anlegen von engmaschigen Bewegungsprofilen in die Rechte der Bürgerinnen und Bürger eingegriffen wird.“ Lydia Westrich, SPD in ihrer E-Mail vom 2. Mai
+
+Ach ja? Laut [Vorratsdatenspeicherung.de](http://www.vorratsdatenspeicherung.de/content/view/78/86/#Umsetzung_in_Deutschland) gehört zur Umsetzung auch folgender Punkt (unter 1.4.3): „die Bezeichnung der durch den anrufenden und den angerufenen Anschluss bei Beginn der Verbindung genutzten Funkzellen“. Huch, das ist doch tatsächlich zu Bewegungsprofilen fähig.
+
+> „Jedoch waren (…) Regelungen mit Augenmaß (z.B. keine Speicherung von Gesprächsinhalten, Beschränkung der Speicherungsfrist auf 6 Monate, Datenabfrage nur bei Verdacht erheblicher oder mittels Telekommunikation begangener Straftaten) zu erreichen.“ Anita Schäfer, CDU in ihrem Brief vom 16. Mai
+
+Wäre ja auch noch schöner gewesen…
+
+> „Daten, die Aufschluss über den Inhalt einer Kommunikation geben, dürfen nach der Richtlinie nicht gespeichert werden. Mit anderen Worten: Es werden nur die Daten gespeichert, die von Telekommunikationsunternehmen sowieso erhoben werden, um gegenüber ihren Kunden die Richtigkeit der Rechnung nachweisen zu können.“ Lydia Westrich, SPD in ihrer E-Mail vom 2. Mai
+
+Das ist – mit Verlaub – glatter Unfug. Wenn ich beispielsweise eine Internet-Flatrate habe, dann benötigt der Provider keinerlei angaben, wann und wie lange ich online war. Es geht also weit – sehr weit – über die Daten hinaus die der Anbieter braucht. Zudem bezweifle ich die Wirkung von Informationen wie Terrorist A hat zwischen 19.33 und 19.35 Uhr bei einem Pizzabäcker angerufen. Steht dieser Pizzabäcker dann unter verdacht? Rechtfertigt das Hausdurchsuchungen, Abhöraktionen oder Untersuchungshaft?
+
+## Tenor: Die bösen Terroristen sind schuld
+
+> „In erster Linie wird die Freiheit der Menschen aber durch Delikte der organisierten Kriminalität und Terrorismus bedroht, wie auch die von ihnen ausgeführten Beispiele der Anschläge von London und Madrid gezeigt haben. Auch ihnen ist deutlich geworden, dass auch wenige Terroristen eine verheerende Wirkung entfalten können.“ Anita Schäfer, CDU in ihrem Brief vom 16. Mai
+
+Wie Sie, Frau Schäfer, schon feststellten: Das ist mir bewusst, weiter:
+
+> „Dem stehen zahlreiche andere Fälle gegenüber, in denen durch sorgfältige Auswertung vorhandener Daten ein rechtzeitiges Eingreifen der Sicherheitskräfte möglich war.“ Anita Schäfer, CDU in ihrem Brief vom 16. Mai
+
+Ähhhh… Ja? Welche Anlässe meinen Sie jetzt genau? Die Kofferbomber? Ach, die waren nur zu blöd richtige Bomben zu bauen. Und dann kam man ihnen auch noch mit konventionellen Mitteln auf die Spur. Stimmt, so gesehen brauchen wir die Vorratsdatenspeicherung unter allen Umständen.
+
+Mir – und ich bin jetzt ein relativ politisch interessierter Mensch – ist nicht ein Vorfall bekannt, bei dem das Wissen über Verbindungsdaten Anschläge verhindert hätte. Vielleicht irre ich mich da, aber ich bin eben nicht folgender Ansicht:
+
+> „Die Politik muss daher entsprechende Antworten finden, um auch der Schutzpflicht gegenüber ihren Bürgern gerecht zu werden. (…Die Umsetzung der EU-Richtlinie) ist (…) nicht Ausdruck einer „Stasifizierung“ sondern folgt einer gemeinschaftlichen Verpflichtung.“ Anita Schäfer, CDU in ihrem Brief vom 16. Mai
+
+Da halte ich doch gerne mal dagegen:
+
+> „Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.“ Grundgesetz, Artikel 1, 1
+
+> „Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmäßige Ordnung oder das Sittengesetz verstößt.  
+> Jeder hat das Recht auf Leben und körperliche Unversehrtheit. **Die Freiheit der Person ist unverletzlich.** In diese Rechte darf nur auf Grund eines Gesetzes eingegriffen werden.“ Grundgesetz, Artikel 2, 1+2
+
+Die Freiheit der Person und ihre Menschenwürde sind unverletzlich. Das ist die Grundlage unseres Rechtsstaates. Es mag sein, dass das ein „schwieriger Spagat zwischen den Freiheitsrechten der Bürger und der Gewährleistung der öffentlichen Sicherheit“ ist (Schäfer, ebenda), doch das ist kein Spagat, das ist der Anfang Sicherheit vor Freiheit zu gewichten. Es ist ein Misslungener Spagat, einer, der nicht nur zu Muskelkater sondern auch zu einem Irreparablen Muskelfaserriss zwischen Bürger und Staatsapparat führen kann.
+
+Und bevor mir vorgeworfen wird ich würde zu sehr auf Frau Schäfer und ihrem verlogenen CDU-Pack und ihrer Fraktion herumtrampeln hier der haarsträubende Vergleich von Lydia Westrich:
+
+> „In diesem Zusammenhang ist folgender Vergleich, wie ich finde, überaus anschaulich: Von der Telefonüberwachung waren im Jahr 2005 12.600 Menschen betroffen. Es gab circa 5.000 Verfahren, da die betroffenen Personen über mehrere Telefone verfügten; Insgesamt aber gab es in der Bundesrepublik im Jahre 2005 fünf Millionen Ermittlungsverfahren.“ Lydia Westrich, SPD in ihrer E-Mail vom 2. Mai
+
+Frau Westrich: Sie verstehen nichts. Die Telefonüberwachung muss vorher richterlich genehmigt werden, nicht wahr? Die Überwachung aller Bürger nicht. Die passiert einfach so. Wenn es um richterlich genehmigte Erhebung von Daten ginge, bei konkretem Verdacht, dann wäre das kein Problem. Aber die Daten werden erhoben und dann wird erst entschieden ob ein Verdacht vorliegt. Das ist beschämend und hat den Begriff „Rechtsstaat“ nicht verdient.
+
+> „Im Übrigen finde auch ich Schäubles Äußerungen zur Unschuldsvermutung bedenklich und die wohl gewollte Umwandlung unseres Rechtsstaats in einen “Präventionsstaat” höchst suspekt. Unsere Justizministerin Zypries widersetzt sich den Ideen von Herrn Schäuble und hat dabei die Unterstützung der SPD-Bundestagfraktion. Schäuble darf und wird sich insoweit nicht durchsetzen.“ Lydia Westrich, SPD in ihrer E-Mail vom 2. Mai
+
+Auch wenn ihnen das nicht bewusst ist: Schäuble hat schon gewonnen, schon alleine, weil ich der SPD einfach die Durchsetzungsfähigkeiten in diesem und ungefähr in noch allen anderen Bereichen abspreche. Zahnloser Tiger trifft es nicht, vielleicht trifft es die zahnlose Wühlmaus.
+
+## Conclusio
+
+Zuerst einmal einen Dank an meine beiden Abgeordneten für die Antwort. Über den Inhalt habe ich mich weniger gefreut. Keine der Beiden geht auf direkten Konfrontationskurs mit der großen Koalition. Brief und E-Mail wirken zudem inhaltlich äußerst profillos.
+
+Das scheint mir allerdings eine Auswirkung der großen Koalition zu sein. Niemand will dem anderen schaden, auch die kleine SPD nicht, wobei Westrichs letzter Absatz in die Richtung geht.
+
+Einig sind sich anscheinend alle, dass sie die Vorratsdatenspeicherung wollen, sonst wäre der Vorstoß der Opposition [Klage vor dem Europäischen Gerichtshofes nicht so niedergeschlagen](http://de.wikipedia.org/wiki/Richtlinie_über_die_Vorratsdatenspeicherung#Klage_vor_dem_Europ.C3.A4ischen_Gerichtshof) worden.
+
+Überzeugt hat mich weder die Eine, noch die Andere. Die Erklärungen finde ich nach wie vor fadenscheinig und nicht nachvollziehbar.

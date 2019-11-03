@@ -1,0 +1,14 @@
+Title: Eine Einführung in Webstandards
+----
+Date: 2004-07-06
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Was Webdesigner/-entwickler oder ähnliche Personen in ihrer Freizeit machen, falls sie einen Hang zu einer Fremdsprache haben: Sie übersetzen Dokumente über Webstandards wie z.B. [Was jeder Website-Besitzer über Webstandards wissen sollte: Eine Einführung in Webstandards.](http://www.yatil.de/primer/). Dessen Original ist bei [MACCAWS](http://www.maccaws.org/ "Making A Commercial Case for Adopting Web Standards") unter dem Titel [What Every Web Site Owner Should Know About Standards: A Web Standards Primer](http://www.maccaws.org/kit/primer/) erschienen. Über Hinweise zu Fehlern, unklaren Formulierungen und ähnlichem bin ich sehr dankbar.

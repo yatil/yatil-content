@@ -1,0 +1,48 @@
+Title: Bürgerjournalismus und Schülerzeitungen
+----
+Date: 2006-06-19
+----
+Category: Gesellschaft, Schule
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Thomas schätzt die Auswirkungen eher gering ein.
+
+Das Problem mit solchen Angeboten wie “Readers Edition” ist, dass diese Angebote als jounalistisch gekennzeichnet sind, obwohl Amateure am Werk sind.
+
+Das äußert sich dann unter anderem in Beiträgen in denen die journalistische Gründlichkeit fehlt. Im Bericht[1](#fn1186877223449683b3b0ea0) [‘Die GEW sollte verboten werden’](http://www.readers-edition.de/2006/06/18/die-gew-sollte-verboten-werden/) beispielsweise fehlt der gesamte Zusammenhang:
+
+> Passend zur Fussball-Weltmeisterschaft im eigenen Land fordert die “Gewerkschaft Erziehung und Wissenschaft” (GEW) eine Änderung der Nationalhymne – und empört damit das in Euphorie schwimmende Volk. Ein Kommentar.
+
+Auch wenn es ein Kommentar ist fehlt hier meines Erachtens die Änderung, die die Gewerkschaft vorgeschlagen hat. In einer normalen Zeitung kann ich mir den Zusammenhang zusammensuchen, optimalerweise würde der Kommentar sowieso in der Nähe des Artikels stehen.
+
+1 Der Artikel wurde nachträglich in [GEW will Änderung der Nationalhymne](http://www.readers-edition.de/2006/06/18/gew-will-aenderung-der-nationalhymne/), umbenannt. Das ist eine Überschrift, die so überhaupt nicht zum Kommentarcharakter des Artikels passt sondern einen Bericht vermuten lässt. Eine Weiterleitung wurde – natürlich – nicht gesetzt, stattdessen gibt es eine nette Fehlermeldung…
+
+Hier ist noch nichtmal die Verlinkung auf einen Quellenartikel präsent, was ich schade finde.
+
+Aber die journalistische Gründlichkeit, die man aus Zeitungen kennt, bietet ein (Bürger-)Blog nicht.
+
+Natürlich gibt es bei verschiedenen Zeitungen verschiedene Niveaus der journalistischen Tätigkeit. Bei der Lokalzeitung sind die Redakteure auch Bürger und meist näher dran.
+
+Bei Regionalzeitungen wird es bereits professioneller, auch weniger boulevardesk und überregionale Veröffentlichungen sind dann noch professioneller.
+
+Diese Diskrepanzen ist der Leser gewohnt, nimmt sie – bspw. bei einer Regionalzeitung – hin, weil auch er näher am Geschehen dran sein will, weil ihn die Themen eher interessieren.
+
+Das bringt mich direkt zu meinen Erfahrungen mit Schülerzeitungen. Dort war die personelle Färbung der Artikel nicht Ausnahme sondern Regel, Anschuldigungen gegen Lehrer versteckten sich manchmal in eigentlich harmlosen Artikeln, Kommentare waren oft beleidigend geschrieben und es gab Überschriften, die mit dem Thema nichts zu tun hatten.
+
+Trotzdem hat man gemerkt, dass jeder Bub und jedes Mädel mit Leidenschaft dabei war. Sie versuchten ihr Bestes und sind dabei öfters über die Strenge geschlagen. Glücklicherweise gab es eine Chefredaktion (und einen Cheflayouter), die nochmal einen Blick auf die Artikel warfen.
+
+Amateur- und Profijournalismus existieren also schon länger nebeneinander. Gefährlich wird es, wenn Amateure als Profis verkauft werden.
+
+Denn neutral sind diese Amateure meistens nicht, zumindest nicht aus eigenem Antrieb. Deshalb ist bei dem, was es in Blogs so zu lesen gibt immer Vorsicht walten zu lassen.
+
+[Der Artikel, auf den sich Thomas bezieht,](http://www.readers-edition.de/2006/06/17/buergerjournalismus-vs-meinungspublizistik/) schlussfolgert dann, dass Bürgerjournalismus vernetzte Meinungspublizistik ist. Thomas entgegnet:
+
+> Das hat dann aber nichts mehr mit User-Generated-Content zu tun, sondern ist eine moderne Form der Leserbriefe.
+
+Recht hat er, und ich stelle mir mit Grausen vor, wie Artikel der Schülerzeitung in (unmoderierten) Blogs aussehen würden…

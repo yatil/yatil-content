@@ -1,0 +1,28 @@
+Title: Wir haben die Ziele noch lange nicht erreicht!
+----
+Date: 2005-11-03
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wie unter anderem [Molly Holzschlag](http://www.molly.com/2005/11/03/an-open-letter-to-disney-store-uk/) und [Andy Clarke](http://www.stuffandnonsense.co.uk/archives/of_mice_and_men.html) berichten hat sich der [britische Disney Store](http://disneystore-shopping.disney.co.uk/) von ihrem validen XHTML-basierten Layout verabschiedet und ist wieder zu invalidem, proprietären HTML zurückgekehrt.
+
+Auch bei der [Google Suche](http://www.google.com/search?hl=en&q=disney+store+uk&btnG=Google+Search) zeigt sich, dass unter anderem “Spacer Gif” ein tolles Weihnachtsgeschenk sein könnte.
+
+Nun muss man aber eines sehen, neben der Ironie dieses Google-Ergebnisses:
+
+Webstandards sind noch immer kein Teil der Alltagskultur im Internet. Und nicht nur dort fehlt es, es fehlt auch in den Führungsetagen. Die “Entscheider” bestimmen über Webstandards oder Tagsoup. Über Stylesheets oder “Spacer Gifs”.
+
+Zählt für sie nur das Aussehen? Eventuell. Rechnen muss es sich. Ob es das beim Disney Shop tun wird bezweifle ich stark. Die alte Seite war nicht nur schöner sondern auch zugänglicher als die neue.
+
+Wenn man also Webstandards durchsetzen will, so kann man das sicher nicht als Webdesigner in seinem eigenen Medium, in seiner Community. Man muss umfassend, ganzheitlich und vollständig informieren, darf sich nicht in Fachsprache verstricken und muss klar fassbare Tatsachen anführen.
+
+Initiativen wie die [WaSP](http://webstandards.org/) können nur erfolgreich sein, wenn sie sich direkt an die Menschen wenden, die a) die Schnittstelle zwischen Web und Benutzer besetzen (Hersteller von Browsern, Webeditoren, Webseiten) und b) die entscheiden wie ein Webdesign oder eine Seitenidee umgesetzt werden soll (Manager, Chefs von mittelständischen Unternehmen) und was dafür ausgegeben werden soll.
+
+Zudem muss man zeigen, dass standardnahes, zugängliches und barrierefreies Webdesign sowohl einen Mehrwert hat als auch mehr Wert ist.

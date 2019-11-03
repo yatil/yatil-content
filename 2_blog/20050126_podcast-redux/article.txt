@@ -1,0 +1,22 @@
+Title: Podcast Redux
+----
+Date: 2005-01-26
+----
+Category: News, Podcast
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nach inzwischen vier Podcasts wird es Zeit für eine kleine Zwischenbilanz, unabhängig von der Frage, ob meine Stimme oder meine Sprechgeschwindigkeit für Podcasts geeignet ist.
+
+Zuerst einmal kann man feststellen, dass das Veröffentlichen von Podcasts kein Problem ist, dank [Feedburner](http://feedburner.com/) und [Audacity](http://audacity.sourceforge.net/).
+
+Allerdings scheinen mir (zumindest meine) Podcasts beliebig und zusammengewürfelt, der innere Zusammenhang fehlt. Zudem sind Podcasts zwar einfach aufzunehmen, aber wenn man noch andere Ausschnitte einfügt und sich um Details kümmert werden Podcasts wesentlich komplizierter.
+
+Zudem stellt sich die Frage der Zugänglichkeit. Zwar sind Podcasts für schlecht/nicht sehende Menschen gut zu verstehen, aber es gibt keine Textalternative z.B. für gehörlose Menschen.
+
+Trotz dieser Nachteile wird es hier weiter Podcasts geben, wenn auch in einer wesentlich weniger frequenten Weise.

@@ -1,0 +1,21 @@
+Title: Welche Religion?
+----
+Date: 2004-09-21
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> Web standards are not a religion, and web standards advocates are not religious zealots. Web standards are about building a better web, accessible to anyone, no matter what browsing device they use. Web standards are about reducing development and maintenance costs and increasing reach.  
+> Quelle: [Web standards religion? What religion?](http://www.456bereastreet.com/archive/200409/web_standards_religion_what_religion/) von [Roger Johansson](http://www.456bereastreet.com/about/)
+
+Übersetzt heißt das:
+
+> Webstandards sind keine Religion, und Vertreter von Webstandards sind keine religiösen Fanatiker. Bei Webstandards geht es um das Herstellen eines besseren Webs, für jeden zugänglich, egal welchen Browser man benutzt. Es geht darum Entwicklungs- und Wartungskosten zu reduzieren und die Reichweite zu erhöhen.
+
+Da stimm ich völlig zu!

@@ -1,0 +1,16 @@
+Title: About online identity
+----
+Date: 2011-07-12
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+> If you care about your online presence, [you must own it](http://www.marco.org/2011/04/05/let-us-pay-for-this-service-so-it-wont-go-down). I do, and that’s why my email address has always been at my own domain, not the domain of any employer or webmail service.
+
+[Marco Arment](http://www.marco.org/2011/07/11/own-your-identity)

@@ -1,0 +1,24 @@
+Title: Hyphenation, Languages and Code
+----
+Date: 2018-04-10
+----
+Category: Web design
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Jeremy [posted a solution for multi-language sites](https://adactio.com/notes/13720) where you want to switch hyphenation on when the page language is set to (for example) German:
+
+``` css
+[lang="de"] { hyphens: auto; }
+```
+
+This works great until you have code on the page. Even if we have word-wrapping for code enabled (and we should on responsive sites), hyphenation is not what we want, usually. The same goes for code in sentences. So I’d suggest adding the following to the CSS: 
+
+``` css
+[lang="de"] pre, [lang="de"] code { hyphens: none; }
+```

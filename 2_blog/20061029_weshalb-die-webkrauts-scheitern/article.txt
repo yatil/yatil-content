@@ -1,0 +1,46 @@
+Title: Weshalb die Webkrauts scheitern.
+----
+Date: 2006-10-29
+----
+Category: 
+----
+Summary: 
+----
+Tags: webkrauts
+----
+Image: 
+----
+Text:
+## Mangelnde Partizipation
+
+Von den [72 Mitgliedern](http://www.webkrauts.de/mitglieder/) der Webkrauts sind die meisten inaktiv, zumindest für das Bündnis. Dies resultiert unter anderem daraus, dass die Anmeldung für die Krauts offen war und dadurch einfach eine Unmenge an Mitgliedern aufgenommen wurden. Teilweise wurden Leute, die Ihren Beitritt mit „Webstandards haben mich schon immer interessiert.“ begründet.
+
+Das ist zwar eine breite Basis, aber es geschieht kaum etwas produktives, zumindest nicht dauerhaft. Seit dem fünften April, also in knapp sieben Monaten gibt es ganze zehn Einträge und Artikel auf der Webseite. Das wäre nicht annähernd so schlimm, wenn auf anderen Ebenen die Idee des freien, allgemeinen und gleichen Webs verbreitet würde.
+
+Beispielsweise wäre das gezielte Zusammenarbeiten mit Firmen eine der Hauptaufgaben der Organisation. Doch wenn man sich mit den Worten „Die Webkrauts sind ein loser Verband von Webdesignern“ vorstellt hat man kaum eine Chance auf Gehör. Das habe ich mit dem [Recode des Focus](http://yatil.de/Weblog/der-focus-im-fokus) schmerzlich erleben müssen.
+
+## Orientierungslosigkeit
+
+Hier muss sich einiges ändern. Die Webkrauts müssen ein Synonym für modernes Webdesign werden, sie haben ansonsten keine Überlebenschance. Wenn die Veröffentlichung eines Artikels an hohe Anforderungen gebunden ist und lange dauert ist dass ineffizient.
+
+Die Webkrauts versuchten lose, kleine Bündnisse von Webdesignern genauso zu bedienen wie als Informationsplattform zu dienen. Dies sind zwei nahezu unvereinbare Dinge. Wichtig wäre nun eine klare Linie zu definieren. Wäre ein Wiki, das Fachbegriffe und Vorgehensweisen sammelt und von jedem (!) schnell und unbürokratisch bearbeitet werden kann, nicht eine zentrale Informationsquelle, die viele Designer suchen.
+
+Wäre eine offene Plattform nicht der richtige Weg um Leben in die Seite zu bringen? Brauchen wir ein [„Mission Statement“](http://www.webkrauts.de/mission-statement/), das viel verspricht und wenig hält?
+
+Es wurde sich aktiv gegen die Vereinsform ausgesprochen, auch um Flexibel zu bleiben. Davon übrig geblieben ist ein Zentralkomitee, das aber beruflich voll in Arbeit steckt, was natürlich gut für die Betreffenden aber nicht für die Organisation ist.
+
+An dieser Stelle möchte ich nochmals betonen, dass das keine Kritik an [Jens Grochtdreis](http://grochtdreis.de/weblog/index.php) oder anderen Mitgliedern des Komitees ist. Sie haben getan, was sie für richtig hielten, aber es ist Zeit die Organisation der Organisation zu überdenken.
+
+## Zukunft
+
+Das heißt ja nicht, dass nichts passiert. Der Adventskalender ist in der Organisation, es wird wohl einen relativ großen Vorlauf dieses Jahr geben, was natürlich auch den Druck ein wenig verringert. Ich selbst werde in diesem Jahr nichts zu diesem Projekt beitragen, meine beiden Beiträge vom letzten Jahr waren in Ordnung, doch es ist Zeit, dass sich mehr Krauts einbringen.
+
+Vielleicht sollte man aus den Webkrauts doch eine offizielle Organisation machen, zumindest aber die Mitgliederbasis verschlanken und darauf achten qualitativ hochwertige Mitglieder aufzunehmen. Eine Erwähnung auf der Webseite der Webkrauts sollte eine Auszeichnung sein und für gutes Webdesign stehen.
+
+Es braucht offene Strukturen im Webkrautsblog, es geht nicht an, dass ein Bericht über die Markteinführung des IE7 mehrere Wochen auf sich warten lässt, weil die Webkrauts am eigenen Anspruch scheitern. Wir brauchen keine ausgefeilten Artikel um Webstandards anderen Leuten näher zu bringen. Wir benötigen kurze, prägnante Texte, die auch emotional sein dürfen (meiner Meinung nach müssen), die Webdesigner, -entwickler und Führungskräfte gleichermaßen ansprechen können. Das direkte Zusammenarbeiten mit Firmen und die Vorstellung von „guten“ Seiten auf der Webseite. Sonst wird die Idee der Webkrauts in Deutschland scheitern.
+
+Momentan arbeite ich an einem Metablog, also an einer zentralen Anlaufstelle für Texte von Mitgliedern. Ich überlege mir nach diesem Projekt die Webkrauts zu verlassen, da es doch immer wieder destruktive Stimmen gibt, die Ideen anderer dann kritisieren wenn sie mitten in der Umsetzung sind. Die Idee eines Metablogs gibt es seit dem Beginn der Webkrauts vor über einem Jahr. Jetzt an der Methode der Umsetzung zu kritisieren finde ich krass und kann ich eigentlich nicht akzeptieren. Es gibt Menschen, denen dieses ganze Einsetzen für Standards viel bedeutet. Mir gefällt es mich für Standards stark zu machen, aber wenn das bedeutet, dass die Webkrauts diesen Prozess eher verhindern statt fördern, dann wäre es unehrlich Mitglied dort zu bleiben.
+
+## Fazit
+
+Es liegt an den Webkrauts sich einer kritischen Prüfung zu unterziehen. Dieser Artikel soll Anstoß dazu geben, gleichzeitig mögliche Lösungen aufzeigen. Langfristig muss die Partizipation an, die Offenheit von und die Aufmerksamkeit an den Webkrauts erhöht werden. Alles andere läuft auf ein Scheitern hinaus.

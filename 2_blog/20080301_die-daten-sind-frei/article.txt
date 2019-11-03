@@ -1,0 +1,27 @@
+Title: Die Daten sind frei!
+----
+Date: 2008-03-01
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Juhuu, es ist mal wieder Auf-Microsoft-Eindresch-Zeit. [Verschiedene](http://www.hackthenet.de/weblog/207/verdreht-den-ie6-nutzern-den-kopf) [Webentwickler](http://keasone.de/sideblog/2008-02/am-wochenende-verdreht-der-ie6-bei-mir-den-kopf) gerade aus der so genannten Standards-Szene machen ihre Webseiten (zumindest temporär) für IE6-Nutzer unzugänglich. Und es ist meine Schuld. Zumindest ein wenig. Bereits auf dem [Barcamp Hannover](http://yatil.de/Weblog/danke-hannover) hatte ich angemerkt, dass man doch seien privaten Seiten durch einen der proprietären Microsoft-Filter ein Statement für Browser abgeben könnte, deren Hersteller sich die [Spezifikationen](http://w3.org/) richtig durchgelesen haben. Nur um einmal zu schauen, ob das funktioniert, hatte ich den Code hier eingebaut und einen [Screenshot](http://www.flickr.com/photos/yatil/2297230829/) gemacht. Das war am 28. Februar am späten Morgen. Nun liegt die IE6-Rate auf dieser Seite sowieso schon auf einem außerordentlich geringem Niveau, so dass ich einfach einmal schauen wollte ob einer der letzten IE6-Surfer sich aufgrund der fehlerhaften Darstellung melden würde[1](#fn81970938547c98b71d0e4f), und lies den Code deshalb bis zum Abend in der Webseite stehen.
+
+1 Es meldete sich niemand.
+
+Nur zum Vergleich: Über 50% aller Besucher (in den letzten 72 Stunden) haben einen Firefox, davon fast 100% eine der letzten beiden Versionen. Mit dem IE sind noch 30% unterwegs, 16% (von allen Browsern) mit dem IE7 und 13% mit dem IE6. Die restlichen 20% sind tatsächlich Nischenbrowser wie Safari (7%), Mozilla (4%), Opera (3%). ## Gründe, keinen Browser auszusperren, auch den IE6 nicht:
+
+- **Barrierefreiheit:** Ja, ich weiß: Barrierefreiheit hat nichts mit den technischen Gegebenheiten zu tun. Nur weil eine Webseite auf einem Handy funktioniert heißt das noch lange nicht, dass sie barrierefrei ist. Aber ich kann nicht gleichzeitig versuchen meine Seite für einen verschwindend geringen Anteil von [JAWS](http://www.freedomsci.de/) -NutzerInnen benutzbar zu machen, und gleichzeitig 13% meiner Leser auzusperren.
+- **Kollateralschäden:** Wenn man davon ausgeht, dass die meisten IE6-Benutzer in eine der folgenden Gruppen gehören, dann trifft es hauptsächlich unschuldige: 
+  - IE6 ist einziger Browser im Unternehmen (z.B., weil das teure Intranet nur damit funktioniert)
+  - IE6 ist der einzige Browser, der auf dem PC ist und der Benutzer hat nicht die Kenntnisse sich einen Firefox herunter zu laden (Ich denke da an Windows 98/2000-Nutzer)
+  - Der IE6 ist der Lieblingsbrowser und so was modernes wie Tabs braucht man doch eh nicht.
+- **Erziehung:** Ist es der Job von uns Webentwicklern den Menschen vorschreiben zu müssen mit welchen Endgeräten sie unsere Seite zu nutzen haben? Hallo „Optimiert für den Netscape Navigator Version 4 und eine Auflösung von 800×600 Pixeln“-Banner.
+
+Die Meisten Nutzer haben doch keine Ahnung, wie so ein Browser funktioniert und was der so macht. Und das müssen sie auch nicht. Das Web hat sich geändert. Die Nutzer schreiben uns vor, wo Webseiten funktionieren müssen: **Überall.** Natürlich würden wir alle gerne dem IE6 nur ein simplifiziertes Layout mitgeben, bzw. die eine oder andere hässliche Stelle einfach hässlich sein lassen. Die Optimierung eines Layouts für den IE6 ist immer zusätzliche Arbeit, teilweise in richtig großem Umfang. Zahlen müssen das natürlich die Kunden, die Webseiten herstellen lassen. Hier auf dieser Seite kann ich mir Darstellungsfehler im IE6 lesten. Das ist in Ordnung. Die Inhalte sind da und können gelesen werden. Als privater Anbieter kann ich diesen Cut machen und sagen: „Meine Inhalte sind da, aber auf eine optimierte Version könnt ihr lange warten“. Eines der größten Probleme beim umsetzen dieser [Graceful-Degradation-Strategie](http://www.webkrauts.de/2006/10/15/weshalb-webstandards-immer-noch-wichtig-sind/#anmerkung1) ist, dass die Browserumsetzung so oft der letzte Webdesign-Schritt ist. Erst dann wird gefragt, ob das fertige Design überhaupt machbar ist. Das ist in der Tat ein Problem und wird sich vielleicht irgendwann durch Lobbyarbeit oder einfach gute Browser mit Standards wie CSS3 usw. von selbst gelöst haben. Für den Moment gibt es drei Browsergruppen, für die entwickelt werden darf und muss und deren Nutzer auf jeden Fall an die Inhalte kommen müssen. Das sind standardkonforme Browser (Firefox, Safari, Opera), IE7 und IE6. Und bei letzterem gilt (für meine privaten Seiten): Inhalte: ja; perfektes Layout: nein.

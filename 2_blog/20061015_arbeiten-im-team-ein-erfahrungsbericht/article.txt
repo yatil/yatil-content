@@ -1,0 +1,31 @@
+Title: Arbeiten im Team – Ein Erfahrungsbericht
+----
+Date: 2006-10-15
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nun ist das alleine keinen Weblogeintrag wert, doch der Artikel steht unter anderen Vorzeichen als normale Übersetzungen: Er wurde in einer Gemeinschaftsarbeit von gleich sechs Webkrauts übersetzt.
+
+Edoardo Hager, [Konstantin Käfer](http://kkaefer.com/), Markus Wulftange, [Kai Laborenz](http://www.laborenz.de/lab-o-log/) und [Mathias Schäfer](http://molily.de/) haben durch ihre Anmerkungen und Hinweise meine Rohfassung in einen sehr gut lesbaren Text verwandelt.
+
+Dabei wurde die Software [Writeboard](http://writeboard.com/) genutzt. Der Vorteil: Die Unterschiedlichen Mitglieder können sich durch eine Versionsliste des Textes hangeln und sich auch Unterschiede zwischen Versionen anzeigen lassen.
+
+Wer sich das an unserem Beispiel anschauen möchte kann sich gerne mit dem Passwort „webkrauts“ [in das Writeboard einloggen](http://123.writeboard.com/88cd67e58ba7d832c/login).
+
+Nach dem Motto „vier Augen sehen mehr als zwei“ ist das Ergebnis wahrscheinlich qualitativ wesentlich besser als das, was einer alleine hätte fabrizieren können. Doch eine erhöhte Geschwindigkeit konnte nicht festgestellt werden. Insgesamt war das Dokument vom 24. September bis zum 05. Oktober unter Bearbeitung und benötigte dann noch mal 10 Tage um die internen Webkrautsmühlen zu durchwandern.
+
+Das ist leider alles weniger als schnell, da dieses Projekt jedoch das erste dieser Art war dürfte man auch etwas dabei gelernt haben:
+
+1. **Mehr Vorleistung.** Meine Rohfassung war doch unglaublich roh, schnell zusammengezimmert. Eine besser durchdachte und besser formulierte Erstversion hätte sicherlich einige Tage gespart.
+2. **Klare Deadlines.** Das Setzen von klaren Daten an denen keine Bearbeitung mehr übernommen werden kann würde den Prozess sicherlich straffen. Hier fanden tagelang keine Bearbeitungen statt.
+3. **Einen Projektleiter.** Eine Person muss schließlich hinter dem Artikel stehen, muss mit dem Zentralkomitee in Verbindung stehen, den Artikel ins Redaktionssystem (Wordpress) einpflegen und schließlich sich um die Freischaltung kümmern.
+4. **Schulung.** Das betreffende Team sollte auch wissen, dass man die Dokumente bearbeiten kann und soll. _Update, 17.56 Uhr_
+ 
+Insgesamt schätze ich, dass die Übersetzung eines Textes auf diese Art und Weise maximal 10 Tage dauern dürfte. Wenn sich zu solchen Übersetzungen dann auch noch eigene Texte gesellen würden, hätte man das erwünschte Informationsportal auf [Webkrauts.de](http://webkrauts.de/)

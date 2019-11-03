@@ -1,0 +1,14 @@
+Title: Fronteers 2014 JamSession
+----
+Date: 2014-12-10
+----
+Category: Event, Talk
+----
+Summary: 
+----
+Tags: fronteers14, fronteersjam
+----
+Image: 
+----
+Text:
+http://vimeo.com/113711085 My talk from the Fronteers 2014 Jam Session is finally online, unfortunately without captions. 5th talk at the 5th Jam Session. I showed some of the resources we currently develop in W3C. Slides are [here](http://yatil.github.io/talk-fronteers-2014-jam/).

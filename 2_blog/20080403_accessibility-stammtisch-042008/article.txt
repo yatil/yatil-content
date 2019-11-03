@@ -1,0 +1,32 @@
+Title: Accessibility-Stammtisch 04/2008
+----
+Date: 2008-04-03
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Gestern fand der [Accessible-Media](http://www.accessible-media.at/) -Stammtisch in Wien statt und mir wurde die Ehre zu teil einen Vortrag über barrierefreies Javascript zu halten. Der Vortrag findet sich hier:
+
+[![Einbindung durch SlideShare](http://static.slideshare.net/swf/logo_embd.png)](http://www.slideshare.net/?src=embed) | [Anschauen](http://www.slideshare.net/yatil/barrierefreies-javascript?src=embed "Auf SlideShare betrachten") | [Herunterladen](http://www.slideshare.net/yatil/barrierefreies-javascript/download)
+
+
+
+ Artikel zum Thema: - [James Edwards: Why Accessibility? Because It’s Our Job!](http://www.sitepoint.com/blogs/2007/10/16/why-accessibility-because-its-our-job/)
+- [Joe Clarke: Build Half a Product](http://joeclark.org/access/research/ice/iceweb2006-notes.html)
+- [James Edwards: AJAX and Screenreaders: When can it work?](http://www.sitepoint.com/article/ajax-screenreaders-work)
+- [James Edwards: Accessible JavaScript: Beyond the Mouse](http://www.sitepoint.com/article/accessible-javascript)
+
+ Nach der Folie Positiv-/Negativbeispiele endet der Foliensatz abrupt, es wurden dann Praxisbeispiele gezeigt: - [SPIEGEL Wissen](http://wissen.spiegel.de/) (ohne Javascript nicht benutzbar)
+- Zoom: [Kurier.at](http://kurier.at/) zeigt auch ohne Javascript die Links zum Ändern der Schriftgröße an, [Einfach-fuer-alle.de](http://einfach-fuer-alle.de/) macht es besser und zeigt die Links nur an, wenn sie auch zu benutzen sind.
+- Beispiele für gut benutzbare und barrierefreie Javascripts: [Formulare](http://juicystudio.com/experiments/form.php), [Ajax Beispiel 1](http://juicystudio.com/experiments/ajax/form/), [2](http://juicystudio.com/experiments/ajax/direct/), [3](http://juicystudio.com/experiments/ajax/)
+- [Panic Goods](http://www.panic.com/goods/) funktioniert nicht ohne Javascript und auch mit [Opera Mini](http://operamini.com/)
+- [Docking Boxes](http://www.brothercake.com/site/resources/scripts/dbx/)
+- [Nicht-Barrierefreie Beispiele für jQuery](http://www.webdesignerwall.com/tutorials/jquery-tutorials-for-designers/)
+
+Vielen Dank für die positiven Rückmeldungen, es hat viel Spaß gemacht. Bei [MAIN](http://mainweb.at/) waren wir wieder vorzüglich untergebracht. [Vielen Dank an Andreas Hafenscher für die Fotos.](http://webnfoto.com)

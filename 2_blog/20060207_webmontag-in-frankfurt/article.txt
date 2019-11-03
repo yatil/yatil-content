@@ -1,0 +1,36 @@
+Title: Webmontag in Frankfurt
+----
+Date: 2006-02-07
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Der Podcastverband, neue Schriften im Web, ein Eventkalender und “Ruby on Rails” waren die Themen bei den Vorträgen am Montag abend in der Brotfabrik. Hinzu kam eine Präsentation, die uns an die Verantwortung als Programmierer von Social-Software erinnerte und zeigte, wie einfach “Exploits” in solche Produkte eingefügt werden können.
+
+Aber zunächst mal von vorne. Zuersteinmal war ich katastrophal zu spät, was an der Karte von Map24.de lag und daran, dass der Fußweg Parkplatz – Brotfabrik nicht 5 sondern 20 Minuten betrug. Naja. Gegen 20.15 Uhr traf ich also in der Brotfabrik ein und war beeindruckt, saßen dort doch 70 Webentwickler und -blogger, die sich aus ihren dunklen Kellerlöchern herauswagten um sich social zu betätigen.
+
+Ich bekam gerade so das Ende der Wikipedia-Präsentation mit, in der es um die rechtlichen Gefahren von kollaborativer Software ging. Ihr wisst schon, Tron ect. Den Podcastverband bekam ich leider nicht mehr mit, wobei das Thema für mich ja schon seit längerer Zeit gegessen ist :)
+
+Weiter ging es mit den Webkrauts, dieser kleinen, schnuckeligen Bewegung, die sich pro Webstandards einsetzt.
+
+Auf die Webstandards folgte das Gegenteil: Qooxdoo \[‘kuksdu\] stellt Widgets (Bedienelemente) für Webseiten zur Verfügung, die man aus seinem nativen Betriebssystem kennt. Pro: Erhöhung der Usability durch konsistente Elemente. Contra: Unzugänglich, weil die Software komplett auf JavaScript basiert. Zitat: “CSS braucht man für Qooxdoo gar nicht mehr, alles was man braucht sind CSS-ähnliche JavaScript-Angaben!” Naja, wer’s braucht.
+
+Dann Gerrit van Aaken und seine “Schriften und Techniken für modernes Webdesign”. Eine tolle Präsentation, die anriss, was möglich ist. Was unmöglich ist übersprang Gerrit sehr geschickt :).
+
+Darauf wurde fleavent.com vorgestellt, ein kollaorativer, wikibasierter Eventkalender – genau das richtige zur Organisation des Webmontags, wenn er dann mal aus dem alphaalphaalpha-Stadium heraus ist. Es ist aber ein Projekt mit großem Potential… und “purzels” als Codeblöcke, das nenne ich mal, ähhh, Innovativ!
+
+Danach RoR (Ruby on Rails), für einen alten Railer wie mich :) nichts wirklich neues, aber eine gute Einführung für die, die Rails nur vom Hören-Sagen kennen.
+
+Zum Schluss noch die Schreck 2.0-Präsentation, die Gefahren zeigten, die bei Seiten bestehen, die Benutzereingaben entgegennehmen.
+
+Im Anschluss, mittlerweile war es deutlich nach 22 Uhr, trafen wir uns noch zum “Kuscheln”, leider waren nach den Präsentationen nur noch ein Drittel der Besucher da. Das liegt sicherlich daran, dass Dienstag immernoch Arbeitstag ist. Ich habe mich im Anschluss noch sehr gut mit [Gerrit](http://praegnanz.de/), [Jens](http://grochtdreis.de/), [Ralle](http://netzbuch.de/), [Beate](http://paland.net/) und [Thomas](http://weblog.wanhoff.de/) unterhalten.
+
+Großes Thema dabei: Wie kann ich ohne DSL arbeiten? (Ja, ich habe noch ein Modem!) und “Hattest du nicht mal gepodcastet?” (Thomas) – “Ja, er ist einer der Podcast-Pioniere!” (Gerrit). Zudem ging es natürlich um den Focus, den Focus und den Focus.
+
+Ein besonderer Dank geht an Thomas fürs ans Auto fahren.

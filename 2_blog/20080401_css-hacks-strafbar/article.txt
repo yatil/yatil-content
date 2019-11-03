@@ -1,0 +1,14 @@
+Title: CSS-Hacks strafbar?
+----
+Date: 2008-04-01
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Wie [David Maciejewski](http://macx.de/) [bei den Webkrauts berichtet](http://www.webkrauts.de/2008/04/01/neue-abmahnwelle-wegen-css-hacks/) könnten schon bald etliche Webseiten Opfer von Abmahnungen werden, wenn sie CSS-Hacks verwenden: „CSS-Hacks sind Passagen in der CSS-Datei, deren Syntax das Renderverhalten von bestimmten Browsern beeinflussen. Fast jede Webseite nutzt in irgendeiner Form CSS-Hacks. Oft, um dem Internet Explorer 6 dahingehend zu manipulieren, dass er die Seite so darstellt, wie standardkonforme Browser. Und genau das ist der Knackpunkt bei den Juristen. Wie [Thomas Schwenke](http://www.advisign.de/ueber-uns) in [seinem Blog](http://www.advisign.de/allgemein/2008-04/css-hacks-abmahnungen-und-strafen-fuer-webdesigner) aufzeigt, macht sich jeder Webentwickler bei Verwendung von CSS-Hacks strafbar: Die Hacks zwingen den Browser dazu, die Webseite anders darzustellen, als es vorgesehen ist. Genau das sei ein unrechtmäßiger Eingriff in den Programmcode der Software und damit strafbar.“ [Weitere Informationen ebenda](http://www.advisign.de/allgemein/2008-04/css-hacks-abmahnungen-und-strafen-fuer-webdesigner)_(Dies ist natürlich keine Rechtsberatung.)_

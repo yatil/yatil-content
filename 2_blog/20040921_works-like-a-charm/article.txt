@@ -1,0 +1,16 @@
+Title: Works like a charm
+----
+Date: 2004-09-21
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Das von [Manuel Carrara](http://blog.manuelcarrara.de/) [hier](http://www.yatil.de/weblog/100097/#c000794) bzw. [hier](http://blog.manuelcarrara.de/article/172/firefox-auf-dem-usb-stick) empfohlene Programm [PortableFirefox](http://johnhaller.com/jh/mozilla/portable_firefox/) von [John Haller](http://johnhaller.com/jh/) funktioniert einwandfrei.
+
+Hier auf dem Schulrechner mit Windows 98SE keine Probleme mit dem Start vom USB-Stick. Bravo!

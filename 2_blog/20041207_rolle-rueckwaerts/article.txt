@@ -1,0 +1,20 @@
+Title: Rolle rückwärts?
+----
+Date: 2004-12-07
+----
+Category: Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Nein, ich bin nicht dem örtlichen Turnverein beigetreten sondern muss eine Meldung ganz anderer art machen:
+
+Diese Website validiert nicht mehr XHTML 1.1.
+
+Sie ist »nur noch« XHTML 1.0 Strict valide.
+
+Warum? Weil es der richtige Weg ist: XHTML 1.1 soll mit `application/xhtml+xml` als Medium-Typ gesendet werden. Der Internet-Explorer erkennt dieses jedoch nicht (Grund 1) und ich habe die sogenannte Content-Neogation nicht hinbekommen (Grund 2). Wobei ich Content-Neogation (Mehr bei [Anne van Kesteren](http://annevankesteren.nl/archives/2004/06/content-negotiation)) grundsätzlich nicht als richtigen Weg erachte um Browser auszutricksen, da kann ich gleich XHTML 1.0 Strict schreiben. Mache ich jetzt auch.

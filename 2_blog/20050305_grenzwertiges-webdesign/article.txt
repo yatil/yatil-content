@@ -1,0 +1,22 @@
+Title: Grenzwertiges Webdesign
+----
+Date: 2005-03-05
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Schwaches Webdesign gibt es überall, aber ein sehr plumpes Beispiel findet sich auf der Seite der [Night of Sounds](http://night-of-sounds.de/). Nicht nur, dass keine Alt-Attribute benutzt werden (um Alternativtexte anzuzeigen, wenn Bilder ausgeschaltet sind), die Seite wird – auch im Internet-Explorer – nicht vollständig angezeigt, so dass die wichtigste Information, nämlich den Ort und das Datum der Veranstaltung unterschlagen werden.
+
+Außerdem wird für normale Verlinkungen JavaScript benutzt, d.h. man kann ohne JS die Seite nicht benutzen.
+
+Immerhin kann man ja beim Einfügen von Bildern keine großen Fehlern machen… Weit gefehlt: Wie der [Validator](http://validator.w3.org/check?verbose=1&uri=http%3A//night-of-sounds.de/) zeigt liegen 50 Fehler vor.
+
+Grenzwertig ist, dass man das Impressum nur per JS aufrufen kann, da winkt doch geradezu eine Abmahnung…
+
+(Oh, und ein ausführliches Review der Seite der »Pirmasenser Zeitung« folgt.)

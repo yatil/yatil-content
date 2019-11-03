@@ -1,0 +1,29 @@
+Title: Aufs falsche Pferd gesetzt.
+----
+Date: 2009-04-27
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Die XHTML-gegen-HTML-Debatte hat nun vollends an Fahrt aufgenommen, nachdem [Dave Shea](http://mezzoblue.com/archives/2009/04/20/switched/) angekündigt hat das X links liegen zu lassen. Und einige Tage später gab es auch in der deutschsprachigen Twitter-Community eine Diskussion, was man denn nun verwenden sollte. (Ich habe sie mal [im Wiki dokumentiert](http://yatil.de/wiki/web/html5/xhtmlvshtml).) Da ich zusammen mit [Thomas Scholz](http://toscho.de/) pro HTML und [Michael Jendryschik](http://jendryschik.de/) pro XHTML argumentierte, möchte ich hier noch einmal einige Argumente anführen. Als die Webstandards-Bewegung an Fahrt aufnahm war XHTML die Zukunft des Webs. Das W3C hatte die HTML-Arbeitsgruppe eingestellt und entwickelte XHTML1.1 und auch die Arbeiten an XHTML2.0 begannen recht zügig.
+
+> „Six years ago, many of us thought XHTML would be the future of the web and we’d be living in an XML world by now.“ Dave Shea
+
+Heute ist von dieser XML-Euphorie nichts mehr übrig. Die Erweiterungsfähigkeit von XHTML ist dank der miesen Browserunterstützung genauso ein feuchter Webentwickler-Traum wie die verlässliche externe Verarbeitung von XHTML-Dokumenten. XHTML wird leider immer noch mit dem Mime-Type text/html ausgeliefert (weil der IE das nicht versteht), ein entsprechender XML-Parser muss also immer davon ausgehen, das das Dokument fehlerhaft ist (und in der Tat sind dies die überwiegende Mehrheit der Dokumente bis dato). In XHTML ist vorgeschrieben, dass bei einem Fehler die Verarbeitung des Dokuments abgebrochen wird und eine Fehlermeldung ausgegeben wird. In HTML ist momentan genau das Gegenteil davon der Fall, Parser sind dazu angehalten möglichst fehlertolerant zu sein. Da aber die Art, wie Fehler korrigiert werden, nirgendwo vorgeschrieben wurde hatten die Browserhersteller dort freie Hand und es ist ein Wunder, dass die Fehlerbehebung einigermaßen ähnlich in den Browsern ist. Noch ein Argument, das man immer wieder hört: HTML sei Tag Soup, es erlaubt unsauberen Code zu schreiben. Ich möchte das klarstellen: HTML hat aufgrund seiner SGML-Abstammung mehr Variationen in der Schreibweise als XML erlaubt, so können Attribute sofern sie kein Leerzeichen enthalten ohne Anführungszeichen geschrieben werden, z.B. `<span class=warning>`. Hier liegt es an jedem HTML-Autor sich für eine Notation zu entscheiden, die für ihn sinnvoll ist. Ich persönlich schreibe durchgehend mit Hochkommata in meinen HTML-Dokumenten und verwende Kleinschreibung. (Das gilt übrigens auch, wenn ich jemandem HTML beibringe, schließlich lehre ich Best-Practices, nicht All-Practices.) Dinge, die in HTML einfacher geregelt sind, sind so genannte „Elemente ohne End-Tag“, also `<img>`, `<br>` usw. Sie werden ohne abschließenden Vorwärtsschrägstrich `/` geschrieben. In XHTML wird dieser Schrägstrich zur Kennzeichnung von Elementen ohne Inhalt benutzt. In der Regel dürfen diese aber Inhalte haben und die dann eben mit getrennten Start- und End-Tags gekennzeichnet werden. Bei den XHTML-Elementen ist das alles nur Fassade um XHTML-Parser-gerecht zu arbeiten. Wer dann aber den Schrägstrich benutzt und das Dokument dennoch mit dem `text/html`-Mimetype ausliefert, verlässt sich darauf, das der Parser den Slash ignoriert und ihn nicht SGML-konform interpretiert. Letztlich ist es eine Stilfrage, was man schreibt, schließlich sind XHTML1 und HTML4 aus Spezifikationssicht deckungsgleich. XHTML1.1 bzw. dessen Fähigkeit zur Erweiterung wurde nie umgesetzt, ich würde empfehlen es zu vermeiden. Der Umstieg von HTML4/XHTML1 auf HTML5 ist übrigens kein Problem. Zum einen erlaubt HTML5 dezidiert den schließenden Vorwärtsschrägstrich, zum anderen kann man HTML5 für Maschinen mit dem Mimetype `application/xml` rausschicken. Dieses X-HTML5 (Arbeitstitel) muss dann aber wohlgeformtes XML sein. ## Weiterführende Links:
+
+- [Dave Shea: Switched](http://mezzoblue.com/archives/2009/04/20/switched/)
+- [John Dowdell: Anticipating standardization, and deprecating standardization](http://blogs.adobe.com/jd/2009/04/anticipating_standardization_a.html)
+- [Jens Meiert: HTML vs. XHTML: Why HTML Wins](http://meiert.com/en/blog/20081219/html-vs-xhtml/) + Kommentare
+- [Lachlan Hunt: XHTML is not for Beginners](http://lachy.id.au/log/2005/12/xhtml-beginners)
+- [molily: XHTML wird zu Grabe getragen](http://molily.de/weblog/xhtml-ist-out)
+- [SelfHTML zu den unterschieden zwischen HTML und XHTML](http://de.selfhtml.org/html/xhtml/unterschiede.htm)
+
+## Hinweis
+
+_Diese Webseite benutzt (zum Zeitpunkt der Veröffentlichung des Artikels) Pseudo-XHTML, liefert also XHTML als `text/html` aus. Dies wird sich in naher Zukunft ändern._

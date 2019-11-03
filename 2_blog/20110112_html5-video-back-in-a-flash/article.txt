@@ -1,0 +1,16 @@
+Title: HTML5 video: back in a flash
+----
+Date: 2011-01-12
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[Chrome stops its support of the h.264 codec.](http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html) The developers claim: > We expect even more rapid innovation in the web media platform in the coming year and are focusing our investments in those technologies that are developed and licensed based on open web principles.
+
+Of course no one wants to argue about preferring open standards or web standards. (Google doesn’t say what exactly they mean about “open web principles”.) In the case of webM, the preferred codec by Google, they mean “an open source thing”

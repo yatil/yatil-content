@@ -1,0 +1,24 @@
+Title: Web 00/1: Gravis.de
+----
+Date: 2007-02-07
+----
+Category: Switch2Mac
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Jetzt mal ganz von vorne. Ich wollte mir 2 GB Arbeitsspeicher für mein MacBook bei Gravis kaufen und dachte: Schau mal, was sowas kostet. Also auf die Webseite gegangen und mal [nach schauen](http://www.gravis.de/Detail.aspx?path=Komponenten%2fSpeichermodule%2f&pid=8050). Das Angebot war mit 130€/GB verlockend und da dachte ich: Da fährst du heute noch hin.
+
+Unten gibt es noch einen Punkt „Artikel in Filialen verfügbar?“, schnell „Mannheim“ ausgewählt, das ist der nächste Standort. Nach einem klick auf „Los!“ erscheint ein grünes Quadrat mit dem erklärenden Text „Sofort lieferbar“. Juhu. [Bei Apple](http://store.apple.com/Apple/WebObjects/germanstore.woa/wa/RSLID?nclm=ACBE70D9) hätte ich ja 180€/GB zahlen müssen.
+
+Also ins Auto und nach knapp einer Stunde (und einer weiteren halben Stunde in der ich mich verfuhr) kam ich bereits dort an und brachte mein Anliegen vor. „Haben wir nicht mehr“, war die knappe Antwort, „vielleicht können wir’s wo anders weg nehmen.“ Natürlich gab es keines. Heute Abend zeit die Gravis-Webseite noch immer an, dass die Module lieferbar sind.
+
+Was mich aber so wirklich nervte war der Nachsatz, dass ich doch ein Prospekt mitnehmen könne um die Telefonnummer zu haben um in einer Woche nochmal nachzufragen. Ich antwortete, dass das sicherlich nicht nötig sein wird, da ich nicht mehr in Gravis-Stores, zumindest in diesem, einkaufen werde.
+
+Ganz klar: Die Verzahnung von Internet und Shops sind ein Griff ins Klo, Web 00.
+
+_PS: Dieses Missgeschick gab mir die Möglichkeit mich mal genauer umzusehen und beim Versandhändler [Cyberport](http://cyberport.de/) nachzuschauen. Die 2×25€, die ich am Arbeitsspeicher spare wird gleich für die aktuelle Parallels-Version verwertet. Selbst Schuld, Gravis._

@@ -1,0 +1,24 @@
+Title: Wohin soll das noch führen?
+----
+Date: 2005-10-21
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Okay, ich gebe es zu: In letzter Zeit war hier viel zu wenig los. Das hat auf der einen Seite mit meinem Zivildienst zu tun, auf der anderen Seite bin ich im Moment wohl nicht gerade auf einem kreativen und schöpferischen Höhepunkt.
+
+Wie auch immer. In der nächsten Zeit wird sich hier einiges ändern, mit dem Layout angefangen. Das, was sich im Moment Layout nennt, kann ich nicht mehr sehen. Grundsteine sind schon gelegt, bis zum [CSS-Reboot](http://www.cssreboot.com/) wird es fertig sein.
+
+Neu, und das ist dem einen oder anderem schon aufgefallen, ist der Link [Filme](http://yatil.de/filme/) in der Hauptnavigation. Dahinter verbirgt sich eine Tabelle, die mit den ganzen Filmen gefüllt ist, die ich bisher im Kino gesehen habe. DVDs und TV-Filme kommen nach dem ersten November ebenfalls dort rein.
+
+Dieser Punkt ersetzt den Punkt [Snooker](http://yatil.de/snooker/). Die Artikel bleiben zwar erhalten, die Snookersektion wird aber nicht mehr weitergefüht, dafür habe ich ja das [snookerblog](http://snookerblog.de/).
+
+Neben diesen Änderungen habe ich mir überlegt in Zukunft auf Kommentare zu verzichten, aber das habe ich schnell wieder verworfen: Weblogs leben von Kommentaren.
+
+Soviel nur um mal wieder substantiell etwas zur Seite beigetragen zu haben.

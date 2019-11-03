@@ -1,0 +1,18 @@
+Title: Sommer bei Dave
+----
+Date: 2004-05-26
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+[![mezzoblue](/images/58.png "mezzoblue")](http://www.mezzoblue.com/) Dave Shea, Gründer des berühmten CSS- Design- Projekts [CSS Zen Garden](http://www.csszengarden.com/) hat sein Weblog neu gestaltet. [Mezzoblue](http://www.mezzoblue.com/) erstrahlt nun in gelb.
+
+> Who’s going to be the first to register mezzoyellow.com? ([Matt](http://www.mezzoblue.com/archives/2004/05/24/mezzoblue_v4/comments/#c005146))
+
+Also mir gefällt’s nur bedingt.

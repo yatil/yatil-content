@@ -1,0 +1,14 @@
+Title: New York Times Redux
+----
+Date: 2011-07-26
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+I’m generally not a fan of [pure visual comps](http://andyrutledge.com/images09/newsSite/index.html) but Andy Ruthledge brings an important point across: [Content needs to be the main thing on a website](http://andyrutledge.com/news-redux.php), those distractions and superfluous elements are not in favor of the users.

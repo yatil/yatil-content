@@ -1,0 +1,14 @@
+Title: #accessu: Kevin White – The WAI to Web Accessibility: An Interactive Tour through Resources from the W3C Web Accessibility
+----
+Date: 2015-05-11
+----
+Category: Accessibility, Event
+----
+Summary: 
+----
+Tags: accessu, accessu15
+----
+Image: 
+----
+Text:
+I haven’t planned on catching [this talk](http://www.knowbility.org/v/accessu-course-detail/The-WAI-to-Web-Accessibility-An-Interactive-Tour-through-Resources-from-the-W3C-Web-Accessibility/g3/) by my W3C colleague [Kevin White](https://twitter.com/kevinwhite) (As I know the resources pretty well ;-) but the other one was a bit basic for me. This is a really good Hitchhiker’s Guide to WAI stuff. [Slides](http://www.w3.org/People/kevin/Talks/2015/accessu_wai_tour/index.html)

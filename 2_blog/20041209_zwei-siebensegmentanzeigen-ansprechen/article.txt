@@ -1,0 +1,26 @@
+Title: Zwei Siebensegmentanzeigen ansprechen.
+----
+Date: 2004-12-09
+----
+Category: Schule
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+## Vorbemerkung:
+
+Es schien noch nicht klar zu sein, dass man durch `OUT0 0000` und `OUT0 1000` die rechte bzw. linke Ziffer der 7-Segment-Anzeige anspricht. Dies wird durch das 7-Segment-Anzeige-Gerät dechiffriert und entsprechend ausgewertet.
+
+## Funktionsweise:
+
+Nach der Initialisierung muss hochgezählt werden, bis der gespeicherte Wert wieder 0 ist (Hexadezimal: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, b, C, d, E, F, 0, 1, 2, usw.). Dann ist auch die »Sechzehnerziffer« um eins zu erhöhen. Sobald auch diese wieder bei Null angekommen ist wird das »Programm« von neuem gestartet.
+
+Der [Programm-Code ist als PDF herunterladbar](/docs/2ssa.pdf) **Aktualisiert gegen 20.30 Uhr**.
+
+Das Programm [Multiplikation mit einem Van-Neumann-Rechner](/docs/multiplikation.pdf) kann auch [heruntergeladen](/docs/multiplikation.pdf) werden.
+
+Wie immer gilt: Irrtümer sind nicht ausgeschlossen!

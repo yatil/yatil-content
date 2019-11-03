@@ -1,0 +1,14 @@
+Title: One year @ W3C
+----
+Date: 2014-12-16
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+One year ago this day, it way my first day at the [W3C](http://w3.org). A lot happened during this past year: I worked on [Web Accessibility Tutorials](http://w3.org/WAI/tutorials/) and a [list of Evaluation Tools](http://www.w3.org/WAI/ER/tools/) and gave input and helped build other projects. I love working in this passionate and knowledgable team. On to the next year!

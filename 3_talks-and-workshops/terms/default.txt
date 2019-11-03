@@ -1,0 +1,83 @@
+Title: Speaking at Your Conference
+
+----
+
+Intro: If you want me to speak at your conference, there are usually ways to make it work.
+
+----
+
+Text: 
+
+## Asking me to speak
+
+Send me an <a href="mailto:mail@yatil.net?subject=%5BSpeaking Opportunity%5D">email the subject [Speaking Opportunity]</a> and include the following information:
+
+* Date and Location of your conference
+* The nature of your conference, including target audience, how many people you expect, number of talks and tracks.
+* The nature and length of the talk (40 min talk, full-day workshop, keynote, panel…)
+* If there are any travel arrangements or not (more on that later)
+
+## Speaking Terms
+
+I have 10+ years of speaking experience, and so I have a particular way to deliver my talks, and the audience usually appreciates that. To avoid misunderstandings, my talks:
+
+* **fit the intended audience**. I’m happy to hear your suggestions and talk about topics that you think is interesting to your audience. I usually don't submit the talks slides before the conference, however, if sign language interpreters are present during my speech, I’m happy to provide talking points and certain unusual words before the lecture.
+
+* **are delivered on time and stick to the format and duration**. Please be very clear on how long and in which format you expect the talk to be. Understand that it is hard or impossible to change the form of a speech last minute. I’ll be at the venue and room early to ensure your AV people have enough time to wire up microphones and sound correctly. While I usually don’t need a dry-run on stage, I’m happy to do so if required.
+
+* **are given with my computer**. Often I go beyond slides and show websites or code. I use a MacBook Pro and bring my dongles and remote control.
+
+Also, I’ll **attend your event to mingle with attendees**. Whenever possible, I try to be an active participant at your conference and answer questions of attendees. I’ll also **promote my presence** at your event in the leading up of your event and **publish my slides** afterward. If you release a video of the talk, I’ll promote that as well.
+
+## My Expectations
+
+* **A professional stage setup**. I bring my laptop and connectors, but I expect at least a power plug and a microphone. If there are issues with sound or projectors, I expect the conference to fix them.
+
+* **Record and publish my talk**. If you can record the audio or audio and video of my talk, I’m happy for you to do so. You _must_ offer all recordings free of charge and under a permissive license (CC-BY-NC or CC-BY) unless otherwise agreed.
+
+* **If possible, I'd like you to cover my travel and hotel.** I want to concentrate on my talk and interacting with the audience. That’s why I’m at your conference. I expect you to book and pay for travel and accommodation in advance. I cannot book and pay myself and then get reimbursed.
+
+Some of this is negotiable, for example, I might be able to justify to do reimbursements for a small conference that happens near where I live.
+
+## Big No-Nos
+
+There are a few things that make it impossible for me to speak at your event. 
+
+* I don’t pay to speak. That includes flights and accommodation, but I also won’t pay for the ticket of conferences where I speak.
+
+* I’ll not speak at events that offer or have offered, a platform to presenters that harass or bully others.
+
+* I’ll not speak at events without a code of conduct or a similar provision.
+
+* I expect events to represent the diversity that our industry is striving to have. That means to include women, people with disabilities, people with a variety of skin colors and members of LGBTQ+ communities. I expect them to get the same (or better) compensation that I get.
+
+I’m aware that I don’t help diversity efforts. If you have the choice between me or someone representing a marginalized group, please pick them.
+
+## Other Things
+
+* I’m a vegan for ethical reasons. If you invite me to a dinner opportunity, please make sure that the restaurant has vegan options on their menu. Please understand that I cannot participate if there is no option for me. I generally decline invitations to seafood restaurants.
+
+* If the conference provides lunch or snacks, make sure vegan options are available and that there is something left when I get to the buffet. Especially when speaking in the morning, I might be in talks with attendees before until long into the break.
+
+* If the conference does not provide food, it would be great if you can tell me where vegan food is available around the venue. I can research it myself, but I can enjoy your conference better if I don’t have to worry about it.
+
+## Logistics
+
+### Planes & Trains
+
+* My home airport is **Düsseldorf International Airport (DUS)** which usually has excellent connections to all over the world. I can also fly from **Frankfurt Airport**, but it is only practical for flights in the afternoon. You’ll also need to book a train ticket to Frankfurt if I need to fly from there.
+
+* Train tickets need to be booked from **Kettwig S**. I have a Bahncard 50 (2nd class) that gives 50% off of rail travel in Germany.
+
+* I fly economy and ride trains in 2nd class.
+
+* I usually travel with hand luggage only when possible.
+
+### Hotels
+
+* My requirements for hotels are modest. I need a clean room with an integrated bathroom and shower. I don’t need a TV, but I need fast WiFi internet access.
+
+* The hotel should be in proximity to the venue. If it is not, a taxi or bus service needs to be available or provided.
+
+---
+(Inspired by Christian Heilmann’s [So you want me to talk?](http://christianheilmann.com/2012/04/25/so-you-want-me-to-talk/) page.)

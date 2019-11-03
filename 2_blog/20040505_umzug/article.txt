@@ -1,0 +1,29 @@
+Title: Umzug
+----
+Date: 2004-05-05
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Ich bin also mit meiner Homepage (und auch mit meiner Domain) zum Hoster [all-inkl.com](http://www.all-inkl.com) gewechselt.  
+Es gibt mehrere Gründe, warum ich mich für sein Paket entschieden habe:
+
+- Der Hoster verfügt über einen breiten Kundenstamm, die finanzielle Situation ist dadurch sicherlich gesichert.
+- Den eigenen Server muss man sich nur mit 99 anderen Kunden teilen.
+- 10 MySQL-Datenbanken sorgen für eine gute Übersicht.
+- 150 Subdomains sind mehr, als ich wohl jemals brauche…
+- 5 GB Transfervolumen werde ich wohl nicht ausnutzen.
+- 3-monatige Zahlungsweise
+ 
+Schade an all-inkl.com ist allerdings die Einrichtungsgebühr von 14,95 Euro und das miese (sprich: unspektakuläre) Kunden-Administrations-Menü.
+
+**Edit (06.05.2004):**  
+Der KK-Antrag läuft schon, bis (aller-)spätestens nächste Woche sollte auch die Domain yatil.de wieder gehen.
+
+Der Umzug ist mit dem Domainwechsel abgeschlossen.

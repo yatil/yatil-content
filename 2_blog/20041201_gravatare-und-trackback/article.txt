@@ -1,0 +1,20 @@
+Title: Gravatare und Trackback
+----
+Date: 2004-12-01
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Jeder kennt die Avatare aus Foren. Nun gibt es sowas auch für Weblogs. Das ganze nennt sich [Gravatar](http://gravatar.com), Global Recognized Avatar. Euren Gravatar erstellt ihr im Format 80×80 Pixel und ladet sie dann dort hoch. Anhand eurer E-Mail-Adresse – die hier nicht angezeigt wird – werdet ihr dann identifiziert und es wird euer Bild eingeblendet.
+
+Das Trackback-Plugin kommt von “Ralle” Graf. In seinem [Netzbuch](http://das-netzbuch.de/) hat er eine [Anleitung für die Integration von Trackback in Textpattern](http://das-netzbuch.de/special/2088/trackback-f252r-textpattern) gesetzt und auch gleich die entsprechenden Plugins und Hacks entwickelt. Chapeau!
+
+Ach ja: Ich habe mein [Textpattern](http://textpattern.com) in diesem Zug auf Version 1.0rc1+ upgedatet wobei das Plus für die diversen Hacks steht, die ich eingesetzt habe. War übrigens kein Problem, reibungsloser Übergang.
+
+Genug, jetzt geh ich nochmal Chemie lernen.

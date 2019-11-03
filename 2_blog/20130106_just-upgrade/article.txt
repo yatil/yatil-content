@@ -1,0 +1,18 @@
+Title: “Just upgrade”
+----
+Date: 2013-01-06
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+The “old, grumpy man of accessibility”, [John Foliot](http://john.foliot.ca/) [blogged](http://john.foliot.ca/everything-old-is-new/) about the problem of people being locked-in in browsers and their versions. He also mentions the topic of some people who are not helped by the words “just upgrade to the latest version”:
+
+> The latest incident that sparked my frustration comes from a DM exchange I had with a colleague on twitter, where I commented that using justified text has some fairly serious accessibility issues for Dyslexics and some screen magnifier users, who will often see the enlarged white-spaces between words in the justified text, rather than the words themselves. The phenomenon is well known, and is referred to as “Rivers of White”. When I pointed out this problem, my colleague replied “I am using (CSS3) hyphenation — for browsers that support it.” followed by “Graceful degradation is that the text is still fully readable in older browsers. Dyslexics can always upgrade.“
+
+It’s right, they can update, but it won’t help them, they need left-justified text, often hyphenation doesn’t even help people with disabilities – for example in Easy Read German (ERG) you aren’t even allowed to hyphenate words at all. At a recent client project we had different languages for Standard German and ERG, and we opted to use CSS3 hyphenation for body text only in the Standard version. If there’s only one language version, I personally think left-aligned text and hyphenation is a good fit and works reasonably well. I’d however like if browsers would allow people to switch those features on and off at their own will, as they are allowed to specify their personal base font size or minimal font size. Having justification isn’t wrong, that people with special needs can’t turn them off at their own will is. We need more empowerment of the diversity of platforms, browsers and users. All those settings should be revealed by default and shown front and center, not hidden behind some geeky stuff like user stylesheets. That would make the world a better and more accessible place.

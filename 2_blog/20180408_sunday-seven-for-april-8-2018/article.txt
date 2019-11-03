@@ -1,0 +1,22 @@
+Title: Sunday Seven for April 8, 2018
+----
+Date: 2018-04-08
+----
+Category: Sunday Seven
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+I’ve been on vacation for a bit, which was incredibly relaxing. Some pictures are available on [Instagram](https://www.instagram.com/yatil/) (for now – I need an indie web solution for this).
+
+- Professionalism: [**Design’s Lost Generation**](https://medium.com/@monteiro/designs-lost-generation-ac7289549017) (Mike Monteiro, Medium) — Everyone who helps to produce a product is a designer, every decision counts. It’s important to make ethical design decisions. There are two words every designer needs to feel comfortable saying: ‘no’ and ‘why’.
+- History: **[A Short History of WaSP and Why Web Standards Matter](https://thehistoryoftheweb.com/a-short-history-of-wasp-and-why-web-standards-matter/)** (Jay Hoffmann, thehistoryoftheweb.com) — Web standards wouldn’t be widely implemented without the volunteer groups formed in the early days of the internet.
+- Indie Web: **[It’s Time for an RSS Revival](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)** (Brian Barrett, Wired) — I firmly believe that the distributed web is the better model. But feeds aren’t a solution for everything: I would not want to subscribe to a newspaper because of the huge output there. Also it only furthers the information bubble. We need solutions to surface a diverse set of news.
+- Communicating Ideas: **[Write it down](https://markboulton.co.uk/journal/write-it-down)** (Mark Boulton) — I often ask people to write down specifics of their problem or suggestions. It often helps me to better understand but also helps others to understand the complexity of their request or find better/other approaches. Conversations are great for brainstorming, but to nail it down, write it down.
+- Accessibility: **[Small Tweaks That Can Make a Huge Impact on Your Website’s Accessibility](https://css-tricks.com/small-tweaks-can-make-huge-impact-websites-accessibility/)** (Andy Bell, css-tricks.com) — A broad overview over some accessibility techniques. See also the [W3C WAI Tips for Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/).
+- Malpractice on the web: **[Bei der „Sächsischen Zeitung“ wird Auschwitz zum Genuss-Moment](https://uebermedien.de/26546/bei-der-saechsischen-zeitung-wird-auschwitz-zum-genuss-moment/)** (Stefan Niggemeier, übermedien.de, [English machine translation](https://translate.google.com/translate?sl=de&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fuebermedien.de%2F26546%2Fbei-der-saechsischen-zeitung-wird-auschwitz-zum-genuss-moment%2F&edit-text=&act=url)) — There’s a new advertising form that content publisher can use: A swirly overlay that advertises a product inside the article image. It’s just really bad when the article image depicts the Auschwitz entrance gate and there’s no way for publishers to exclude sensitive material. (The whole ad form was disabled after the incident.)
+- Code examples: **[carbon](https://carbon.now.sh/)** — If you want to use images of code in your presentation, carbon adds a window frame around it. It looks very sharp. There is a way to export SVG, but I have not looked into the accessibility of it. (Provide a link to the code or add an alternative text.)

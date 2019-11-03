@@ -1,0 +1,37 @@
+Title: AJAX und Zugänglichkeit
+----
+Date: 2005-04-08
+----
+Category: Programmierung
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+In diesem Artikel betrachten wir die Auswirkungen auf Zugänglichkeit und Beutzbarkeit wenn Javascript benutzt wird um eine Webseite dynamisch zu aktualisieren. Ich werde zudem zeigen wie die Zugänglichkeit zu AJAX-basierten Formularen verbessert werden kann. Dieser Artikel ist eine Übersetzung aus dem [Englischen](http://www.standards-schmandards.com/index.php?2005/03/01/16-ajax-and-accessibility). Er ist auch [auf japanisch verfügbar](http://www.memb.jp/~deq/voice/ss/ajax-and-accessibility.html). Falls Sie noch nichts von AJAX gehört haben empfehle ich den Artikel von Jesse James Garrett: [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/publications/essays/archives/000385.php) (en). Informationen über das Einrichten eines AJAX-Formulars erhalten Sie in der Quellenübersicht am Ende des Artikels. Falls Sie es nicht schaffen das zu lesen, folgt eine Zusammenfassung: Im Zusammenhang mit Webanwendungen gibt es zwei Arten mit Formularen umzugehen:
+
+1. Aktualisiere den gesamten Bildschirm wenn der Benutzer auf Absenden klickt. Daten werden zum Server geschickt, analysiert und – abhängig von dem verarbeitenden Programm – der Benutzer wird auf eine andere Seite weitergeleitet oder die aktuelle Seite wird neu gerendert. Nennen wir das **traditionelle Formulare**.
+2. Benutze JavaScript um den Server mit Formulardaten zu füttern, übergebe das Ergebnis an das JavaScript und aktualisiere nur die notwendigen Teile indem das DOM benutzt wird. Das nennen wir ein **AJAX-Formular**.
+
+## Was sind die Vorteile?
+
+Es gibt viele Vorteile bei der Benutzung von AJAX-Formularen. Es ist möglich eine fortgeschrittene Benutzeroberfläche anzubieten, die die Seite nicht bei jeder Änderung durch den Benutzer neu laden lässt. Die Benutzbarkeit kann – gerade bei längeren Formularen – erhöht werden, da es möglich ist Aktualisierungen vorzunehmen während der Benutzer das Forum ausfüllt. Ein Beispiel hierfür könnte sein, dass komplexe Daten direkt bestätigt werden, oder dass auf dem Server Berechnungen durchgeführt werden sobald der Benutzer ein Feld verlässt. Viele unerfahrene Benutzer haben mit dem traditionellen Weg Formulardaten zu senden Probleme. Dies gilt vor allem in Situationen wo nach dem Absenden des Formulars der Zurück-Buttons gedrückt wird und der Browser vor einem erneuten Abschicken der Daten warnt. ## Was sind die Probleme bei AJAX?
+
+Das Benutzen von AJAX-Formularen verlangt mehr vom Browser, wenn man sie mit den traditionellen Formularen vergleicht: - Javascript muss eingeschaltet sein. Das schließt einige Geräte aus, wie z.B. mobile Endgeräte oder Lynx.
+- Der Browser muss das XMLHttpRequest-Objekt (oder etwas ähnliches) unterstützen. Momentan ist es im Mozilla, Firefox, Internet Explorer und Safari verfügbar. Es wird gemunkelt, dass Opera es bald einführt.
+
+Diese Voraussetzungen sollten für die meisten Anwendungen kein Problem sein. Viele Webanwendungen werden für spezielle Firmen entwickelt, die standardisierte Konfigurationen haben. Aber es gibt noch einige andere Probleme, die die Zugänglichkeit betreffen. Betrachte diesen [einfachen AJAX-Rechner](http://www.standards-schmandards.com/exhibits/ajax/). Screenreader-Benutzer haben kein Problem das Formular zu benutzen. Aber wenn sie den Hinzufügen-Button anklicken werden sie nicht wissen, dass das Ergebnis aktualisiert wurde. Das ist – offensichtlich – ein großes Problem. Auch sehende Benutzer können Probleme haben, wenn sie nicht bemerken welcher Teil der Seite aktualisiert wurde. Kleine Änderungen auf dem Bildschirm sind schwer auszumachen, vor allem wenn man während dem Schreiben auf die Tastatur blickt (was ich immernoch mache). Heißt dass, das man AJAX nicht für eine Web-Benutzeroberflöche verwenden sollte? ## Die Zugänglichkeit von AJAX-Formularen verbessern
+
+Glücklicherweise gibt es einige Dinge, die wir tun können um die Zugänglichkeit zu verbessern. Hier sind meine Empfehlungen: 1. Informiere den Benutzer am Anfang der Seite, dass JavaScript benötigt wird oder finde automatisch heraus ob JavaScript zur Verfügung steht und warne den Benutzer wenn das nicht der Fall ist. Wenn das Formular lang ist wird dem Benutzer eine Menge Frustration erspart. Jeder hasst es Formulare auszufüllen nur um dann festzustellen, dass er sie nicht abschicken kann.
+2. Informiere den Benutzer, dass die Seite dynamich aktualisiert wird. Dies ist vor allem Wichtig für die Benutzer von Screenreadern, denen die Entscheidung erleichtert wird, wenn ein neues Lesen der Seite veranlasst werden kann.
+3. Binde die Möglichkeit ein einen Alarm anzuzeigen, wenn die Information aktualisiert wurde. Das mag, abhängig von der Komplexität des Formulars, praktisch nicht möglich sein, es wird aber den Benutzern von Screenreadern helfen. Alarm-Fenster werden von Screenreadern vorgelesen, gleichzeitig wird ein Sound abgespielt. Die Checkbox sollte so angezeigt werden, dass klar ist, dass sie nicht zum eigentlichen Formular gehört.
+4. Markiere aktualisierte Bereiche für eine kurze Zeit. Dies wird sehenden Benutzern dabei helfen zu verstehen was gerade geschah. Die netten Leute bei [37signals](http://www.37signals.com/) haben dies [Die gelbe Ausblendtechnik](http://www.37signals.com/svn/archives/000558.php) (en) genannt, aber man kann jede Farbe benutzen. Beachte dazu Adam Michaelas Code für [andere Wege Farbe auszublenden](http://www.axentric.com/posts/default/7).
+
+Nun schauen wir uns den [zugänglichen AJAX-Rechner](http://www.standards-schmandards.com/exhibits/ajax/v2.php) an, in dem diese Empfehlungen verwirklicht sind. Vergleiche diese Version mit der [ersten Version](http://www.standards-schmandards.com/exhibits/ajax/). Eine anständige Verbesserung mit relativ kleinem Aufwand. Ich hoffe dieser Artikel wird Sie inspirieren AJAX-Formulare zugänglich zu gestalten. Quellen: - [Ajax: A New Approach to Web Applications von Jesse James Garrett](http://www.adaptivepath.com/publications/essays/archives/000385.php)
+- [The Yellow Fade Technique](http://www.37signals.com/svn/archives/000558.php) von Matthew Linderman
+- [The Fade Anything Technique](http://www.axentric.com/posts/default/7 "FAT") von Adam Michela
+- [Using the XML HTTP Request object](http://jibbering.com/2002/4/httprequest.html) von Jim Ley
+- [Dynamic HTML and XML: The XMLHttpRequest Object](http://developer.apple.com/internet/webcontent/xmlhttpreq.html)

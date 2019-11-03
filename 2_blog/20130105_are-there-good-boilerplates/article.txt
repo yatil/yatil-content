@@ -1,0 +1,18 @@
+Title: Are there good boilerplates?
+----
+Date: 2013-01-05
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Reader’s question:
+
+> “There are bad boilerplate templates to create websites” Are there any good ones? [yatil.net/be-proud-to-be…](http://yatil.net/be-proud-to-be-a-web-developer)[Roger Johansson](http://www.456bereastreet.com) ([@rogerjohansson](https://twitter.com/rogerjohansson)) on [Twitter (January 5, 2013)](https://twitter.com/rogerjohansson/status/287503809029222400)
+
+First, I don’t think that just using any boilerplate works well in this day and age, where responsive designs dominate the interest of developers around the globe. But there are better and worse parts in boilerplates themselves. I, for example, often reference [HTML5 Boilerplate](http://html5boilerplate.com) for certain techniques, especially `.htaccess` stuff because I have a hard time to remember these. I use their technique for hiding stuff from sighted users as well but don’t use the rest of their markup or CSS. Relatively new is [HTML5Bones](http://html5bones.com) by [Ian Devlin](http://www.iandevlin.com) which, again, I advice against using without knowing its inner workings, but Ian does a great job to describe every element and every feature in detail. It’s more like a learning experience than a copy & paste starter for your web site. Basically, I think boilerplates are the beginning of the journey to the website, not the end. I find it really annoying if I see yet another [Twitter Bootstrap](http://twitter.github.com/bootstrap/) site popping up, where you see that no or little time was invested to see if the framework is actually a good fit for the page. There are so many content web sites which use bootstrap although it’s a framework for a web application (and in my opinion not a very good one at that).

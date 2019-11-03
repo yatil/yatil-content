@@ -1,0 +1,14 @@
+Title: How I stopped worrying and learned to love defaults (FronteersJam 2012)
+----
+Date: 2012-10-26
+----
+Category: 
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Speaking at the FronteersJam for the third time this year was really a blast again. Instead of talking about accessibility again like in [2010](http://www.slideshare.net/yatil/fronteers-jam-session-principles-of-accessible-web-design) and [2011](https://speakerdeck.com/yatil/fronteers11-jam-session-a11y-goes-to-11), I opted for a more general theme: Defaults. Or making choices beforehand, so your life gets easier because you already know answers before you encounter a problem. Thanks to the organizers, all [Fronteers(Jam) talks are available or will me made available online online](http://vimeo.com/channels/fronteers12), including [mine](http://vimeo.com/51897717) : And here are the slides, [without notes](https://speakerdeck.com/yatil/fronteers12) and [with notes](https://speakerdeck.com/yatil/how-i-stopped-worrying-and-learned-to-love-defaults-w). (Speakerdeck’s embedding option seems not to work here. Need to investigate that.)

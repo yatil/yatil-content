@@ -1,0 +1,43 @@
+Title: Auto-Complete
+----
+Date: 2004-08-31
+----
+Category: Fun
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+**Aufgabe:** Press each letter in the address bar of your browser and list what the auto-complete function jumps to first.
+
+- A: <http://www.airbagindustries.com/>
+- B: <http://www.brogge.de/cgi-bin/gaestebuch.cgi>
+- C: <http://www.cssvault.com/>
+- D: <http://designmadeingermany.de/>
+- E: <http://www.einfach-fuer-alle.de/blog/>
+- F: <http://forum.textpattern.com/>
+- G: <http://google.com/adsense/>
+- H: <http://www.hicksdesign.co.uk/journal/>
+- I: <http://intensivstation.ch/>
+- J: <http://jeffcroft.com/>
+- K: <http://kicktipp.de/blogtipp/>
+- L: http://localhost/
+- M: <http://www.mezzoblue.com/>
+- N: <http://news.css-technik.de/>
+- O: <http://olympia.zdf.de/>
+- P: <http://www.pepilog.de/>
+- Q: <http://qxm.de/>
+- R: <https://rrp.sparkasse-banking.de/sparkasse-suedwestpfalz/>
+- S: <http://strohhalm.org/.someon?action=neues>
+- T: <http://t-online.de/>
+- U: <http://www.uci-kinowelt.de/programm/kaiserslautern/>
+- V: <http://veerle.duoh.com/>
+- W: <http://www.worldwideklein.de/index.php>
+- X: <http://www.xinminlai.com/liquidfire/life/23/>
+- Y: <http://www.yatil.de/>
+- Z: <http://www.zeldman.com/>
+ 
+\[Zuerst gesehen bei [Dirk Steins](http://www.dirksteins.de/article/108/a-b-c).\]

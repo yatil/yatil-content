@@ -1,0 +1,14 @@
+Title: Taskpaper: Einfache Taskverwaltung
+----
+Date: 2007-10-30
+----
+Category: Switch2Mac
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Was kann man aus einer normalen Textdatei machen? AppleScripts, Batch-Dateien, PHP- oder HTML-Dateien. Allerdings ist es auch möglich einen einfachen aber wirkungsvollen Taskmanager damit zu füttern. [Taskpaper](http://hogbaysoftware.com/products/taskpaper) heißt das Programm, das dies möglich macht. [![](http://wp.yatil.net/wp-content/uploads/2007/10/265.png)](http://wp.yatil.net/wp-content/uploads/2007/10/265.png)Mit einfachen Symbolen kann man einer Zeile eine spezielle Funktion zuweisen: Wenn eine Zeile mit einem Doppelpunkt beendet wird, dann bedeutet das, dass ein ein Projekt angelegt wird. Beginnt eine Zeile mit einem Bindestrich so ist das ein Task, also ein Schritt im Projekt. Dies kann dann abgehakt werden, indem man den Kreis in der grauen Leiste links anklickt. Oder man taggt diese Zeile mit `@done`. Der Eintrag wird dann durchgestrichen und ausgegraut angezeigt. Zudem kann man Schlagworte vergeben wie man möchte. Ich verschlagworte beispielsweise über Projektgrenzen hinaus alle universitätsnahen Tasks mit `@uni`. Man hat dann die Möglichkeit sich Projekte und Tags in eigenen Tabs anzeigen zu lassen. Was für mich noch fehlt ist die Anbindung an iCal. Ich benutze schon das Format: `@due(2007-10-29)`, welches irgendwann eventuell diese Funktion übernehmen könnte. Es gibt zumindest [Pläne dieses Format](http://hogbaysoftware.com/forums/taskpaper/topics/194_Due_Dates) zu benutzen. Das Programm kostet 18,95 Dollar (etwa 13 Euro) oder [einen Blog-Eintrag](http://hogbaysoftware.com/forums/hog_bay_software/topics/263_Looking_for_TaskPaper_and_WriteRoom_reviews). Ich habe das Programm jetzt zwei Tage getestet und finde es echt klasse. Vor allem glaube ich, dass es mit seiner einfachen Syntax großes Potenzial hat. Bei den GTD-Schwergewichten [iGTD](http://bargiel.home.pl/iGTD/) und [OmniFocus](http://www.omnigroup.com/applications/omnifocus/) hatte ich den Eindruck, dass man versucht an alles zu denken. Ein Unterfangen, welches aussichtslos ist. Taskpaper geht in die andere Richtung: Es versucht kaum eine Aktion vorauszuahnen, gibt nur Werkzeuge in die Hand – wie man sie Nutzt bleibt einem selbst überlassen. Mit einem geschickt gewählten Set an Tags kann man sicher eine ähnliche Flexibilität und Übersicht erhalten wie mit den großen Tools.

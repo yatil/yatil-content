@@ -1,0 +1,14 @@
+Title: Webstandards-Magazin
+----
+Date: 2009-05-01
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+![Cover des Webstandards-Magazin](http://farm4.static.flickr.com/3651/3400027763_2295b6e82d_m.jpg)Gleich vorweg: Ich bin kein großer Fan Web-Sachen ins Print-Medium zu verbannen, weil die Halbwertszeit von Nachrichten gegen null tangiert und auch die von Techniken relativ kurz ist. Es sind also ganz spezielle Ansprüche zu erfüllen, will man ein gutes und erfolgreiches Web-zentriertes Magazin machen, und das [Webstandards-Magazin](http://webstandards-magazin.de/) erfüllt diese fast vollständig. Konkret dreht sich die erste Ausgabe rund um das Thema E-Commerce, das sich durch die Heftbereiche „E-Business + Trends“, „Webdesign“, „Accessibility + Usability“ und „Web-Anwendungen“ zieht. Zudem wird explizit auf die Frontend-Aspekte hingewiesen. Die Texte sind alle von bekannten Autoren geschrieben, man fühlt sich sofort zuhause. Vielleicht auch mit meiner Redaktionstätigkeit bei den Webkrauts hängt zusammen, dass ich meist nur durch das Lesen der ersten einleitenden Sätze den Autor erraten konnte. Zum Leitthema schreibt Nicolai Schwarz einen Artikel zum Thema „Wording“ in Onlineshops, goldene Regeln für deren Gestaltung werden ebenso besprochen wie Dinge, die den Frontend-Code direkt betreffen, so schreibt Nils Pooker wie man Warenkörbe als Datentabelle auszeichnet und es wird auf die Usability von Online-Shops ein Auge geworfen. Auch die „Informationswüste Onlineshop“ wurde genauso unter die Lupe genommen wie „Webshops für die ältere Generation“. Abseits des Leitthemas geht es dann um CSS3, RDFa und Microformats und die Barrierefreiheits-Richtlinien WCAG2 oder es wird gezeigt, wie man Smarty benutzt und mit jQuery Tabellen einfach schön sortiert. Meine Lieblingskategorie allerdings befindet sich ganz vorne im Heft genau nach dem Inhaltsverzeichnis und den News: Der Twitter-Ticker. Die Redaktion hat die Diskussionen rund um Webstandards und Webseiten auf Twitter eingefangen und zusammen gestellt inklusive Links zum Weiterlesen. Auch das Webstandards-Magazin ist [auf Twitter unterwegs](http://twitter.com/webstandardsmag). Das Magazin ist auf 100 Seiten geballtes Frontend-Wissen (was es gegen alle anderen Magazine auf dem Markt abheben dürfte) und sollte wirklich in keinem gutsortierten Web-Haushalt fehlen, es erscheint alle 3 Monate der Preis von 7,80€ ist gut investiertes Geld. (Photo: [Patrick H. Lauke](http://www.flickr.com/photos/redux/3400027763/))

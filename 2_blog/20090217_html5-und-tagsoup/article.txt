@@ -1,0 +1,26 @@
+Title: HTML5 und Tagsoup
+----
+Date: 2009-02-17
+----
+Category: Allgemein
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Beim [Barcamp Klagenfurt](http://barcamp.at/BarCamp_Klagenfurt_2009) habe ich [einen Vortrag zum Thema HTML5](http://www.slideshare.net/yatil/html5-barcamp-klagenfurt) gehalten, habe den bald neuen Standard vorgestellt und Fragen dazu beantwortet soweit mir das möglich war. Einer der besten Einwürfe kam aber nach Ablauf der Redezeit von [Heinz Wittenbrink](http://heinz.typepad.com/), der anmerkte, das man nun ja wieder bei Tagsoup angelangt sei. [Wikipedia sagt dazu](http://en.wikipedia.org/wiki/Tag_soup): > “Tag soup refers to formatted markup written for a Web page which is very much like HTML, but may not consist of correct HTML syntax and document structure. Because web browsers have historically treated HTML syntax or structural errors leniently, there has been little pressure for web developers to follow published standards, and therefore it is necessary that all browser implementations treat what looks like HTML as “tag soup”, accepting and correcting for invalid syntax and structure.”
+
+Tagsoup ist also etwas, was außerhalb des Standards passiert, etwas was nicht spezifiziert ist und damit auch nicht kontrolliert werden kann. Das führt dann unweigerlich zu unterschiedlich funktionierenden Parsern, zu inkompatiblem HTML-Rendering. ## Der X(HT)ML-Weg
+
+Es gibt 2 Möglichkeiten mit diesen Problemen umzugehen, und wir kennen beide aus der Praxis bzw. aus möglichen zukünftigen Standards. XHTML übernimmt das XML-Verhalten und Parser brechen ab, sobald es auf einen Fehler im XHTML-Code stößt. Sämtliche Inhalte des Dokuments würden den Nutzern vorenthalten werden, eventuell nur weil sich ein &-Zeichen eingeschlichen hat oder ein vergessener Slash ein Dokument invalide macht. Das macht in der Maschine-Maschine-Kommunikation Sinn, diese möchte keine fehlerhaften Daten übermitteln. 
+
+## Der HTML-Weg
+
+Im heutigen Web werden sowieso die meisten Dokumente mit einem Tagsoup-Parser gerendert, auch so ausgezeichneter XHTML-Content sofern er nicht mit dem Mime-Type `application/xml` versendet wird. HTML5 nimmt die Herausforderung von kaputten Webdokumenten an, legalisiert sie aber nicht. So wird ein Teil der HTML5-Spezifikation sich nur dem Thema „Korrektur von Webseiten“ widmen und Parsern vorschreiben wie sie welchen Fehler korrigieren sollen. Legalisiert werden sollen abschließende Schrägstriche in Elementen ohne End-Tag wie IMG oder LINK. Grund: Das Verbot richtete sich nach dem SGML-Parser, der einen Schrägstrich als Ende des Elements interpretieren würde. Ein solches Verhalten wäre inakzeptabel für die Browserhersteller gewesen, weshalb diese den Schrägstrich komplett ignorierten. HTML5 beschreibt also eine komplett eigene Syntax, die weder mit HTML4 noch mit X(HT)ML übereinstimmt. Sie übernimmt Konventionen, die sich im Web herausgebildet haben ohne Rücksicht auf die Herkunft der Konvention. Jedes Element, jedes Attribut geht dabei durch einen strengen [Rechtfertigungsprozess](http://lists.w3.org/Archives/Public/public-html/2009Feb/0156.html) auf den ich später noch eingehen werde. Photo: “Alphabet Soup Background” von Wiebe via [istockphoto.com](http://www.istockphoto.com/file_closeup/food-and-drink/7199683-alphabet-soup-background.php?id=7199683)
+
+
+
+Dies ist das erste Experiment mit einem artikelbasiertem Layout. Es wird vermutlich nur im Safari und im Firefox 3 richtig dargestellt.

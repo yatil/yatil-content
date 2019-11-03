@@ -1,0 +1,14 @@
+Title: Online: KlingeltonHilfe.de
+----
+Date: 2005-02-13
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+KlingeltonHilfe.de (Links entfernt, da Projekt aufgegeben) ist nun endlich online, einige Kategorien (genauer: “Unterstützen” und “Anbieter”) fehlen noch und werden nächste Woche nachgereicht. Als CMS kommt – wer hätte das gedacht – Textpattern 1.0rc1 zum Einsatz, in einer modifizierten Version. Dies ist vor allem bei der Suchfunktion zu sehen, die ich leicht angepasst habe. Die Seite ist [XHTML 1.0 Strict valide](http://validator.w3.org/check?uri=http%3A%2F%2Fklingeltonhilfe.de%2F&charset=%28detect+automatically%29&doctype=%28detect+automatically%29&verbose=1) und auch das [CSS validitiert](http://jigsaw.w3.org/css-validator/validator?profile=css2&warning=2&uri=http%3A//klingeltonhilfe.de/). Um Accessibility habe ich mich bisher noch nicht großartig gekümmert, die Seite sollte allerdings schon barrierearm sein. Ein Print-Stylesheet fehlt momentan leider noch.

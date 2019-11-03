@@ -1,0 +1,35 @@
+Title: Switch
+----
+Date: 2006-08-03
+----
+Category: Fun
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+![Bildschirmfotografie: Macbookkauf](/images/233.jpg "Bildschirmfotografie: Macbookkauf") Habe mir nämlich in einem [sehr sympathischen Online-Shop](http://www.cyberport.de/) ein MacBook gekauft. Eigentlich hätte ich es schon vorgestern haben wollen, habe den Gravis Store in Mannheim aufgesucht (ich war dort eh in einem bekannten schwedischen Einrichtungshaus) um mir das Teil wenigstens mal in Natura angeschaut zu haben.
+
+Meine Eltern und meine Schwester hatten immerhin Spaß mit [Apple Photo Booth](http://de.wikipedia.org/wiki/Photo_Booth) und meine Mutter bemerkte “Do is jo e ogefressener Abbl uf de Maus”.
+
+Leider hätte ich 14 Tage warten müssen um das Teil in Empfang nehemen zu können. Das ist mir dann doch zu lang gewesen. Bei Cyberport liegt die Lieferzeit bei “Sofort” und ich denke, dass man bei einem so hochpreisigen Gerät auch mal einen Expressversand rechtfertigen kann.
+
+Probleme, die ich jetzt noch lösen muss:
+
+- Wo bekomme ich eine günstige Windows XP-Version her? Ist schon mal aufgefallen, dass ein Upgrade (bspw. von Windows Me) teurer ist als ein Neukauf…
+- Wie komme ich hier in der DSL-losen Wohngegend ins Internet? Ich habe zwar noch ein altes 56k-Modem hier rum liegen, aber das ist nur mit seriellen Anschlüssen ausgestattet. Ein Apple-Modem kostet mir zu viel (50 Euro!) und ich weiß nicht, wie es mit Treibern aussieht, wenn ich mir einen USB-Seriell-Adapter kaufe.
+- Wie bekomme ich meinen TV-USB-Stick zum laufen? Es gibt nämlich eine Explizite Mac-Version des Terratec-Teils, das ich mir vor gut zwei Monaten für 139€ geleistet habe. Aber nur um Fernzusehen habe ich keine Lust Windows zu booten… Eventuell kann man ja mit dem Terratec-Support was regeln…
+- Welche Programme brauche ich zum Arbeiten, ich benötige möglichst günstige Empfehlungen für folgende Bereiche: 
+  - XHTML/CSS/PHP-Editor ähnlich TopStyle Pro (Textmate?)
+  - Bildbearbeitungsprogramm ähnlich PaintShopPro
+  - ICQ-Ersatz ähnlich Trillian
+  - Für weitere Gadgets bin ich aber überaus empfänglich :)
+- Kann man beim Mac einstellen, dass auch das Touchpad auf “Klicks” – also auf das Antippen mit dem Finger – reagiert oder muss ich die Taste benutzen?
+- Hat das Ding wirklich keine eingebauten Lautsprecher :) Nicht, dass ich die brauche, ich hab ja ein Headset und im Notfall noch ein Paar Passiv-Lautsprecher in der Ecke stehen.
+ 
+Ihr könnt also in Zukunft eine Beschreibung meiner ersten unbeholfenen Schritte in die Macwelt lesen. Jetzt muss ich erstmal das Geld überweisen, weil das Onlinebanking nicht mitspielt und irgendwas von Limit ausspuckt.
+
+Ach ja: Weshalb ich geswitched bin? Windows macht mal wieder was es will und stürzt wirklich häufig ab. Zudem muss mein Notebook in die Reperatur und ich kann schlecht ohne PC bleiben (und ja: mein 950er Duron zählt nicht wirklich als PC, von dem flimmernden Röhrenmonitor mal ganz abgesehen).

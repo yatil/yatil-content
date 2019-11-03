@@ -1,0 +1,24 @@
+Title: We have to stop FUD accessibility
+----
+Date: 2013-03-02
+----
+Category: Accessibility, General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Yesterday, the [Web Standards Project](http://webstandards.org) announced that [its work is done](http://www.webstandards.org/2013/03/01/our-work-here-is-done/). Mission accomplished. What they did is create a collaborative environment where everyone could get help in terms of web standards and how to use them. They provided precise help and thus led to a new understanding of the web as a whole. We’d still be in `tables` and `font` land without them. The accessibility community (read: people who care about accessibility so much that they speak up on the topic) is different. We’re bad communicators. We tell people “You’re wrong!” instead of leading them to new insights. Or we complicate the situation by quoting different, slightly related use cases. We should stop that. Take the [A List Apart](http://alistapart.com) [alternative text decision blog post](http://alistapart.com/blog/post/on-alt-text) as an example. [Jeffrey Zeldman](http://zeldman.com) points out why they decided to use an empty `alt` attribute for images. They really gave thought to the issue and came to their conclusion. Then hell broke loose. Several accessibility people argued about the implementation (that is, I say it again, totally reasonable), no less than 86 comments on that fairly simple post happened. Of course I had my say as well:
+
+> The alt text should never been empty if it adds to the content of the page. In this example the image should come after the h1, as this is how an optimal document outline looks like. Then you’d have the h1 “Faruk Ateş” then an alternative text of “Portrait” (which is read as “Image: Portrait”) and then the paragraph. Having an empty alternative text is OK in that case, but it would prevent a blind person to share the image, as it would be ignored. Leaving out the alt attribute completely is no choice. A screenreader would read it as “Image: photo\_126110\_120\_120\_c1.jpg”. Nothing anyone would like to listen to. (Yes it is valid to leave it out, and yes that sucks.) [The relevant techniques according to WCAG2 is can be found here.](http://www.w3.org/WAI/WCAG20/quickref/#qr-text-equiv-all)
+
+— Eric Eggert on [On Alt Text](http://alistapart.com/comments/on-alt-text#333789)
+
+I think a comment like this clarifies the situation and doesn’t add confusion, which is important. But the discussion goes on, and on, and on until very different use cases are described. Instead of encouragement, we casted doubt. Instead of creating positive vibes about the subject, we decided to tell them they are wrong, we told them to [leave accessibility to the experts, please](http://www.webaxe.org/leave-accessibility-to-experts-please/). Additionally we use complicated language that is only understood by insiders. I know that I’m not perfect in this regard, and I don’t want to reproach anyone here. Accessibility people are enthusiastic about this topic. That’s good. But we’ll get more people to start with thinking about accessibility if we welcome them instead of alienate them. If we stop the FUD that we use to teach people about accessibility, no matter what: - **Fear:** “You will be sued if your site isn’t accessible.”
+- **Uncertainty:** “You will have missed something in the process anyway, see my totally different example here!”
+- **Doubt:** “You don’t have enough knowledge anyway.”
+
+We need to be an open, welcoming community, providing solutions, not problems. I didn’t start out as someone who knows everything about web accessibility, and in some regards I’m still learning every day. I wouldn’t be here if I were alienated when I started out. We shouldn’t alienate people that are starting out. If they think about accessibility they should be welcomed, although their conclusions may be wrong or imprecise sometimes. That’s what learning is all about.

@@ -1,0 +1,67 @@
+Title: The best way to use icon fonts
+----
+Date: 2013-01-09
+----
+Category: General
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+
+This basically is a follow-up to the article [“A better way to use icon fonts”](/?p=29) published about a year ago. In the article I describe techniques which make icon fonts less annoying to screenreader users. In the meantime a lot happened, and there are better techniques around. My preferred one, and thus the best one in my opinion, is the use of the Private Use Area in Unicode fonts. As symbols stored there aren’t represented by a character, they don’t get read by screen readers, no matter what you do. Incredibly handy is a tool that lets you take any SVG icon or SVG font, pick your symbols and create a new custom font for you. Even better, the tool runs completely in your browser, saves your state and optimizes your font. It’s called [IcoMoon](http://icomoon.io/app/). It is easy to reference from your CSS, as you take the Unicode number from IcoMoon, for example U+e000 and use the value after e000 in CSS like so:
+
+`.element-with-icon:before { content:'\e000'; }`
+
+Of course you shouldn’t use the icon on its own, a describing text is always necessary. You can hide it from sighted users by using [the known techniques](https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css#L148). (But remember: Icon-only buttons are often confusing for your users.) Last, but not least, I share some Sass/Compass code I use with my IcoMoon icon fonts. Note the `.fontface`, which is the modernizr class, so that there are no artifacts in browsers not supporting the font-face rule (Opera Mini, for exmple). But it isn’t strictly necessary to use modernizr here.[^1]
+
+```
+@include font-face('icons', font-files('path/to/iconfont.woff', 'path/to/iconfont.ttf', 'path/to/iconfont.svg'), 'path/to/iconfont.eot', normal, normal);
+.fontface {
+  %icns:before {
+    font-family: "icons";
+    font-weight: normal;
+    font-style: normal;
+    vertical-align: -15%;
+  }
+  %icns-after:after {
+    font-family: "icons";
+    font-weight: normal;
+    font-style: normal;
+    vertical-align: -15%;
+  }
+}
+@mixin font-icon($char, $color: '', $size: '') {
+  @extend %icns;
+  &:before {
+    content: '#{$char} ';
+    @if $color != '' {
+      color: $color;
+    }
+    @if $size != '' {
+      font-size: $size;
+    }
+    @content;
+  }
+}
+@mixin font-icon-after($char, $color: '', $size: '') {
+  @extend %icns-after;
+  &:after {
+    content: ' #{$char}';
+    @if $color != '' {
+      color: $color;
+    }
+    @if $size != '' {
+      font-size: $size;
+    }
+    @content;
+  }
+}
+```
+
+It’s stunningly simple. No JavaScript required, no extra attributes. And works almost everywhere. 
+
+[^1]: As [Sven Wolferman](http://maddesigns.de) notes on Twitter and in the comments, there are [false positives](https://github.com/Modernizr/Modernizr/commit/ec0b068720205b1b0392ce74c2351bdfebc803cd) on some mobile devices. Looks like we need some additional browser sniffing to get correct behavior, which is odd. (It’s still a very niche problem, so your mileage to support those mobiles may vary.)

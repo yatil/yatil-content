@@ -1,0 +1,32 @@
+Title: Podcast N°1 - Podcast, Abitur und Mehr.
+----
+Date: 2005-01-15
+----
+Category: Podcast
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Heute mal – und ganz gegen [mein Enthaltsamkeitsversprechen](http://yatil.de/weblog/100240/) – eine neue Erfindung und eine neue Idee: Audioblogging oder, noch neudeutscher, Podcasting. Was das ist erfahrt ihr in einer MP3-Datei am Ende des Eintrags. Das leise Rauschen im Hintergrund muss ich noch irgendwie unterdrücken, aber für den Anfang finde ich das ganz in Ordnung.
+
+Ich höre mich Heiser an, bin aber nicht krank sondern hätte vorher einen Schluck Wasser trinken sollen – Anfängerfehler!
+
+## Links:
+
+- [Das E-Business Weblog: Was ist Podcasting?](http://roell.net/weblog/archiv/2004/10/09/was_ist_podcasting.shtml)
+- [iPod](http://apple.com/ipod/)
+- [Design in Flight](http://designinflight.com/)
+- [Page](http://page-online.de/)
+ 
+## Podcast
+
+- **[Die eigentliche MP3-Datei](http://yatil.de/podcast/2005-01-15-podcast.mp3) (1MB)**
+- [Der RSS-Feed](http://yatil.de/feeds/podcast/) (NEU! 16.01.2005, der alte bleibt weiterhin gültig.)
+ 
+Noch mehr Podcasting gibt es übrigens bei [Gerrit van Aaken](http://praegnanz.de/), mit [dessen tollem Artikel](http://textpattern.kbbu.de/tools/60/podcasting-mit-textpattern) ich diesen Podcast nun auf die Beine gestellt habe.
+
+Ich bin sehr gespannt auf das Feedback.

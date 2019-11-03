@@ -1,0 +1,18 @@
+Title: Frühling II
+----
+Date: 2004-05-14
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Pünktlich zum Wochenende ereignete sich noch ein Redesign:
+
+## Digital Web
+
+[![Digital Web](/images/48.png "Digital Web")](http://www.digital-web.com/) Das Web- Design- Magazin [Digital Web](http://www.digital-web.com/) erstrahlt seit heute in einem neuen tabellenlosen Gewand. Leider patzt die Seite bei der Textvergrößerung. Schade, ansonsten sieht sie sehr attraktiv aus.

@@ -1,0 +1,22 @@
+Title: CSS Resourcen
+----
+Date: 2004-03-20
+----
+Category: Web design, Webstandards
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Language: de
+----
+
+Text:
+[Douglas Bowman](http://stopdesign.com/) hat die Präsentationen der diesjährigen [SXWS Interactive](http://www.sxsw.com/interactive/), die er zusammen mit [Dan Cederholm](http://www.simplebits.com/), [Dave Shea](http://www.mezzoblue.com/), [Eric Meyer](http://www.meyerweb.com/), [Brian Alvey](http://alvey.weblogsinc.com/) und [Kimberly Blessing](http://www.kimberlyblessing.com/) entworfen hat online gestellt:
+
+- [Hi-Fi Design with CSS](http://stopdesign.com/present/sxsw2004/hifi/)
+- [CSS: The Good, the Bad, & the Ugly](http://stopdesign.com/present/sxsw2004/goodbad/)
+ 
+Herzlichen Glückwunsch an [Dave Shea](http://www.mezzoblue.com/): Sein Projekt [CSS Zen Garden](http://www.csszengarden.com/) hat bei der selben Veranstaltung [2 Preise](http://www.sxsw.com/interactive/web_awards/winners/) eingeheimst: Developer’s Resource und Best of Show.

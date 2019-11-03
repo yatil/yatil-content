@@ -1,0 +1,28 @@
+Title: Internet-Welt?
+----
+Date: 2005-01-22
+----
+Category: Fun, News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Also ich war schon ein bisschen geschockt, als ich gerade eben in meinen [Serverlogs](http://yatil.de/usage/) folgende Webadresse entdeckte:
+
+[http://www.internetworld.de/sg\_include/web\_code.php](http://www.internetworld.de/sg_include/web_code.php)
+
+Webcodes kennt man ja, das ist eine Vorrichtung mit der Internet-Zeitschriften die Webadressen verschlüsseln, damit sie auch wissen wer welchen Artikel gelesen hat. Außerdem muss der Heftleser die Adresse nicht selbst eingeben.
+
+Was bedeutet das aber, wenn von dieser Seite Leute zu mir kommen?
+
+Dann müsste ich aber erwähnt sein. Woran ich bei allem Optimismus nicht glaube, weil es dann eine Selbstverständlichkeit wäre mich zu informieren.
+
+Wer näheres weiß könnte einen Kommentar hinterlassen. Vor allem das Linkziel würde mich interessieren, da ich in meinen Textpattern-Logs keinen Hinweis auf diese Seite habe. Seltsam!
+
+**Edit:** Ich hab’s (nach wenigen Sekunden nachdenken) herausgefunden. Die Links verweisen auf die deutschen S5-Seiten (und die haben eigene Textpattern-Logs). Und die Links kamen von folgender [Webcode-Seite](http://www.internetworld.de/sg_include/web_code.php?codesearch=0502058).
+
+Siehe dazu auch die Meldung auf [yatil.de/s5](http://yatil.de/s5/neues/18/hallo-internet-world-besucher).

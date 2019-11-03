@@ -1,0 +1,24 @@
+Title: Und es geht weiter.
+----
+Date: 2004-11-20
+----
+Category: News
+----
+Summary: 
+----
+Tags: 
+----
+Image: 
+----
+Text:
+Zum voraussichtlichen Abschluss meiner Webdesign-Aktivitäten für dieses Jahr habe ich die [neue Website für S5](http://yatil.de/s5/) eingerichtet. Nach dem yatil.de-Redesign und der [Website des Schachfreunde ‘95 Pirmasens-Ruhbank e.V.](http://sf-ruhbank.de/) die dritte Website, alle mit dem hervorragenden [Textpattern](http://textpattern.com/) realisiert. In den nächsten zweieinhalb Monaten stehen Leistungskurs- und Abitur-Arbeiten an, die meine volle Aufmerksamkeit benötigen und – hoffentlich – auch bekommen.
+
+Für die, die es interessiert mal die Daten:
+
+24.11.04: Mathe-LK  
+30.11.04: Sozialkunde-LK  
+02.12.04: Chemie-Lk  
+14.12.04: Religion  
+14.01.05: Sozialkunde-Abi  
+24.01.05: Mathe-Abi  
+26.01.05: Chemie-Abi
